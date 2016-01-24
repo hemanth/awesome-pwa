@@ -1,6 +1,5 @@
 # awesome-pwa
 > Awesome list of progressive web apps!
-> Click on the image to land on the webapp.
 
 ### [Flipkart Lite](http://www.flipkart.com)
 
