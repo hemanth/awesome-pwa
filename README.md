@@ -2,7 +2,7 @@
 > Awesome list of progressive web apps!
 > Click on the image to land on the webapp.
 
-### [Flipkart Lite](http://www.flipkart.com) (Available on Chrome Android 42+ and Opera for Android 33+ so far)
+### [Flipkart Lite](http://www.flipkart.com)
 
 ### [Chrome Developer Summit](https://developers.google.com/)
 
