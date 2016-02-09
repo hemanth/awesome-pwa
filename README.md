@@ -34,3 +34,8 @@
 ### [offline-wikipedia](https://wiki-offline.jakearchibald.com/)
 
 ### [jsfeatures](https://jsfeatures.in)
+
+### [Soundslice](https://www.soundslice.com)
+
+### [Firefox Platform Status](https://platatus.herokuapp.com/)
+
