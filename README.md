@@ -39,3 +39,5 @@
 
 ### [Firefox Platform Status](https://platatus.herokuapp.com/)
 
+### [QR Code Scanner](https://qrcodescan.in/)
+
