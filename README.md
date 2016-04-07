@@ -55,6 +55,10 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 * [Smaller Pictures](https://smaller-pictures.appspot.com)
 
+* [Web Bluetooth (Intel® Edison) demo](https://edison-webbt.appspot.com/)
+
+* [Web NFC enabled shopping cart](https://webnfc-shoppingcart.appspot.com)
+
 ## Tutorials
 
 * [Google Developers - Progressive Web Apps](https://developers.google.com/web/progressive-web-apps)
