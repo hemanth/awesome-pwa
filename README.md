@@ -75,3 +75,5 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 ## Videos
 
 * [Progressive Web Apps: the future of Apps](https://dev.opera.com/blog/pwa-taipei/) (18:57)
+* [Progressive web apps and what's next for mobile](https://www.oreilly.com/ideas/progressive-web-apps-and-whats-next-for-mobile?utm_source=twitter&utm_medium=webplatform&utm_campaign=YTknRussell-jj) (22:39)
+* [Interview with Google Software Engineer Alex Russell - O'Reilly Fluent Conference 2016](https://www.youtube.com/watch?v=vMg9sycUnm4&list=PL055Epbe6d5bQubu5EWf_kUNA3ef_qbmL&index=36) (11:21)
