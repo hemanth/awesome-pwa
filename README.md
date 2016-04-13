@@ -71,6 +71,8 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Introducing Pokedex.org: a progressive webapp for Pokémon fans](http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org)
 * [Progressive web apps have leapfrogged the native install model ... but challenges remain/](http://softwareas.com/progressive-web-apps-have-leapfrogged-the-native-install-model-but-challenges-remain/)
 * [What Progressive Web Apps Mean for the Web](http://developer.telerik.com/featured/what-progressive-web-apps-mean-for-the-web/)
+* [The web app "discovery problem"](https://remysharp.com/2016/04/11/the-webapp-discovery-problem)
+* [Are Progressive Web Apps the Future?](http://developer.telerik.com/featured/are-progressive-web-apps-future/)
 
 ## Videos
 
