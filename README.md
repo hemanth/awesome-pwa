@@ -40,6 +40,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Google Developers - Progressive Web Apps](https://developers.google.com/web/progressive-web-apps)
 * [Getting started with Progressive Web Apps](https://addyosmani.com/blog/getting-started-with-progressive-web-apps/) by [@addyosmani](https://twitter.com/addyosmani)
 * [Web Powered SMS Inbox with Service Worker: Push Notifications](https://www.twilio.com/blog/2016/02/web-powered-sms-inbox-with-service-worker-push-notifications.html)
+* [Service Worker Cookbook - Mozilla](https://serviceworke.rs/)
 
 ## Articles
 
