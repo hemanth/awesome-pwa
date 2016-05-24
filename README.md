@@ -35,6 +35,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Web Bluetooth (Intel® Edison) demo](https://edison-webbt.appspot.com/)
 * [Web NFC enabled shopping cart](https://webnfc-shoppingcart.appspot.com)
 * [X Sound](https://korilakkuma.github.io/X-Sound/)
+* [Wave-PD1](https://alexgibson.github.io/wavepad/)
 
 ## App showcases
 
