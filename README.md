@@ -36,6 +36,10 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Web NFC enabled shopping cart](https://webnfc-shoppingcart.appspot.com)
 * [X Sound](https://korilakkuma.github.io/X-Sound/)
 
+## App showcases
+
+* [A selection of Progressive Web Apps](https://pwa.rocks/)
+
 ## Tutorials
 
 * [Google Developers - Progressive Web Apps](https://developers.google.com/web/progressive-web-apps)
