@@ -36,9 +36,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Web NFC enabled shopping cart](https://webnfc-shoppingcart.appspot.com)
 * [X Sound](https://korilakkuma.github.io/X-Sound/)
 * [Wave-PD1](https://alexgibson.github.io/wavepad/)
-
-## App showcases
-
 * [A selection of Progressive Web Apps](https://pwa.rocks/)
 
 ## Tutorials
@@ -56,6 +53,17 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [What Progressive Web Apps Mean for the Web](http://developer.telerik.com/featured/what-progressive-web-apps-mean-for-the-web/)
 * [The web app "discovery problem"](https://remysharp.com/2016/04/11/the-webapp-discovery-problem)
 * [Are Progressive Web Apps the Future?](http://developer.telerik.com/featured/are-progressive-web-apps-future/)
+* [Service Worker - Revolution of the Web Platform](https://ponyfoo.com/articles/serviceworker-revolution)
+* [Service Workers: Dynamic Responsive Images using WebP Images](http://deanhume.com/Home/BlogPost/service-workers--dynamic-responsive-images-using-webp-images/10132/)
+* [Is Service Worker ready?](https://jakearchibald.github.io/isserviceworkerready/)
+* [Progressive Web Apps: Escaping Tabs Without Losing Our Soul](https://infrequently.org/2015/06/progressive-apps-escaping-tabs-without-losing-our-soul/)
+* [Progressive Web App: A New Way to Experience Mobile](http://tech-blog.flipkart.net/2015/11/progressive-web-app/)
+* [Support for theme-color in Chrome 39 for Android](https://developers.google.com/web/updates/2014/11/Support-for-theme-color-in-Chrome-39-for-Android)
+* [Installable Web Apps with the WebApp Manifest in Chrome for Android](https://developers.google.com/web/updates/2014/11/Support-for-installable-web-apps-with-webapp-manifest-in-chrome-38-for-Android)
+* [FLIP your animations](https://aerotwist.com/blog/flip-your-animations/)
+* [IndexedDB, WebSQL, LocalStorage – what blocks the DOM?](http://nolanlawson.com/2015/09/29/indexeddb-websql-localstorage-what-blocks-the-dom/)
+* [Say Hello to Offline First](http://hood.ie/blog/say-hello-to-offline-first.html)
+* [You’re Missing the Point of Server-Side Rendered JavaScript Apps](http://tomdale.net/2015/02/youre-missing-the-point-of-server-side-rendered-javascript-apps/)
 
 ## Videos
 
@@ -68,3 +76,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Progressive Web Apps and What's Next for Mobile](http://www.youtube.com/watch?v=JP5p6t3wNLA)
 * [Progressive Web Apps with Alex Russell](http://www.youtube.com/watch?v=x7cfLDFVyHo)
 * [Building a Progressive Web App - Aditya Punjani](http://www.youtube.com/watch?v=m2tvYGCdOzs)
+* [The Service Worker is Coming - Look Busy (vid)](https://www.youtube.com/watch?v=SmZ9XcTpMS4)
+* [The applied science of runtime performance (vid)](https://www.youtube.com/watch?v=RCFQu0hK6bU)
+* [Breaking the 1000ms Time to Glass Mobile Barrier  (vid)](https://www.youtube.com/watch?v=Il4swGfTOSM)
+
