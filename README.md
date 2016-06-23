@@ -124,3 +124,14 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [The Future of Progressive Web Apps (Progressive Web App Summit 2016)](https://www.youtube.com/watch?v=kB4MgJ0AoOw&list=PLNYkxOF6rcIAWWNR_Q6eLPhsyx6VvYjVb&index=22)
 * [Konga (Progressive Web App Summit 2016)](https://www.youtube.com/watch?v=GNbVdPi24gg&list=PLNYkxOF6rcIAWWNR_Q6eLPhsyx6VvYjVb&index=26)
 * [Samsung internets progressive web app commitment (Progressive Web App Summit 2016)](https://www.youtube.com/watch?v=4_qhu-4EQGA&list=PLNYkxOF6rcIAWWNR_Q6eLPhsyx6VvYjVb&index=27)
+
+## Tools
+
+* [`sw-precache`](https://github.com/GoogleChrome/sw-precache): A node module to generate service worker code that will precache specific resources
+* [`sw-toolbox`](https://github.com/GoogleChrome/sw-toolbox): A runtime caching library
+* [`platinum-sw-register`](https://elements.polymer-project.org/elements/platinum-sw?active=platinum-sw-register): handles service worker registration for Polymer applications
+* [`offline-plugin`](https://github.com/NekR/offline-plugin): Offline plugin (ServiceWorker, AppCache) for webpack (http://webpack.github.io/)
+* [`serviceworkerware`](https://github.com/fxos-components/serviceworkerware): An Express-like layer on top of ServiceWorkers to provide a way to easily plug functionality
+* [`msgr`](https://github.com/sdgluck/msgr): Nifty service worker/client message utility
+* [`UpUp`](https://github.com/TalAter/UpUp): Makes sure your users can always access your site's content, even when they're on a plane, in an elevator, or 20,000 leagues under the sea
+* [`fetch-sync`](https://github.com/sdgluck/fetch-sync): Proxy Fetch requests through the Background Sync API
