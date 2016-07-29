@@ -43,6 +43,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Realtime Stock Screener](https://realtimestockscreener.com/)
 * [GitHub Explorer](https://github-e.com/)
 * [React HN](https://react-hn.appspot.com)
+* [Notepad](https://www.amitmerchant.com/notepad/)
 
 ## Tutorials
 
