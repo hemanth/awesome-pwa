@@ -7,14 +7,13 @@
 
 > A Progressive Web App uses modern web capabilities to deliver an app-like user experience. They evolve from pages in browser tabs to immersive, top-level apps, leveraging the web's low friction.
 
-_Source:_ [Google Developers - Progressive Web Apps](https://developers.google.com/web/progressive-web-apps)
+_Source:_ [Google Developers - Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/)
 
 ## Apps
 
 * [Flipkart Lite](http://www.flipkart.com)
 * [Chrome Developer Summit](https://developers.google.com/)
 * [Dev.Opera](https://dev.opera.com/)
-* [Oumy](https://www.oumy.com/)
 * [AirHorner](https://airhorner.com/)
 * [Medium](https://medium.com/)
 * [Twitter](https://twitter.com)
@@ -29,7 +28,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [offline-wikipedia](https://wiki-offline.jakearchibald.com/)
 * [jsfeatures](https://jsfeatures.in)
 * [Soundslice](https://www.soundslice.com)
-* [Firefox Platform Status](https://platatus.herokuapp.com/)
+* [Firefox Platform Status](https://platform-status.mozilla.org/)
 * [QR Code Scanner](https://qrcodescan.in/)
 * [Smaller Pictures](https://smaller-pictures.appspot.com)
 * [Web Bluetooth (Intel® Edison) demo](https://edison-webbt.appspot.com/)
@@ -68,7 +67,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Support for theme-color in Chrome 39 for Android](https://developers.google.com/web/updates/2014/11/Support-for-theme-color-in-Chrome-39-for-Android)
 * [Installable Web Apps with the WebApp Manifest in Chrome for Android](https://developers.google.com/web/updates/2014/11/Support-for-installable-web-apps-with-webapp-manifest-in-chrome-38-for-Android)
 * [FLIP your animations](https://aerotwist.com/blog/flip-your-animations/)
-* [IndexedDB, WebSQL, LocalStorage – what blocks the DOM?](http://nolanlawson.com/2015/09/29/indexeddb-websql-localstorage-what-blocks-the-dom/)
+* [IndexedDB, WebSQL, LocalStorage – what blocks the DOM?](https://nolanlawson.com/2015/09/29/indexeddb-websql-localstorage-what-blocks-the-dom/)
 * [Say Hello to Offline First](http://hood.ie/blog/say-hello-to-offline-first.html)
 * [You’re Missing the Point of Server-Side Rendered JavaScript Apps](http://tomdale.net/2015/02/youre-missing-the-point-of-server-side-rendered-javascript-apps/)
 
@@ -77,12 +76,12 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Progressive Web Apps: the future of Apps](https://dev.opera.com/blog/pwa-taipei/)
 * [Progressive web apps and what's next for mobile](https://www.oreilly.com/ideas/progressive-web-apps-and-whats-next-for-mobile?utm_source=twitter&utm_medium=webplatform&utm_campaign=YTknRussell-jj)
 * [Interview with Google Software Engineer Alex Russell - O'Reilly Fluent Conference 2016](https://www.youtube.com/watch?v=vMg9sycUnm4&list=PL055Epbe6d5bQubu5EWf_kUNA3ef_qbmL&index=36)
-* [Progressive Web Apps (Chrome Dev Summit 2015)](http://www.youtube.com/watch?v=MyQ8mtR9WxI)
-* [Building and deploying a Progressive Web App at scale with Flipkart (Chrome Dev Summit 2015)](http://www.youtube.com/watch?v=StdKz32M1RM)
-* [Building Progressive Web Apps with Polymer (Chrome Dev Summit 2015)](http://www.youtube.com/watch?v=g7f1Az5fxgU)
-* [Progressive Web Apps and What's Next for Mobile](http://www.youtube.com/watch?v=JP5p6t3wNLA)
-* [Progressive Web Apps with Alex Russell](http://www.youtube.com/watch?v=x7cfLDFVyHo)
-* [Building a Progressive Web App - Aditya Punjani](http://www.youtube.com/watch?v=m2tvYGCdOzs)
+* [Progressive Web Apps (Chrome Dev Summit 2015)](https://www.youtube.com/watch?v=MyQ8mtR9WxI)
+* [Building and deploying a Progressive Web App at scale with Flipkart (Chrome Dev Summit 2015)](https://www.youtube.com/watch?v=StdKz32M1RM)
+* [Building Progressive Web Apps with Polymer (Chrome Dev Summit 2015)](https://www.youtube.com/watch?v=g7f1Az5fxgU)
+* [Progressive Web Apps and What's Next for Mobile](https://www.youtube.com/watch?v=JP5p6t3wNLA)
+* [Progressive Web Apps with Alex Russell](https://www.youtube.com/watch?v=x7cfLDFVyHo)
+* [Building a Progressive Web App - Aditya Punjani](https://www.youtube.com/watch?v=m2tvYGCdOzs)
 * [The Service Worker is Coming - Look Busy (vid)](https://www.youtube.com/watch?v=SmZ9XcTpMS4)
 * [The applied science of runtime performance (vid)](https://www.youtube.com/watch?v=RCFQu0hK6bU)
 * [Breaking the 1000ms Time to Glass Mobile Barrier  (vid)](https://www.youtube.com/watch?v=Il4swGfTOSM)
