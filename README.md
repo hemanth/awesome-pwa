@@ -45,6 +45,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Notepad](https://www.amitmerchant.com/notepad/)
 * [OyoRooms](https://www.oyorooms.com/)
 * [ampproject](https://www.ampproject.org)
+* [FF-Platfrom-Status](https://platform-status.mozilla.org)
 
 ## Tutorials
 
