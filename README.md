@@ -46,6 +46,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [OyoRooms](https://www.oyorooms.com/)
 * [ampproject](https://www.ampproject.org)
 * [FF-Platfrom-Status](https://platform-status.mozilla.org)
+* [Anonymous Chat](https://anonymouschat.in)
 
 ## Tutorials
 
@@ -143,5 +144,5 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [`fetch-sync`](https://github.com/sdgluck/fetch-sync): Proxy Fetch requests through the Background Sync API
 * [`fetch-manifest-json`](https://github.com/hemanth/fetch-manifest-json): Fetch the `mainfest.json` from an URL.
 * [`manifest-json`](https://www.npmjs.com/package/manifest-json): CLI tool for creating `mainfest.json`.
-* [`PWAify`](https://github.com/vladikoff/PWAify): CLI tool to convert your PWA into a cross-platform desktop app. 
+* [`PWAify`](https://github.com/vladikoff/PWAify): CLI tool to convert your PWA into a cross-platform desktop app.
 * [`offline-plugin`](https://github.com/NekR/offline-plugin): Offline plugin (ServiceWorker, AppCache) for webpack.
