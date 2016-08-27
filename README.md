@@ -48,6 +48,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [FF-Platfrom-Status](https://platform-status.mozilla.org)
 * [Anonymous Chat](https://anonymouschat.in)
 * [chromestatus](https://www.chromestatus.com/features)
+* [SplittyPie](https://splittypie.com)
 
 ## Tutorials
 
