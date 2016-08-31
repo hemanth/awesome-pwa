@@ -12,6 +12,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 ## Apps
 
 * [Flipkart Lite](http://www.flipkart.com)
+* [Housing Go](http://www.housing.com)
 * [Chrome Developer Summit](https://developers.google.com/)
 * [Dev.Opera](https://dev.opera.com/)
 * [AirHorner](https://airhorner.com/)
@@ -77,6 +78,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [IndexedDB, WebSQL, LocalStorage – what blocks the DOM?](https://nolanlawson.com/2015/09/29/indexeddb-websql-localstorage-what-blocks-the-dom/)
 * [Say Hello to Offline First](http://hood.ie/blog/say-hello-to-offline-first.html)
 * [You’re Missing the Point of Server-Side Rendered JavaScript Apps](http://tomdale.net/2015/02/youre-missing-the-point-of-server-side-rendered-javascript-apps/)
+* [Swift Migration to Progressive Web App](https://medium.com/engineering-housing/progressing-mobile-web-fac3efb8b454)
 
 ## Videos
 
