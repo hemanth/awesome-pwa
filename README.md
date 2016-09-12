@@ -14,6 +14,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Flipkart Lite](http://www.flipkart.com)
 * [Housing Go](http://www.housing.com)
 * [Chrome Developer Summit](https://developers.google.com/)
+* [Google I/O](https://events.google.com/io2016/)
 * [Dev.Opera](https://dev.opera.com/)
 * [AirHorner](https://airhorner.com/)
 * [Medium](https://medium.com/)
