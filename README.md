@@ -68,6 +68,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Getting started with Progressive Web Apps](https://addyosmani.com/blog/getting-started-with-progressive-web-apps/) by [@addyosmani](https://twitter.com/addyosmani)
 * [Web Powered SMS Inbox with Service Worker: Push Notifications](https://www.twilio.com/blog/2016/02/web-powered-sms-inbox-with-service-worker-push-notifications.html)
 * [Service Worker Cookbook - Mozilla](https://serviceworke.rs/)
+* [SmashingMag’s Service Worker script, fully documented](https://www.smashingmagazine.com/serviceWorker.js)
 
 ## Articles
 
@@ -89,6 +90,9 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Say Hello to Offline First](http://hood.ie/blog/say-hello-to-offline-first.html)
 * [You’re Missing the Point of Server-Side Rendered JavaScript Apps](http://tomdale.net/2015/02/youre-missing-the-point-of-server-side-rendered-javascript-apps/)
 * [Swift Migration to Progressive Web App](https://medium.com/engineering-housing/progressing-mobile-web-fac3efb8b454)
+* [What, Exactly, Makes Something A Progressive Web App?](https://infrequently.org/2016/09/what-exactly-makes-something-a-progressive-web-app/)
+* [PWA Performance](https://speedcurve.com/blog/pwa-performance/)
+* [The Building Blocks Of Progressive Web Apps](https://www.smashingmagazine.com/2016/09/the-building-blocks-of-progressive-web-apps/)
 
 ## Videos
 
@@ -160,3 +164,13 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [`fetch-manifest-json`](https://github.com/hemanth/fetch-manifest-json): Fetch the `mainfest.json` from an URL.
 * [`manifest-json`](https://www.npmjs.com/package/manifest-json): CLI tool for creating `mainfest.json`.
 * [`PWAify`](https://github.com/vladikoff/PWAify): CLI tool to convert your PWA into a cross-platform desktop app.
+* [`Manifest Generator`](https://brucelawson.github.io/manifest/): This simple page will generate the manifest file for you.
+* [`sw-delta`](https://github.com/gmetais/sw-delta): An incremental cache for the web.
+
+## Kits
+
+* [`Angular Mobile Toolkit`](https://mobile.angular.io/): Tools for building progressive web apps with Angular.
+* [`Web Starter Kit`](https://github.com/google/web-starter-kit): A workflow for multi-device websites.
+* [`Progressive Web Application skeleton`](https://github.com/PolymerLabs/progressive-webapp-config): A simple set of skeleton files for shipping a Progressive Web App.
+
+
