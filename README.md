@@ -9,6 +9,13 @@
 
 _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.com/web/progressive-web-apps)
 
+## Table of contents
+
+* [Apps](#apps)
+* [Tutorials](#tutorials)
+* [Articles](#articles)
+* [Videos](#videos)
+
 ## Apps
 
 * [List of Progressive Web Apps](https://operasoftware.github.io/pwa-list/)
