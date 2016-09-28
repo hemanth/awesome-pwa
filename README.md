@@ -61,6 +61,9 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [SplittyPie](https://splittypie.com)
 * [Colosseum](https://naramsim.github.io/Colosseum/)
 * [DevSpace](https://app.devspace.io/)
+* [Meat Scope](https://meatscope.camera/)
+* [Demo PWA](https://github.com/gokulkrishh/demo-progressive-web-app)
+* [Expense Manager](https://demo.vaadin.com/expense-manager/)
 
 ## Tutorials
 
@@ -172,5 +175,3 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [`Angular Mobile Toolkit`](https://mobile.angular.io/): Tools for building progressive web apps with Angular.
 * [`Web Starter Kit`](https://github.com/google/web-starter-kit): A workflow for multi-device websites.
 * [`Progressive Web Application skeleton`](https://github.com/PolymerLabs/progressive-webapp-config): A simple set of skeleton files for shipping a Progressive Web App.
-
-
