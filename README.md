@@ -49,7 +49,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Remember](https://paulhoughton.github.io/remember/)
 * [Washington Post](https://www.washingtonpost.com/pwa/)
 * [Aliexpress](https://m.aliexpress.com/?tracelog=wwwhome2mobilesitehome)
-* [Realtime Stock Screener](https://realtimestockscreener.com/)
 * [GitHub Explorer](https://github-e.com/)
 * [React HN](https://react-hn.appspot.com)
 * [Notepad](https://www.amitmerchant.com/notepad/)
