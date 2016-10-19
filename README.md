@@ -49,7 +49,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Remember](https://paulhoughton.github.io/remember/)
 * [Washington Post](https://www.washingtonpost.com/pwa/)
 * [Aliexpress](https://m.aliexpress.com/?tracelog=wwwhome2mobilesitehome)
-* [Realtime Stock Screener](https://realtimestockscreener.com/)
 * [GitHub Explorer](https://github-e.com/)
 * [React HN](https://react-hn.appspot.com)
 * [Notepad](https://www.amitmerchant.com/notepad/)
@@ -65,9 +64,11 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Demo PWA](https://github.com/gokulkrishh/demo-progressive-web-app)
 * [Expense Manager](https://demo.vaadin.com/expense-manager/)
 * [Topple Trump!](https://toppletrump.com/)
+* [Polymon by Polymer](https://polymon.polymer-project.org)
 
 ## Tutorials
 
+* [Codelabs to build PWAs with Polymer 2.0](https://codelabs.developers.google.com/polymer-summit-2016)
 * [Progressive Web Apps with React.js - 4 part series](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-i-introduction-50679aef2b12#.ly1xiybxd) by [@addyosmani](https://twitter.com/addyosmani)
 * [Google Developers - Progressive Web Apps](https://developers.google.com/web/progressive-web-apps)
 * [Getting started with Progressive Web Apps](https://addyosmani.com/blog/getting-started-with-progressive-web-apps/) by [@addyosmani](https://twitter.com/addyosmani)
@@ -155,6 +156,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [The Future of Progressive Web Apps (Progressive Web App Summit 2016)](https://www.youtube.com/watch?v=kB4MgJ0AoOw&list=PLNYkxOF6rcIAWWNR_Q6eLPhsyx6VvYjVb&index=22)
 * [Konga (Progressive Web App Summit 2016)](https://www.youtube.com/watch?v=GNbVdPi24gg&list=PLNYkxOF6rcIAWWNR_Q6eLPhsyx6VvYjVb&index=26)
 * [Samsung internets progressive web app commitment (Progressive Web App Summit 2016)](https://www.youtube.com/watch?v=4_qhu-4EQGA&list=PLNYkxOF6rcIAWWNR_Q6eLPhsyx6VvYjVb&index=27)
+* [Polymer Summit 2016 Youtube Playlist](https://www.youtube.com/watch?list=PLNYkxOF6rcICc687SxHQRuo9TVNOJelSZ&v=VBbejeKHrjg)
 
 ## Tools
 
