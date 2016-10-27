@@ -28,6 +28,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Medium](https://medium.com/)
 * [Twitter](https://twitter.com)
 * [SVGOMG](https://jakearchibald.github.io/svgomg/)
+* [Progressive Beer](https://deanhume.github.io/beer/)
 * [voice-memos](https://voice-memos.appspot.com/)
 * [guitar-tuner](https://aerotwist.com/blog/guitar-tuner/)
 * [abc.xyz](https://abc.xyz)
