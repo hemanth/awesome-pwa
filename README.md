@@ -66,6 +66,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Expense Manager](https://demo.vaadin.com/expense-manager/)
 * [Topple Trump!](https://toppletrump.com/)
 * [Polymon by Polymer](https://polymon.polymer-project.org)
+* [Notella](https://github.com/siddharthkp/notella)
 
 ## Tutorials
 
