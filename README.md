@@ -178,6 +178,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [`DSW`](https://github.com/naschq/dsw): Generate your Service Worker dynamically, webmanifest, rules for requests, redirects, etc.
 * [`sw-precache-webpack-plugin`](https://github.com/goldhand/sw-precache-webpack-plugin): SW Precache Webpack Plugin
 * [`serviceworker-webpack-plugin`](https://github.com/oliviertassinari/serviceworker-webpack-plugin): Simplifies creation of a service worker to serve your webpack bundles.
+* [`serviceworker-rails`](https://github.com/rossta/serviceworker-rails): Plugin to integrate Service Worker with the Rails asset pipeline.
 
 ## Kits
 
