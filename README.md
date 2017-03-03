@@ -18,6 +18,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ## Apps
 
+* [Taskade](https://www.taskade.com)
 * [Flipkart Lite](http://www.flipkart.com)
 * [TeamGrid](https://www.teamgridapp.com)
 * [Housing Go](http://www.housing.com)
