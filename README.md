@@ -78,6 +78,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Web Powered SMS Inbox with Service Worker: Push Notifications](https://www.twilio.com/blog/2016/02/web-powered-sms-inbox-with-service-worker-push-notifications.html)
 * [Service Worker Cookbook - Mozilla](https://serviceworke.rs/)
 * [SmashingMag’s Service Worker script, fully documented](https://www.smashingmagazine.com/serviceWorker.js)
+* [Retrofit an Existing Website as a Progressive Web App](https://www.sitepoint.com/retrofit-your-website-as-a-progressive-web-app/)
 
 ## Articles
 
