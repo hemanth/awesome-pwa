@@ -68,6 +68,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Polymon by Polymer](https://polymon.polymer-project.org)
 * [Notella](https://github.com/siddharthkp/notella)
 * [Currency Converter](https://www.currency-x.com)
+* [Paytm](https://paytm.com/)
 
 ## Tutorials
 
@@ -102,6 +103,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [What, Exactly, Makes Something A Progressive Web App?](https://infrequently.org/2016/09/what-exactly-makes-something-a-progressive-web-app/)
 * [PWA Performance](https://speedcurve.com/blog/pwa-performance/)
 * [The Building Blocks Of Progressive Web Apps](https://www.smashingmagazine.com/2016/09/the-building-blocks-of-progressive-web-apps/)
+* [Integrating Progressive Web Apps deeply into Android](https://blog.chromium.org/2017/02/integrating-progressive-web-apps-deeply.html)
 
 ## Videos
 
