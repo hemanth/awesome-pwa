@@ -68,7 +68,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Polymon by Polymer](https://polymon.polymer-project.org)
 * [Notella](https://github.com/siddharthkp/notella)
 * [Currency Converter](https://www.currency-x.com)
-* [Paytm](https://paytm.com/)
+* [Paytm Lite](https://paytm.com/)
 
 ## Tutorials
 
