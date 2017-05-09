@@ -81,12 +81,13 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ## Articles
 
-* [Progressive Web Apps: Escaping Tabs Without Losing Our Soul](https://infrequently.org/2015/06/progressive-apps-escaping-tabs-without-losing-our-soul/)
+* [Progressive Web Apps: Escaping Tabs Without Losing Our Soul](https://infrequently.org/2015/06/progressive-apps-escaping-tabs-without-losing-our-soul/) (June 2015)
+* [Why “Progressive Web Apps vs. native” is the wrong question to ask](https://medium.com/dev-channel/why-progressive-web-apps-vs-native-is-the-wrong-question-to-ask-fb8555addcbb) (April 2017)
 * [Introducing Pokedex.org: a progressive webapp for Pokémon fans](http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org)
 * [Progressive web apps have leapfrogged the native install model ... but challenges remain/](http://softwareas.com/progressive-web-apps-have-leapfrogged-the-native-install-model-but-challenges-remain/)
 * [What Progressive Web Apps Mean for the Web](http://developer.telerik.com/featured/what-progressive-web-apps-mean-for-the-web/)
 * [The web app "discovery problem"](https://remysharp.com/2016/04/11/the-webapp-discovery-problem)
-* [Are Progressive Web Apps the Future?](http://developer.telerik.com/featured/are-progressive-web-apps-future/)
+* [Are Progressive Web Apps the Future?](http://developer.telerik.com/featured/are-progressive-web-apps-future/) (April 2016)
 * [Service Worker - Revolution of the Web Platform](https://ponyfoo.com/articles/serviceworker-revolution)
 * [Service Workers: Dynamic Responsive Images using WebP Images](http://deanhume.com/Home/BlogPost/service-workers--dynamic-responsive-images-using-webp-images/10132/)
 * [Is Service Worker ready?](https://jakearchibald.github.io/isserviceworkerready/)
@@ -103,6 +104,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [PWA Performance](https://speedcurve.com/blog/pwa-performance/)
 * [The Building Blocks Of Progressive Web Apps](https://www.smashingmagazine.com/2016/09/the-building-blocks-of-progressive-web-apps/)
 * [Integrating Progressive Web Apps deeply into Android](https://blog.chromium.org/2017/02/integrating-progressive-web-apps-deeply.html)
+* [iOS doesn’t support Progressive Web Apps, so what? - Cloud Four](https://cloudfour.com/thinks/ios-doesnt-support-progressive-web-apps-so-what/) (October 2016)
 
 ## Videos
 
