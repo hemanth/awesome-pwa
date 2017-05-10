@@ -19,7 +19,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 ## Apps
 
 * [Taskade](https://www.taskade.com)
-* [Flipkart Lite](http://www.flipkart.com)
+* [Flipkart Lite](http://www.flipkart.com) ([eng blog post](https://medium.com/progressive-web-apps/building-flipkart-lite-a-progressive-web-app-2c211e641883), [case study](https://developers.google.com/web/showcase/2016/flipkart))
 * [TeamGrid](https://www.teamgridapp.com)
 * [Housing Go](http://www.housing.com)
 * [Chrome Developer Summit](https://developers.google.com/)
