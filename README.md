@@ -55,6 +55,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Taskade](https://www.taskade.com)
 * [TeamGrid](https://www.teamgridapp.com)
 * [Topple Trump!](https://toppletrump.com/)
+* [trivago](https://www.trivago.com/)
 * [Twitter](https://twitter.com)
 * [Washington Post](https://www.washingtonpost.com/pwa/)
 * [Wave-PD1](https://alexgibson.github.io/wavepad/)
