@@ -24,6 +24,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Anonymous Chat](https://anonymouschat.in)
 * [Chrome Developer Summit](https://developers.google.com/)
 * [Colosseum](https://naramsim.github.io/Colosseum/)
+* [Closerintime](https://closerinti.me)
 * [Currency Converter](https://www.currency-x.com)
 * [Datememe](https://www.datememe.com)
 * [Demo PWA](https://github.com/gokulkrishh/demo-progressive-web-app)
