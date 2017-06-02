@@ -49,6 +49,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [QR Code Scanner](https://qrcodescan.in/)
 * [React HN](https://react-hn.appspot.com)
 * [Remember](https://paulhoughton.github.io/remember/)
+* [Skcript](https://www.skcript.com/)
 * [SVGOMG](https://jakearchibald.github.io/svgomg/)
 * [Smaller Pictures](https://smaller-pictures.appspot.com)
 * [Soundslice](https://www.soundslice.com)
@@ -74,7 +75,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [sv-ginger](https://sv-ginger.appspot.com/)
 * [voice-memos](https://voice-memos.appspot.com/)
 * [Resume Nation](https://resume-nation.github.io)
-* [Skcript](https://www.skcript.com/)
 
 ## Tutorials
 
