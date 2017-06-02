@@ -74,6 +74,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [sv-ginger](https://sv-ginger.appspot.com/)
 * [voice-memos](https://voice-memos.appspot.com/)
 * [Resume Nation](https://resume-nation.github.io)
+* [Skcript](https://www.skcript.com/)
 
 ## Tutorials
 
@@ -112,6 +113,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [The Building Blocks Of Progressive Web Apps](https://www.smashingmagazine.com/2016/09/the-building-blocks-of-progressive-web-apps/)
 * [Integrating Progressive Web Apps deeply into Android](https://blog.chromium.org/2017/02/integrating-progressive-web-apps-deeply.html)
 * [Is PWA ready on Chinese browser?](https://ispwaready.toxicjohann.com)
+* [How we made our website offline first](https://www.skcript.com/svr/offline-is-the-new-online/)
 
 ## Videos
 
