@@ -30,6 +30,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Demo PWA](https://github.com/gokulkrishh/demo-progressive-web-app)
 * [Dev.Opera](https://dev.opera.com/)
 * [DevSpace](https://app.devspace.io/)
+* [Digikala](https://www.digikala.com/)
 * [Expense Manager](https://demo.vaadin.com/expense-manager/)
 * [FF-Platfrom-Status](https://platform-status.mozilla.org)
 * [Firefox Platform Status](https://platform-status.mozilla.org/)
