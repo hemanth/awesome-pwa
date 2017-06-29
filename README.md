@@ -22,6 +22,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [AirHorner](https://airhorner.com/)
 * [Aliexpress](https://m.aliexpress.com/?tracelog=wwwhome2mobilesitehome)
 * [Anonymous Chat](https://anonymouschat.in)
+* [Bet Calculator](https://www.betvictor.com/bet-calculator/)
 * [Chrome Developer Summit](https://developers.google.com/)
 * [Colosseum](https://naramsim.github.io/Colosseum/)
 * [Closerintime](https://closerinti.me)
@@ -199,3 +200,4 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [`Web Starter Kit`](https://github.com/google/web-starter-kit): A workflow for multi-device websites.
 * [`Progressive Web Application skeleton`](https://github.com/PolymerLabs/progressive-webapp-config): A simple set of skeleton files for shipping a Progressive Web App.
 * [`pwabuilder`](http://www.pwabuilder.com/): All the tools you need to build and deploy your Progressive Web Apps.
+* [`Lighthouse PWA Test`](https://developers.google.com/web/tools/lighthouse/): Simple automated tool for improving the quality of web pages & Progressive Web Apps.
