@@ -22,6 +22,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [AirHorner](https://airhorner.com/)
 * [Aliexpress](https://m.aliexpress.com/?tracelog=wwwhome2mobilesitehome)
 * [Anonymous Chat](https://anonymouschat.in)
+* [Bet Calculator](https://www.betvictor.com/bet-calculator/)
 * [Chrome Developer Summit](https://developers.google.com/)
 * [Colosseum](https://naramsim.github.io/Colosseum/)
 * [Closerintime](https://closerinti.me)
