@@ -15,6 +15,8 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Tutorials](#tutorials)
 * [Articles](#articles)
 * [Videos](#videos)
+* [Tools](#tools)
+* [Kits](#kits)
 
 ## Apps
 
@@ -175,6 +177,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ## Tools
 
+* [`Workbox`](https://workboxjs.org/): The next version of `sw-precache` & `sw-toolbox`
 * [`sw-precache`](https://github.com/GoogleChrome/sw-precache): A node module to generate service worker code that will precache specific resources
 * [`sw-toolbox`](https://github.com/GoogleChrome/sw-toolbox): A runtime caching library
 * [`platinum-sw-register`](https://elements.polymer-project.org/elements/platinum-sw?active=platinum-sw-register): handles service worker registration for Polymer applications
