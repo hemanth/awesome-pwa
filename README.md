@@ -20,6 +20,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 * [A selection of Progressive Web Apps](https://pwa.rocks/)
 * [AirHorner](https://airhorner.com/)
+* [AlarmDJ](https://alarmdj.com)
 * [Aliexpress](https://m.aliexpress.com/?tracelog=wwwhome2mobilesitehome)
 * [Anonymous Chat](https://anonymouschat.in)
 * [Chrome Developer Summit](https://developers.google.com/)
