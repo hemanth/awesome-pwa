@@ -78,9 +78,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ## Tutorials
 
-* [A progressive Web application with Vue JS, Webpack & Material Design [Part 1]](https://blog.sicara.com/a-progressive-web-application-with-vue-js-webpack-material-design-part-1-c243e2e6e402) by [@charlesBochet](https://twitter.com/charlesBochet)
-* [A progressive Web application with Vue JS, Webpack & Material Design [Part 2]](https://medium.com/bam-tech/a-progressive-web-application-with-vue-js-webpack-material-design-part-2-a5f19e70e08b) by [@KevinJean17](https://twitter.com/KevinJean17)
-* [A progressive Web application with Vue JS, Webpack & Material Design [Part 3]](https://blog.sicara.com/a-progressive-web-application-with-vue-js-webpack-material-design-part-3-service-workers-offline-ed3184264fd1) by [@charlesBochet](https://twitter.com/charlesBochet)
+* [A progressive Web application with Vue JS, Webpack & Material Design [Part 1 / 6]](https://blog.sicara.com/a-progressive-web-application-with-vue-js-webpack-material-design-part-1-c243e2e6e402) by [@charlesBochet](https://twitter.com/charlesBochet) and [@KevinJean17](https://twitter.com/KevinJean17)
 * [Codelabs to build PWAs with Polymer 2.0](https://codelabs.developers.google.com/polymer-summit-2016)
 * [Getting started with Progressive Web Apps](https://addyosmani.com/blog/getting-started-with-progressive-web-apps/) by [@addyosmani](https://twitter.com/addyosmani)
 * [Google Developers - Progressive Web Apps](https://developers.google.com/web/progressive-web-apps)
