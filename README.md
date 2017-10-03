@@ -114,6 +114,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [The Building Blocks Of Progressive Web Apps](https://www.smashingmagazine.com/2016/09/the-building-blocks-of-progressive-web-apps/)
 * [Integrating Progressive Web Apps deeply into Android](https://blog.chromium.org/2017/02/integrating-progressive-web-apps-deeply.html)
 * [Is PWA ready on Chinese browser?](https://ispwaready.toxicjohann.com)
+* [How I made a Progressive Web App out of my Blog](https://alexjoverm.github.io/2017/08/07/How-I-made-a-Progressive-Web-App-out-of-my-Blog/)
 
 ## Videos
 
