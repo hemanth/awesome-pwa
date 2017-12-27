@@ -57,6 +57,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [SplittyPie](https://splittypie.com)
 * [Taskade](https://www.taskade.com)
 * [TeamGrid](https://www.teamgridapp.com)
+* [Tinder](https://tinder.com/)
 * [Topple Trump!](https://toppletrump.com/)
 * [trivago](https://www.trivago.com/)
 * [Twitter](https://twitter.com)
@@ -93,6 +94,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 ## Articles
 
 * [Introducing Pokedex.org: a progressive webapp for Pokémon fans](http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org)
+* [A Tinder Progressive Web App Performance Case Study](https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0)
 * [Progressive web apps have leapfrogged the native install model ... but challenges remain/](http://softwareas.com/progressive-web-apps-have-leapfrogged-the-native-install-model-but-challenges-remain/)
 * [What Progressive Web Apps Mean for the Web](http://developer.telerik.com/featured/what-progressive-web-apps-mean-for-the-web/)
 * [The web app "discovery problem"](https://remysharp.com/2016/04/11/the-webapp-discovery-problem)
