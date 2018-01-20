@@ -37,7 +37,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [GitHub Explorer](https://github-e.com/)
 * [Google I/O](https://events.google.com/io2016/)
 * [Housing Go](http://www.housing.com)
-* [Meat Scope](https://meatscope.camera/)
 * [Medium](https://medium.com/)
 * [Memory Game PWA](https://pwa-memory-game.surge.sh/)
 * [MoneyTracker](https://moneytracker.cc/)
@@ -61,10 +60,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Topple Trump!](https://toppletrump.com/)
 * [trivago](https://www.trivago.com/)
 * [Twitter](https://twitter.com)
-* [Washington Post](https://www.washingtonpost.com/pwa/)
 * [Wave-PD1](https://alexgibson.github.io/wavepad/)
-* [WeNeed](https://weneed-1147.appspot.com/)
-* [Web Bluetooth (Intel® Edison) demo](https://edison-webbt.appspot.com/)
 * [Web NFC enabled shopping cart](https://webnfc-shoppingcart.appspot.com)
 * [X Sound](https://korilakkuma.github.io/X-Sound/)
 * [abc.xyz](https://abc.xyz)
@@ -72,7 +68,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [chromestatus](https://www.chromestatus.com/features)
 * [emojoy](https://jakearchibald-gcm.appspot.com/)
 * [guitar-tuner](https://aerotwist.com/blog/guitar-tuner/)
-* [jsfeatures](https://jsfeatures.in)
 * [offline-wikipedia](https://wiki-offline.jakearchibald.com/)
 * [sv-ginger](https://sv-ginger.appspot.com/)
 * [voice-memos](https://voice-memos.appspot.com/)
@@ -88,7 +83,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Progressive Web Apps with React.js - 4 part series](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-i-introduction-50679aef2b12#.ly1xiybxd) by [@addyosmani](https://twitter.com/addyosmani)
 * [Retrofit an Existing Website as a Progressive Web App](https://www.sitepoint.com/retrofit-your-website-as-a-progressive-web-app/)
 * [Service Worker Cookbook - Mozilla](https://serviceworke.rs/)
-* [SmashingMag’s Service Worker script, fully documented](https://www.smashingmagazine.com/serviceWorker.js)
 * [Web Powered SMS Inbox with Service Worker: Push Notifications](https://www.twilio.com/blog/2016/02/web-powered-sms-inbox-with-service-worker-push-notifications.html)
 
 
@@ -104,7 +98,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Service Workers: Dynamic Responsive Images using WebP Images](http://deanhume.com/Home/BlogPost/service-workers--dynamic-responsive-images-using-webp-images/10132/)
 * [Is Service Worker ready?](https://jakearchibald.github.io/isserviceworkerready/)
 * [Progressive Web Apps: Escaping Tabs Without Losing Our Soul](https://infrequently.org/2015/06/progressive-apps-escaping-tabs-without-losing-our-soul/)
-* [Progressive Web App: A New Way to Experience Mobile](http://tech-blog.flipkart.net/2015/11/progressive-web-app/)
 * [Support for theme-color in Chrome 39 for Android](https://developers.google.com/web/updates/2014/11/Support-for-theme-color-in-Chrome-39-for-Android)
 * [Installable Web Apps with the WebApp Manifest in Chrome for Android](https://developers.google.com/web/updates/2014/11/Support-for-installable-web-apps-with-webapp-manifest-in-chrome-38-for-Android)
 * [FLIP your animations](https://aerotwist.com/blog/flip-your-animations/)
@@ -189,7 +182,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [`msgr`](https://github.com/sdgluck/msgr): Nifty service worker/client message utility
 * [`UpUp`](https://github.com/TalAter/UpUp): Makes sure your users can always access your site's content, even when they're on a plane, in an elevator, or 20,000 leagues under the sea
 * [`fetch-sync`](https://github.com/sdgluck/fetch-sync): Proxy Fetch requests through the Background Sync API
-* [`FetchManifest`](https://github.com/cvan/fetch-manifest): Fetch a parsed manifest from a manifest or site URL ([online service](https://fetchmanifest.org/))
 * [`fetch-manifest-json`](https://github.com/hemanth/fetch-manifest-json): Fetch the `mainfest.json` from an URL.
 * [`manifest-json`](https://www.npmjs.com/package/manifest-json): CLI tool for creating `mainfest.json`.
 * [`PWAify`](https://github.com/vladikoff/PWAify): CLI tool to convert your PWA into a cross-platform desktop app.
@@ -202,7 +194,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ## Kits
 
-* [`Angular Mobile Toolkit`](https://mobile.angular.io/): Tools for building progressive web apps with Angular.
 * [`Web Starter Kit`](https://github.com/google/web-starter-kit): A workflow for multi-device websites.
 * [`Progressive Web Application skeleton`](https://github.com/PolymerLabs/progressive-webapp-config): A simple set of skeleton files for shipping a Progressive Web App.
 * [`pwabuilder`](http://www.pwabuilder.com/): All the tools you need to build and deploy your Progressive Web Apps.
