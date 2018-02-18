@@ -15,6 +15,8 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Tutorials](#tutorials)
 * [Articles](#articles)
 * [Videos](#videos)
+* [Tools](#tools)
+* [Kits](#kits)
 
 ## Apps
 
