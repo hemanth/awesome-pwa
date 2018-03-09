@@ -40,6 +40,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [GitHub Explorer](https://github-e.com/)
 * [Google I/O](https://events.google.com/io2016/)
 * [Housing Go](http://www.housing.com)
+* [Manipulist](https://manipulist.com/)
 * [Meat Scope](https://meatscope.camera/)
 * [Medium](https://medium.com/)
 * [Memory Game PWA](https://pwa-memory-game.surge.sh/)
