@@ -82,6 +82,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [voice-memos](https://voice-memos.appspot.com/)
 * [Resume Nation](https://resume-nation.github.io)
 
+
 ## Tutorials
 
 * [A progressive Web application with Vue JS, Webpack & Material Design [Part 1 / 6]](https://blog.sicara.com/a-progressive-web-application-with-vue-js-webpack-material-design-part-1-c243e2e6e402) by [@charlesBochet](https://twitter.com/charlesBochet) and [@KevinJean17](https://twitter.com/KevinJean17)
