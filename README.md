@@ -42,7 +42,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [GitHub Explorer](https://github-e.com/)
 * [Google I/O](https://events.google.com/io2016/)
 * [Housing Go](http://www.housing.com)
-* [Meat Scope](https://meatscope.camera/)
 * [Medium](https://medium.com/)
 * [Memory Game PWA](https://pwa-memory-game.surge.sh/)
 * [MoneyTracker](https://moneytracker.cc/)
@@ -68,11 +67,8 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Telegram](https://web.telegram.org/)
 * [trivago](https://www.trivago.com/)
 * [Twitter](https://twitter.com)
-* [Washington Post](https://www.washingtonpost.com/pwa/)
 * [新浪微博](m.weibo.cn/beta)
 * [Wave-PD1](https://alexgibson.github.io/wavepad/)
-* [WeNeed](https://weneed-1147.appspot.com/)
-* [Web Bluetooth (Intel® Edison) demo](https://edison-webbt.appspot.com/)
 * [Web NFC enabled shopping cart](https://webnfc-shoppingcart.appspot.com)
 * [X Sound](https://korilakkuma.github.io/X-Sound/)
 * [abc.xyz](https://abc.xyz)
@@ -95,7 +91,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Progressive Web Apps with React.js - 4 part series](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-i-introduction-50679aef2b12#.ly1xiybxd) by [@addyosmani](https://twitter.com/addyosmani)
 * [Retrofit an Existing Website as a Progressive Web App](https://www.sitepoint.com/retrofit-your-website-as-a-progressive-web-app/)
 * [Service Worker Cookbook - Mozilla](https://serviceworke.rs/)
-* [SmashingMag’s Service Worker script, fully documented](https://www.smashingmagazine.com/serviceWorker.js)
 * [Web Powered SMS Inbox with Service Worker: Push Notifications](https://www.twilio.com/blog/2016/02/web-powered-sms-inbox-with-service-worker-push-notifications.html)
 
 
