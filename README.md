@@ -41,6 +41,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Flipkart Lite](http://www.flipkart.com) ([eng blog post](https://medium.com/progressive-web-apps/building-flipkart-lite-a-progressive-web-app-2c211e641883), [case study](https://developers.google.com/web/showcase/2016/flipkart))
 * [GitHub Explorer](https://github-e.com/)
 * [Google I/O](https://events.google.com/io2016/)
+* [GPA Calculator](https://gpacalculator.io)
 * [Housing Go](http://www.housing.com)
 * [Meat Scope](https://meatscope.camera/)
 * [Medium](https://medium.com/)
