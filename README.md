@@ -72,6 +72,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [WeNeed](https://weneed-1147.appspot.com/)
 * [Web Bluetooth (Intel® Edison) demo](https://edison-webbt.appspot.com/)
 * [Web NFC enabled shopping cart](https://webnfc-shoppingcart.appspot.com)
+* [Word Counter](https://wordcounter.io)
 * [X Sound](https://korilakkuma.github.io/X-Sound/)
 * [abc.xyz](https://abc.xyz)
 * [ampproject](https://www.ampproject.org)
