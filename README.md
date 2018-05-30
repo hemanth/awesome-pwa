@@ -95,6 +95,8 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Service Worker Cookbook - Mozilla](https://serviceworke.rs/)
 * [SmashingMag’s Service Worker script, fully documented](https://www.smashingmagazine.com/serviceWorker.js)
 * [Web Powered SMS Inbox with Service Worker: Push Notifications](https://www.twilio.com/blog/2016/02/web-powered-sms-inbox-with-service-worker-push-notifications.html)
+* [Build a realtime PWA with React](https://pusher.com/tutorials/pwa-react)
+* [Build a realtime PWA using Vue.js](https://pusher.com/tutorials/pwa-vuejs)
 
 
 ## Articles
