@@ -26,6 +26,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [AirHorner](https://airhorner.com/)
 * [AlarmDJ](https://alarmdj.com)
 * [Aliexpress](https://m.aliexpress.com/?tracelog=wwwhome2mobilesitehome)
+* [Care Cards](https://carecards.io)
 * [Chrome Developer Summit](https://developers.google.com/)
 * [Colosseum](https://naramsim.github.io/Colosseum/)
 * [Closerintime](https://closerinti.me)
