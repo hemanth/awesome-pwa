@@ -208,11 +208,13 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ## Kits
 
-* [`Angular Mobile Toolkit`](https://github.com/angular/mobile-toolkit): Tools for building progressive web apps with Angular.
+* [Preact CLI](https://github.com/developit/preact-cli): "Your next Preact PWA in 30 seconds"
 * [`Web Starter Kit`](https://github.com/google/web-starter-kit): A workflow for multi-device websites.
 * [`Progressive Web Application skeleton`](https://github.com/PolymerLabs/progressive-webapp-config): A simple set of skeleton files for shipping a Progressive Web App.
 * [`pwabuilder`](http://www.pwabuilder.com/): All the tools you need to build and deploy your Progressive Web Apps.
-* [`pwa-starter-kit`](https://github.com/Polymer/pwa-starter-kit/): Starter templates for building PWAs
+* [PWA Starter Kit](https://polymer.github.io/pwa-starter-kit/): "end-to-end solution for building high-quality PWAs" with Web Components, PRPL and Redux; by the Polymer Authors
+* [Polymer App Toolbox](https://www.polymer-project.org/3.0/toolbox/): "a collection of components, tools and templates for building Progressive Web Apps with Polymer"
+* [Stencil PWA toolkit](https://stenciljs.com/pwa/): Ionic's "Everything you need to easily build fast, production ready Progressive Web Apps"
 
 ## Courses
 
