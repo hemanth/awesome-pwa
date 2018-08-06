@@ -51,6 +51,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Notepad](https://www.amitmerchant.com/notepad/)
 * [Paytm Lite](https://paytm.com/)
 * [Pokedex](https://www.pokedex.org/)
+* [PokeQuest Wiki](https://pokequest.wiki/)
 * [Polymon by Polymer](https://polymon.polymer-project.org)
 * [PregBuddy](https://app.pregbuddy.com)
 * [Progressive Beer](https://deanhume.github.io/beer/)
