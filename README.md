@@ -18,7 +18,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Tools](#tools)
 * [Kits](#kits)
 * [Courses](#courses)
-* [Conferences](#confeences)
+* [Conferences](#conferences)
 
 ## Apps
 
