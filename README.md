@@ -206,6 +206,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [`sw-precache-webpack-plugin`](https://github.com/goldhand/sw-precache-webpack-plugin): SW Precache Webpack Plugin
 * [`serviceworker-webpack-plugin`](https://github.com/oliviertassinari/serviceworker-webpack-plugin): Simplifies creation of a service worker to serve your webpack bundles.
 * [`serviceworker-rails`](https://github.com/rossta/serviceworker-rails): Plugin to integrate Service Worker with the Rails asset pipeline.
+* [`Lavas`](https://lavas.baidu.com): A framework base on vue for building progressive web apps
 
 ## Kits
 
