@@ -209,6 +209,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ## Kits
 
+* [`React Storefront`](https://github.com/moovweb/react-storefront): Framework for progressive web apps with React.
 * [`Angular Mobile Toolkit`](https://github.com/angular/mobile-toolkit): Tools for building progressive web apps with Angular.
 * [`Web Starter Kit`](https://github.com/google/web-starter-kit): A workflow for multi-device websites.
 * [`Progressive Web Application skeleton`](https://github.com/PolymerLabs/progressive-webapp-config): A simple set of skeleton files for shipping a Progressive Web App.
