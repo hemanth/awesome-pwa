@@ -49,6 +49,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [MoneyTracker](https://moneytracker.cc/)
 * [Notella](https://github.com/siddharthkp/notella)
 * [Notepad](https://www.amitmerchant.com/notepad/)
+* [PakWheels](https://www.pakwheels.com/)
 * [Paytm Lite](https://paytm.com/)
 * [Pokedex](https://www.pokedex.org/)
 * [PokeQuest Wiki](https://pokequest.wiki/)
