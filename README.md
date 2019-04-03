@@ -55,6 +55,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Polymon by Polymer](https://polymon.polymer-project.org)
 * [PregBuddy](https://app.pregbuddy.com)
 * [Progressive Beer](https://deanhume.github.io/beer/)
+* [QR Code Generator](https://qr-code-generator.now.sh)
 * [QR Code Scanner](https://qrcodescan.in/)
 * [React HN](https://react-hn.appspot.com)
 * [Remember](https://paulhoughton.github.io/remember/)
