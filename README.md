@@ -43,7 +43,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Google I/O](https://events.google.com/io2016/)
 * [GPA Calculator](https://gpacalculator.io)
 * [Housing Go](http://www.housing.com)
-* [Kahla](http://www.kahla.app)
+* [Kahla](https://web.kahla.app)
 * [Meat Scope](https://meatscope.camera/)
 * [Medium](https://medium.com/)
 * [Memory Game PWA](https://pwa-memory-game.surge.sh/)
