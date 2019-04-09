@@ -126,6 +126,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Integrating Progressive Web Apps deeply into Android](https://blog.chromium.org/2017/02/integrating-progressive-web-apps-deeply.html)
 * [Is PWA ready on Chinese browser?](https://ispwaready.toxicjohann.com)
 * [How I built a Progressive Beer App](https://deanhume.com/Home/BlogPost/how-i-built-a-progressive-beer-app/10148)
+* [From Electron to Progressive Web App](https://mjswensen.com/blog/2019/03/23/from-electron-to-progressive-web-app/)
 
 ## Videos
 
