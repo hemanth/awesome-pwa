@@ -26,6 +26,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [AirHorner](https://airhorner.com/)
 * [AlarmDJ](https://alarmdj.com)
 * [Aliexpress](https://m.aliexpress.com/?tracelog=wwwhome2mobilesitehome)
+* [Bento-starter](https://bento-starter.firebaseapp.com)
 * [Chrome Developer Summit](https://developers.google.com/)
 * [Colosseum](https://naramsim.github.io/Colosseum/)
 * [Closerintime](https://closerinti.me)
@@ -104,6 +105,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 * [Introducing Pokedex.org: a progressive webapp for Pokémon fans](http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org)
 * [A Tinder Progressive Web App Performance Case Study](https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0)
+* [A full-stack solution for fast PWA development](https://medium.zenika.com/a-full-stack-solution-for-fast-pwa-development-937288b055b8)
 * [Progressive web apps have leapfrogged the native install model ... but challenges remain/](http://softwareas.com/progressive-web-apps-have-leapfrogged-the-native-install-model-but-challenges-remain/)
 * [What Progressive Web Apps Mean for the Web](http://developer.telerik.com/featured/what-progressive-web-apps-mean-for-the-web/)
 * [The web app "discovery problem"](https://remysharp.com/2016/04/11/the-webapp-discovery-problem)
@@ -211,6 +213,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 ## Kits
 
 * [`Angular Mobile Toolkit`](https://github.com/angular/mobile-toolkit): Tools for building progressive web apps with Angular.
+* [`Bento starter`](https://github.com/kefranabg/bento-starter): Full-stack solution to build Progressive Web Apps.
 * [`Web Starter Kit`](https://github.com/google/web-starter-kit): A workflow for multi-device websites.
 * [`Progressive Web Application skeleton`](https://github.com/PolymerLabs/progressive-webapp-config): A simple set of skeleton files for shipping a Progressive Web App.
 * [`pwabuilder`](http://www.pwabuilder.com/): All the tools you need to build and deploy your Progressive Web Apps.
