@@ -187,6 +187,11 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Samsung internets progressive web app commitment (Progressive Web App Summit 2016)](https://www.youtube.com/watch?v=4_qhu-4EQGA&list=PLNYkxOF6rcIAWWNR_Q6eLPhsyx6VvYjVb&index=27)
 * [Polymer Summit 2016 Youtube Playlist](https://www.youtube.com/watch?list=PLNYkxOF6rcICc687SxHQRuo9TVNOJelSZ&v=VBbejeKHrjg)
 * [PWA Training Course 2017 Playlist with Sarah Clark, Google Developers India](https://www.youtube.com/playlist?list=PLlyCyjh2pUe9RHFCJHU0kxpaivUzADPYk)
+* [Why Build Progressive Web Apps? - Playlist](https://www.youtube.com/watch?v=4UK_TDTTWnQ&list=PLNYkxOF6rcIAvsHlT44x-Kve2lG8CrDip)
+* [Progressive Web Apps Training 2019 - Playlist](https://www.youtube.com/watch?v=psB_Pjwhbxo&list=PLNYkxOF6rcIB2xHBZ7opgc2Mv009X87Hh)
+* [PWA starter kit: build fast, scalable, modern apps with Web Components (Google I/O '18)](https://www.youtube.com/watch?v=we3lLo-UFtk)
+* [Going Big: PWAs Come to Desktop and Chrome OS (Google I/O ’19)](https://www.youtube.com/watch?v=2KhRmFHLuhE)
+* [Unlocking New Capabilities for the Web (Google I/O ’19)](https://www.youtube.com/watch?v=GSiUzuB-PoI)
 
 ## Tools
 
