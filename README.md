@@ -214,6 +214,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [`sw-precache-webpack-plugin`](https://github.com/goldhand/sw-precache-webpack-plugin): SW Precache Webpack Plugin
 * [`serviceworker-webpack-plugin`](https://github.com/oliviertassinari/serviceworker-webpack-plugin): Simplifies creation of a service worker to serve your webpack bundles.
 * [`serviceworker-rails`](https://github.com/rossta/serviceworker-rails): Plugin to integrate Service Worker with the Rails asset pipeline.
+* [`Superweb.app`](https://www.superweb.app): Service to generate a service worker/manifest and host apps/games as PWAs
 * [`a2hs.js`](https://github.com/koddr/a2hs.js): A useful modern JavaScript solution that helps your website users to add (install) a progressive web app to the Home Screen of their mobile iOS devices.
 
 ## Kits
