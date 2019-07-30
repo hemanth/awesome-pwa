@@ -26,6 +26,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [AirHorner](https://airhorner.com/)
 * [AlarmDJ](https://alarmdj.com)
 * [Aliexpress](https://m.aliexpress.com/?tracelog=wwwhome2mobilesitehome)
+* [Anonynote](https://anonynote.org)
 * [Bento-starter](https://bento-starter.firebaseapp.com)
 * [Chrome Developer Summit](https://developers.google.com/)
 * [Colosseum](https://naramsim.github.io/Colosseum/)
