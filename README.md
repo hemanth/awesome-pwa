@@ -33,6 +33,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Closerintime](https://closerinti.me)
 * [Currency Converter](https://www.currency-x.com)
 * [Simple Currency Converter](https://currency-converter.now.sh)
+* [Currency Exchange Loss Calculator](https://currency-loss.netlify.com/)
 * [Datememe](https://www.datememe.com)
 * [Demo PWA](https://github.com/gokulkrishh/demo-progressive-web-app)
 * [Dev.Opera](https://dev.opera.com/)
