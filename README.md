@@ -233,4 +233,4 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Getting Started with Progressive Web Apps](https://www.pluralsight.com/courses/web-apps-progressive-getting-started) (paid)
 * [Progressive Web App Fundamentals](https://www.pluralsight.com/courses/progressive-web-app-fundamentals) (paid)
 * [Intro to Progressive Web Apps](https://in.udacity.com/course/intro-to-progressive-web-apps--ud811) (free)
-* [Developing Progressive Web Apps (PWAs) Course](https://codelabs.developers.google.com/dev-pwa-training) (free)
+* [Developing Progressive Web Apps Course](https://codelabs.developers.google.com/dev-pwa-training) (free)
