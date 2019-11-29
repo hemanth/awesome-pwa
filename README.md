@@ -233,3 +233,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Getting Started with Progressive Web Apps](https://www.pluralsight.com/courses/web-apps-progressive-getting-started) (paid)
 * [Progressive Web App Fundamentals](https://www.pluralsight.com/courses/progressive-web-app-fundamentals) (paid)
 * [Intro to Progressive Web Apps](https://in.udacity.com/course/intro-to-progressive-web-apps--ud811) (free)
+* [Progressive Web Apps (PWA) - The Complete Guide](https://www.udemy.com/course/progressive-web-app-pwa-the-complete-guide/) (paid)
+* [Progressive Web Apps - The Concise PWA Masterclass](https://www.udemy.com/course/progressive-web-apps/) (paid)
+* [Progressive Web Apps (PWA) - From Beginner to Expert](https://www.udemy.com/course/progressive-web-apps-pwa-from-beginner-to-expert/) (paid)
+* [Learn to build progressive web apps using JavaScript](https://www.udemy.com/course/learn-to-build-progressive-web-apps-using-javascript/) (paid)
