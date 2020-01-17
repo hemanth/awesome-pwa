@@ -62,6 +62,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [QR Code Scanner](https://qrcodescan.in/)
 * [React HN](https://react-hn.appspot.com)
 * [Remember](https://paulhoughton.github.io/remember/)
+* [Skcript](https://www.skcript.com/)
 * [SVGOMG](https://jakearchibald.github.io/svgomg/)
 * [Smaller Pictures](https://smaller-pictures.appspot.com)
 * [Soundslice](https://www.soundslice.com)
@@ -130,6 +131,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Integrating Progressive Web Apps deeply into Android](https://blog.chromium.org/2017/02/integrating-progressive-web-apps-deeply.html)
 * [Is PWA ready on Chinese browser?](https://ispwaready.toxicjohann.com)
 * [How I built a Progressive Beer App](https://deanhume.com/Home/BlogPost/how-i-built-a-progressive-beer-app/10148)
+* [How we made our website offline first](https://www.skcript.com/svr/offline-is-the-new-online/)
 
 ## Videos
 
