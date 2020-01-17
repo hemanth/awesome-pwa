@@ -46,7 +46,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Google I/O](https://events.google.com/io2016/)
 * [GPA Calculator](https://gpacalculator.io)
 * [Housing Go](http://www.housing.com)
-* [Meat Scope](https://meatscope.camera/)
 * [Medium](https://medium.com/)
 * [Memory Game PWA](https://pwa-memory-game.surge.sh/)
 * [MoneyTracker](https://moneytracker.cc/)
@@ -102,6 +101,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Service Worker Cookbook - Mozilla](https://serviceworke.rs/)
 * [SmashingMag’s Service Worker script, fully documented](https://www.smashingmagazine.com/serviceWorker.js)
 * [Web Powered SMS Inbox with Service Worker: Push Notifications](https://www.twilio.com/blog/2016/02/web-powered-sms-inbox-with-service-worker-push-notifications.html)
+* [Introduction to Progressive Web Apps by Google-Udacity](https://in.udacity.com/course/intro-to-progressive-web-apps--ud811/)
 
 
 ## Articles
