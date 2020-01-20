@@ -50,6 +50,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Google I/O](https://events.google.com/io2016/)
 * [GPA Calculator](https://gpacalculator.io)
 * [Housing Go](http://www.housing.com)
+* [Lorem Ipsum](https://loremipsum.io)
 * [Medium](https://medium.com/)
 * [Memory Game PWA](https://pwa-memory-game.surge.sh/)
 * [MoneyTracker](https://moneytracker.cc/)
