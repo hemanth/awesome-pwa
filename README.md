@@ -28,6 +28,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [AlarmDJ](https://alarmdj.com)
 * [Aliexpress](https://m.aliexpress.com/?tracelog=wwwhome2mobilesitehome)
 * [Anonymous Chat](https://anonymouschat.in)
+* [Avain.app](https://avain.app)
 * [Bento-starter](https://bento-starter.firebaseapp.com)
 * [Bet Calculator](https://www.betvictor.com/bet-calculator/)
 * [Budget Tracker](https://carlosvin.github.io/budget-tracker)
