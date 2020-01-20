@@ -247,6 +247,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [PWA Starter Kit](https://polymer.github.io/pwa-starter-kit/): "end-to-end solution for building high-quality PWAs" with Web Components, PRPL and Redux; by the Polymer Authors
 * [Polymer App Toolbox](https://www.polymer-project.org/3.0/toolbox/): "a collection of components, tools and templates for building Progressive Web Apps with Polymer"
 * [Stencil PWA toolkit](https://stenciljs.com/pwa/): Ionic's "Everything you need to easily build fast, production ready Progressive Web Apps"
+* [`Lavas`](https://lavas.baidu.com): A framework base on vue for building progressive web apps
 
 ## Courses
 
