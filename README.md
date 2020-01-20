@@ -18,6 +18,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Tools](#tools)
 * [Kits](#kits)
 * [Courses](#courses)
+* [Conferences](#conferences)
 
 ## Apps
 
@@ -252,3 +253,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Getting Started with Progressive Web Apps](https://www.pluralsight.com/courses/web-apps-progressive-getting-started) (paid)
 * [Progressive Web App Fundamentals](https://www.pluralsight.com/courses/progressive-web-app-fundamentals) (paid)
 * [Intro to Progressive Web Apps](https://in.udacity.com/course/intro-to-progressive-web-apps--ud811) (free)
+
+## Conferences
+
+* [A list of conferences talking about PWA](https://github.com/mobilehackersio/pwa-confs)
