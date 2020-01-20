@@ -112,6 +112,8 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Web Powered SMS Inbox with Service Worker: Push Notifications](https://www.twilio.com/blog/2016/02/web-powered-sms-inbox-with-service-worker-push-notifications.html)
 * [Introduction to Progressive Web Apps by Google-Udacity](https://in.udacity.com/course/intro-to-progressive-web-apps--ud811/)
 * [Introduction to progressive web apps](https://blog.pusher.com/introduction-progressive-web-apps/)
+* [Build a realtime PWA with React](https://pusher.com/tutorials/pwa-react)
+* [Build a realtime PWA using Vue.js](https://pusher.com/tutorials/pwa-vuejs)
 
 ## Articles
 
