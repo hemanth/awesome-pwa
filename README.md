@@ -24,6 +24,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 * [A selection of Progressive Web Apps](https://pwa.rocks/)
 * [A fresher selection of Progressive Web Apps](https://outweb.io/)
+* [The freshest collection of Progressive Web Apps](https://appsco.pe/)
 * [AirHorner](https://airhorner.com/)
 * [AlarmDJ](https://alarmdj.com)
 * [Aliexpress](https://m.aliexpress.com/?tracelog=wwwhome2mobilesitehome)
