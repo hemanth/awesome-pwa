@@ -107,6 +107,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [voice-memos](https://voice-memos.appspot.com/)
 * [Resume Nation](https://resume-nation.github.io)
 * [Feelancer](https://m.freelancer.com/messages)
+* [Yahtzee](https://zpix1.github.io/yahtzee/)
 
 ## Tutorials
 
