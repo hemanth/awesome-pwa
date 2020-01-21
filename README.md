@@ -243,6 +243,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [`serviceworker-rails`](https://github.com/rossta/serviceworker-rails): Plugin to integrate Service Worker with the Rails asset pipeline.
 * [`Superweb.app`](https://www.superweb.app): Service to generate a service worker/manifest and host apps/games as PWAs
 * [`a2hs.js`](https://github.com/koddr/a2hs.js): A useful modern JavaScript solution that helps your website users to add (install) a progressive web app to the Home Screen of their mobile iOS devices.
+* [`HNPWA`](https://github.com/tastejs/hacker-news-pwas): Hacker News readers as Progressive Web Apps. A spiritual successor to TodoMVC.
 
 ## Kits
 
