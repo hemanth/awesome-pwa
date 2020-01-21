@@ -88,6 +88,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [trivago](https://www.trivago.com/)
 * [Twitter](https://twitter.com)
 * [Uber Web](https://m.uber.com)
+* [VeggieTables](https://veggietables.org)
 * [Washington Post](https://www.washingtonpost.com/pwa/)
 * [Wave-PD1](https://alexgibson.github.io/wavepad/)
 * [WeNeed](https://weneed-1147.appspot.com/)
