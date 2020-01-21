@@ -32,6 +32,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Avain.app](https://avain.app)
 * [Bento-starter](https://bento-starter.firebaseapp.com)
 * [Bet Calculator](https://www.betvictor.com/bet-calculator/)
+* [Booksie](https://www.booksie.org/)
 * [Budget Tracker](https://carlosvin.github.io/budget-tracker)
 * [Care Cards](https://carecards.io)
 * [Chrome Developer Summit](https://developers.google.com/)
