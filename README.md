@@ -242,6 +242,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ## Kits
 
+* [`React Storefront`](https://github.com/moovweb/react-storefront): Framework for progressive web apps with React.
 * [Preact CLI](https://github.com/developit/preact-cli): "Your next Preact PWA in 30 seconds"
 * [`Bento starter`](https://github.com/kefranabg/bento-starter): Full-stack solution to build Progressive Web Apps.
 * [`Web Starter Kit`](https://github.com/google/web-starter-kit): A workflow for multi-device websites.
