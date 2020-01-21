@@ -156,8 +156,9 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Is PWA ready on Chinese browser?](https://ispwaready.toxicjohann.com)
 * [How I built a Progressive Beer App](https://deanhume.com/Home/BlogPost/how-i-built-a-progressive-beer-app/10148)
 * [How we made our website offline first](https://www.skcript.com/svr/offline-is-the-new-online/)
-* [A Beginner’s Guide to Progressive Web Apps & the Frontend Web)(https://hackernoon.com/a-beginners-guide-to-progressive-web-apps-the-frontend-web-424b6d697e35)
+* [A Beginner’s Guide to Progressive Web Apps & the Frontend Web](https://hackernoon.com/a-beginners-guide-to-progressive-web-apps-the-frontend-web-424b6d697e35)
 * [How I made a Progressive Web App out of my Blog](https://alexjoverm.github.io/2017/08/07/How-I-made-a-Progressive-Web-App-out-of-my-Blog/)
+* [From Electron to Progressive Web App](https://mjswensen.com/blog/2019/03/23/from-electron-to-progressive-web-app/)
 
 ## Videos
 
