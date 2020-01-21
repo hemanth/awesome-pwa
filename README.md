@@ -57,6 +57,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [GPA Calculator](https://gpacalculator.io)
 * [Housing Go](http://www.housing.com)
 * [Indecisive.US](https://indecisive.us/)
+* [Kahla](https://web.kahla.app)
 * [Make Better Software](https://makebetter.software)
 * [Lorem Ipsum](https://loremipsum.io)
 * [Medium](https://medium.com/)
