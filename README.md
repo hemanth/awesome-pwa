@@ -115,6 +115,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Feelancer](https://m.freelancer.com/messages)
 * [Yahtzee](https://zpix1.github.io/yahtzee/)
 * [Themer](https://themer.dev)
+* [FlagWarriors (minimalist multiplayer strategy game)](https://flagwarriors.netlify.com)
 
 ## Tutorials
 
