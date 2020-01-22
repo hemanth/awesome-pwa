@@ -47,6 +47,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Dev.Opera](https://dev.opera.com/)
 * [DevSpace](https://app.devspace.io/)
 * [Digikala](https://www.digikala.com/)
+* [ELFSH Food and expense manager](https://elfsh.mousetail.nl)
 * [emberclear](https://emberclear.io)
 * [Etch](https://etch.co)
 * [Expense Manager](https://demo.vaadin.com/expense-manager/)
