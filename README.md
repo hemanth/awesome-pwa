@@ -18,16 +18,24 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Tools](#tools)
 * [Kits](#kits)
 * [Courses](#courses)
+* [Conferences](#conferences)
 
 ## Apps
 
 * [A selection of Progressive Web Apps](https://pwa.rocks/)
 * [A fresher selection of Progressive Web Apps](https://outweb.io/)
+* [The freshest collection of Progressive Web Apps](https://appsco.pe/)
 * [AirHorner](https://airhorner.com/)
 * [AlarmDJ](https://alarmdj.com)
 * [Aliexpress](https://m.aliexpress.com/?tracelog=wwwhome2mobilesitehome)
+* [Anonymous Chat](https://anonymouschat.in)
+* [Anonynote](https://anonynote.org)
+* [Avain.app](https://avain.app)
 * [Bento-starter](https://bento-starter.firebaseapp.com)
+* [Bet Calculator](https://www.betvictor.com/bet-calculator/)
+* [Booksie](https://www.booksie.org/)
 * [Budget Tracker](https://btapp.netlify.com/)
+* [Care Cards](https://carecards.io)
 * [Chrome Developer Summit](https://developers.google.com/)
 * [Colosseum](https://naramsim.github.io/Colosseum/)
 * [Closerintime](https://closerinti.me)
@@ -38,31 +46,42 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Demo PWA](https://github.com/gokulkrishh/demo-progressive-web-app)
 * [Dev.Opera](https://dev.opera.com/)
 * [DevSpace](https://app.devspace.io/)
+* [Digikala](https://www.digikala.com/)
+* [emberclear](https://emberclear.io)
+* [Etch](https://etch.co)
 * [Expense Manager](https://demo.vaadin.com/expense-manager/)
 * [Exterium](https://www.extrange-labs.com/exterium/)
 * [FF-Platfrom-Status](https://platform-status.mozilla.org)
 * [Firefox Platform Status](https://platform-status.mozilla.org/)
 * [Flipkart Lite](http://www.flipkart.com) ([eng blog post](https://medium.com/progressive-web-apps/building-flipkart-lite-a-progressive-web-app-2c211e641883), [case study](https://developers.google.com/web/showcase/2016/flipkart))
+* [Football Peek](https://footballpeek.com/)
 * [GitHub Explorer](https://github-e.com/)
 * [Google I/O](https://events.google.com/io2016/)
 * [GPA Calculator](https://gpacalculator.io)
 * [Housing Go](http://www.housing.com)
-* [Meat Scope](https://meatscope.camera/)
+* [Indecisive.US](https://indecisive.us/)
+* [Kahla](https://web.kahla.app)
+* [Make Better Software](https://makebetter.software)
+* [Lorem Ipsum](https://loremipsum.io)
 * [Medium](https://medium.com/)
 * [Memory Game PWA](https://pwa-memory-game.surge.sh/)
 * [MoneyTracker](https://moneytracker.cc/)
 * [Notella](https://github.com/siddharthkp/notella)
 * [Notepad](https://www.amitmerchant.com/notepad/)
+* [PakWheels](https://www.pakwheels.com/)
 * [Paytm Lite](https://paytm.com/)
 * [Pokedex](https://www.pokedex.org/)
 * [PokeQuest Wiki](https://pokequest.wiki/)
 * [Polymon by Polymer](https://polymon.polymer-project.org)
+* [Tutor Portfolio PWA](https://englishextra.gitlab.io/)
 * [PregBuddy](https://app.pregbuddy.com)
 * [Progressive Beer](https://deanhume.github.io/beer/)
 * [QR Code Generator](https://qr-code-generator.now.sh)
 * [QR Code Scanner](https://qrcodescan.in/)
 * [React HN](https://react-hn.appspot.com)
 * [Remember](https://paulhoughton.github.io/remember/)
+* [SaintsApp](https://saintsschedule.info/)
+* [Skcript](https://www.skcript.com/)
 * [SVGOMG](https://jakearchibald.github.io/svgomg/)
 * [Smaller Pictures](https://smaller-pictures.appspot.com)
 * [Soundslice](https://www.soundslice.com)
@@ -74,11 +93,13 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [trivago](https://www.trivago.com/)
 * [Twitter](https://twitter.com)
 * [Uber Web](https://m.uber.com)
+* [VeggieTables](https://veggietables.org)
 * [Washington Post](https://www.washingtonpost.com/pwa/)
 * [Wave-PD1](https://alexgibson.github.io/wavepad/)
 * [WeNeed](https://weneed-1147.appspot.com/)
 * [Web Bluetooth (Intel® Edison) demo](https://edison-webbt.appspot.com/)
 * [Web NFC enabled shopping cart](https://webnfc-shoppingcart.appspot.com)
+* [Word Counter](https://wordcounter.io)
 * [X Sound](https://korilakkuma.github.io/X-Sound/)
 * [abc.xyz](https://abc.xyz)
 * [ampproject](https://www.ampproject.org)
@@ -90,6 +111,9 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [sv-ginger](https://sv-ginger.appspot.com/)
 * [voice-memos](https://voice-memos.appspot.com/)
 * [Resume Nation](https://resume-nation.github.io)
+* [Feelancer](https://m.freelancer.com/messages)
+* [Yahtzee](https://zpix1.github.io/yahtzee/)
+* [Themer](https://themer.dev)
 
 ## Tutorials
 
@@ -102,7 +126,10 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Service Worker Cookbook - Mozilla](https://serviceworke.rs/)
 * [SmashingMag’s Service Worker script, fully documented](https://www.smashingmagazine.com/serviceWorker.js)
 * [Web Powered SMS Inbox with Service Worker: Push Notifications](https://www.twilio.com/blog/2016/02/web-powered-sms-inbox-with-service-worker-push-notifications.html)
-
+* [Introduction to Progressive Web Apps by Google-Udacity](https://in.udacity.com/course/intro-to-progressive-web-apps--ud811/)
+* [Introduction to progressive web apps](https://blog.pusher.com/introduction-progressive-web-apps/)
+* [Build a realtime PWA with React](https://pusher.com/tutorials/pwa-react)
+* [Build a realtime PWA using Vue.js](https://pusher.com/tutorials/pwa-vuejs)
 
 ## Articles
 
@@ -131,6 +158,10 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Integrating Progressive Web Apps deeply into Android](https://blog.chromium.org/2017/02/integrating-progressive-web-apps-deeply.html)
 * [Is PWA ready on Chinese browser?](https://ispwaready.toxicjohann.com)
 * [How I built a Progressive Beer App](https://deanhume.com/Home/BlogPost/how-i-built-a-progressive-beer-app/10148)
+* [How we made our website offline first](https://www.skcript.com/svr/offline-is-the-new-online/)
+* [A Beginner’s Guide to Progressive Web Apps & the Frontend Web](https://hackernoon.com/a-beginners-guide-to-progressive-web-apps-the-frontend-web-424b6d697e35)
+* [How I made a Progressive Web App out of my Blog](https://alexjoverm.github.io/2017/08/07/How-I-made-a-Progressive-Web-App-out-of-my-Blog/)
+* [From Electron to Progressive Web App](https://mjswensen.com/blog/2019/03/23/from-electron-to-progressive-web-app/)
 
 ## Videos
 
@@ -217,20 +248,30 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [`sw-precache-webpack-plugin`](https://github.com/goldhand/sw-precache-webpack-plugin): SW Precache Webpack Plugin
 * [`serviceworker-webpack-plugin`](https://github.com/oliviertassinari/serviceworker-webpack-plugin): Simplifies creation of a service worker to serve your webpack bundles.
 * [`serviceworker-rails`](https://github.com/rossta/serviceworker-rails): Plugin to integrate Service Worker with the Rails asset pipeline.
+* [`@forlagshuset/simple-fs`](https://github.com/fagbokforlaget/simple-fs): Needs offline filesystem? SimpleFS provides sweet promise based nodejs file API on top of indexeddb.
 * [`Superweb.app`](https://www.superweb.app): Service to generate a service worker/manifest and host apps/games as PWAs
 * [`a2hs.js`](https://github.com/koddr/a2hs.js): A useful modern JavaScript solution that helps your website users to add (install) a progressive web app to the Home Screen of their mobile iOS devices.
+* [`HNPWA`](https://github.com/tastejs/hacker-news-pwas): Hacker News readers as Progressive Web Apps. A spiritual successor to TodoMVC.
 
 ## Kits
 
-* [`Angular Mobile Toolkit`](https://github.com/angular/mobile-toolkit): Tools for building progressive web apps with Angular.
+* [`React Storefront`](https://github.com/moovweb/react-storefront): Framework for progressive web apps with React.
+* [Preact CLI](https://github.com/developit/preact-cli): "Your next Preact PWA in 30 seconds"
 * [`Bento starter`](https://github.com/kefranabg/bento-starter): Full-stack solution to build Progressive Web Apps.
 * [`Web Starter Kit`](https://github.com/google/web-starter-kit): A workflow for multi-device websites.
 * [`Progressive Web Application skeleton`](https://github.com/PolymerLabs/progressive-webapp-config): A simple set of skeleton files for shipping a Progressive Web App.
 * [`pwabuilder`](http://www.pwabuilder.com/): All the tools you need to build and deploy your Progressive Web Apps.
-* [`pwa-starter-kit`](https://github.com/Polymer/pwa-starter-kit/): Starter templates for building PWAs
+* [PWA Starter Kit](https://polymer.github.io/pwa-starter-kit/): "end-to-end solution for building high-quality PWAs" with Web Components, PRPL and Redux; by the Polymer Authors
+* [Polymer App Toolbox](https://www.polymer-project.org/3.0/toolbox/): "a collection of components, tools and templates for building Progressive Web Apps with Polymer"
+* [Stencil PWA toolkit](https://stenciljs.com/pwa/): Ionic's "Everything you need to easily build fast, production ready Progressive Web Apps"
+* [`Lavas`](https://lavas.baidu.com): A framework base on vue for building progressive web apps
 
 ## Courses
 
 * [Getting Started with Progressive Web Apps](https://www.pluralsight.com/courses/web-apps-progressive-getting-started) (paid)
 * [Progressive Web App Fundamentals](https://www.pluralsight.com/courses/progressive-web-app-fundamentals) (paid)
 * [Intro to Progressive Web Apps](https://in.udacity.com/course/intro-to-progressive-web-apps--ud811) (free)
+
+## Conferences
+
+* [A list of conferences talking about PWA](https://github.com/mobilehackersio/pwa-confs)
