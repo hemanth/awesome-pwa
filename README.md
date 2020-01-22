@@ -11,6 +11,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ## Table of contents
 
+* [App Directories](#app-directories)
 * [Apps](#apps)
 * [Tutorials](#tutorials)
 * [Articles](#articles)
@@ -20,11 +21,15 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Courses](#courses)
 * [Conferences](#conferences)
 
+## App Directories
+
+* [appsco.pe](https://appsco.pe)
+* [outweb.io](https://outweb.io/)
+* [pwa-directory.appspot.com](https://pwa-directory.appspot.com/)
+* [pwa.rocks](https://pwa.rocks/)
+
 ## Apps
 
-* [A selection of Progressive Web Apps](https://pwa.rocks/)
-* [A fresher selection of Progressive Web Apps](https://outweb.io/)
-* [The freshest collection of Progressive Web Apps](https://appsco.pe/)
 * [AirHorner](https://airhorner.com/)
 * [AlarmDJ](https://alarmdj.com)
 * [Aliexpress](https://m.aliexpress.com/?tracelog=wwwhome2mobilesitehome)
