@@ -82,6 +82,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [React HN](https://react-hn.appspot.com)
 * [Remember](https://paulhoughton.github.io/remember/)
 * [SaintsApp](https://saintsschedule.info/)
+* [Similar Worlds](https://similarworlds.com/)
 * [Skcript](https://www.skcript.com/)
 * [SVGOMG](https://jakearchibald.github.io/svgomg/)
 * [Smaller Pictures](https://smaller-pictures.appspot.com)
