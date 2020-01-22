@@ -1,6 +1,6 @@
 language: ruby
 rvm: 2.2
 before_script: gem install awesome_bot
-script: awesome_bot README.md --allow-dupe --allow-redirect --white-list travis-ci
+script: awesome_bot -f README.md --set-timeout 10 --allow-redirect --white-list travis-ci,twitter.com/addyosmani,github.com/sindresorhus/awesome --skip-save-results
 notifications:
   email: false
