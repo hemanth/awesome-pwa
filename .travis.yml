@@ -1,8 +1,0 @@
-services:
-  - docker
-
-before_install:
-  - docker pull ruby:2.7-alpine
-
-script:
-  - docker run -it -v $(pwd)/README.md:/README.md ruby:2.7-alpine /bin/sh -c "gem install awesome_bot; awesome_bot -f /README.md --set-timeout 10 --allow-redirect --white-list travis-ci,twitter.com/addyosmani,github.com/sindresorhus/awesome --skip-save-results"
