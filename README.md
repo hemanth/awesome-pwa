@@ -101,6 +101,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Taskade](https://www.taskade.com)
 * [TeamGrid](https://www.teamgridapp.com)
 * [Themer](https://themer.dev)
+* [Tinder](https://tinder.com)
 * [Topple Trump!](https://toppletrump.com/)
 * [trivago](https://www.trivago.com/)
 * [Tutor Portfolio PWA](https://englishextra.gitlab.io/)
