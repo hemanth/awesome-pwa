@@ -108,6 +108,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Twitter](https://twitter.com)
 * [Uber Web](https://m.uber.com)
 * [VeggieTables](https://veggietables.org)
+* [Versus](https://versus.com/en)
 * [voice-memos](https://voice-memos.appspot.com/)
 * [Washington Post](https://www.washingtonpost.com/pwa/)
 * [Wave-PD1](https://alexgibson.github.io/wavepad/)
