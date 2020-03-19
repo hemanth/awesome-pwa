@@ -77,7 +77,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Medium](https://medium.com/)
 * [Memory Game PWA](https://pwa-memory-game.surge.sh/)
 * [MoneyTracker](https://moneytracker.cc/)
-* [MTGStocks] (https://www.mtgstocks.com/news)
+* [MTGStocks](https://www.mtgstocks.com/news)
 * [Notella](https://github.com/siddharthkp/notella)
 * [Notepad](https://www.amitmerchant.com/notepad/)
 * [offline-wikipedia](https://wiki-offline.jakearchibald.com/)
