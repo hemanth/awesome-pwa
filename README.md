@@ -105,6 +105,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Themer](https://themer.dev)
 * [Tinder](https://tinder.com)
 * [Topple Trump!](https://toppletrump.com/)
+* [Total Formatter](https://totalformatter.web.app)
 * [trivago](https://www.trivago.com/)
 * [Tutor Portfolio PWA](https://englishextra.gitlab.io/)
 * [Twitter](https://twitter.com)
