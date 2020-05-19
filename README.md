@@ -140,6 +140,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ## Articles
 
+* [Intro to (Progressive) Web Apps](https://dev.to/sudhakar3697/intro-to-progressive-web-apps-34oo)
 * [A Beginner’s Guide to Progressive Web Apps & the Frontend Web](https://hackernoon.com/a-beginners-guide-to-progressive-web-apps-the-frontend-web-424b6d697e35)
 * [A full-stack solution for fast PWA development](https://medium.zenika.com/a-full-stack-solution-for-fast-pwa-development-937288b055b8)
 * [A Tinder Progressive Web App Performance Case Study](https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0)
