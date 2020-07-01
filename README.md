@@ -101,6 +101,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Simple Currency Converter](https://currency-converter.now.sh)
 * [Skcript](https://www.skcript.com/)
 * [Smaller Pictures](https://smaller-pictures.appspot.com)
+* [Snapdrop](https://snapdrop.net)
 * [Soundslice](https://www.soundslice.com)
 * [SplittyPie](https://splittypie.com)
 * [sv-ginger](https://sv-ginger.appspot.com/)
