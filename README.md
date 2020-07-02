@@ -4,7 +4,7 @@
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
 
-## What is a Progressive Web App ?
+## What is a Progressive Web App
 
 > A Progressive Web App uses modern web capabilities to deliver an app-like user experience. They evolve from pages in browser tabs to immersive, top-level apps, leveraging the web's low friction.
 
@@ -42,6 +42,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Anonynote](https://anonynote.org)
 * [Avain.app](https://avain.app)
 * [Bento-starter](https://bento-starter.firebaseapp.com)
+* [Best Markdown Editor](https://bestmarkdowneditor.com)
 * [Bet Calculator](https://www.betvictor.com/bet-calculator/)
 * [Booksie](https://www.booksie.org/)
 * [Budget Tracker](https://btapp.netlify.com/)
@@ -245,7 +246,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [`Manifest Generator`](https://brucelawson.github.io/manifest/): This simple page will generate the manifest file for you.
 * [`manifest-json`](https://www.npmjs.com/package/manifest-json): CLI tool for creating `mainfest.json`.
 * [`msgr`](https://github.com/sdgluck/msgr): Nifty service worker/client message utility
-* [`offline-plugin`](https://github.com/NekR/offline-plugin): Offline plugin (ServiceWorker, AppCache) for webpack (http://webpack.github.io/)
+* [`offline-plugin`](https://github.com/NekR/offline-plugin): Offline plugin (ServiceWorker, AppCache) for webpack (<http://webpack.github.io/>)
 * [`platinum-sw-register`](https://elements.polymer-project.org/elements/platinum-sw?active=platinum-sw-register): handles service worker registration for Polymer applications
 * [`PWAify`](https://github.com/vladikoff/PWAify): CLI tool to convert your PWA into a cross-platform desktop app.
 * [`serviceworker-rails`](https://github.com/rossta/serviceworker-rails): Plugin to integrate Service Worker with the Rails asset pipeline.
