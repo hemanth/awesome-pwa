@@ -57,6 +57,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Demo PWA](https://github.com/gokulkrishh/demo-progressive-web-app)
 * [Dev.Opera](https://dev.opera.com/)
 * [Digikala](https://www.digikala.com/)
+* [Dog Safe Foods](https://dogsafefoods.com)
 * [ELFSH Food and expense manager](https://elfsh.mousetail.nl)
 * [emberclear](https://emberclear.io)
 * [emojoy](https://jakearchibald-gcm.appspot.com/)
