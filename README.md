@@ -28,7 +28,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [outweb.io](https://outweb.io/)
 * [progressiveapp.store](https://progressiveapp.store/)
 * [pwa-directory.appspot.com](https://pwa-directory.appspot.com/)
-* [pwa.rocks](https://pwa.rocks/)
 * [pwainside.com](https://pwainside.com)
 
 ## Apps
