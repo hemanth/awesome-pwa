@@ -108,10 +108,12 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Snapdrop](https://snapdrop.net)
 * [Soundslice](https://www.soundslice.com)
 * [SplittyPie](https://splittypie.com)
+* [Spotify](https://open.spotify.com/)
 * [sv-ginger](https://sv-ginger.appspot.com/)
 * [SVGOMG](https://jakearchibald.github.io/svgomg/)
 * [Taskade](https://www.taskade.com)
 * [TeamGrid](https://www.teamgridapp.com)
+* [Telegram](https://web.telegram.org/)
 * [The Trend Bed](https://thetrendbed.com)
 * [Themer](https://themer.dev)
 * [Tinder](https://tinder.com)
@@ -130,6 +132,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Word Counter](https://wordcounter.io)
 * [X Sound](https://korilakkuma.github.io/X-Sound/)
 * [Yahtzee](https://zpix1.github.io/yahtzee/)
+* [Youtube Music](https://music.youtube.com/)
 
 ## Tutorials
 
