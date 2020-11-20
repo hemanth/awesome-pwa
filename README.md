@@ -62,6 +62,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [emberclear](https://emberclear.io)
 * [emojoy](https://jakearchibald-gcm.appspot.com/)
 * [Etch](https://etch.co)
+* [Farmhand](https://jeremyckahn.github.io/farmhand/)
 * [Fast Golf Scores](https://fastgolfscores.com)
 * [Feelancer](https://m.freelancer.com/messages)
 * [FF-Platfrom-Status](https://platform-status.mozilla.org)
