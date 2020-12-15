@@ -87,6 +87,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [jsfeatures](https://jsfeatures.in)
 * [JSON Formatter](https://jsonformatter.live/)
 * [Kahla](https://web.kahla.app)
+* [Launchlet](https://launchlet.dev)
 * [Lofimusic.app](https://lofimusic.app/)
 * [Lorem Ipsum](https://loremipsum.io)
 * [Make Better Software](https://makebetter.software)
