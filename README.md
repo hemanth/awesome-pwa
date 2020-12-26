@@ -179,6 +179,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Is Service Worker ready?](https://jakearchibald.github.io/isserviceworkerready/)
 * [Progressive web apps have leapfrogged the native install model ... but challenges remain/](http://softwareas.com/progressive-web-apps-have-leapfrogged-the-native-install-model-but-challenges-remain/)
 * [PWA Performance](https://speedcurve.com/blog/pwa-performance/)
+* [PWA - E-Commerce - Compare List](https://docs.google.com/spreadsheets/d/1nx5jcHa6reIH20q20uDnZLQNjuK2ohk-HmQ09hy9NCE/edit#gid=0)
 * [Say Hello to Offline First](http://hood.ie/blog/say-hello-to-offline-first.html)
 * [Service Worker - Revolution of the Web Platform](https://ponyfoo.com/articles/serviceworker-revolution)
 * [Service Workers: Dynamic Responsive Images using WebP Images](http://deanhume.com/Home/BlogPost/service-workers--dynamic-responsive-images-using-webp-images/10132/)
