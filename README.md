@@ -103,6 +103,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [offline-wikipedia](https://wiki-offline.jakearchibald.com/)
 * [PakWheels](https://www.pakwheels.com/)
 * [Paytm Lite](https://paytm.com/)
+* [PixelCraft](https://pixelcraft.web.app)
 * [Pokedex](https://pokedex.org/)
 * [PokeQuest Wiki](https://pokequest.wiki/)
 * [PregBuddy](https://app.pregbuddy.com)
