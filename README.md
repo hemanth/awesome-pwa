@@ -282,6 +282,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [`sw-toolbox`](https://github.com/GoogleChrome/sw-toolbox): A runtime caching library
 * [`UpUp`](https://github.com/TalAter/UpUp): Makes sure your users can always access your site's content, even when they're on a plane, in an elevator, or 20,000 leagues under the sea
 * [`Workbox`](https://github.com/GoogleChrome/workbox): Javascript Library for building progressive web apps
+* [`pwa-badge`](https://github.com/ali-master/pwa-badge): Badging for PWA app icons, Like Native Apps
 
 ## Kits
 
