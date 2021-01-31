@@ -89,6 +89,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Kahla](https://web.kahla.app)
 * [Kommit](https://kommit.rosano.ca)
 * [Launchlet](https://launchlet.dev)
+* [Let's Plant](https://letsplant.org/)
 * [Lofimusic.app](https://lofimusic.app/)
 * [Lorem Ipsum](https://loremipsum.io)
 * [Make Better Software](https://makebetter.software)
