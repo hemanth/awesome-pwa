@@ -98,6 +98,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Memory Game PWA](https://pwa-memory-game.surge.sh/)
 * [Messages for web(by google)](https://messages.google.com/web/)
 * [MoneyTracker](https://moneytracker.cc/)
+* [Morse Code Translator](https://morsedecoder.com/)
 * [MTGStocks](https://www.mtgstocks.com/news)
 * [Murlok.io](https://murlok.io/)
 * [Notella](https://github.com/siddharthkp/notella)
