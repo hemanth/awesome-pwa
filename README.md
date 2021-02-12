@@ -102,6 +102,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Notella](https://github.com/siddharthkp/notella)
 * [Notepad](https://www.amitmerchant.com/notepad/)
 * [offline-wikipedia](https://wiki-offline.jakearchibald.com/)
+* [OmniCam](https://www.omnicamapp.com/)
 * [PakWheels](https://www.pakwheels.com/)
 * [Paytm Lite](https://paytm.com/)
 * [PixelCraft](https://pixelcraft.web.app)
