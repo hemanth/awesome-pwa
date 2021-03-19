@@ -47,6 +47,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Booksie](https://www.booksie.org/)
 * [Budget Tracker](https://btapp.netlify.com/)
 * [Care Cards](https://carecards.io)
+* [Cat Safe Foods](https://catsafefoods.com)
 * [Chrome Developer Summit](https://developers.google.com/)
 * [chromestatus](https://www.chromestatus.com/features)
 * [Clock App](https://clockapp.tk/)
@@ -298,6 +299,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [`Web Starter Kit`](https://github.com/google/web-starter-kit): A workflow for multi-device websites.
 * [Polymer App Toolbox](https://www.polymer-project.org/3.0/toolbox/): "a collection of components, tools and templates for building Progressive Web Apps with Polymer"
 * [Preact CLI](https://github.com/developit/preact-cli): "Your next Preact PWA in 30 seconds"
+* [Simple PWA](https://simplepwa.com): A Progressive Web App template that provides the minimum file structure needed to create a PWA
 * [Stencil PWA toolkit](https://stenciljs.com/pwa/): Ionic's "Everything you need to easily build fast, production ready Progressive Web Apps"
 
 ## Courses
