@@ -61,6 +61,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Dog Safe Foods](https://dogsafefoods.com)
 * [ELFSH Food and expense manager](https://elfsh.mousetail.nl)
 * [emberclear](https://emberclear.io)
+* [Emoji Log](https://emojilog.rosano.ca)
 * [emojoy](https://jakearchibald-gcm.appspot.com/)
 * [Etch](https://etch.co)
 * [Farmhand](https://jeremyckahn.github.io/farmhand/)
