@@ -48,7 +48,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Budget Tracker](https://btapp.netlify.com/)
 * [Care Cards](https://carecards.io)
 * [Chrome Developer Summit](https://developers.google.com/)
-* [chromestatus](https://www.chromestatus.com/features)
 * [Clock App](https://clockapp.tk/)
 * [Closerintime](https://closerinti.me)
 * [Colosseum](https://naramsim.github.io/Colosseum/)
