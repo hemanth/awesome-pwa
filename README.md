@@ -134,7 +134,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Telegram](https://web.telegram.org/)
 * [The Trend Bed](https://thetrendbed.com)
 * [Themer](https://themer.dev)
-* [Timetable](https://leoherrmann.github.io/Timetable/)
+* [Timetable](https://leoherrmann.github.io/timetable/)
 * [Tinder](https://tinder.com)
 * [todo.blue](https://todo.blue/)
 * [Total Formatter](https://totalformatter.web.app)
