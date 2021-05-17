@@ -144,7 +144,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [VeggieTables](https://veggietables.org)
 * [Versus](https://versus.com/en)
 * [voice-memos](https://voice-memos.appspot.com/)
-* [Unalengua IPA Translator](https://unalengua.com/)
+* [Unalengua IPA Translator](https://unalengua.com/ipa)
 * [Wave-PD1](https://alexgibson.github.io/wavepad/)
 * [Web NFC enabled shopping cart](https://webnfc-shoppingcart.appspot.com)
 * [Word Counter](https://wordcounter.io)
