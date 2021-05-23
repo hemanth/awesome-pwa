@@ -56,6 +56,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Datememe](https://www.datememe.com)
 * [Demo PWA](https://github.com/gokulkrishh/demo-progressive-web-app)
 * [Dev.Opera](https://dev.opera.com/)
+* [DevDocs](https://devdocs.io/)
 * [Digikala](https://www.digikala.com/)
 * [Dog Safe Foods](https://dogsafefoods.com)
 * [ELFSH Food and expense manager](https://elfsh.mousetail.nl)
