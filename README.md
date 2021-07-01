@@ -234,6 +234,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Progressive Web Apps across all frameworks - Google I/O 2016](https://www.youtube.com/watch?v=srdKq0DckXQ)
 * [Progressive web apps and what's next for mobile](https://www.oreilly.com/ideas/progressive-web-apps-and-whats-next-for-mobile?utm_source=twitter&utm_medium=webplatform&utm_campaign=YTknRussell-jj)
 * [Progressive Web Apps and What's Next for Mobile](https://www.youtube.com/watch?v=JP5p6t3wNLA)
+* [Progressive Web Apps Are Easy Now - Or Are They with Thorsten Lorenz -- UtahJS 2018](https://youtu.be/bKxtwzr0sy0)
 * [Progressive Web Apps in any context (Progressive Web App Summit 2016)](https://www.youtube.com/watch?v=8dr_IUGwsO0&list=PLNYkxOF6rcIAWWNR_Q6eLPhsyx6VvYjVb&index=13)
 * [Progressive Web Apps on Firebase - Google I/O 2016](https://www.youtube.com/watch?v=SobXoh4rb58)
 * [Progressive Web Apps Training 2019 - Playlist](https://www.youtube.com/watch?v=psB_Pjwhbxo&list=PLNYkxOF6rcIB2xHBZ7opgc2Mv009X87Hh)
