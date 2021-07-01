@@ -42,6 +42,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Bank Maskan](https://pwa.bank-maskan.ir)
 * [Bento-starter](https://bento-starter.firebaseapp.com)
 * [Best Markdown Editor](https://bestmarkdowneditor.com)
+* [BitMidi](https://bitmidi.com)
 * [Bolster](https://bolster.pro/)
 * [Booksie](https://www.booksie.org/)
 * [Budget Tracker](https://btapp.netlify.com/)
