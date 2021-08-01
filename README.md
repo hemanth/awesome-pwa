@@ -87,7 +87,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Journalistic](https://journalisticapp.com/)
 * [Joybox](https://joybox.rosano.ca)
 * [jsfeatures](https://jsfeatures.in)
-* [Joybox](https://joybox.rosano.ca)
 * [JSON Formatter](https://jsonformatter.live/)
 * [Kahla](https://web.kahla.app)
 * [Kommit](https://kommit.rosano.ca)
