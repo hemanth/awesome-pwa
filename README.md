@@ -31,8 +31,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ## Apps
 
-* [Remember](https://paulhoughton.github.io/remember/)
-* [Resume Nation](https://resume-nation.github.io)
 * [SaintsApp](https://saintsschedule.info/)
 * [Scoreboard.Rocks](https://scoreboard.rocks/)
 * [Similar Worlds](https://similarworlds.com/)
@@ -155,6 +153,8 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Progressive Beer](https://deanhume.github.io/beer/): Progressive Beer
 * [QR Code Generator](https://qr-code-generator.now.sh): Create custom QR Codes.
 * [QR Code Scanner](https://qrcodescan.in/): Scan a QR code.
+* [Remember](https://paulhoughton.github.io/remember/): Location-based reminders.
+* [Resume Nation](https://resume-nation.github.io): Resume creator.
 
 ## Tutorials
 
