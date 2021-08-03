@@ -31,8 +31,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ## Apps
 
-* [offline-wikipedia](https://wiki-offline.jakearchibald.com/)
-* [OmniCam](https://www.omnicamapp.com/)
 * [PakWheels](https://www.pakwheels.com/)
 * [Paytm Lite](https://paytm.com/)
 * [PixelCraft](https://pixelcraft.web.app)
@@ -155,6 +153,8 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Murlok.io](https://murlok.io/): World of Warcraft Shadowlands.
 * [Notella](https://github.com/siddharthkp/notella): No fluff notes app.
 * [Notepad](https://www.amitmerchant.com/notepad/): An offline-capable, quick, and distraction-free Notepad.
+* [offline-wikipedia](https://wiki-offline.jakearchibald.com/): Offline Wikipedia
+* [OmniCam](https://www.omnicamapp.com/): Live streaming webcams around the world.
 
 ## Tutorials
 
