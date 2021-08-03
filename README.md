@@ -31,12 +31,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ## Apps
 
-* [Farmhand](https://jeremyckahn.github.io/farmhand/)
-* [Fast Golf Scores](https://fastgolfscores.com)
-* [Feelancer](https://m.freelancer.com/messages)
-* [Firefox Platform Status](https://platform-status.mozilla.org/)
-* [FlagWarriors (minimalist multiplayer strategy game)](https://flagwarriors.netlify.com)
-* [Football Peek](https://footballpeek.com/)
 * [ghChat](https://github.com/aermin/ghChat)
 * [GitHub Explorer](https://github-e.com/)
 * [Google Drive](https://drive.google.com/)
@@ -155,6 +149,12 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Emoji Log](https://emojilog.rosano.ca): Personal tracker
 * [emojoy](https://jakearchibald-gcm.appspot.com/): 404
 * [Etch](https://etch.co): A Small team of Designers and Developers.
+* [Farmhand](https://jeremyckahn.github.io/farmhand/): Farmhand
+* [Fast Golf Scores](https://fastgolfscores.com): Fast Golf Scores.
+* [Freelancer](https://m.freelancer.com/messages): Hire the best freelancers for any job, online.
+* [Firefox Platform Status](https://platform-status.mozilla.org/): Firefox Platform Status
+* [FlagWarriors](https://flagwarriors.netlify.com): Minimalist multiplayer strategy game.
+* [Football Peek](https://footballpeek.com/): Football results.
 
 ## Tutorials
 
