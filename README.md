@@ -31,10 +31,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ## Apps
 
-* [Launchlet](https://launchlet.dev)
-* [Let's Plant](https://letsplant.org/)
-* [Lofimusic.app](https://lofimusic.app/)
-* [Lorem Ipsum](https://loremipsum.io)
 * [Make Better Software](https://makebetter.software)
 * [MConverter](https://mconverter.eu)
 * [Medium](https://medium.com/)
@@ -155,6 +151,10 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [JSON Formatter](https://jsonformatter.live/): Minimalist JSON formatter.
 * [Kahla](https://web.kahla.app): Business messaging app.
 * [Kommit](https://kommit.rosano.ca): Create flashcards and learn them with spaced-repetition.
+* [Launchlet](https://launchlet.dev): Customize any website with JavaScript or CSS.
+* [Let's Plant](https://letsplant.org/): Plant chooser.
+* [Lofimusic.app](https://lofimusic.app/): Online radio Radio
+* [Lorem Ipsum](https://loremipsum.io): Lorem Ipsum generator.
 
 ## Tutorials
 
