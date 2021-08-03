@@ -31,14 +31,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ## Apps
 
-* [Care Cards](https://carecards.io)
-* [Cat Safe Foods](https://catsafefoods.com)
-* [Chrome Developer Summit](https://developers.google.com/)
-* [Clock App](https://clockapp.tk/)
-* [Closerintime](https://closerinti.me)
-* [Colosseum](https://naramsim.github.io/Colosseum/)
-* [Currency Converter](https://www.currency-x.com)
-* [Currency Exchange Loss Calculator](https://currency-loss.netlify.com/)
 * [Datememe](https://www.datememe.com)
 * [Demo PWA](https://github.com/gokulkrishh/demo-progressive-web-app)
 * [Dev.Opera](https://dev.opera.com/)
@@ -155,6 +147,14 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Bolster](https://bolster.pro/): Bolster
 * [Booksie](https://www.booksie.org/): An open catalog of free picture storybooks for children instantly available for reading.
 * [Budget Tracker](https://btapp.netlify.com/): Track expenses and analyse if they stick to a budget
+* [Care Cards](https://carecards.io): Care Cards
+* [Cat Safe Foods](https://catsafefoods.com): Sharing food with your cat? Make sure it's safe first
+* [Chrome Developer Summit](https://developers.google.com/): Google Developers
+* [Clock App](https://clockapp.tk/): Analog Alarm Clock App
+* [Closerintime](https://closerinti.me): #closerintime
+* [Colosseum](https://naramsim.github.io/Colosseum/): Displays Pokemons in a beautiful way
+* [Currency Converter](https://www.currency-x.com): Currency Calculator
+* [Currency Exchange Loss Calculator](https://currency-loss.netlify.com/): Currency Exchange Loss Calculator
 
 ## Tutorials
 
