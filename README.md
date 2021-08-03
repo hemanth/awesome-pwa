@@ -31,8 +31,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ## Apps
 
-* [QR Code Generator](https://qr-code-generator.now.sh)
-* [QR Code Scanner](https://qrcodescan.in/)
 * [Remember](https://paulhoughton.github.io/remember/)
 * [Resume Nation](https://resume-nation.github.io)
 * [SaintsApp](https://saintsschedule.info/)
@@ -155,6 +153,8 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Police Lights](https://policelights.tk/): Police Car Light Flash Screen App
 * [PregBuddy](https://app.pregbuddy.com): Information for pregnant women.
 * [Progressive Beer](https://deanhume.github.io/beer/): Progressive Beer
+* [QR Code Generator](https://qr-code-generator.now.sh): Create custom QR Codes.
+* [QR Code Scanner](https://qrcodescan.in/): Scan a QR code.
 
 ## Tutorials
 
