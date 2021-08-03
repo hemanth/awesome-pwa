@@ -31,11 +31,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ## Apps
 
-* [Unalengua IPA Translator](https://unalengua.com/ipa)
-* [Wave-PD1](https://alexgibson.github.io/wavepad/)
-* [Web NFC enabled shopping cart](https://webnfc-shoppingcart.appspot.com)
-* [Word Counter](https://wordcounter.io)
-* [Wormhole](https://wormhole.app/)
 * [X Sound](https://korilakkuma.github.io/X-Sound/)
 * [Yahtzee](https://zpix1.github.io/yahtzee/)
 * [Youtube Music](https://music.youtube.com/)
@@ -155,6 +150,11 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [VeggieTables](https://veggietables.org): Track your crops and farming activities.
 * [Versus](https://versus.com/en): Consumer electronics shopping.
 * [voice-memos](https://voice-memos.appspot.com/): 404
+* [Unalengua IPA Translator](https://unalengua.com/ipa): Translate to IPA.
+* [Wave-PD1](https://alexgibson.github.io/wavepad/): Synth toy.
+* [Web NFC enabled shopping cart](https://webnfc-shoppingcart.appspot.com): Shopping list demo.
+* [Word Counter](https://wordcounter.io): Count characters, words, sentences, paragraphs, pages.
+* [Wormhole](https://wormhole.app/): Share files with end-to-end encryption.
 
 ## Tutorials
 
