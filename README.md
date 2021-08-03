@@ -31,7 +31,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ## Apps
 
-* [X Sound](https://korilakkuma.github.io/X-Sound/)
 * [Yahtzee](https://zpix1.github.io/yahtzee/)
 * [Youtube Music](https://music.youtube.com/)
 * [2brew](https://2brew.github.io/): PWA timer for coffee brewing
@@ -155,6 +154,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Web NFC enabled shopping cart](https://webnfc-shoppingcart.appspot.com): Shopping list demo.
 * [Word Counter](https://wordcounter.io): Count characters, words, sentences, paragraphs, pages.
 * [Wormhole](https://wormhole.app/): Share files with end-to-end encryption.
+* [X Sound](https://korilakkuma.github.io/X-Sound/): Online keyboard synth.
 
 ## Tutorials
 
