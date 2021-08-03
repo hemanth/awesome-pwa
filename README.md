@@ -31,8 +31,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ## Apps
 
-* [Notella](https://github.com/siddharthkp/notella)
-* [Notepad](https://www.amitmerchant.com/notepad/)
 * [offline-wikipedia](https://wiki-offline.jakearchibald.com/)
 * [OmniCam](https://www.omnicamapp.com/)
 * [PakWheels](https://www.pakwheels.com/)
@@ -155,6 +153,8 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Morse Code Translator](https://morsedecoder.com/): Morse Code tools
 * [MTGStocks](https://www.mtgstocks.com/news): Magic the Gathering price tracker.
 * [Murlok.io](https://murlok.io/): World of Warcraft Shadowlands.
+* [Notella](https://github.com/siddharthkp/notella): No fluff notes app.
+* [Notepad](https://www.amitmerchant.com/notepad/): An offline-capable, quick, and distraction-free Notepad.
 
 ## Tutorials
 
