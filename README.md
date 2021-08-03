@@ -31,7 +31,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ## Apps
 
-* [Uber Web](https://m.uber.com)
 * [VeggieTables](https://veggietables.org)
 * [Versus](https://versus.com/en)
 * [voice-memos](https://voice-memos.appspot.com/)
@@ -155,6 +154,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [trivago](https://www.trivago.com/): Hotel prices.
 * [Tutor Portfolio PWA](https://englishextra.gitlab.io/): ???
 * [Twitter](https://twitter.com): Microblogging app.
+* [Uber Web](https://m.uber.com): Ridesharing app.
 
 ## Tutorials
 
