@@ -31,8 +31,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ## Apps
 
-* [Kahla](https://web.kahla.app)
-* [Kommit](https://kommit.rosano.ca)
 * [Launchlet](https://launchlet.dev)
 * [Let's Plant](https://letsplant.org/)
 * [Lofimusic.app](https://lofimusic.app/)
@@ -155,6 +153,8 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Joybox](https://joybox.rosano.ca): A pinboard for audiovisual media.
 * [jsfeatures](https://jsfeatures.in): JavaScript features
 * [JSON Formatter](https://jsonformatter.live/): Minimalist JSON formatter.
+* [Kahla](https://web.kahla.app): Business messaging app.
+* [Kommit](https://kommit.rosano.ca): Create flashcards and learn them with spaced-repetition.
 
 ## Tutorials
 
