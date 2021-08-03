@@ -31,12 +31,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ## Apps
 
-* [Bank Maskan](https://pwa.bank-maskan.ir)
-* [Bento-starter](https://bento-starter.firebaseapp.com)
-* [Best Markdown Editor](https://bestmarkdowneditor.com)
-* [Bolster](https://bolster.pro/)
-* [Booksie](https://www.booksie.org/)
-* [Budget Tracker](https://btapp.netlify.com/)
 * [Care Cards](https://carecards.io)
 * [Cat Safe Foods](https://catsafefoods.com)
 * [Chrome Developer Summit](https://developers.google.com/)
@@ -155,6 +149,12 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [ampproject](https://www.ampproject.org): Web component framework.
 * [Anonynote](https://anonynote.org): Note-taking app.
 * [Avain.app](https://avain.app): Avain
+* [Bank Maskan](https://pwa.bank-maskan.ir): Iranian bank
+* [Bento-starter](https://bento-starter.firebaseapp.com): Open-Source Full-Stack solution for fast PWA development
+* [Best Markdown Editor](https://bestmarkdowneditor.com): undefined
+* [Bolster](https://bolster.pro/): Bolster
+* [Booksie](https://www.booksie.org/): An open catalog of free picture storybooks for children instantly available for reading.
+* [Budget Tracker](https://btapp.netlify.com/): Track expenses and analyse if they stick to a budget
 
 ## Tutorials
 
