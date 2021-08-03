@@ -31,17 +31,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ## Apps
 
-* [Taskade](https://www.taskade.com)
-* [Telegram](https://web.telegram.org/)
-* [The Trend Bed](https://thetrendbed.com)
-* [Themer](https://themer.dev)
-* [Timetable](https://leoherrmann.github.io/timetable/)
-* [Tinder](https://tinder.com)
-* [todo.blue](https://todo.blue/)
-* [Total Formatter](https://totalformatter.web.app)
-* [trivago](https://www.trivago.com/)
-* [Tutor Portfolio PWA](https://englishextra.gitlab.io/)
-* [Twitter](https://twitter.com)
 * [Uber Web](https://m.uber.com)
 * [VeggieTables](https://veggietables.org)
 * [Versus](https://versus.com/en)
@@ -155,6 +144,17 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Spotify](https://open.spotify.com/): Music streaming.
 * [sv-ginger](https://sv-ginger.appspot.com/): Ginger WebGL Morph Demo
 * [SVGOMG](https://jakearchibald.github.io/svgomg/): SVGO's Missing GUI
+* [Taskade](https://www.taskade.com): Remote Team Workspace.
+* [Telegram](https://web.telegram.org/): Telegram Web App.
+* [The Trend Bed](https://thetrendbed.com): 522
+* [Themer](https://themer.dev): Theme generator for editors, terminals, wallpapers, and more.
+* [Timetable](https://leoherrmann.github.io/timetable/): Interactive editable timetable.
+* [Tinder](https://tinder.com): Dating app.
+* [todo.blue](https://todo.blue/): ToDo app.
+* [Total Formatter](https://totalformatter.web.app): YAML Formatter
+* [trivago](https://www.trivago.com/): Hotel prices.
+* [Tutor Portfolio PWA](https://englishextra.gitlab.io/): ???
+* [Twitter](https://twitter.com): Microblogging app.
 
 ## Tutorials
 
