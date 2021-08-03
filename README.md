@@ -31,19 +31,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ## Apps
 
-* [SaintsApp](https://saintsschedule.info/)
-* [Scoreboard.Rocks](https://scoreboard.rocks/)
-* [Similar Worlds](https://similarworlds.com/)
-* [Simple Currency Converter](https://currency-converter.now.sh)
-* [Skcript](https://www.skcript.com/)
-* [Smaller Pictures](https://smaller-pictures.appspot.com)
-* [Snapdrop](https://snapdrop.net)
-* [Soundpad](https://soundpad.tk/)
-* [Soundslice](https://www.soundslice.com)
-* [SplittyPie](https://splittypie.com)
-* [Spotify](https://open.spotify.com/)
-* [sv-ginger](https://sv-ginger.appspot.com/)
-* [SVGOMG](https://jakearchibald.github.io/svgomg/)
 * [Taskade](https://www.taskade.com)
 * [Telegram](https://web.telegram.org/)
 * [The Trend Bed](https://thetrendbed.com)
@@ -155,6 +142,19 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [QR Code Scanner](https://qrcodescan.in/): Scan a QR code.
 * [Remember](https://paulhoughton.github.io/remember/): Location-based reminders.
 * [Resume Nation](https://resume-nation.github.io): Resume creator.
+* [SaintsApp](https://saintsschedule.info/): New Orleans Saints' game schedule.
+* [Scoreboard.Rocks](https://scoreboard.rocks/): Scoreboard App.
+* [Similar Worlds](https://similarworlds.com/): Connect with others who share interests.
+* [Simple Currency Converter](https://currency-converter.now.sh): Currency Converter
+* [Skcript](https://www.skcript.com/): Ruby on Rails Consulting.
+* [Smaller Pictures](https://smaller-pictures.appspot.com): Image compressor.
+* [Snapdrop](https://snapdrop.net): Transfer files over wifi.
+* [Soundpad](https://soundpad.tk/): Sound Sequencer App.
+* [Soundslice](https://www.soundslice.com): Create living sheet music.
+* [SplittyPie](https://splittypie.com): Easy expense splitting.
+* [Spotify](https://open.spotify.com/): Music streaming.
+* [sv-ginger](https://sv-ginger.appspot.com/): Ginger WebGL Morph Demo
+* [SVGOMG](https://jakearchibald.github.io/svgomg/): SVGO's Missing GUI
 
 ## Tutorials
 
