@@ -31,9 +31,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ## Apps
 
-* [VeggieTables](https://veggietables.org)
-* [Versus](https://versus.com/en)
-* [voice-memos](https://voice-memos.appspot.com/)
 * [Unalengua IPA Translator](https://unalengua.com/ipa)
 * [Wave-PD1](https://alexgibson.github.io/wavepad/)
 * [Web NFC enabled shopping cart](https://webnfc-shoppingcart.appspot.com)
@@ -155,6 +152,9 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Tutor Portfolio PWA](https://englishextra.gitlab.io/): ???
 * [Twitter](https://twitter.com): Microblogging app.
 * [Uber Web](https://m.uber.com): Ridesharing app.
+* [VeggieTables](https://veggietables.org): Track your crops and farming activities.
+* [Versus](https://versus.com/en): Consumer electronics shopping.
+* [voice-memos](https://voice-memos.appspot.com/): 404
 
 ## Tutorials
 
