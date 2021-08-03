@@ -31,8 +31,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ## Apps
 
-* [Indecisive.US](https://indecisive.us/)
-* [IP Tools](https://iptools.tk/)
 * [Journalistic](https://journalisticapp.com/)
 * [Joybox](https://joybox.rosano.ca)
 * [jsfeatures](https://jsfeatures.in)
@@ -155,6 +153,8 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [guitar-tuner](https://aerotwist.com/blog/guitar-tuner/): Aerotwist Guitar Tuner
 * [Housing Go](http://www.housing.com): Real estate in India.
 * [Hyperdraft](https://hyperdraft.rosano.ca): Turn your text notes into a website.
+* [Indecisive.US](https://indecisive.us/): App to help you make a decision.
+* [IP Tools](https://iptools.tk/): Free, Fast & Flexible IP Tools.
 
 ## Tutorials
 
