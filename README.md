@@ -31,11 +31,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ## Apps
 
-* [ELFSH Food and expense manager](https://elfsh.mousetail.nl)
-* [emberclear](https://emberclear.io)
-* [Emoji Log](https://emojilog.rosano.ca)
-* [emojoy](https://jakearchibald-gcm.appspot.com/)
-* [Etch](https://etch.co)
 * [Farmhand](https://jeremyckahn.github.io/farmhand/)
 * [Fast Golf Scores](https://fastgolfscores.com)
 * [Feelancer](https://m.freelancer.com/messages)
@@ -155,6 +150,11 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [DevDocs](https://devdocs.io/): API Documentation Browser
 * [Digikala](https://www.digikala.com/): Digikala Web App
 * [Dog Safe Foods](https://dogsafefoods.com): Sharing food with your dog? Make sure it's safe first
+* [ELFSH](https://elfsh.mousetail.nl): Food and expense manager.
+* [emberclear](https://emberclear.io): Encrypted Chat. No History. No Logs.
+* [Emoji Log](https://emojilog.rosano.ca): Personal tracker
+* [emojoy](https://jakearchibald-gcm.appspot.com/): 404
+* [Etch](https://etch.co): A Small team of Designers and Developers.
 
 ## Tutorials
 
