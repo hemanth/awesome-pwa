@@ -31,12 +31,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ## Apps
 
-* [Datememe](https://www.datememe.com)
-* [Demo PWA](https://github.com/gokulkrishh/demo-progressive-web-app)
-* [Dev.Opera](https://dev.opera.com/)
-* [DevDocs](https://devdocs.io/)
-* [Digikala](https://www.digikala.com/)
-* [Dog Safe Foods](https://dogsafefoods.com)
 * [ELFSH Food and expense manager](https://elfsh.mousetail.nl)
 * [emberclear](https://emberclear.io)
 * [Emoji Log](https://emojilog.rosano.ca)
@@ -155,6 +149,12 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Colosseum](https://naramsim.github.io/Colosseum/): Displays Pokemons in a beautiful way
 * [Currency Converter](https://www.currency-x.com): Currency Calculator
 * [Currency Exchange Loss Calculator](https://currency-loss.netlify.com/): Currency Exchange Loss Calculator
+* [Datememe](https://www.datememe.com): Online dating.
+* [Demo PWA](https://github.com/gokulkrishh/demo-progressive-web-app): Demonstrating offline, push notifications, background sync etc.
+* [Dev.Opera](https://dev.opera.com/): Dev.Opera
+* [DevDocs](https://devdocs.io/): API Documentation Browser
+* [Digikala](https://www.digikala.com/): Digikala Web App
+* [Dog Safe Foods](https://dogsafefoods.com): Sharing food with your dog? Make sure it's safe first
 
 ## Tutorials
 
