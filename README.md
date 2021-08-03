@@ -31,15 +31,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ## Apps
 
-* [Make Better Software](https://makebetter.software)
-* [MConverter](https://mconverter.eu)
-* [Medium](https://medium.com/)
-* [Memory Game PWA](https://pwa-memory-game.surge.sh/)
-* [Messages for web(by google)](https://messages.google.com/web/)
-* [MoneyTracker](https://moneytracker.cc/)
-* [Morse Code Translator](https://morsedecoder.com/)
-* [MTGStocks](https://www.mtgstocks.com/news)
-* [Murlok.io](https://murlok.io/)
 * [Notella](https://github.com/siddharthkp/notella)
 * [Notepad](https://www.amitmerchant.com/notepad/)
 * [offline-wikipedia](https://wiki-offline.jakearchibald.com/)
@@ -155,6 +146,15 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Let's Plant](https://letsplant.org/): Plant chooser.
 * [Lofimusic.app](https://lofimusic.app/): Online radio Radio
 * [Lorem Ipsum](https://loremipsum.io): Lorem Ipsum generator.
+* [Make Better Software](https://makebetter.software): Raise software standards.
+* [MConverter](https://mconverter.eu): Online file converter.
+* [Medium](https://medium.com/): Writing space.
+* [Memory Game PWA](https://pwa-memory-game.surge.sh/): Strengthen your memory.
+* [Messages for web (by google)](https://messages.google.com/web/): 400
+* [MoneyTracker](https://moneytracker.cc/): Personal finances tracking web app.
+* [Morse Code Translator](https://morsedecoder.com/): Morse Code tools
+* [MTGStocks](https://www.mtgstocks.com/news): Magic the Gathering price tracker.
+* [Murlok.io](https://murlok.io/): World of Warcraft Shadowlands.
 
 ## Tutorials
 
