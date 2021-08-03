@@ -31,8 +31,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ## Apps
 
-* [Housing Go](http://www.housing.com)
-* [Hyperdraft](https://hyperdraft.rosano.ca)
 * [Indecisive.US](https://indecisive.us/)
 * [IP Tools](https://iptools.tk/)
 * [Journalistic](https://journalisticapp.com/)
@@ -155,6 +153,8 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Google Stadia](https://stadia.google.com/): Gaming across devices.
 * [GPA Calculator](https://gpacalculator.io): Calculate your college GPA.
 * [guitar-tuner](https://aerotwist.com/blog/guitar-tuner/): Aerotwist Guitar Tuner
+* [Housing Go](http://www.housing.com): Real estate in India.
+* [Hyperdraft](https://hyperdraft.rosano.ca): Turn your text notes into a website.
 
 ## Tutorials
 
