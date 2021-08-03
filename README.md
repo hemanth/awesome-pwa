@@ -31,8 +31,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ## Apps
 
-* [Yahtzee](https://zpix1.github.io/yahtzee/)
-* [Youtube Music](https://music.youtube.com/)
 * [2brew](https://2brew.github.io/): PWA timer for coffee brewing
 * [abc.xyz](https://abc.xyz): Alphabet website
 * [Air Horner](https://airhorner.com/): Air horn sound.
@@ -155,6 +153,8 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Word Counter](https://wordcounter.io): Count characters, words, sentences, paragraphs, pages.
 * [Wormhole](https://wormhole.app/): Share files with end-to-end encryption.
 * [X Sound](https://korilakkuma.github.io/X-Sound/): Online keyboard synth.
+* [Yahtzee](https://zpix1.github.io/yahtzee/): Dice generator.
+* [Youtube Music](https://music.youtube.com/): Music streaming via YouTube.
 
 ## Tutorials
 
