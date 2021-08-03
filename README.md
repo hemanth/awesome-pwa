@@ -31,7 +31,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ## Apps
 
-* [2brew](https://2brew.github.io/)
 * [abc.xyz](https://abc.xyz)
 * [Air Horner](https://airhorner.com/)
 * [AlarmDJ](https://alarmdj.com)
@@ -155,6 +154,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [X Sound](https://korilakkuma.github.io/X-Sound/)
 * [Yahtzee](https://zpix1.github.io/yahtzee/)
 * [Youtube Music](https://music.youtube.com/)
+* [2brew](https://2brew.github.io/): PWA timer for coffee brewing
 
 ## Tutorials
 
