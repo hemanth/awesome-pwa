@@ -31,14 +31,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ## Apps
 
-* [PakWheels](https://www.pakwheels.com/)
-* [Paytm Lite](https://paytm.com/)
-* [PixelCraft](https://pixelcraft.web.app)
-* [Pokedex](https://pokedex.org/)
-* [PokeQuest Wiki](https://pokequest.wiki/)
-* [Police Lights](https://policelights.tk/)
-* [PregBuddy](https://app.pregbuddy.com)
-* [Progressive Beer](https://deanhume.github.io/beer/)
 * [QR Code Generator](https://qr-code-generator.now.sh)
 * [QR Code Scanner](https://qrcodescan.in/)
 * [Remember](https://paulhoughton.github.io/remember/)
@@ -155,6 +147,14 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Notepad](https://www.amitmerchant.com/notepad/): An offline-capable, quick, and distraction-free Notepad.
 * [offline-wikipedia](https://wiki-offline.jakearchibald.com/): Offline Wikipedia
 * [OmniCam](https://www.omnicamapp.com/): Live streaming webcams around the world.
+* [PakWheels](https://www.pakwheels.com/): Buy/sell cars.
+* [Paytm Lite](https://paytm.com/): Online wallet and payments.
+* [PixelCraft](https://pixelcraft.web.app): Pixel Art Editor
+* [Pokedex](https://pokedex.org/): Indexing Pokémon
+* [PokeQuest Wiki](https://pokequest.wiki/): Search for Pokémon
+* [Police Lights](https://policelights.tk/): Police Car Light Flash Screen App
+* [PregBuddy](https://app.pregbuddy.com): Information for pregnant women.
+* [Progressive Beer](https://deanhume.github.io/beer/): Progressive Beer
 
 ## Tutorials
 
