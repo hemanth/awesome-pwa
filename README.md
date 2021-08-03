@@ -31,16 +31,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ## Apps
 
-* [ghChat](https://github.com/aermin/ghChat)
-* [GitHub Explorer](https://github-e.com/)
-* [Google Drive](https://drive.google.com/)
-* [Google Duo](https://duo.google.com/)
-* [Google I/O](https://events.google.com/io2016/)
-* [Google Maps](https://www.google.com/maps/)
-* [Google Photos](https://photos.google.com/)
-* [Google Stadia](https://stadia.google.com/)
-* [GPA Calculator](https://gpacalculator.io)
-* [guitar-tuner](https://aerotwist.com/blog/guitar-tuner/)
 * [Housing Go](http://www.housing.com)
 * [Hyperdraft](https://hyperdraft.rosano.ca)
 * [Indecisive.US](https://indecisive.us/)
@@ -155,6 +145,16 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Firefox Platform Status](https://platform-status.mozilla.org/): Firefox Platform Status
 * [FlagWarriors](https://flagwarriors.netlify.com): Minimalist multiplayer strategy game.
 * [Football Peek](https://footballpeek.com/): Football results.
+* [ghChat](https://github.com/aermin/ghChat): Chat application for GitHub.
+* [GitHub Explorer](https://github-e.com/): Profile viewer.
+* [Google Drive](https://drive.google.com/): File storage.
+* [Google Duo](https://duo.google.com/): Video Calling.
+* [Google I/O](https://events.google.com/io2016/): 404
+* [Google Maps](https://www.google.com/maps/): Online maps.
+* [Google Photos](https://photos.google.com/): Photo management.
+* [Google Stadia](https://stadia.google.com/): Gaming across devices.
+* [GPA Calculator](https://gpacalculator.io): Calculate your college GPA.
+* [guitar-tuner](https://aerotwist.com/blog/guitar-tuner/): Aerotwist Guitar Tuner
 
 ## Tutorials
 
