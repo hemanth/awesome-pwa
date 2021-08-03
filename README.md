@@ -31,13 +31,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ## Apps
 
-* [abc.xyz](https://abc.xyz)
-* [Air Horner](https://airhorner.com/)
-* [AlarmDJ](https://alarmdj.com)
-* [Aliexpress](https://m.aliexpress.com/?tracelog=wwwhome2mobilesitehome)
-* [ampproject](https://www.ampproject.org)
-* [Anonynote](https://anonynote.org)
-* [Avain.app](https://avain.app)
 * [Bank Maskan](https://pwa.bank-maskan.ir)
 * [Bento-starter](https://bento-starter.firebaseapp.com)
 * [Best Markdown Editor](https://bestmarkdowneditor.com)
@@ -155,6 +148,13 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Yahtzee](https://zpix1.github.io/yahtzee/)
 * [Youtube Music](https://music.youtube.com/)
 * [2brew](https://2brew.github.io/): PWA timer for coffee brewing
+* [abc.xyz](https://abc.xyz): Alphabet website
+* [Air Horner](https://airhorner.com/): Air horn sound.
+* [AlarmDJ](https://alarmdj.com): Online alarm clock that plays MP3 files or YouTube videos.
+* [Aliexpress](https://m.aliexpress.com/?tracelog=wwwhome2mobilesitehome): Global shopping
+* [ampproject](https://www.ampproject.org): Web component framework.
+* [Anonynote](https://anonynote.org): Note-taking app.
+* [Avain.app](https://avain.app): Avain
 
 ## Tutorials
 
