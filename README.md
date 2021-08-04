@@ -1,4 +1,4 @@
-﻿# awesome-pwa [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![CI](https://github.com/hemanth/awesome-pwa/workflows/CI/badge.svg?branch=master)
+# awesome-pwa [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![CI](https://github.com/hemanth/awesome-pwa/workflows/CI/badge.svg?branch=master)
 
 > Useful resources for creating Progressive Web Apps
 
@@ -62,19 +62,17 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [ELFSH](https://elfsh.mousetail.nl): Food and expense manager.
 * [emberclear](https://emberclear.io): Encrypted Chat. No History. No Logs.
 * [Emoji Log](https://emojilog.rosano.ca): Personal tracker
-* [emojoy](https://jakearchibald-gcm.appspot.com/): 404
 * [Etch](https://etch.co): A Small team of Designers and Developers.
 * [Farmhand](https://jeremyckahn.github.io/farmhand/): Farmhand
 * [Fast Golf Scores](https://fastgolfscores.com): Fast Golf Scores.
-* [Freelancer](https://m.freelancer.com/messages): Hire the best freelancers for any job, online.
 * [Firefox Platform Status](https://platform-status.mozilla.org/): Firefox Platform Status
 * [FlagWarriors](https://flagwarriors.netlify.com): Minimalist multiplayer strategy game.
 * [Football Peek](https://footballpeek.com/): Football results.
+* [Freelancer](https://m.freelancer.com/messages): Hire the best freelancers for any job, online.
 * [ghChat](https://github.com/aermin/ghChat): Chat application for GitHub.
 * [GitHub Explorer](https://github-e.com/): Profile viewer.
 * [Google Drive](https://drive.google.com/): File storage.
 * [Google Duo](https://duo.google.com/): Video Calling.
-* [Google I/O](https://events.google.com/io2016/): 404
 * [Google Maps](https://www.google.com/maps/): Online maps.
 * [Google Photos](https://photos.google.com/): Photo management.
 * [Google Stadia](https://stadia.google.com/): Gaming across devices.
@@ -134,7 +132,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [SVGOMG](https://jakearchibald.github.io/svgomg/): SVGO's Missing GUI
 * [Taskade](https://www.taskade.com): Remote Team Workspace.
 * [Telegram](https://web.telegram.org/): Telegram Web App.
-* [The Trend Bed](https://thetrendbed.com): 522
 * [Themer](https://themer.dev): Theme generator for editors, terminals, wallpapers, and more.
 * [Timetable](https://leoherrmann.github.io/timetable/): Interactive editable timetable.
 * [Tinder](https://tinder.com): Dating app.
@@ -144,10 +141,9 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Tutor Portfolio PWA](https://englishextra.gitlab.io/): ???
 * [Twitter](https://twitter.com): Microblogging app.
 * [Uber Web](https://m.uber.com): Ridesharing app.
+* [Unalengua IPA Translator](https://unalengua.com/ipa): Translate to IPA.
 * [VeggieTables](https://veggietables.org): Track your crops and farming activities.
 * [Versus](https://versus.com/en): Consumer electronics shopping.
-* [voice-memos](https://voice-memos.appspot.com/): 404
-* [Unalengua IPA Translator](https://unalengua.com/ipa): Translate to IPA.
 * [Wave-PD1](https://alexgibson.github.io/wavepad/): Synth toy.
 * [Web NFC enabled shopping cart](https://webnfc-shoppingcart.appspot.com): Shopping list demo.
 * [Word Counter](https://wordcounter.io): Count characters, words, sentences, paragraphs, pages.
