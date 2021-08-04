@@ -132,7 +132,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [SVGOMG](https://jakearchibald.github.io/svgomg/): SVGO's Missing GUI
 * [Taskade](https://www.taskade.com): Remote Team Workspace.
 * [Telegram](https://web.telegram.org/): Telegram Web App.
-* [The Trend Bed](https://thetrendbed.com): 522
 * [Themer](https://themer.dev): Theme generator for editors, terminals, wallpapers, and more.
 * [Timetable](https://leoherrmann.github.io/timetable/): Interactive editable timetable.
 * [Tinder](https://tinder.com): Dating app.
