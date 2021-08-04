@@ -1,4 +1,4 @@
-﻿# awesome-pwa [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![CI](https://github.com/hemanth/awesome-pwa/workflows/CI/badge.svg?branch=master)
+# awesome-pwa [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![CI](https://github.com/hemanth/awesome-pwa/workflows/CI/badge.svg?branch=master)
 
 > Useful resources for creating Progressive Web Apps
 
@@ -65,10 +65,10 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Etch](https://etch.co): A Small team of Designers and Developers.
 * [Farmhand](https://jeremyckahn.github.io/farmhand/): Farmhand
 * [Fast Golf Scores](https://fastgolfscores.com): Fast Golf Scores.
-* [Freelancer](https://m.freelancer.com/messages): Hire the best freelancers for any job, online.
 * [Firefox Platform Status](https://platform-status.mozilla.org/): Firefox Platform Status
 * [FlagWarriors](https://flagwarriors.netlify.com): Minimalist multiplayer strategy game.
 * [Football Peek](https://footballpeek.com/): Football results.
+* [Freelancer](https://m.freelancer.com/messages): Hire the best freelancers for any job, online.
 * [ghChat](https://github.com/aermin/ghChat): Chat application for GitHub.
 * [GitHub Explorer](https://github-e.com/): Profile viewer.
 * [Google Drive](https://drive.google.com/): File storage.
@@ -141,9 +141,9 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Tutor Portfolio PWA](https://englishextra.gitlab.io/): ???
 * [Twitter](https://twitter.com): Microblogging app.
 * [Uber Web](https://m.uber.com): Ridesharing app.
+* [Unalengua IPA Translator](https://unalengua.com/ipa): Translate to IPA.
 * [VeggieTables](https://veggietables.org): Track your crops and farming activities.
 * [Versus](https://versus.com/en): Consumer electronics shopping.
-* [Unalengua IPA Translator](https://unalengua.com/ipa): Translate to IPA.
 * [Wave-PD1](https://alexgibson.github.io/wavepad/): Synth toy.
 * [Web NFC enabled shopping cart](https://webnfc-shoppingcart.appspot.com): Shopping list demo.
 * [Word Counter](https://wordcounter.io): Count characters, words, sentences, paragraphs, pages.
