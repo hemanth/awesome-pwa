@@ -62,7 +62,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [ELFSH](https://elfsh.mousetail.nl): Food and expense manager.
 * [emberclear](https://emberclear.io): Encrypted Chat. No History. No Logs.
 * [Emoji Log](https://emojilog.rosano.ca): Personal tracker
-* [emojoy](https://jakearchibald-gcm.appspot.com/): 404
 * [Etch](https://etch.co): A Small team of Designers and Developers.
 * [Farmhand](https://jeremyckahn.github.io/farmhand/): Farmhand
 * [Fast Golf Scores](https://fastgolfscores.com): Fast Golf Scores.
@@ -74,7 +73,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [GitHub Explorer](https://github-e.com/): Profile viewer.
 * [Google Drive](https://drive.google.com/): File storage.
 * [Google Duo](https://duo.google.com/): Video Calling.
-* [Google I/O](https://events.google.com/io2016/): 404
 * [Google Maps](https://www.google.com/maps/): Online maps.
 * [Google Photos](https://photos.google.com/): Photo management.
 * [Google Stadia](https://stadia.google.com/): Gaming across devices.
@@ -146,7 +144,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Uber Web](https://m.uber.com): Ridesharing app.
 * [VeggieTables](https://veggietables.org): Track your crops and farming activities.
 * [Versus](https://versus.com/en): Consumer electronics shopping.
-* [voice-memos](https://voice-memos.appspot.com/): 404
 * [Unalengua IPA Translator](https://unalengua.com/ipa): Translate to IPA.
 * [Wave-PD1](https://alexgibson.github.io/wavepad/): Synth toy.
 * [Web NFC enabled shopping cart](https://webnfc-shoppingcart.appspot.com): Shopping list demo.
