@@ -1,4 +1,4 @@
-﻿# awesome-pwa [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![CI](https://github.com/hemanth/awesome-pwa/workflows/CI/badge.svg?branch=master)
+# awesome-pwa [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![CI](https://github.com/hemanth/awesome-pwa/workflows/CI/badge.svg?branch=master)
 
 > Useful resources for creating Progressive Web Apps
 
@@ -31,131 +31,128 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ## Apps
 
-* [2brew](https://2brew.github.io/)
-* [abc.xyz](https://abc.xyz)
-* [Air Horner](https://airhorner.com/)
-* [AlarmDJ](https://alarmdj.com)
-* [Aliexpress](https://m.aliexpress.com/?tracelog=wwwhome2mobilesitehome)
-* [ampproject](https://www.ampproject.org)
-* [Anonynote](https://anonynote.org)
-* [Avain.app](https://avain.app)
-* [Bank Maskan](https://pwa.bank-maskan.ir)
-* [Bento-starter](https://bento-starter.firebaseapp.com)
-* [Best Markdown Editor](https://bestmarkdowneditor.com)
-* [Bolster](https://bolster.pro/)
-* [Booksie](https://www.booksie.org/)
-* [Budget Tracker](https://btapp.netlify.com/)
-* [Care Cards](https://carecards.io)
-* [Cat Safe Foods](https://catsafefoods.com)
-* [Chrome Developer Summit](https://developers.google.com/)
-* [Clock App](https://clockapp.tk/)
-* [Closerintime](https://closerinti.me)
-* [Colosseum](https://naramsim.github.io/Colosseum/)
-* [Currency Converter](https://www.currency-x.com)
-* [Currency Exchange Loss Calculator](https://currency-loss.netlify.com/)
-* [Datememe](https://www.datememe.com)
-* [Demo PWA](https://github.com/gokulkrishh/demo-progressive-web-app)
-* [Dev.Opera](https://dev.opera.com/)
-* [DevDocs](https://devdocs.io/)
-* [Digikala](https://www.digikala.com/)
-* [Dog Safe Foods](https://dogsafefoods.com)
-* [ELFSH Food and expense manager](https://elfsh.mousetail.nl)
-* [emberclear](https://emberclear.io)
-* [Emoji Log](https://emojilog.rosano.ca)
-* [emojoy](https://jakearchibald-gcm.appspot.com/)
-* [Etch](https://etch.co)
-* [Farmhand](https://jeremyckahn.github.io/farmhand/)
-* [Fast Golf Scores](https://fastgolfscores.com)
-* [Feelancer](https://m.freelancer.com/messages)
-* [Firefox Platform Status](https://platform-status.mozilla.org/)
-* [FlagWarriors (minimalist multiplayer strategy game)](https://flagwarriors.netlify.com)
-* [Football Peek](https://footballpeek.com/)
-* [ghChat](https://github.com/aermin/ghChat)
-* [GitHub Explorer](https://github-e.com/)
-* [Google Drive](https://drive.google.com/)
-* [Google Duo](https://duo.google.com/)
-* [Google I/O](https://events.google.com/io2016/)
-* [Google Maps](https://www.google.com/maps/)
-* [Google Photos](https://photos.google.com/)
-* [Google Stadia](https://stadia.google.com/)
-* [GPA Calculator](https://gpacalculator.io)
-* [guitar-tuner](https://aerotwist.com/blog/guitar-tuner/)
-* [Housing Go](http://www.housing.com)
-* [Hyperdraft](https://hyperdraft.rosano.ca)
-* [Indecisive.US](https://indecisive.us/)
-* [IP Tools](https://iptools.tk/)
-* [Journalistic](https://journalisticapp.com/)
-* [Joybox](https://joybox.rosano.ca)
-* [jsfeatures](https://jsfeatures.in)
-* [Joybox](https://joybox.rosano.ca)
-* [JSON Formatter](https://jsonformatter.live/)
-* [Kahla](https://web.kahla.app)
-* [Kommit](https://kommit.rosano.ca)
-* [Launchlet](https://launchlet.dev)
-* [Let's Plant](https://letsplant.org/)
-* [Lofimusic.app](https://lofimusic.app/)
-* [Lorem Ipsum](https://loremipsum.io)
-* [Make Better Software](https://makebetter.software)
-* [MConverter](https://mconverter.eu)
-* [Medium](https://medium.com/)
-* [Memory Game PWA](https://pwa-memory-game.surge.sh/)
-* [Messages for web(by google)](https://messages.google.com/web/)
-* [MoneyTracker](https://moneytracker.cc/)
-* [Morse Code Translator](https://morsedecoder.com/)
-* [MTGStocks](https://www.mtgstocks.com/news)
-* [Murlok.io](https://murlok.io/)
-* [Notella](https://github.com/siddharthkp/notella)
-* [Notepad](https://www.amitmerchant.com/notepad/)
-* [offline-wikipedia](https://wiki-offline.jakearchibald.com/)
-* [OmniCam](https://www.omnicamapp.com/)
-* [PakWheels](https://www.pakwheels.com/)
-* [Paytm Lite](https://paytm.com/)
-* [PixelCraft](https://pixelcraft.web.app)
-* [Pokedex](https://pokedex.org/)
-* [PokeQuest Wiki](https://pokequest.wiki/)
-* [Police Lights](https://policelights.tk/)
-* [PregBuddy](https://app.pregbuddy.com)
-* [Progressive Beer](https://deanhume.github.io/beer/)
-* [QR Code Generator](https://qr-code-generator.now.sh)
-* [QR Code Scanner](https://qrcodescan.in/)
-* [Remember](https://paulhoughton.github.io/remember/)
-* [Resume Nation](https://resume-nation.github.io)
-* [SaintsApp](https://saintsschedule.info/)
-* [Scoreboard.Rocks](https://scoreboard.rocks/)
-* [Similar Worlds](https://similarworlds.com/)
-* [Simple Currency Converter](https://currency-converter.now.sh)
-* [Skcript](https://www.skcript.com/)
-* [Smaller Pictures](https://smaller-pictures.appspot.com)
-* [Snapdrop](https://snapdrop.net)
-* [Soundpad](https://soundpad.tk/)
-* [Soundslice](https://www.soundslice.com)
-* [SplittyPie](https://splittypie.com)
-* [Spotify](https://open.spotify.com/)
-* [sv-ginger](https://sv-ginger.appspot.com/)
-* [SVGOMG](https://jakearchibald.github.io/svgomg/)
-* [Taskade](https://www.taskade.com)
-* [Telegram](https://web.telegram.org/)
-* [The Trend Bed](https://thetrendbed.com)
-* [Themer](https://themer.dev)
-* [Threema Web](https://web.threema.ch/)
-* [Timetable](https://leoherrmann.github.io/timetable/)
-* [Tinder](https://tinder.com)
-* [todo.blue](https://todo.blue/)
-* [Total Formatter](https://totalformatter.web.app)
-* [trivago](https://www.trivago.com/)
-* [Tutor Portfolio PWA](https://englishextra.gitlab.io/)
-* [Twitter](https://twitter.com)
-* [Uber Web](https://m.uber.com)
-* [VeggieTables](https://veggietables.org)
-* [Versus](https://versus.com/en)
-* [voice-memos](https://voice-memos.appspot.com/)
-* [Unalengua IPA Translator](https://unalengua.com/ipa)
-* [Wave-PD1](https://alexgibson.github.io/wavepad/)
-* [Web NFC enabled shopping cart](https://webnfc-shoppingcart.appspot.com)
-* [Word Counter](https://wordcounter.io)
-* [X Sound](https://korilakkuma.github.io/X-Sound/)
-* [Yahtzee](https://zpix1.github.io/yahtzee/)
-* [Youtube Music](https://music.youtube.com/)
+* [2brew](https://2brew.github.io/): PWA timer for coffee brewing
+* [abc.xyz](https://abc.xyz): Alphabet website
+* [Air Horner](https://airhorner.com/): Air horn sound.
+* [AlarmDJ](https://alarmdj.com): Online alarm clock that plays MP3 files or YouTube videos.
+* [Aliexpress](https://m.aliexpress.com/?tracelog=wwwhome2mobilesitehome): Global shopping
+* [ampproject](https://www.ampproject.org): Web component framework.
+* [Anonynote](https://anonynote.org): Note-taking app.
+* [Avain.app](https://avain.app): Avain
+* [Bank Maskan](https://pwa.bank-maskan.ir): Iranian bank
+* [Bento-starter](https://bento-starter.firebaseapp.com): Open-Source Full-Stack solution for fast PWA development
+* [Best Markdown Editor](https://bestmarkdowneditor.com): undefined
+* [Bolster](https://bolster.pro/): Bolster
+* [Booksie](https://www.booksie.org/): An open catalog of free picture storybooks for children instantly available for reading.
+* [Budget Tracker](https://btapp.netlify.com/): Track expenses and analyse if they stick to a budget
+* [Care Cards](https://carecards.io): Care Cards
+* [Cat Safe Foods](https://catsafefoods.com): Sharing food with your cat? Make sure it's safe first
+* [Chrome Developer Summit](https://developers.google.com/): Google Developers
+* [Clock App](https://clockapp.tk/): Analog Alarm Clock App
+* [Closerintime](https://closerinti.me): #closerintime
+* [Colosseum](https://naramsim.github.io/Colosseum/): Displays Pokemons in a beautiful way
+* [Currency Converter](https://www.currency-x.com): Currency Calculator
+* [Currency Exchange Loss Calculator](https://currency-loss.netlify.com/): Currency Exchange Loss Calculator
+* [Datememe](https://www.datememe.com): Online dating.
+* [Demo PWA](https://github.com/gokulkrishh/demo-progressive-web-app): Demonstrating offline, push notifications, background sync etc.
+* [Dev.Opera](https://dev.opera.com/): Dev.Opera
+* [DevDocs](https://devdocs.io/): API Documentation Browser
+* [Digikala](https://www.digikala.com/): Digikala Web App
+* [Dog Safe Foods](https://dogsafefoods.com): Sharing food with your dog? Make sure it's safe first
+* [ELFSH](https://elfsh.mousetail.nl): Food and expense manager.
+* [emberclear](https://emberclear.io): Encrypted Chat. No History. No Logs.
+* [Emoji Log](https://emojilog.rosano.ca): Personal tracker
+* [Etch](https://etch.co): A Small team of Designers and Developers.
+* [Farmhand](https://jeremyckahn.github.io/farmhand/): Farmhand
+* [Fast Golf Scores](https://fastgolfscores.com): Fast Golf Scores.
+* [Firefox Platform Status](https://platform-status.mozilla.org/): Firefox Platform Status
+* [FlagWarriors](https://flagwarriors.netlify.com): Minimalist multiplayer strategy game.
+* [Football Peek](https://footballpeek.com/): Football results.
+* [Freelancer](https://m.freelancer.com/messages): Hire the best freelancers for any job, online.
+* [ghChat](https://github.com/aermin/ghChat): Chat application for GitHub.
+* [GitHub Explorer](https://github-e.com/): Profile viewer.
+* [Google Drive](https://drive.google.com/): File storage.
+* [Google Duo](https://duo.google.com/): Video Calling.
+* [Google Maps](https://www.google.com/maps/): Online maps.
+* [Google Photos](https://photos.google.com/): Photo management.
+* [Google Stadia](https://stadia.google.com/): Gaming across devices.
+* [GPA Calculator](https://gpacalculator.io): Calculate your college GPA.
+* [guitar-tuner](https://aerotwist.com/blog/guitar-tuner/): Aerotwist Guitar Tuner
+* [Housing Go](http://www.housing.com): Real estate in India.
+* [Hyperdraft](https://hyperdraft.rosano.ca): Turn your text notes into a website.
+* [Indecisive.US](https://indecisive.us/): App to help you make a decision.
+* [IP Tools](https://iptools.tk/): Free, Fast & Flexible IP Tools.
+* [Journalistic](https://journalisticapp.com/): Micro Journaling App.
+* [Joybox](https://joybox.rosano.ca): A pinboard for audiovisual media.
+* [jsfeatures](https://jsfeatures.in): JavaScript features
+* [JSON Formatter](https://jsonformatter.live/): Minimalist JSON formatter.
+* [Kahla](https://web.kahla.app): Business messaging app.
+* [Kommit](https://kommit.rosano.ca): Create flashcards and learn them with spaced-repetition.
+* [Launchlet](https://launchlet.dev): Customize any website with JavaScript or CSS.
+* [Let's Plant](https://letsplant.org/): Plant chooser.
+* [Lofimusic.app](https://lofimusic.app/): Online radio Radio
+* [Lorem Ipsum](https://loremipsum.io): Lorem Ipsum generator.
+* [Make Better Software](https://makebetter.software): Raise software standards.
+* [MConverter](https://mconverter.eu): Online file converter.
+* [Medium](https://medium.com/): Writing space.
+* [Memory Game PWA](https://pwa-memory-game.surge.sh/): Strengthen your memory.
+* [Messages for web (by google)](https://messages.google.com/web/): 400
+* [MoneyTracker](https://moneytracker.cc/): Personal finances tracking web app.
+* [Morse Code Translator](https://morsedecoder.com/): Morse Code tools
+* [MTGStocks](https://www.mtgstocks.com/news): Magic the Gathering price tracker.
+* [Murlok.io](https://murlok.io/): World of Warcraft Shadowlands.
+* [Notella](https://github.com/siddharthkp/notella): No fluff notes app.
+* [Notepad](https://www.amitmerchant.com/notepad/): An offline-capable, quick, and distraction-free Notepad.
+* [offline-wikipedia](https://wiki-offline.jakearchibald.com/): Offline Wikipedia
+* [OmniCam](https://www.omnicamapp.com/): Live streaming webcams around the world.
+* [PakWheels](https://www.pakwheels.com/): Buy/sell cars.
+* [Paytm Lite](https://paytm.com/): Online wallet and payments.
+* [PixelCraft](https://pixelcraft.web.app): Pixel Art Editor
+* [Pokedex](https://pokedex.org/): Indexing Pokémon
+* [PokeQuest Wiki](https://pokequest.wiki/): Search for Pokémon
+* [Police Lights](https://policelights.tk/): Police Car Light Flash Screen App
+* [PregBuddy](https://app.pregbuddy.com): Information for pregnant women.
+* [Progressive Beer](https://deanhume.github.io/beer/): Progressive Beer
+* [PWA-NES](https://pwa-nes.vercel.app/): 8-bit NES emulator
+* [QR Code Generator](https://qr-code-generator.now.sh): Create custom QR Codes.
+* [QR Code Scanner](https://qrcodescan.in/): Scan a QR code.
+* [Remember](https://paulhoughton.github.io/remember/): Location-based reminders.
+* [Resume Nation](https://resume-nation.github.io): Resume creator.
+* [SaintsApp](https://saintsschedule.info/): New Orleans Saints' game schedule.
+* [Scoreboard.Rocks](https://scoreboard.rocks/): Scoreboard App.
+* [Similar Worlds](https://similarworlds.com/): Connect with others who share interests.
+* [Simple Currency Converter](https://currency-converter.now.sh): Currency Converter
+* [Skcript](https://www.skcript.com/): Ruby on Rails Consulting.
+* [Smaller Pictures](https://smaller-pictures.appspot.com): Image compressor.
+* [Snapdrop](https://snapdrop.net): Transfer files over wifi.
+* [Soundpad](https://soundpad.tk/): Sound Sequencer App.
+* [Soundslice](https://www.soundslice.com): Create living sheet music.
+* [SplittyPie](https://splittypie.com): Easy expense splitting.
+* [Spotify](https://open.spotify.com/): Music streaming.
+* [sv-ginger](https://sv-ginger.appspot.com/): Ginger WebGL Morph Demo
+* [SVGOMG](https://jakearchibald.github.io/svgomg/): SVGO's Missing GUI
+* [Taskade](https://www.taskade.com): Remote Team Workspace.
+* [Telegram](https://web.telegram.org/): Telegram Web App.
+* [Themer](https://themer.dev): Theme generator for editors, terminals, wallpapers, and more.
+* [Threema Web](https://web.threema.ch/): The messenger that puts security and privacy first.
+* [Timetable](https://leoherrmann.github.io/timetable/): Interactive editable timetable.
+* [Tinder](https://tinder.com): Dating app.
+* [todo.blue](https://todo.blue/): ToDo app.
+* [Total Formatter](https://totalformatter.web.app): YAML Formatter
+* [trivago](https://www.trivago.com/): Hotel prices.
+* [Tutor Portfolio PWA](https://englishextra.gitlab.io/): ???
+* [Twitter](https://twitter.com): Microblogging app.
+* [Uber Web](https://m.uber.com): Ridesharing app.
+* [Unalengua IPA Translator](https://unalengua.com/ipa): Translate to IPA.
+* [VeggieTables](https://veggietables.org): Track your crops and farming activities.
+* [Versus](https://versus.com/en): Consumer electronics shopping.
+* [Wave-PD1](https://alexgibson.github.io/wavepad/): Synth toy.
+* [Web NFC enabled shopping cart](https://webnfc-shoppingcart.appspot.com): Shopping list demo.
+* [Word Counter](https://wordcounter.io): Count characters, words, sentences, paragraphs, pages.
+* [Wormhole](https://wormhole.app/): Share files with end-to-end encryption.
+* [X Sound](https://korilakkuma.github.io/X-Sound/): Online keyboard synth.
+* [Yahtzee](https://zpix1.github.io/yahtzee/): Dice generator.
+* [Youtube Music](https://music.youtube.com/): Music streaming via YouTube.
 
 ## Tutorials
 
@@ -234,6 +231,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Progressive Web Apps across all frameworks - Google I/O 2016](https://www.youtube.com/watch?v=srdKq0DckXQ)
 * [Progressive web apps and what's next for mobile](https://www.oreilly.com/ideas/progressive-web-apps-and-whats-next-for-mobile?utm_source=twitter&utm_medium=webplatform&utm_campaign=YTknRussell-jj)
 * [Progressive Web Apps and What's Next for Mobile](https://www.youtube.com/watch?v=JP5p6t3wNLA)
+* [Progressive Web Apps Are Easy Now - Or Are They with Thorsten Lorenz -- UtahJS 2018](https://youtu.be/bKxtwzr0sy0)
 * [Progressive Web Apps in any context (Progressive Web App Summit 2016)](https://www.youtube.com/watch?v=8dr_IUGwsO0&list=PLNYkxOF6rcIAWWNR_Q6eLPhsyx6VvYjVb&index=13)
 * [Progressive Web Apps on Firebase - Google I/O 2016](https://www.youtube.com/watch?v=SobXoh4rb58)
 * [Progressive Web Apps Training 2019 - Playlist](https://www.youtube.com/watch?v=psB_Pjwhbxo&list=PLNYkxOF6rcIB2xHBZ7opgc2Mv009X87Hh)
