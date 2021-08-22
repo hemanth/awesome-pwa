@@ -134,6 +134,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Taskade](https://www.taskade.com): Remote Team Workspace.
 * [Telegram](https://web.telegram.org/): Telegram Web App.
 * [Themer](https://themer.dev): Theme generator for editors, terminals, wallpapers, and more.
+* [Threema Web](https://web.threema.ch/): The messenger that puts security and privacy first.
 * [Timetable](https://leoherrmann.github.io/timetable/): Interactive editable timetable.
 * [Tinder](https://tinder.com): Dating app.
 * [todo.blue](https://todo.blue/): ToDo app.
