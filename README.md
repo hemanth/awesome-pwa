@@ -42,6 +42,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Bank Maskan](https://pwa.bank-maskan.ir): Iranian bank
 * [Bento-starter](https://bento-starter.firebaseapp.com): Open-Source Full-Stack solution for fast PWA development
 * [Best Markdown Editor](https://bestmarkdowneditor.com): undefined
+* [BitMidi](https://bitmidi.com): Listen to your favorite MIDI files.
 * [Bolster](https://bolster.pro/): Bolster
 * [Booksie](https://www.booksie.org/): An open catalog of free picture storybooks for children instantly available for reading.
 * [Budget Tracker](https://btapp.netlify.com/): Track expenses and analyse if they stick to a budget
