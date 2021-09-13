@@ -25,8 +25,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 ## App Directories
 
 * [appsco.pe](https://appsco.pe)
-* [progressiveapp.store](https://progressiveapp.store/)
-* [pwainside.com](https://pwainside.com)
 * [0data.app](https://0data.app)
 
 ## Apps
@@ -161,7 +159,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ## Tutorials
 
-* [A progressive Web application with Vue JS, Webpack & Material Design [Part 1 / 6]](https://blog.sicara.com/a-progressive-web-application-with-vue-js-webpack-material-design-part-1-c243e2e6e402) by [@charlesBochet](https://twitter.com/charlesBochet) and [@KevinJean17](https://twitter.com/KevinJean17)
 * [Build a realtime PWA using Vue.js](https://pusher.com/tutorials/pwa-vuejs)
 * [Build a realtime PWA with React](https://pusher.com/tutorials/pwa-react)
 * [Codelabs to build PWAs with Polymer 2.0](https://codelabs.developers.google.com/polymer-summit-2016)
@@ -288,7 +285,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [`serviceworker-rails`](https://github.com/rossta/serviceworker-rails): Plugin to integrate Service Worker with the Rails asset pipeline.
 * [`serviceworker-webpack-plugin`](https://github.com/oliviertassinari/serviceworker-webpack-plugin): Simplifies creation of a service worker to serve your webpack bundles.
 * [`serviceworkerware`](https://github.com/fxos-components/serviceworkerware): An Express-like layer on top of ServiceWorkers to provide a way to easily plug functionality
-* [`Superweb.app`](https://www.superweb.app): Service to generate a service worker/manifest and host apps/games as PWAs
 * [`sw-delta`](https://github.com/gmetais/sw-delta): An incremental cache for the web.
 * [`sw-precache-webpack-plugin`](https://github.com/goldhand/sw-precache-webpack-plugin): SW Precache Webpack Plugin
 * [`sw-precache`](https://github.com/GoogleChrome/sw-precache): A node module to generate service worker code that will precache specific resources
