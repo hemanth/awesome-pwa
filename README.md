@@ -25,8 +25,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 ## App Directories
 
 * [appsco.pe](https://appsco.pe)
-* [progressiveapp.store](https://progressiveapp.store/)
-* [pwainside.com](https://pwainside.com)
 * [0data.app](https://0data.app)
 
 ## Apps
