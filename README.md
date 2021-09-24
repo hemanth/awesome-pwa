@@ -39,6 +39,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Anonynote](https://anonynote.org): Note-taking app.
 * [Avain.app](https://avain.app): Avain
 * [Bank Maskan](https://pwa.bank-maskan.ir): Iranian bank
+* [BBC](https://www.bbc.co.uk): British Broadcasting Corporation (News, Sport, Weather and other services)
 * [Bento-starter](https://bento-starter.firebaseapp.com): Open-Source Full-Stack solution for fast PWA development
 * [Best Markdown Editor](https://bestmarkdowneditor.com): undefined
 * [BitMidi](https://bitmidi.com): Listen to your favorite MIDI files.
@@ -107,6 +108,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Notella](https://github.com/siddharthkp/notella): No fluff notes app.
 * [Notepad](https://www.amitmerchant.com/notepad/): An offline-capable, quick, and distraction-free Notepad.
 * [offline-wikipedia](https://wiki-offline.jakearchibald.com/): Offline Wikipedia
+* [OMG! Ubuntu!](https://www.omgubuntu.co.uk/?utm_source=a2hs): News site covering Ubuntu, Linux and open-source eco-systems
 * [OmniCam](https://www.omnicamapp.com/): Live streaming webcams around the world.
 * [PakWheels](https://www.pakwheels.com/): Buy/sell cars.
 * [Paytm Lite](https://paytm.com/): Online wallet and payments.
