@@ -142,6 +142,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Timetable](https://leoherrmann.github.io/timetable/): Interactive editable timetable.
 * [Tinder](https://tinder.com): Dating app.
 * [todo.blue](https://todo.blue/): ToDo app.
+* [Todoly](https://t4p4n.github.io/todoly/): A Simple ToDo PWA
 * [Total Formatter](https://totalformatter.web.app): YAML Formatter
 * [trivago](https://www.trivago.com/): Hotel prices.
 * [Tutor Portfolio PWA](https://englishextra.gitlab.io/): ???
