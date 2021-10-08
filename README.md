@@ -45,6 +45,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Bolster](https://bolster.pro/): Bolster
 * [Booksie](https://www.booksie.org/): An open catalog of free picture storybooks for children instantly available for reading.
 * [Budget Tracker](https://btapp.netlify.com/): Track expenses and analyse if they stick to a budget
+* [Calculator](https://calculator-app-tau.vercel.app/): A calculator app with theme switcher
 * [Care Cards](https://carecards.io): Care Cards
 * [Cat Safe Foods](https://catsafefoods.com): Sharing food with your cat? Make sure it's safe first
 * [Chrome Developer Summit](https://developers.google.com/): Google Developers
@@ -143,6 +144,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Timetable](https://leoherrmann.github.io/timetable/): Interactive editable timetable.
 * [Tinder](https://tinder.com): Dating app.
 * [todo.blue](https://todo.blue/): ToDo app.
+* [Todoly](https://t4p4n.github.io/todoly/): A Simple ToDo PWA
 * [Total Formatter](https://totalformatter.web.app): YAML Formatter
 * [trivago](https://www.trivago.com/): Hotel prices.
 * [Tutor Portfolio PWA](https://englishextra.gitlab.io/): ???
