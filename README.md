@@ -95,6 +95,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Let's Plant](https://letsplant.org/): Plant chooser.
 * [Lofimusic.app](https://lofimusic.app/): Online radio Radio
 * [Lorem Ipsum](https://loremipsum.io): Lorem Ipsum generator.
+* [Math Riddles](https://mathriddles.netlify.app): Interesting Math Riddles.
 * [Make Better Software](https://makebetter.software): Raise software standards.
 * [MConverter](https://mconverter.eu): Online file converter.
 * [Medium](https://medium.com/): Writing space.
