@@ -54,6 +54,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Colosseum](https://naramsim.github.io/Colosseum/): Displays Pokemons in a beautiful way
 * [ComputerBase](https://www.computerbase.de/): German IT news site.
 * [Contrax](https://contrax.app): Track your contracts, subscriptions and trials.
+* [Crazy Dice](https://crazydice.netlify.app): Simple Dice App.
 * [Currency Converter](https://www.currency-x.com): Currency Calculator
 * [Currency Exchange Loss Calculator](https://currency-loss.netlify.com/): Currency Exchange Loss Calculator
 * [Datememe](https://www.datememe.com): Online dating.
