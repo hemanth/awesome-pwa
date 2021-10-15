@@ -54,6 +54,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Colosseum](https://naramsim.github.io/Colosseum/): Displays Pokemons in a beautiful way
 * [ComputerBase](https://www.computerbase.de/): German IT news site.
 * [Contrax](https://contrax.app): Track your contracts, subscriptions and trials.
+* [Crazy Dice](https://crazydice.netlify.app): Simple Dice App.
 * [Currency Converter](https://www.currency-x.com): Currency Calculator
 * [Currency Exchange Loss Calculator](https://currency-loss.netlify.com/): Currency Exchange Loss Calculator
 * [Datememe](https://www.datememe.com): Online dating.
@@ -95,6 +96,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Let's Plant](https://letsplant.org/): Plant chooser.
 * [Lofimusic.app](https://lofimusic.app/): Online radio Radio
 * [Lorem Ipsum](https://loremipsum.io): Lorem Ipsum generator.
+* [Math Riddles](https://mathriddles.netlify.app): Interesting Math Riddles.
 * [Make Better Software](https://makebetter.software): Raise software standards.
 * [MConverter](https://mconverter.eu): Online file converter.
 * [Medium](https://medium.com/): Writing space.
