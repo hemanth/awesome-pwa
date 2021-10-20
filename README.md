@@ -38,6 +38,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [ampproject](https://www.ampproject.org): Web component framework.
 * [Anonynote](https://anonynote.org): Note-taking app.
 * [Avain.app](https://avain.app): Avain
+* [Bangle.io](https://bangle.io/) - A Notion like local note taking tool where data is saved in your computer and in Markdown format.
 * [Bank Maskan](https://pwa.bank-maskan.ir): Iranian bank
 * [Bento-starter](https://bento-starter.firebaseapp.com): Open-Source Full-Stack solution for fast PWA development
 * [Best Markdown Editor](https://bestmarkdowneditor.com): undefined
