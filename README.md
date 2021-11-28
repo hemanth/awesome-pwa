@@ -126,6 +126,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [QR Code Scanner](https://qrcodescan.in/): Scan a QR code.
 * [Remember](https://paulhoughton.github.io/remember/): Location-based reminders.
 * [Resume Nation](https://resume-nation.github.io): Resume creator.
+* [Rydeen](https://rydeen.app/): Task management app for individuals.
 * [SaintsApp](https://saintsschedule.info/): New Orleans Saints' game schedule.
 * [Saucekudasai](https://saucekudasai.com): An Anime seacrch engine that finds animeinfo based on image provided
 * [Scoreboard.Rocks](https://scoreboard.rocks/): Scoreboard App.
