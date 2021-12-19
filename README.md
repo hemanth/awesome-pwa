@@ -141,6 +141,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [SplittyPie](https://splittypie.com): Easy expense splitting.
 * [Spotify](https://open.spotify.com/): Music streaming.
 * [sv-ginger](https://sv-ginger.appspot.com/): Ginger WebGL Morph Demo
+* [SvenPanel](https://svenpanel.de/): The Shrine - The Message Is Feierei Alda.
 * [SVGOMG](https://jakearchibald.github.io/svgomg/): SVGO's Missing GUI
 * [Swahili Dictionary](https://swahili-dictionary.com/): Offline Swahili-English-Swahili dictionary
 * [Taskade](https://www.taskade.com): Remote Team Workspace.
