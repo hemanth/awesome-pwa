@@ -114,6 +114,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [offline-wikipedia](https://wiki-offline.jakearchibald.com/): Offline Wikipedia
 * [OmniCam](https://www.omnicamapp.com/): Live streaming webcams around the world.
 * [PakWheels](https://www.pakwheels.com/): Buy/sell cars.
+* [Passky](https://vault.passky.org/): Free and open-source Password Manager
 * [Paytm Lite](https://paytm.com/): Online wallet and payments.
 * [Photopea](https://www.photopea.com/): Online Photo Editor.
 * [PixelCraft](https://pixelcraft.web.app): Pixel Art Editor
