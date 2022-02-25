@@ -127,6 +127,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [PWA-NES](https://pwa-nes.vercel.app/): 8-bit NES emulator
 * [QR Code Generator](https://qr-code-generator.now.sh): Create custom QR Codes.
 * [QR Code Scanner](https://qrcodescan.in/): Scan a QR code.
+* [Regex101](https://regex101.com/): Build, test and debug regex.
 * [Remember](https://paulhoughton.github.io/remember/): Location-based reminders.
 * [Resume Nation](https://resume-nation.github.io): Resume creator.
 * [Rydeen](https://rydeen.app/): Task management app for individuals.
