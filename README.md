@@ -85,6 +85,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [GPA Calculator](https://gpacalculator.io): Calculate your college GPA.
 * [guitar-tuner](https://aerotwist.com/blog/guitar-tuner/): Aerotwist Guitar Tuner
 * [Housing Go](http://www.housing.com): Real estate in India.
+* [Hugo](https://app.hugo.team/): Meeting notes.
 * [Hyperdraft](https://hyperdraft.rosano.ca): Turn your text notes into a website.
 * [Indecisive.US](https://indecisive.us/): App to help you make a decision.
 * [IP Tools](https://iptools.tk/): Free, Fast & Flexible IP Tools.
