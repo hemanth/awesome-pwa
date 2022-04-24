@@ -46,6 +46,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Bolster](https://bolster.pro/): Bolster
 * [Booksie](https://www.booksie.org/): An open catalog of free picture storybooks for children instantly available for reading.
 * [Budget Tracker](https://btapp.netlify.com/): Track expenses and analyse if they stick to a budget
+* [bundle](https://bundle.js.org/): A quick and easy way to bundle, minify, and compress (gzip and brotli) your ts, js, jsx and npm projects all online, with the resulting file size.
 * [Calculator](https://calculator-app-tau.vercel.app/): A calculator app with theme switcher
 * [Care Cards](https://carecards.io): Care Cards
 * [Cat Safe Foods](https://catsafefoods.com): Sharing food with your cat? Make sure it's safe first
