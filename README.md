@@ -135,7 +135,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [SaintsApp](https://saintsschedule.info/): New Orleans Saints' game schedule.
 * [Saucekudasai](https://saucekudasai.com): An Anime seacrch engine that finds animeinfo based on image provided
 * [Scoreboard.Rocks](https://scoreboard.rocks/): Scoreboard App.
-* [Similar Worlds](https://similarworlds.com/): Connect with others who share interests.
+* [Similar Worlds](https://similarworlds.com/): Experience Project Alternative. Find people with similar interests.
 * [Simple Currency Converter](https://currency-converter.now.sh): Currency Converter
 * [Skcript](https://www.skcript.com/): Ruby on Rails Consulting.
 * [Smaller Pictures](https://smaller-pictures.appspot.com): Image compressor.
