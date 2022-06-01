@@ -89,7 +89,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Hugo](https://app.hugo.team/): Meeting notes.
 * [Hyperdraft](https://hyperdraft.rosano.ca): Turn your text notes into a website.
 * [Indecisive.US](https://indecisive.us/): App to help you make a decision.
-* [IP Tools](https://iptools.tk/): Free, Fast & Flexible IP Tools.
 * [Journalistic](https://journalisticapp.com/): Micro Journaling App.
 * [Joybox](https://joybox.rosano.ca): A pinboard for audiovisual media.
 * [jsfeatures](https://jsfeatures.in): JavaScript features
