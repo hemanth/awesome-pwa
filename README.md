@@ -113,7 +113,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Murlok.io](https://murlok.io/): World of Warcraft Shadowlands.
 * [MYHELLOIOT](https://adrianromero.github.io/myhelloiot/): MQTT client application.
 * [Notella](https://github.com/siddharthkp/notella): No fluff notes app.
-* [offline-wikipedia](https://wiki-offline.jakearchibald.com/): Offline Wikipedia
 * [OmniCam](https://www.omnicamapp.com/): Live streaming webcams around the world.
 * [PakWheels](https://www.pakwheels.com/): Buy/sell cars.
 * [Passky](https://vault.passky.org/): Free and open-source Password Manager
