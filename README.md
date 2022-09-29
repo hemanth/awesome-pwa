@@ -114,6 +114,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [MYHELLOIOT](https://adrianromero.github.io/myhelloiot/): MQTT client application.
 * [Notella](https://github.com/siddharthkp/notella): No fluff notes app.
 * [OmniCam](https://www.omnicamapp.com/): Live streaming webcams around the world.
+* [Othello](https://othello-rust.web.app/): Play Othello against the computer.
 * [PakWheels](https://www.pakwheels.com/): Buy/sell cars.
 * [Passky](https://vault.passky.org/): Free and open-source Password Manager
 * [Paytm Lite](https://paytm.com/): Online wallet and payments.
