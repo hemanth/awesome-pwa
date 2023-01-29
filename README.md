@@ -75,6 +75,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Farmhand](https://jeremyckahn.github.io/farmhand/): Farmhand
 * [FarmOS](https://farmos.app/): Farm record keeping
 * [Fast Golf Scores](https://fastgolfscores.com): Fast Golf Scores.
+* [FileLove](https://file.love/): Minimal p2p file transfer right in the browser.
 * [Firefox Platform Status](https://platform-status.mozilla.org/): Firefox Platform Status
 * [FlagWarriors](https://flagwarriors.netlify.com): Minimalist multiplayer strategy game.
 * [Football Peek](https://footballpeek.com/): Football results.
