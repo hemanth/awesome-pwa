@@ -26,6 +26,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 * [appsco.pe](https://appsco.pe)
 * [0data.app](https://0data.app)
+* [pwalist.app](https://www.pwalist.app/)
 
 ## Apps
 
