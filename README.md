@@ -51,6 +51,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Budget Tracker](https://btapp.netlify.com/): Track expenses and analyse if they stick to a budget
 * [bundle](https://bundle.js.org/): A quick and easy way to bundle, minify, and compress (gzip and brotli) your ts, js, jsx and npm projects all online, with the resulting file size.
 * [Calculator](https://calculator-app-tau.vercel.app/): A calculator app with theme switcher
+* [Calm Whisper](https://calmwhisper.com): Soothing ambient sounds for focus, sleep and relaxation
 * [Care Cards](https://carecards.io): Care Cards
 * [Cat Safe Foods](https://catsafefoods.com): Sharing food with your cat? Make sure it's safe first
 * [Chrome Developer Summit](https://developers.google.com/): Google Developers
