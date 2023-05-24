@@ -37,6 +37,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [AlarmDJ](https://alarmdj.com): Online alarm clock that plays MP3 files or YouTube videos.
 * [Aliexpress](https://m.aliexpress.com/?tracelog=wwwhome2mobilesitehome): Global shopping
 * [ampproject](https://www.ampproject.org): Web component framework.
+* [renterpoint](https://renterpoint.com): Car Rental Dubai.
 * [Anonynote](https://anonynote.org): Note-taking app.
 * [Avain.app](https://avain.app): Avain
 * [Bangle.io](https://bangle.io/) - A Notion like local note taking tool where data is saved in your computer and in Markdown format.
