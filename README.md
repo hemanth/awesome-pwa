@@ -179,6 +179,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [VideoTrim.app](https://videotrim.app): Video trimmer app in the browser.
 * [Wave-PD1](https://alexgibson.github.io/wavepad/): Synth toy.
 * [Web NFC enabled shopping cart](https://webnfc-shoppingcart.appspot.com): Shopping list demo.
+* [WebAPI check](https://webapicheck.com): Open this PWA to check which WebAPIs are available on your current device.
 * [Word Counter](https://wordcounter.io): Count characters, words, sentences, paragraphs, pages.
 * [Wormhole](https://wormhole.app/): Share files with end-to-end encryption.
 * [X Sound](https://korilakkuma.github.io/X-Sound/): Online keyboard synth.
