@@ -125,6 +125,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [PakWheels](https://www.pakwheels.com/): Buy/sell cars.
 * [Passky](https://vault.passky.org/): Free and open-source Password Manager
 * [Paytm Lite](https://paytm.com/): Online wallet and payments.
+* [Peach (NSFW)](https://peach.link/): The first truly Ethical Adult Streaming Platform.
 * [Photopea](https://www.photopea.com/): Online Photo Editor.
 * [PixelCraft](https://pixelcraft.web.app): Pixel Art Editor
 * [Pokedex](https://pokedex.org/): Indexing Pokémon
