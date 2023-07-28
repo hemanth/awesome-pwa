@@ -53,6 +53,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Calm Whisper](https://calmwhisper.com): Soothing ambient sounds for focus, sleep and relaxation
 * [Care Cards](https://carecards.io): Care Cards
 * [Cat Safe Foods](https://catsafefoods.com): Sharing food with your cat? Make sure it's safe first
+* [Chitchatter](https://chitchatter.im/): Secure peer-to-peer chat that is serverless, decentralized, and ephemeral
 * [Chrome Developer Summit](https://developers.google.com/): Google Developers
 * [Clock App](https://clockapp.tk/): Analog Alarm Clock App
 * [Closerintime](https://closerinti.me): #closerintime
@@ -73,7 +74,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [emberclear](https://emberclear.io): Encrypted Chat. No History. No Logs.
 * [Emoji Log](https://emojilog.rosano.ca): Personal tracker
 * [Etch](https://etch.co): A Small team of Designers and Developers.
-* [Farmhand](https://jeremyckahn.github.io/farmhand/): Farmhand
+* [Farmhand](https://www.farmhand.life/): A resource management game that puts a farm in your hand
 * [FarmOS](https://farmos.app/): Farm record keeping
 * [Fast Golf Scores](https://fastgolfscores.com): Fast Golf Scores.
 * [FileLove](https://file.love/): Minimal p2p file transfer right in the browser.
