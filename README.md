@@ -187,6 +187,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Yahtzee](https://zpix1.github.io/yahtzee/): Dice generator.
 * [Youtube Music](https://music.youtube.com/): Music streaming via YouTube.
 * [ztable.io](https://ztable.io/): Z-Table lookup & Z-Score calculator.
+* [3D House Planner](https://3dhouseplanner.com/): 3D floor planner on the web.
 
 ## Tutorials
 
