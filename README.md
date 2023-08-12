@@ -312,6 +312,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [`msgr`](https://github.com/sdgluck/msgr): Nifty service worker/client message utility
 * [`offline-plugin`](https://github.com/NekR/offline-plugin): Offline plugin (ServiceWorker, AppCache) for webpack (<http://webpack.github.io/>)
 * [`platinum-sw-register`](https://elements.polymer-project.org/elements/platinum-sw?active=platinum-sw-register): handles service worker registration for Polymer applications
+* [`PWA Asset Generator`](https://github.com/elegantapp/pwa-asset-generator): Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images. 
 * [`PWAify`](https://github.com/vladikoff/PWAify): CLI tool to convert your PWA into a cross-platform desktop app.
 * [`serviceworker-rails`](https://github.com/rossta/serviceworker-rails): Plugin to integrate Service Worker with the Rails asset pipeline.
 * [`serviceworker-webpack-plugin`](https://github.com/oliviertassinari/serviceworker-webpack-plugin): Simplifies creation of a service worker to serve your webpack bundles.
