@@ -121,6 +121,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Morse Code Translator](https://morsedecoder.com/): Morse Code tools
 * [MTGStocks](https://www.mtgstocks.com/news): Magic the Gathering price tracker.
 * [Murlok.io](https://murlok.io/): World of Warcraft Shadowlands.
+* [Music Player PWA](https://akaspanion.github.io/music-app/): Music Player.
 * [MYHELLOIOT](https://adrianromero.github.io/myhelloiot/): MQTT client application.
 * [Notella](https://github.com/siddharthkp/notella): No fluff notes app.
 * [OmniCam](https://www.omnicamapp.com/): Live streaming webcams around the world.
@@ -137,6 +138,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [PregBuddy](https://app.pregbuddy.com): Information for pregnant women.
 * [Progressive Beer](https://deanhume.github.io/beer/): Progressive Beer
 * [PWA-NES](https://pwa-nes.vercel.app/): 8-bit NES emulator
+* [Qi Reader](https://www.qireader.com/): A modern web RSS reader.
 * [QR Code Generator](https://qr-code-generator.now.sh): Create custom QR Codes.
 * [QR Code Scanner](https://qrcodescan.in/): Scan a QR code.
 * [RedditLattice](https://redditlattice.netlify.app/): A reddit viewer for image based subreddits. Lays out the images in a tight lattice.
