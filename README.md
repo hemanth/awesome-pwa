@@ -41,12 +41,9 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Anonynote](https://anonynote.org): Note-taking app.
 * [Avain.app](https://avain.app): Avain
 * [Bangle.io](https://bangle.io/) - A Notion like local note taking tool where data is saved in your computer and in Markdown format.
-* [Bank Maskan](https://pwa.bank-maskan.ir): Iranian bank
-* [Rayanhamafza FWA](https://fwa.rayanbroker.ir): Iranian funds By RayanHamAfza (Only From Iran-Ip)
 * [Bento-starter](https://bento-starter.firebaseapp.com): Open-Source Full-Stack solution for fast PWA development
 * [Best Markdown Editor](https://bestmarkdowneditor.com): undefined
 * [BitMidi](https://bitmidi.com): Listen to your favorite MIDI files.
-* [Bolster](https://bolster.pro/): Bolster
 * [2048 Game](https://2048game.com/) 2048 Game
 * [Booksie](https://www.booksie.org/): An open catalog of free picture storybooks for children instantly available for reading.
 * [Budget Tracker](https://btapp.netlify.com/): Track expenses and analyse if they stick to a budget
@@ -57,7 +54,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Cat Safe Foods](https://catsafefoods.com): Sharing food with your cat? Make sure it's safe first
 * [Chitchatter](https://chitchatter.im/): Secure peer-to-peer chat that is serverless, decentralized, and ephemeral
 * [Chrome Developer Summit](https://developers.google.com/): Google Developers
-* [Clock App](https://clockapp.tk/): Analog Alarm Clock App
 * [Closerintime](https://closerinti.me): #closerintime
 * [Colosseum](https://naramsim.github.io/Colosseum/): Displays Pokemons in a beautiful way
 * [ComputerBase](https://www.computerbase.de/): German IT news site.
@@ -80,7 +76,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [FarmOS](https://farmos.app/): Farm record keeping
 * [Fast Golf Scores](https://fastgolfscores.com): Fast Golf Scores.
 * [FileLove](https://file.love/): Minimal p2p file transfer right in the browser.
-* [Firefox Platform Status](https://platform-status.mozilla.org/): Firefox Platform Status
 * [FlagWarriors](https://flagwarriors.netlify.com): Minimalist multiplayer strategy game.
 * [Football Peek](https://footballpeek.com/): Football results.
 * [Freelancer](https://m.freelancer.com/messages): Hire the best freelancers for any job, online.
@@ -95,7 +90,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [GPA Calculator](https://gpacalculator.io): Calculate your college GPA.
 * [guitar-tuner](https://aerotwist.com/blog/guitar-tuner/): Aerotwist Guitar Tuner
 * [Housing Go](http://www.housing.com): Real estate in India.
-* [Hugo](https://app.hugo.team/): Meeting notes.
 * [Hyperdraft](https://hyperdraft.rosano.ca): Turn your text notes into a website.
 * [Indecisive.US](https://indecisive.us/): App to help you make a decision.
 * [Journalistic](https://journalisticapp.com/): Micro Journaling App.
@@ -121,6 +115,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Morse Code Translator](https://morsedecoder.com/): Morse Code tools
 * [MTGStocks](https://www.mtgstocks.com/news): Magic the Gathering price tracker.
 * [Murlok.io](https://murlok.io/): World of Warcraft Shadowlands.
+* [Music Player PWA](https://akaspanion.github.io/music-app/): Music Player.
 * [MYHELLOIOT](https://adrianromero.github.io/myhelloiot/): MQTT client application.
 * [Notella](https://github.com/siddharthkp/notella): No fluff notes app.
 * [OmniCam](https://www.omnicamapp.com/): Live streaming webcams around the world.
@@ -137,9 +132,9 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [PregBuddy](https://app.pregbuddy.com): Information for pregnant women.
 * [Progressive Beer](https://deanhume.github.io/beer/): Progressive Beer
 * [PWA-NES](https://pwa-nes.vercel.app/): 8-bit NES emulator
+* [Qi Reader](https://www.qireader.com/): A modern web RSS reader.
 * [QR Code Generator](https://qr-code-generator.now.sh): Create custom QR Codes.
 * [QR Code Scanner](https://qrcodescan.in/): Scan a QR code.
-* [RedditLattice](https://redditlattice.netlify.app/): A reddit viewer for image based subreddits. Lays out the images in a tight lattice.
 * [Regex101](https://regex101.com/): Build, test and debug regex.
 * [Remember](https://paulhoughton.github.io/remember/): Location-based reminders.
 * [RepoTracker](https://repo-tracker.com): Better GitHub Repository Stats, Charts, and Insights
@@ -155,11 +150,9 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Snapdrop](https://snapdrop.net): Transfer files over wifi.
 * [Soodoku](https://soodoku.com/): Advanced sudoku game, works online & offline, without ads and distractions.
 * [SoundCloud](https://soundcloud.com/): Stream and listen to music.
-* [Soundpad](https://soundpad.tk/): Sound Sequencer App.
 * [Soundslice](https://www.soundslice.com): Create living sheet music.
 * [SplittyPie](https://splittypie.com): Easy expense splitting.
 * [Spotify](https://open.spotify.com/): Music streaming.
-* [sv-ginger](https://sv-ginger.appspot.com/): Ginger WebGL Morph Demo
 * [SvenPanel](https://svenpanel.de/): The Shrine - The Message Is Feierei Alda.
 * [SVGOMG](https://jakearchibald.github.io/svgomg/): SVGO's Missing GUI
 * [Swahili Dictionary](https://swahili-dictionary.com/): Offline Swahili-English-Swahili dictionary
@@ -169,7 +162,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Threema Web](https://web.threema.ch/): The messenger that puts security and privacy first.
 * [Timetable](https://leoherrmann.github.io/timetable/): Interactive editable timetable.
 * [Tinder](https://tinder.com): Dating app.
-* [todo.blue](https://todo.blue/): ToDo app.
 * [Todoly](https://t4p4n.github.io/todoly/): A Simple ToDo PWA
 * [Total Formatter](https://totalformatter.web.app): YAML Formatter
 * [trivago](https://www.trivago.com/): Hotel prices.
@@ -183,7 +175,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Versus](https://versus.com/en): Consumer electronics shopping.
 * [VideoTrim.app](https://videotrim.app): Video trimmer app in the browser.
 * [Wave-PD1](https://alexgibson.github.io/wavepad/): Synth toy.
-* [Web NFC enabled shopping cart](https://webnfc-shoppingcart.appspot.com): Shopping list demo.
 * [WebAPI check](https://webapicheck.com): Open this PWA to check which WebAPIs are available on your current device.
 * [Word Counter](https://wordcounter.io): Count characters, words, sentences, paragraphs, pages.
 * [Wormhole](https://wormhole.app/): Share files with end-to-end encryption.
@@ -332,7 +323,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 ## Kits
 
 * [`Bento starter`](https://github.com/kefranabg/bento-starter): Full-stack solution to build Progressive Web Apps.
-* [`Lavas`](https://lavas.baidu.com): A framework base on vue for building progressive web apps
 * [`Progressive Web Application skeleton`](https://github.com/PolymerLabs/progressive-webapp-config): A simple set of skeleton files for shipping a Progressive Web App.
 * [`pwabuilder`](http://www.pwabuilder.com/): All the tools you need to build and deploy your Progressive Web Apps.
 * [`React Storefront`](https://github.com/moovweb/react-storefront): Framework for progressive web apps with React.
