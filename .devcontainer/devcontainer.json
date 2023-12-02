@@ -1,0 +1,4 @@
+{
+	"name": "awesome-pwa",
+	"image": "mcr.microsoft.com/devcontainers/base:alpine-3.17"
+}
