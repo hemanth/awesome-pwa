@@ -36,7 +36,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [abc.xyz](https://abc.xyz): Alphabet website
 * [Air Horner](https://airhorner.com/): Air horn sound.
 * [AlarmDJ](https://alarmdj.com): Online alarm clock that plays MP3 files or YouTube videos.
-* [Aliexpress](https://m.aliexpress.com/?tracelog=wwwhome2mobilesitehome): Global shopping
 * [ampproject](https://www.ampproject.org): Web component framework.
 * [Anonynote](https://anonynote.org): Note-taking app.
 * [Avain.app](https://avain.app): Avain
@@ -129,7 +128,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [PokeQuest Wiki](https://pokequest.wiki/): Search for Pokémon
 * [Police Lights](https://policelights.tk/): Police Car Light Flash Screen App
 * [Pomotimer](https://pomotimer.com/): Pomodoro Technique Timer
-* [PregBuddy](https://app.pregbuddy.com): Information for pregnant women.
 * [Progressive Beer](https://deanhume.github.io/beer/): Progressive Beer
 * [PWA-NES](https://pwa-nes.vercel.app/): 8-bit NES emulator
 * [Qi Reader](https://www.qireader.com/): A modern web RSS reader.
@@ -142,12 +140,10 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Rydeen](https://rydeen.app/): Task management app for individuals.
 * [SaintsApp](https://saintsschedule.info/): New Orleans Saints' game schedule.
 * [Saucekudasai](https://saucekudasai.com): An Anime seacrch engine that finds animeinfo based on image provided
-* [Scoreboard.Rocks](https://scoreboard.rocks/): Scoreboard App.
 * [Similar Worlds](https://similarworlds.com/): Experience Project Alternative. Find people with similar interests.
 * [Simple Currency Converter](https://currency-converter.now.sh): Currency Converter
 * [Skcript](https://www.skcript.com/): Ruby on Rails Consulting.
 * [Smaller Pictures](https://smaller-pictures.appspot.com): Image compressor.
-* [Snapdrop](https://snapdrop.net): Transfer files over wifi.
 * [Soodoku](https://soodoku.com/): Advanced sudoku game, works online & offline, without ads and distractions.
 * [SoundCloud](https://soundcloud.com/): Stream and listen to music.
 * [Soundslice](https://www.soundslice.com): Create living sheet music.
@@ -187,10 +183,9 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 * [Build a realtime PWA using Vue.js](https://pusher.com/tutorials/pwa-vuejs)
 * [Build a realtime PWA with React](https://pusher.com/tutorials/pwa-react)
-* [Codelabs to build PWAs with Polymer 2.0](https://codelabs.developers.google.com/polymer-summit-2016)
 * [Getting started with Progressive Web Apps](https://addyosmani.com/blog/getting-started-with-progressive-web-apps/) by [@addyosmani](https://twitter.com/addyosmani)
 * [Google Developers - Progressive Web Apps](https://developers.google.com/web/progressive-web-apps)
-* [Introduction to Progressive Web Apps by Google-Udacity](https://in.udacity.com/course/intro-to-progressive-web-apps--ud811/)
+* [Introduction to Progressive Web Apps by Google-Udacity](https://udacity.com/course/intro-to-progressive-web-apps--ud811/)
 * [Introduction to progressive web apps](https://blog.pusher.com/introduction-progressive-web-apps/)
 * [Progressive Web Apps with React.js - 4 part series](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-i-introduction-50679aef2b12#.ly1xiybxd) by [@addyosmani](https://twitter.com/addyosmani)
 * [Retrofit an Existing Website as a Progressive Web App](https://www.sitepoint.com/retrofit-your-website-as-a-progressive-web-app/)
@@ -306,7 +301,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [`manifest-json`](https://www.npmjs.com/package/manifest-json): CLI tool for creating `mainfest.json`.
 * [`msgr`](https://github.com/sdgluck/msgr): Nifty service worker/client message utility
 * [`offline-plugin`](https://github.com/NekR/offline-plugin): Offline plugin (ServiceWorker, AppCache) for webpack (<http://webpack.github.io/>)
-* [`platinum-sw-register`](https://elements.polymer-project.org/elements/platinum-sw?active=platinum-sw-register): handles service worker registration for Polymer applications
 * [`PWA Asset Generator`](https://github.com/elegantapp/pwa-asset-generator): Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images. 
 * [`PWAify`](https://github.com/vladikoff/PWAify): CLI tool to convert your PWA into a cross-platform desktop app.
 * [`serviceworker-rails`](https://github.com/rossta/serviceworker-rails): Plugin to integrate Service Worker with the Rails asset pipeline.
@@ -325,7 +319,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [`Bento starter`](https://github.com/kefranabg/bento-starter): Full-stack solution to build Progressive Web Apps.
 * [`Progressive Web Application skeleton`](https://github.com/PolymerLabs/progressive-webapp-config): A simple set of skeleton files for shipping a Progressive Web App.
 * [`pwabuilder`](http://www.pwabuilder.com/): All the tools you need to build and deploy your Progressive Web Apps.
-* [`React Storefront`](https://github.com/moovweb/react-storefront): Framework for progressive web apps with React.
 * [`Web Starter Kit`](https://github.com/google/web-starter-kit): A workflow for multi-device websites.
 * [Polymer App Toolbox](https://www.polymer-project.org/3.0/toolbox/): "a collection of components, tools and templates for building Progressive Web Apps with Polymer"
 * [Preact CLI](https://github.com/developit/preact-cli): "Your next Preact PWA in 30 seconds"
@@ -336,7 +329,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 * [Developing Progressive Web Apps Course](https://codelabs.developers.google.com/dev-pwa-training) (free)
 * [Getting Started with Progressive Web Apps](https://www.pluralsight.com/courses/web-apps-progressive-getting-started) (paid)
-* [Intro to Progressive Web Apps](https://in.udacity.com/course/intro-to-progressive-web-apps--ud811) (free)
+* [Intro to Progressive Web Apps](https://udacity.com/course/intro-to-progressive-web-apps--ud811) (free)
 * [Learn to build progressive web apps using JavaScript](https://www.udemy.com/course/learn-to-build-progressive-web-apps-using-javascript/) (paid)
 * [Progressive Web App Fundamentals](https://www.pluralsight.com/courses/progressive-web-app-fundamentals) (paid)
 * [Progressive Web Apps - The Concise PWA Masterclass](https://www.udemy.com/course/progressive-web-apps/) (paid)
