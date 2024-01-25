@@ -165,7 +165,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Twitter](https://twitter.com): Microblogging app.
 * [Uber Web](https://m.uber.com): Ridesharing app.
 * [Unalengua IPA Translator](https://unalengua.com/ipa): Translate to IPA.
-* [VeganCheck](https://vegancheck.me): Check if a product is vegan or not.
+* [Veganify](https://veganify.app): Check if a product is vegan or not.
 * [VeggieTables](https://veggietables.org): Track your crops and farming activities.
 * [Versus](https://versus.com/en): Consumer electronics shopping.
 * [VideoTrim.app](https://videotrim.app): Video trimmer app in the browser.
