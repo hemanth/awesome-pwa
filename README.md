@@ -177,6 +177,8 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Yahtzee](https://zpix1.github.io/yahtzee/): Dice generator.
 * [Youtube Music](https://music.youtube.com/): Music streaming via YouTube.
 * [ztable.io](https://ztable.io/): Z-Table lookup & Z-Score calculator.
+* [Photo Fun](https://photos.eyenov.com/): Camera application that lets you create amazing photos and gifs with fun and unconventional filters.
+* [Comics](https://comics.eyenov.com/): Comicstrip maker which is very easy to use and fun to play with.
 
 ## Tutorials
 
