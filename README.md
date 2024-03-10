@@ -120,6 +120,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Othello](https://othello-rust.web.app/): Play Othello against the computer.
 * [PakWheels](https://www.pakwheels.com/): Buy/sell cars.
 * [Passky](https://vault.passky.org/): Free and open-source Password Manager
+* [PasteePad](https://pasteepad.com/): Free and simple notepad app
 * [Paytm Lite](https://paytm.com/): Online wallet and payments.
 * [Photopea](https://www.photopea.com/): Online Photo Editor.
 * [PixelCraft](https://pixelcraft.web.app): Pixel Art Editor
