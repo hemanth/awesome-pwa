@@ -56,6 +56,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Colosseum](https://naramsim.github.io/Colosseum/): Displays Pokemons in a beautiful way
 * [ComputerBase](https://www.computerbase.de/): German IT news site.
 * [Contrax](https://contrax.app): Track your contracts, subscriptions and trials.
+* [Coursicle](https://play.google.com/store/apps/details?id=com.coursicle.coursicle&hl=en_US&gl=US): Chat with other students in your classes, plan your schedule, and get notified when classes have open seats.
 * [Crazy Dice](https://crazydice.netlify.app): Simple Dice App.
 * [Currency Exchange Loss Calculator](https://currency-loss.netlify.com/): Currency Exchange Loss Calculator
 * [Datememe](https://www.datememe.com): Online dating.
