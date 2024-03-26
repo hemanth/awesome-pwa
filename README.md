@@ -53,6 +53,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Chitchatter](https://chitchatter.im/): Secure peer-to-peer chat that is serverless, decentralized, and ephemeral
 * [Chrome Developer Summit](https://developers.google.com/): Google Developers
 * [Closerintime](https://closerinti.me): #closerintime
+* [ColorBeta](https://colorbeta.com): Advanced CSS Gradient Generator
 * [Colosseum](https://naramsim.github.io/Colosseum/): Displays Pokemons in a beautiful way
 * [ComputerBase](https://www.computerbase.de/): German IT news site.
 * [Contrax](https://contrax.app): Track your contracts, subscriptions and trials.
