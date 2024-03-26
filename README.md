@@ -1,8 +1,8 @@
-# awesome-pwa [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![CI](https://github.com/hemanth/awesome-pwa/workflows/CI/badge.svg?branch=master)
+# awesome-pwa [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![CI](https://github.com/hemanth/awesome-pwa/actions/workflows/test.yml/badge.svg?branch=master)
 
 > Useful resources for creating Progressive Web Apps
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
+_Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing._
 
 ## What is a Progressive Web App
 
@@ -26,37 +26,37 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 * [appsco.pe](https://appsco.pe)
 * [0data.app](https://0data.app)
+* [pwalist.app](https://www.pwalist.app/)
+* [store.app](https://store.app/)
 
 ## Apps
 
 * [2brew](https://2brew.github.io/): PWA timer for coffee brewing
-* [2fA](https://2fa.crossphoton.tech): Extended 2FA
 * [abc.xyz](https://abc.xyz): Alphabet website
 * [Air Horner](https://airhorner.com/): Air horn sound.
 * [AlarmDJ](https://alarmdj.com): Online alarm clock that plays MP3 files or YouTube videos.
-* [Aliexpress](https://m.aliexpress.com/?tracelog=wwwhome2mobilesitehome): Global shopping
 * [ampproject](https://www.ampproject.org): Web component framework.
 * [Anonynote](https://anonynote.org): Note-taking app.
 * [Avain.app](https://avain.app): Avain
 * [Bangle.io](https://bangle.io/) - A Notion like local note taking tool where data is saved in your computer and in Markdown format.
-* [Bank Maskan](https://pwa.bank-maskan.ir): Iranian bank
 * [Bento-starter](https://bento-starter.firebaseapp.com): Open-Source Full-Stack solution for fast PWA development
 * [Best Markdown Editor](https://bestmarkdowneditor.com): undefined
 * [BitMidi](https://bitmidi.com): Listen to your favorite MIDI files.
-* [Bolster](https://bolster.pro/): Bolster
+* [2048 Game](https://2048game.com/) 2048 Game
 * [Booksie](https://www.booksie.org/): An open catalog of free picture storybooks for children instantly available for reading.
 * [Budget Tracker](https://btapp.netlify.com/): Track expenses and analyse if they stick to a budget
+* [bundle](https://bundle.js.org/): A quick and easy way to bundle, minify, and compress (gzip and brotli) your ts, js, jsx and npm projects all online, with the resulting file size.
 * [Calculator](https://calculator-app-tau.vercel.app/): A calculator app with theme switcher
+* [Calm Whisper](https://calmwhisper.com): Soothing ambient sounds for focus, sleep and relaxation
 * [Care Cards](https://carecards.io): Care Cards
 * [Cat Safe Foods](https://catsafefoods.com): Sharing food with your cat? Make sure it's safe first
+* [Chitchatter](https://chitchatter.im/): Secure peer-to-peer chat that is serverless, decentralized, and ephemeral
 * [Chrome Developer Summit](https://developers.google.com/): Google Developers
-* [Clock App](https://clockapp.tk/): Analog Alarm Clock App
 * [Closerintime](https://closerinti.me): #closerintime
 * [Colosseum](https://naramsim.github.io/Colosseum/): Displays Pokemons in a beautiful way
 * [ComputerBase](https://www.computerbase.de/): German IT news site.
 * [Contrax](https://contrax.app): Track your contracts, subscriptions and trials.
 * [Crazy Dice](https://crazydice.netlify.app): Simple Dice App.
-* [Currency Converter](https://www.currency-x.com): Currency Calculator
 * [Currency Exchange Loss Calculator](https://currency-loss.netlify.com/): Currency Exchange Loss Calculator
 * [Datememe](https://www.datememe.com): Online dating.
 * [Demo PWA](https://github.com/gokulkrishh/demo-progressive-web-app): Demonstrating offline, push notifications, background sync etc.
@@ -64,13 +64,16 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [DevDocs](https://devdocs.io/): API Documentation Browser
 * [Digikala](https://www.digikala.com/): Digikala Web App
 * [Dog Safe Foods](https://dogsafefoods.com): Sharing food with your dog? Make sure it's safe first
+* [DontBore](https://dontbo.re/): Find and share logins.
+* [DTH Search India](https://www.dthchannelsearch.in/): Search DTH TV channel numbers in India.
 * [ELFSH](https://elfsh.mousetail.nl): Food and expense manager.
 * [emberclear](https://emberclear.io): Encrypted Chat. No History. No Logs.
 * [Emoji Log](https://emojilog.rosano.ca): Personal tracker
 * [Etch](https://etch.co): A Small team of Designers and Developers.
-* [Farmhand](https://jeremyckahn.github.io/farmhand/): Farmhand
+* [Farmhand](https://www.farmhand.life/): A resource management game that puts a farm in your hand
+* [FarmOS](https://farmos.app/): Farm record keeping
 * [Fast Golf Scores](https://fastgolfscores.com): Fast Golf Scores.
-* [Firefox Platform Status](https://platform-status.mozilla.org/): Firefox Platform Status
+* [FileLove](https://file.love/): Minimal p2p file transfer right in the browser.
 * [FlagWarriors](https://flagwarriors.netlify.com): Minimalist multiplayer strategy game.
 * [Football Peek](https://footballpeek.com/): Football results.
 * [Freelancer](https://m.freelancer.com/messages): Hire the best freelancers for any job, online.
@@ -87,11 +90,12 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Housing Go](http://www.housing.com): Real estate in India.
 * [Hyperdraft](https://hyperdraft.rosano.ca): Turn your text notes into a website.
 * [Indecisive.US](https://indecisive.us/): App to help you make a decision.
-* [IP Tools](https://iptools.tk/): Free, Fast & Flexible IP Tools.
 * [Journalistic](https://journalisticapp.com/): Micro Journaling App.
 * [Joybox](https://joybox.rosano.ca): A pinboard for audiovisual media.
 * [jsfeatures](https://jsfeatures.in): JavaScript features
 * [JSON Formatter](https://jsonformatter.live/): Minimalist JSON formatter.
+* [JustInvoice](https://justinvoice.netlify.app/app): An intuitive invoice manager that works completely in the browser and offline.
+* [JustTimeTrack](https://justtimetrack.vercel.app): A Free and Open source Time Tracker.
 * [Kahla](https://web.kahla.app): Business messaging app.
 * [Kommit](https://kommit.rosano.ca): Create flashcards and learn them with spaced-repetition.
 * [Launchlet](https://launchlet.dev): Customize any website with JavaScript or CSS.
@@ -103,43 +107,49 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [MConverter](https://mconverter.eu): Online file converter.
 * [Medium](https://medium.com/): Writing space.
 * [Memory Game PWA](https://pwa-memory-game.surge.sh/): Strengthen your memory.
+* [MΞRKLIN](https://merklin.xyz): Open-source Ethereum Wallet Explorer.
 * [Messages for web (by google)](https://messages.google.com/web/): 400
 * [MoneyTracker](https://moneytracker.cc/): Personal finances tracking web app.
 * [Morse Code Translator](https://morsedecoder.com/): Morse Code tools
 * [MTGStocks](https://www.mtgstocks.com/news): Magic the Gathering price tracker.
 * [Murlok.io](https://murlok.io/): World of Warcraft Shadowlands.
+* [Music Player PWA](https://akaspanion.github.io/music-app/): Music Player.
 * [MYHELLOIOT](https://adrianromero.github.io/myhelloiot/): MQTT client application.
 * [Notella](https://github.com/siddharthkp/notella): No fluff notes app.
-* [Notepad](https://www.amitmerchant.com/notepad/): An offline-capable, quick, and distraction-free Notepad.
-* [offline-wikipedia](https://wiki-offline.jakearchibald.com/): Offline Wikipedia
 * [OmniCam](https://www.omnicamapp.com/): Live streaming webcams around the world.
+* [Othello](https://othello-rust.web.app/): Play Othello against the computer.
 * [PakWheels](https://www.pakwheels.com/): Buy/sell cars.
+* [Passky](https://vault.passky.org/): Free and open-source Password Manager
+* [PasteePad](https://pasteepad.com/): Free and simple notepad app
 * [Paytm Lite](https://paytm.com/): Online wallet and payments.
+* [Photopea](https://www.photopea.com/): Online Photo Editor.
 * [PixelCraft](https://pixelcraft.web.app): Pixel Art Editor
 * [Pokedex](https://pokedex.org/): Indexing Pokémon
 * [PokeQuest Wiki](https://pokequest.wiki/): Search for Pokémon
 * [Police Lights](https://policelights.tk/): Police Car Light Flash Screen App
-* [PregBuddy](https://app.pregbuddy.com): Information for pregnant women.
+* [Pomotimer](https://pomotimer.com/): Pomodoro Technique Timer
 * [Progressive Beer](https://deanhume.github.io/beer/): Progressive Beer
 * [PWA-NES](https://pwa-nes.vercel.app/): 8-bit NES emulator
+* [Qi Reader](https://www.qireader.com/): A modern web RSS reader.
 * [QR Code Generator](https://qr-code-generator.now.sh): Create custom QR Codes.
 * [QR Code Scanner](https://qrcodescan.in/): Scan a QR code.
+* [Regex101](https://regex101.com/): Build, test and debug regex.
 * [Remember](https://paulhoughton.github.io/remember/): Location-based reminders.
+* [RepoTracker](https://repo-tracker.com): Better GitHub Repository Stats, Charts, and Insights
 * [Resume Nation](https://resume-nation.github.io): Resume creator.
 * [Rydeen](https://rydeen.app/): Task management app for individuals.
 * [SaintsApp](https://saintsschedule.info/): New Orleans Saints' game schedule.
 * [Saucekudasai](https://saucekudasai.com): An Anime seacrch engine that finds animeinfo based on image provided
-* [Scoreboard.Rocks](https://scoreboard.rocks/): Scoreboard App.
-* [Similar Worlds](https://similarworlds.com/): Connect with others who share interests.
+* [Similar Worlds](https://similarworlds.com/): Experience Project Alternative. Find people with similar interests.
 * [Simple Currency Converter](https://currency-converter.now.sh): Currency Converter
 * [Skcript](https://www.skcript.com/): Ruby on Rails Consulting.
 * [Smaller Pictures](https://smaller-pictures.appspot.com): Image compressor.
-* [Snapdrop](https://snapdrop.net): Transfer files over wifi.
-* [Soundpad](https://soundpad.tk/): Sound Sequencer App.
+* [Soodoku](https://soodoku.com/): Advanced sudoku game, works online & offline, without ads and distractions.
+* [SoundCloud](https://soundcloud.com/): Stream and listen to music.
 * [Soundslice](https://www.soundslice.com): Create living sheet music.
 * [SplittyPie](https://splittypie.com): Easy expense splitting.
 * [Spotify](https://open.spotify.com/): Music streaming.
-* [sv-ginger](https://sv-ginger.appspot.com/): Ginger WebGL Morph Demo
+* [SvenPanel](https://svenpanel.de/): The Shrine - The Message Is Feierei Alda.
 * [SVGOMG](https://jakearchibald.github.io/svgomg/): SVGO's Missing GUI
 * [Swahili Dictionary](https://swahili-dictionary.com/): Offline Swahili-English-Swahili dictionary
 * [Taskade](https://www.taskade.com): Remote Team Workspace.
@@ -148,18 +158,20 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Threema Web](https://web.threema.ch/): The messenger that puts security and privacy first.
 * [Timetable](https://leoherrmann.github.io/timetable/): Interactive editable timetable.
 * [Tinder](https://tinder.com): Dating app.
-* [todo.blue](https://todo.blue/): ToDo app.
 * [Todoly](https://t4p4n.github.io/todoly/): A Simple ToDo PWA
 * [Total Formatter](https://totalformatter.web.app): YAML Formatter
 * [trivago](https://www.trivago.com/): Hotel prices.
 * [Tutor Portfolio PWA](https://englishextra.gitlab.io/): ???
+* [TurboPixel](https://turborium.github.io/turbopixel/): PixelArt Camera PWA
 * [Twitter](https://twitter.com): Microblogging app.
 * [Uber Web](https://m.uber.com): Ridesharing app.
 * [Unalengua IPA Translator](https://unalengua.com/ipa): Translate to IPA.
+* [VeganCheck](https://vegancheck.me): Check if a product is vegan or not.
 * [VeggieTables](https://veggietables.org): Track your crops and farming activities.
 * [Versus](https://versus.com/en): Consumer electronics shopping.
+* [VideoTrim.app](https://videotrim.app): Video trimmer app in the browser.
 * [Wave-PD1](https://alexgibson.github.io/wavepad/): Synth toy.
-* [Web NFC enabled shopping cart](https://webnfc-shoppingcart.appspot.com): Shopping list demo.
+* [WebAPI check](https://webapicheck.com): Open this PWA to check which WebAPIs are available on your current device.
 * [Word Counter](https://wordcounter.io): Count characters, words, sentences, paragraphs, pages.
 * [Wormhole](https://wormhole.app/): Share files with end-to-end encryption.
 * [X Sound](https://korilakkuma.github.io/X-Sound/): Online keyboard synth.
@@ -171,10 +183,9 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 * [Build a realtime PWA using Vue.js](https://pusher.com/tutorials/pwa-vuejs)
 * [Build a realtime PWA with React](https://pusher.com/tutorials/pwa-react)
-* [Codelabs to build PWAs with Polymer 2.0](https://codelabs.developers.google.com/polymer-summit-2016)
 * [Getting started with Progressive Web Apps](https://addyosmani.com/blog/getting-started-with-progressive-web-apps/) by [@addyosmani](https://twitter.com/addyosmani)
 * [Google Developers - Progressive Web Apps](https://developers.google.com/web/progressive-web-apps)
-* [Introduction to Progressive Web Apps by Google-Udacity](https://in.udacity.com/course/intro-to-progressive-web-apps--ud811/)
+* [Introduction to Progressive Web Apps by Google-Udacity](https://udacity.com/course/intro-to-progressive-web-apps--ud811/)
 * [Introduction to progressive web apps](https://blog.pusher.com/introduction-progressive-web-apps/)
 * [Progressive Web Apps with React.js - 4 part series](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-i-introduction-50679aef2b12#.ly1xiybxd) by [@addyosmani](https://twitter.com/addyosmani)
 * [Retrofit an Existing Website as a Progressive Web App](https://www.sitepoint.com/retrofit-your-website-as-a-progressive-web-app/)
@@ -192,6 +203,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [How I built a Progressive Beer App](https://deanhume.com/Home/BlogPost/how-i-built-a-progressive-beer-app/10148)
 * [How I made a Progressive Web App out of my Blog](https://alexjoverm.github.io/2017/08/07/How-I-made-a-Progressive-Web-App-out-of-my-Blog/)
 * [How we made our website offline first](https://www.skcript.com/svr/offline-is-the-new-online/)
+* [How to build a PWA from scratch with HTML, CSS, and JavaScript](https://www.freecodecamp.org/news/build-a-pwa-from-scratch-with-html-css-and-javascript/)
 * [IndexedDB, WebSQL, LocalStorage – what blocks the DOM?](https://nolanlawson.com/2015/09/29/indexeddb-websql-localstorage-what-blocks-the-dom/)
 * [Installable Web Apps with the WebApp Manifest in Chrome for Android](https://developers.google.com/web/updates/2014/11/Support-for-installable-web-apps-with-webapp-manifest-in-chrome-38-for-Android)
 * [Integrating Progressive Web Apps deeply into Android](https://blog.chromium.org/2017/02/integrating-progressive-web-apps-deeply.html)
@@ -211,7 +223,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [The web app "discovery problem"](https://remysharp.com/2016/04/11/the-webapp-discovery-problem)
 * [What Progressive Web Apps Mean for the Web](http://developer.telerik.com/featured/what-progressive-web-apps-mean-for-the-web/)
 * [You’re Missing the Point of Server-Side Rendered JavaScript Apps](http://tomdale.net/2015/02/youre-missing-the-point-of-server-side-rendered-javascript-apps/)
-
 
 ## Videos
 
@@ -290,7 +301,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [`manifest-json`](https://www.npmjs.com/package/manifest-json): CLI tool for creating `mainfest.json`.
 * [`msgr`](https://github.com/sdgluck/msgr): Nifty service worker/client message utility
 * [`offline-plugin`](https://github.com/NekR/offline-plugin): Offline plugin (ServiceWorker, AppCache) for webpack (<http://webpack.github.io/>)
-* [`platinum-sw-register`](https://elements.polymer-project.org/elements/platinum-sw?active=platinum-sw-register): handles service worker registration for Polymer applications
+* [`PWA Asset Generator`](https://github.com/elegantapp/pwa-asset-generator): Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images.
 * [`PWAify`](https://github.com/vladikoff/PWAify): CLI tool to convert your PWA into a cross-platform desktop app.
 * [`serviceworker-rails`](https://github.com/rossta/serviceworker-rails): Plugin to integrate Service Worker with the Rails asset pipeline.
 * [`serviceworker-webpack-plugin`](https://github.com/oliviertassinari/serviceworker-webpack-plugin): Simplifies creation of a service worker to serve your webpack bundles.
@@ -306,10 +317,8 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 ## Kits
 
 * [`Bento starter`](https://github.com/kefranabg/bento-starter): Full-stack solution to build Progressive Web Apps.
-* [`Lavas`](https://lavas.baidu.com): A framework base on vue for building progressive web apps
 * [`Progressive Web Application skeleton`](https://github.com/PolymerLabs/progressive-webapp-config): A simple set of skeleton files for shipping a Progressive Web App.
 * [`pwabuilder`](http://www.pwabuilder.com/): All the tools you need to build and deploy your Progressive Web Apps.
-* [`React Storefront`](https://github.com/moovweb/react-storefront): Framework for progressive web apps with React.
 * [`Web Starter Kit`](https://github.com/google/web-starter-kit): A workflow for multi-device websites.
 * [Polymer App Toolbox](https://www.polymer-project.org/3.0/toolbox/): "a collection of components, tools and templates for building Progressive Web Apps with Polymer"
 * [Preact CLI](https://github.com/developit/preact-cli): "Your next Preact PWA in 30 seconds"
@@ -320,7 +329,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 * [Developing Progressive Web Apps Course](https://codelabs.developers.google.com/dev-pwa-training) (free)
 * [Getting Started with Progressive Web Apps](https://www.pluralsight.com/courses/web-apps-progressive-getting-started) (paid)
-* [Intro to Progressive Web Apps](https://in.udacity.com/course/intro-to-progressive-web-apps--ud811) (free)
+* [Intro to Progressive Web Apps](https://udacity.com/course/intro-to-progressive-web-apps--ud811) (free)
 * [Learn to build progressive web apps using JavaScript](https://www.udemy.com/course/learn-to-build-progressive-web-apps-using-javascript/) (paid)
 * [Progressive Web App Fundamentals](https://www.pluralsight.com/courses/progressive-web-app-fundamentals) (paid)
 * [Progressive Web Apps - The Concise PWA Masterclass](https://www.udemy.com/course/progressive-web-apps/) (paid)

@@ -1,6 +1,6 @@
 name: CI
 
-on: [push]
+on: [push, pull_request]
 
 jobs:
   build:
@@ -9,10 +9,10 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - uses: actions/setup-ruby@v1
+    - uses: ruby/setup-ruby@v1
       with:
         ruby-version: '2.7'
     - name: Install awesome_bot
       run: gem install awesome_bot
     - name: Check links
-      run: awesome_bot -f README.md --set-timeout 10 --allow-redirect --white-list twitter.com/addyosmani,github.com/sindresorhus/awesome --skip-save-results
+      run: awesome_bot -f README.md --set-timeout 10 --allow-redirect --white-list twitter.com/addyosmani,github.com/sindresorhus/awesome,messages.google.com/web,trivago.com,udemy.com --skip-save-results
