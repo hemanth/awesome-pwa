@@ -124,6 +124,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Paytm Lite](https://paytm.com/): Online wallet and payments.
 * [Photopea](https://www.photopea.com/): Online Photo Editor.
 * [PixelCraft](https://pixelcraft.web.app): Pixel Art Editor
+* [Pocket Devices](https://pocket-devices.com/): Pocket-sized tools for seamless functionality on the go.
 * [Pokedex](https://pokedex.org/): Indexing Pokémon
 * [PokeQuest Wiki](https://pokequest.wiki/): Search for Pokémon
 * [Police Lights](https://policelights.tk/): Police Car Light Flash Screen App
