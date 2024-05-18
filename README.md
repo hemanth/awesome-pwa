@@ -129,6 +129,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Police Lights](https://policelights.tk/): Police Car Light Flash Screen App
 * [Pomotimer](https://pomotimer.com/): Pomodoro Technique Timer
 * [Progressive Beer](https://deanhume.github.io/beer/): Progressive Beer
+* [PPResume](https://ppresume.com/): A LaTeX Based Resume Builder
 * [PWA-NES](https://pwa-nes.vercel.app/): 8-bit NES emulator
 * [Qi Reader](https://www.qireader.com/): A modern web RSS reader.
 * [QR Code Generator](https://qr-code-generator.now.sh): Create custom QR Codes.
