@@ -149,6 +149,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Soundslice](https://www.soundslice.com): Create living sheet music.
 * [SplittyPie](https://splittypie.com): Easy expense splitting.
 * [Spotify](https://open.spotify.com/): Music streaming.
+* [Sudoku Mood](https://www.sudokumood.com): Sudoku app with high-quality puzzles and unique animated hints.
 * [SvenPanel](https://svenpanel.de/): The Shrine - The Message Is Feierei Alda.
 * [SVGOMG](https://jakearchibald.github.io/svgomg/): SVGO's Missing GUI
 * [Swahili Dictionary](https://swahili-dictionary.com/): Offline Swahili-English-Swahili dictionary
