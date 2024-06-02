@@ -39,6 +39,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [ampproject](https://www.ampproject.org): Web component framework.
 * [Anonynote](https://anonynote.org): Note-taking app.
 * [Avain.app](https://avain.app): Avain
+* [Backgammon](https://nenadalm.github.io/backgammon/): Backgammon game with local multiplayer (no single player).
 * [Bangle.io](https://bangle.io/) - A Notion like local note taking tool where data is saved in your computer and in Markdown format.
 * [Bento-starter](https://bento-starter.firebaseapp.com): Open-Source Full-Stack solution for fast PWA development
 * [Best Markdown Editor](https://bestmarkdowneditor.com): undefined
@@ -101,6 +102,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Kommit](https://kommit.rosano.ca): Create flashcards and learn them with spaced-repetition.
 * [Launchlet](https://launchlet.dev): Customize any website with JavaScript or CSS.
 * [Let's Plant](https://letsplant.org/): Plant chooser.
+* [Life counter](https://nenadalm.github.io/life-counter/): Life counter app for 2 players. Supports game profiles, cout up/down.
 * [Lofimusic.app](https://lofimusic.app/): Online radio Radio
 * [Lorem Ipsum](https://loremipsum.io): Lorem Ipsum generator.
 * [Math Riddles](https://mathriddles.netlify.app): Interesting Math Riddles.
