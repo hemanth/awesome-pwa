@@ -2,7 +2,8 @@
 
 > Useful resources for creating Progressive Web Apps
 
-_Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing._
+## Sponsors 
+![https://www.magicbell.com/](https://magicbell.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd0514836-68dc-4efa-864a-532932529baf%2FLogoMB_purple.svg?table=block&id=ca04cc4f-a5ff-4629-9614-13b705a27ae3&spaceId=747204a9-b3b5-4726-8379-1b04a63bafa6&userId=&cache=v2)
 
 ## What is a Progressive Web App
 
@@ -38,6 +39,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [ampproject](https://www.ampproject.org): Web component framework.
 * [Anonynote](https://anonynote.org): Note-taking app.
 * [Avain.app](https://avain.app): Avain
+* [Backgammon](https://nenadalm.github.io/backgammon/): Backgammon game with local multiplayer (no single player).
 * [Bangle.io](https://bangle.io/) - A Notion like local note taking tool where data is saved in your computer and in Markdown format.
 * [Bento-starter](https://bento-starter.firebaseapp.com): Open-Source Full-Stack solution for fast PWA development
 * [Best Markdown Editor](https://bestmarkdowneditor.com): undefined
@@ -100,6 +102,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Kommit](https://kommit.rosano.ca): Create flashcards and learn them with spaced-repetition.
 * [Launchlet](https://launchlet.dev): Customize any website with JavaScript or CSS.
 * [Let's Plant](https://letsplant.org/): Plant chooser.
+* [Life counter](https://nenadalm.github.io/life-counter/): Life counter app for 2 players. Supports game profiles, cout up/down.
 * [Lofimusic.app](https://lofimusic.app/): Online radio Radio
 * [Lorem Ipsum](https://loremipsum.io): Lorem Ipsum generator.
 * [Math Riddles](https://mathriddles.netlify.app): Interesting Math Riddles.
@@ -165,6 +168,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Twitter](https://twitter.com): Microblogging app.
 * [Uber Web](https://m.uber.com): Ridesharing app.
 * [Unalengua IPA Translator](https://unalengua.com/ipa): Translate to IPA.
+* [Veganify](https://veganify.app): Check if a product is vegan or not.
 * [VeggieTables](https://veggietables.org): Track your crops and farming activities.
 * [Versus](https://versus.com/en): Consumer electronics shopping.
 * [VideoTrim.app](https://videotrim.app): Video trimmer app in the browser.
@@ -176,6 +180,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Yahtzee](https://zpix1.github.io/yahtzee/): Dice generator.
 * [Youtube Music](https://music.youtube.com/): Music streaming via YouTube.
 * [ztable.io](https://ztable.io/): Z-Table lookup & Z-Score calculator.
+* [webpushtest](https://webpushtest.com/): Web Push Notifications Demo
 
 ## Tutorials
 
