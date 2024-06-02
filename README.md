@@ -46,6 +46,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [BitMidi](https://bitmidi.com): Listen to your favorite MIDI files.
 * [2048 Game](https://2048game.com/) 2048 Game
 * [Booksie](https://www.booksie.org/): An open catalog of free picture storybooks for children instantly available for reading.
+* [Brutalist Hacker News](https://brutalisthackernews.com): A Hacker News reader inspired by Brutalist Web design, Cyberpunk, retro computing, Y2K Aesthetics 
 * [Budget Tracker](https://btapp.netlify.com/): Track expenses and analyse if they stick to a budget
 * [bundle](https://bundle.js.org/): A quick and easy way to bundle, minify, and compress (gzip and brotli) your ts, js, jsx and npm projects all online, with the resulting file size.
 * [Calculator](https://calculator-app-tau.vercel.app/): A calculator app with theme switcher
