@@ -156,6 +156,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Swahili Dictionary](https://swahili-dictionary.com/): Offline Swahili-English-Swahili dictionary
 * [Taskade](https://www.taskade.com): Remote Team Workspace.
 * [Telegram](https://web.telegram.org/): Telegram Web App.
+* [Tender](https://app.tender.run/create-account): Personal finance app.
 * [Themer](https://themer.dev): Theme generator for editors, terminals, wallpapers, and more.
 * [Threema Web](https://web.threema.ch/): The messenger that puts security and privacy first.
 * [Timetable](https://leoherrmann.github.io/timetable/): Interactive editable timetable.
