@@ -128,6 +128,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Paytm Lite](https://paytm.com/): Online wallet and payments.
 * [Photopea](https://www.photopea.com/): Online Photo Editor.
 * [PixelCraft](https://pixelcraft.web.app): Pixel Art Editor
+* [Player order selector](https://nenadalm.github.io/player-order-selector/): Random player order selector.
 * [Pokedex](https://pokedex.org/): Indexing Pokémon
 * [PokeQuest Wiki](https://pokequest.wiki/): Search for Pokémon
 * [Pomotimer](https://pomotimer.com/): Pomodoro Technique Timer
@@ -174,6 +175,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [VeggieTables](https://veggietables.org): Track your crops and farming activities.
 * [Versus](https://versus.com/en): Consumer electronics shopping.
 * [VideoTrim.app](https://videotrim.app): Video trimmer app in the browser.
+* [Virus Wars](https://nenadalm.github.io/virus-wars/): Virus Wars game with local multiplayer (no single player).
 * [Wave-PD1](https://alexgibson.github.io/wavepad/): Synth toy.
 * [WebAPI check](https://webapicheck.com): Open this PWA to check which WebAPIs are available on your current device.
 * [Word Counter](https://wordcounter.io): Count characters, words, sentences, paragraphs, pages.
