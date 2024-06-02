@@ -49,12 +49,12 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Budget Tracker](https://btapp.netlify.com/): Track expenses and analyse if they stick to a budget
 * [bundle](https://bundle.js.org/): A quick and easy way to bundle, minify, and compress (gzip and brotli) your ts, js, jsx and npm projects all online, with the resulting file size.
 * [Calculator](https://calculator-app-tau.vercel.app/): A calculator app with theme switcher
-* [Calm Whisper](https://calmwhisper.com): Soothing ambient sounds for focus, sleep and relaxation
 * [Care Cards](https://carecards.io): Care Cards
 * [Cat Safe Foods](https://catsafefoods.com): Sharing food with your cat? Make sure it's safe first
 * [Chitchatter](https://chitchatter.im/): Secure peer-to-peer chat that is serverless, decentralized, and ephemeral
 * [Chrome Developer Summit](https://developers.google.com/): Google Developers
 * [Closerintime](https://closerinti.me): #closerintime
+* [ColorBeta](https://colorbeta.com): Advanced CSS Gradient Generator
 * [Colosseum](https://naramsim.github.io/Colosseum/): Displays Pokemons in a beautiful way
 * [ComputerBase](https://www.computerbase.de/): German IT news site.
 * [Contrax](https://contrax.app): Track your contracts, subscriptions and trials.
@@ -129,7 +129,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [PixelCraft](https://pixelcraft.web.app): Pixel Art Editor
 * [Pokedex](https://pokedex.org/): Indexing Pokémon
 * [PokeQuest Wiki](https://pokequest.wiki/): Search for Pokémon
-* [Police Lights](https://policelights.tk/): Police Car Light Flash Screen App
 * [Pomotimer](https://pomotimer.com/): Pomodoro Technique Timer
 * [Progressive Beer](https://deanhume.github.io/beer/): Progressive Beer
 * [PWA-NES](https://pwa-nes.vercel.app/): 8-bit NES emulator
@@ -206,7 +205,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [From Electron to Progressive Web App](https://mjswensen.com/blog/2019/03/23/from-electron-to-progressive-web-app/)
 * [How I built a Progressive Beer App](https://deanhume.com/Home/BlogPost/how-i-built-a-progressive-beer-app/10148)
 * [How I made a Progressive Web App out of my Blog](https://alexjoverm.github.io/2017/08/07/How-I-made-a-Progressive-Web-App-out-of-my-Blog/)
-* [How we made our website offline first](https://www.skcript.com/svr/offline-is-the-new-online/)
+* [How we made our website offline first](https://blog.skcript.com/svr/offline-is-the-new-online/)
 * [How to build a PWA from scratch with HTML, CSS, and JavaScript](https://www.freecodecamp.org/news/build-a-pwa-from-scratch-with-html-css-and-javascript/)
 * [IndexedDB, WebSQL, LocalStorage – what blocks the DOM?](https://nolanlawson.com/2015/09/29/indexeddb-websql-localstorage-what-blocks-the-dom/)
 * [Installable Web Apps with the WebApp Manifest in Chrome for Android](https://developers.google.com/web/updates/2014/11/Support-for-installable-web-apps-with-webapp-manifest-in-chrome-38-for-Android)
