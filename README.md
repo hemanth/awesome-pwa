@@ -1,9 +1,9 @@
-# awesome-pwa [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![CI](https://github.com/hemanth/awesome-pwa/actions/workflows/test.yml/badge.svg?branch=master)
+![image](https://github.com/hemanth/awesome-pwa/assets/18315/dc5a302d-8e79-4193-8260-c198d5b01dbd)# awesome-pwa [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![CI](https://github.com/hemanth/awesome-pwa/actions/workflows/test.yml/badge.svg?branch=master)
 
 > Useful resources for creating Progressive Web Apps
 
 ## Sponsors 
-![https://www.magicbell.com/](https://magicbell.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd0514836-68dc-4efa-864a-532932529baf%2FLogoMB_purple.svg?table=block&id=ca04cc4f-a5ff-4629-9614-13b705a27ae3&spaceId=747204a9-b3b5-4726-8379-1b04a63bafa6&userId=&cache=v2)
+![https://www.magicbell.com/?ref=awesome](https://magicbell.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd0514836-68dc-4efa-864a-532932529baf%2FLogoMB_purple.svg?table=block&id=ca04cc4f-a5ff-4629-9614-13b705a27ae3&spaceId=747204a9-b3b5-4726-8379-1b04a63bafa6&userId=&cache=v2)
 
 ## What is a Progressive Web App
 
