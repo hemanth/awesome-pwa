@@ -34,6 +34,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 ## Apps
 
 * [2brew](https://2brew.github.io/): PWA timer for coffee brewing
+* [3D House Editor](https://3dhouseplanner.com/app2.php): Free 3D floor planner
 * [abc.xyz](https://abc.xyz): Alphabet website
 * [Air Horner](https://airhorner.com/): Air horn sound.
 * [AlarmDJ](https://alarmdj.com): Online alarm clock that plays MP3 files or YouTube videos.
