@@ -101,6 +101,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [JustTimeTrack](https://justtimetrack.vercel.app): A Free and Open source Time Tracker.
 * [Kahla](https://web.kahla.app): Business messaging app.
 * [Kommit](https://kommit.rosano.ca): Create flashcards and learn them with spaced-repetition.
+* [Kudoflix](https://kudoflix.com): Online video editor.
 * [Launchlet](https://launchlet.dev): Customize any website with JavaScript or CSS.
 * [Let's Plant](https://letsplant.org/): Plant chooser.
 * [Life counter](https://nenadalm.github.io/life-counter/): Life counter app for 2 players. Supports game profiles, cout up/down.
