@@ -1,4 +1,4 @@
-![image](https://github.com/hemanth/awesome-pwa/assets/18315/dc5a302d-8e79-4193-8260-c198d5b01dbd)# awesome-pwa [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![CI](https://github.com/hemanth/awesome-pwa/actions/workflows/test.yml/badge.svg?branch=master)
+# awesome-pwa [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![CI](https://github.com/hemanth/awesome-pwa/actions/workflows/test.yml/badge.svg?branch=master)
 
 > Useful resources for creating Progressive Web Apps
 
