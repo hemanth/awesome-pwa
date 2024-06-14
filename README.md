@@ -183,6 +183,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Wave-PD1](https://alexgibson.github.io/wavepad/): Synth toy.
 * [WebAPI check](https://webapicheck.com): Open this PWA to check which WebAPIs are available on your current device.
 * [Word Counter](https://wordcounter.io): Count characters, words, sentences, paragraphs, pages.
+* [WordDB](https://www.worddb.com): Word finder, thesaurus, dictionary, crossword solver, rhyme finder and more.
 * [Wormhole](https://wormhole.app/): Share files with end-to-end encryption.
 * [X Sound](https://korilakkuma.github.io/X-Sound/): Online keyboard synth.
 * [Yahtzee](https://zpix1.github.io/yahtzee/): Dice generator.
