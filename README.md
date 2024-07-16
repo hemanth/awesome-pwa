@@ -2,7 +2,9 @@
 
 > Useful resources for creating Progressive Web Apps
 
-_Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing._
+## Sponsors 
+### MagicBell
+[![MagicBell Banner](https://github.com/hemanth/awesome-pwa/assets/36479718/59587b71-7cfe-494b-9406-a70b7e203572)](https://www.magicbell.com/?ref=awesome)
 
 ## What is a Progressive Web App
 
@@ -26,33 +28,38 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 * [appsco.pe](https://appsco.pe)
 * [0data.app](https://0data.app)
+* [paquet.app](https://paquet.app/home)
 * [pwalist.app](https://www.pwalist.app/)
 * [store.app](https://store.app/)
 
 ## Apps
 
 * [2brew](https://2brew.github.io/): PWA timer for coffee brewing
+* [3D House Editor](https://3dhouseplanner.com/app2.php): Free 3D floor planner
 * [abc.xyz](https://abc.xyz): Alphabet website
 * [Air Horner](https://airhorner.com/): Air horn sound.
 * [AlarmDJ](https://alarmdj.com): Online alarm clock that plays MP3 files or YouTube videos.
 * [ampproject](https://www.ampproject.org): Web component framework.
 * [Anonynote](https://anonynote.org): Note-taking app.
 * [Avain.app](https://avain.app): Avain
+* [Backgammon](https://nenadalm.github.io/backgammon/): Backgammon game with local multiplayer (no single player).
 * [Bangle.io](https://bangle.io/) - A Notion like local note taking tool where data is saved in your computer and in Markdown format.
 * [Bento-starter](https://bento-starter.firebaseapp.com): Open-Source Full-Stack solution for fast PWA development
 * [Best Markdown Editor](https://bestmarkdowneditor.com): undefined
 * [BitMidi](https://bitmidi.com): Listen to your favorite MIDI files.
 * [2048 Game](https://2048game.com/) 2048 Game
 * [Booksie](https://www.booksie.org/): An open catalog of free picture storybooks for children instantly available for reading.
+* [Brutalist Hacker News](https://brutalisthackernews.com): A Hacker News reader inspired by Brutalist Web design, Cyberpunk, retro computing, Y2K Aesthetics 
 * [Budget Tracker](https://btapp.netlify.com/): Track expenses and analyse if they stick to a budget
 * [bundle](https://bundle.js.org/): A quick and easy way to bundle, minify, and compress (gzip and brotli) your ts, js, jsx and npm projects all online, with the resulting file size.
 * [Calculator](https://calculator-app-tau.vercel.app/): A calculator app with theme switcher
-* [Calm Whisper](https://calmwhisper.com): Soothing ambient sounds for focus, sleep and relaxation
 * [Care Cards](https://carecards.io): Care Cards
 * [Cat Safe Foods](https://catsafefoods.com): Sharing food with your cat? Make sure it's safe first
 * [Chitchatter](https://chitchatter.im/): Secure peer-to-peer chat that is serverless, decentralized, and ephemeral
 * [Chrome Developer Summit](https://developers.google.com/): Google Developers
 * [Closerintime](https://closerinti.me): #closerintime
+* [collAnon](https://collanon.app): Private discussions, perspectives exchange and a simple Gantt calendar.
+* [ColorBeta](https://colorbeta.com): Advanced CSS Gradient Generator
 * [Colosseum](https://naramsim.github.io/Colosseum/): Displays Pokemons in a beautiful way
 * [ComputerBase](https://www.computerbase.de/): German IT news site.
 * [Contrax](https://contrax.app): Track your contracts, subscriptions and trials.
@@ -83,7 +90,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Google Duo](https://duo.google.com/): Video Calling.
 * [Google Maps](https://www.google.com/maps/): Online maps.
 * [Google Photos](https://photos.google.com/): Photo management.
-* [Google Stadia](https://stadia.google.com/): Gaming across devices.
 * [GPA Calculator](https://gpacalculator.memorymaps.io/): Generate animated artwork from your unique GPA inputs.
 * [GPA Calculator](https://gpacalculator.io): Calculate your college GPA.
 * [guitar-tuner](https://aerotwist.com/blog/guitar-tuner/): Aerotwist Guitar Tuner
@@ -98,8 +104,10 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [JustTimeTrack](https://justtimetrack.vercel.app): A Free and Open source Time Tracker.
 * [Kahla](https://web.kahla.app): Business messaging app.
 * [Kommit](https://kommit.rosano.ca): Create flashcards and learn them with spaced-repetition.
+* [Kudoflix](https://kudoflix.com): Online video editor.
 * [Launchlet](https://launchlet.dev): Customize any website with JavaScript or CSS.
 * [Let's Plant](https://letsplant.org/): Plant chooser.
+* [Life counter](https://nenadalm.github.io/life-counter/): Life counter app for 2 players. Supports game profiles, cout up/down.
 * [Lofimusic.app](https://lofimusic.app/): Online radio Radio
 * [Lorem Ipsum](https://loremipsum.io): Lorem Ipsum generator.
 * [Math Riddles](https://mathriddles.netlify.app): Interesting Math Riddles.
@@ -124,11 +132,13 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Paytm Lite](https://paytm.com/): Online wallet and payments.
 * [Photopea](https://www.photopea.com/): Online Photo Editor.
 * [PixelCraft](https://pixelcraft.web.app): Pixel Art Editor
+* [Player order selector](https://nenadalm.github.io/player-order-selector/): Random player order selector.
+* [Pocket Devices](https://pocket-devices.com/): Pocket-sized tools for seamless functionality on the go.
 * [Pokedex](https://pokedex.org/): Indexing Pokémon
 * [PokeQuest Wiki](https://pokequest.wiki/): Search for Pokémon
-* [Police Lights](https://policelights.tk/): Police Car Light Flash Screen App
 * [Pomotimer](https://pomotimer.com/): Pomodoro Technique Timer
 * [Progressive Beer](https://deanhume.github.io/beer/): Progressive Beer
+* [PPResume](https://ppresume.com/): A LaTeX Based Resume Builder
 * [PWA-NES](https://pwa-nes.vercel.app/): 8-bit NES emulator
 * [Qi Reader](https://www.qireader.com/): A modern web RSS reader.
 * [QR Code Generator](https://qr-code-generator.now.sh): Create custom QR Codes.
@@ -155,6 +165,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Swahili Dictionary](https://swahili-dictionary.com/): Offline Swahili-English-Swahili dictionary
 * [Taskade](https://www.taskade.com): Remote Team Workspace.
 * [Telegram](https://web.telegram.org/): Telegram Web App.
+* [Tender](https://app.tender.run/create-account): Personal finance app.
 * [Themer](https://themer.dev): Theme generator for editors, terminals, wallpapers, and more.
 * [Threema Web](https://web.threema.ch/): The messenger that puts security and privacy first.
 * [Timetable](https://leoherrmann.github.io/timetable/): Interactive editable timetable.
@@ -167,18 +178,21 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Twitter](https://twitter.com): Microblogging app.
 * [Uber Web](https://m.uber.com): Ridesharing app.
 * [Unalengua IPA Translator](https://unalengua.com/ipa): Translate to IPA.
-* [VeganCheck](https://vegancheck.me): Check if a product is vegan or not.
+* [Veganify](https://veganify.app): Check if a product is vegan or not.
 * [VeggieTables](https://veggietables.org): Track your crops and farming activities.
 * [Versus](https://versus.com/en): Consumer electronics shopping.
 * [VideoTrim.app](https://videotrim.app): Video trimmer app in the browser.
+* [Virus Wars](https://nenadalm.github.io/virus-wars/): Virus Wars game with local multiplayer (no single player).
 * [Wave-PD1](https://alexgibson.github.io/wavepad/): Synth toy.
 * [WebAPI check](https://webapicheck.com): Open this PWA to check which WebAPIs are available on your current device.
 * [Word Counter](https://wordcounter.io): Count characters, words, sentences, paragraphs, pages.
+* [WordDB](https://www.worddb.com): Word finder, thesaurus, dictionary, crossword solver, rhyme finder and more.
 * [Wormhole](https://wormhole.app/): Share files with end-to-end encryption.
 * [X Sound](https://korilakkuma.github.io/X-Sound/): Online keyboard synth.
 * [Yahtzee](https://zpix1.github.io/yahtzee/): Dice generator.
 * [Youtube Music](https://music.youtube.com/): Music streaming via YouTube.
 * [ztable.io](https://ztable.io/): Z-Table lookup & Z-Score calculator.
+* [webpushtest](https://webpushtest.com/): Web Push Notifications Demo
 
 ## Tutorials
 
@@ -203,7 +217,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [From Electron to Progressive Web App](https://mjswensen.com/blog/2019/03/23/from-electron-to-progressive-web-app/)
 * [How I built a Progressive Beer App](https://deanhume.com/Home/BlogPost/how-i-built-a-progressive-beer-app/10148)
 * [How I made a Progressive Web App out of my Blog](https://alexjoverm.github.io/2017/08/07/How-I-made-a-Progressive-Web-App-out-of-my-Blog/)
-* [How we made our website offline first](https://www.skcript.com/svr/offline-is-the-new-online/)
+* [How we made our website offline first](https://blog.skcript.com/svr/offline-is-the-new-online/)
 * [How to build a PWA from scratch with HTML, CSS, and JavaScript](https://www.freecodecamp.org/news/build-a-pwa-from-scratch-with-html-css-and-javascript/)
 * [IndexedDB, WebSQL, LocalStorage – what blocks the DOM?](https://nolanlawson.com/2015/09/29/indexeddb-websql-localstorage-what-blocks-the-dom/)
 * [Installable Web Apps with the WebApp Manifest in Chrome for Android](https://developers.google.com/web/updates/2014/11/Support-for-installable-web-apps-with-webapp-manifest-in-chrome-38-for-Android)
