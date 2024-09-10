@@ -47,7 +47,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Bento-starter](https://bento-starter.firebaseapp.com): Open-Source Full-Stack solution for fast PWA development
 * [Best Markdown Editor](https://bestmarkdowneditor.com): undefined
 * [BitMidi](https://bitmidi.com): Listen to your favorite MIDI files.
-* [2048 Game](https://2048game.com/) 2048 Game
 * [Booksie](https://www.booksie.org/): An open catalog of free picture storybooks for children instantly available for reading.
 * [Brutalist Hacker News](https://brutalisthackernews.com): A Hacker News reader inspired by Brutalist Web design, Cyberpunk, retro computing, Y2K Aesthetics 
 * [Budget Tracker](https://btapp.netlify.com/): Track expenses and analyse if they stick to a budget
