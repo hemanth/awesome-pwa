@@ -70,6 +70,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [DevDocs](https://devdocs.io/): API Documentation Browser
 * [Digikala](https://www.digikala.com/): Digikala Web App
 * [Dog Safe Foods](https://dogsafefoods.com): Sharing food with your dog? Make sure it's safe first
+* [DoHabit](https://inikann.github.io/DoHabit/): Straightforward habit tracker.
 * [DontBore](https://dontbo.re/): Find and share logins.
 * [DTH Search India](https://www.dthchannelsearch.in/): Search DTH TV channel numbers in India.
 * [ELFSH](https://elfsh.mousetail.nl): Food and expense manager.
