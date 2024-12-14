@@ -125,6 +125,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Murlok.io](https://murlok.io/): World of Warcraft Shadowlands.
 * [Music Player PWA](https://akaspanion.github.io/music-app/): Music Player.
 * [MYHELLOIOT](https://adrianromero.github.io/myhelloiot/): MQTT client application.
+* [Nanocell-csv](https://www.nanocell-csv.com/): A lightweight, cross platform, open-source, PWA CSV file viewer and editor
 * [Notella](https://github.com/siddharthkp/notella): No fluff notes app.
 * [OmniCam](https://www.omnicamapp.com/): Live streaming webcams around the world.
 * [Othello](https://othello-rust.web.app/): Play Othello against the computer.
