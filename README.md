@@ -2,10 +2,6 @@
 
 > Useful resources for creating Progressive Web Apps
 
-## Sponsors 
-### MagicBell
-[![MagicBell Banner](https://github.com/hemanth/awesome-pwa/assets/36479718/59587b71-7cfe-494b-9406-a70b7e203572)](https://www.magicbell.com/?ref=awesome)
-
 ## What is a Progressive Web App
 
 > A Progressive Web App uses modern web capabilities to deliver an app-like user experience. They evolve from pages in browser tabs to immersive, top-level apps, leveraging the web's low friction.
