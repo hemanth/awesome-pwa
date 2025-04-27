@@ -142,6 +142,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Qi Reader](https://www.qireader.com/): A modern web RSS reader.
 * [QR Code Generator](https://qr-code-generator.now.sh): Create custom QR Codes.
 * [QR Code Scanner](https://qrcodescan.in/): Scan a QR code.
+* [Scan QR Code Pro](https://scanqrcodepro.com/): Scan any QR code.
 * [Regex101](https://regex101.com/): Build, test and debug regex.
 * [Remember](https://paulhoughton.github.io/remember/): Location-based reminders.
 * [RepoTracker](https://repo-tracker.com): Better GitHub Repository Stats, Charts, and Insights
