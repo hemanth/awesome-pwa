@@ -105,6 +105,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Launchlet](https://launchlet.dev): Customize any website with JavaScript or CSS.
 * [Let's Plant](https://letsplant.org/): Plant chooser.
 * [Life counter](https://nenadalm.github.io/life-counter/): Life counter app for 2 players. Supports game profiles, cout up/down.
+* [Linu.li](https://linu.li): Privacy-first, offline-capable toolbox for PDF, image, and developer tools.
 * [Lofimusic.app](https://lofimusic.app/): Online radio Radio
 * [Lorem Ipsum](https://loremipsum.io): Lorem Ipsum generator.
 * [Match a Movie](https://match-a-movie.com/): Tinder but for movies to find out what to watch with your friends.
