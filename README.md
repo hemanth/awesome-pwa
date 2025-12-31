@@ -191,6 +191,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Youtube Music](https://music.youtube.com/): Music streaming via YouTube.
 * [ztable.io](https://ztable.io/): Z-Table lookup & Z-Score calculator.
 * [webpushtest](https://webpushtest.com/): Web Push Notifications Demo
+* [Online Notepad With Share](https://onlinenotepad101.org/): Online Notepad – Free Online Text Editor & Notes Sharing
 
 ## Tutorials
 
