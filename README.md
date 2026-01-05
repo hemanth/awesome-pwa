@@ -73,7 +73,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [ELFSH](https://elfsh.mousetail.nl): Food and expense manager.
 * [emberclear](https://emberclear.io): Encrypted Chat. No History. No Logs.
 * [Emoji Log](https://emojilog.rosano.ca): Personal tracker
-* [EPUB Player](https://epubplayer.com): Turn your EPUBs into audiobooks with neural TTS, entirely in-browser. No uploads, works offline.
+* [EPUB Player](https://epubplayer.com): A fully-featured audiobook player with Audible/Spotify-like UX, powered by local TTS models. Turn your EPUBs into audiobooks entirely in-browser.
 * [Etch](https://etch.co): A Small team of Designers and Developers.
 * [Farmhand](https://www.farmhand.life/): A resource management game that puts a farm in your hand
 * [FarmOS](https://farmos.app/): Farm record keeping
