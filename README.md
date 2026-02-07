@@ -53,6 +53,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Cat Safe Foods](https://catsafefoods.com): Sharing food with your cat? Make sure it's safe first
 * [Chitchatter](https://chitchatter.im/): Secure peer-to-peer chat that is serverless, decentralized, and ephemeral
 * [Chrome Developer Summit](https://developers.google.com/): Google Developers
+* [ClearLungs](https://clearlungs-app.vercel.app): Free private streak tracker for quitting smoking. Track recovery phases, milestones, and share progress.
 * [Closerintime](https://closerinti.me): #closerintime
 * [collAnon](https://collanon.app): Private discussions, perspectives exchange and a simple Gantt calendar.
 * [ColorBeta](https://colorbeta.com): Advanced CSS Gradient Generator
@@ -76,6 +77,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Etch](https://etch.co): A Small team of Designers and Developers.
 * [Farmhand](https://www.farmhand.life/): A resource management game that puts a farm in your hand
 * [FarmOS](https://farmos.app/): Farm record keeping
+* [FastTrack](https://fasttrack-app-three.vercel.app): Free intermittent fasting streak tracker with metabolic phases and milestone celebrations.
 * [Fast Golf Scores](https://fastgolfscores.com): Fast Golf Scores.
 * [FileLove](https://file.love/): Minimal p2p file transfer right in the browser.
 * [FlagWarriors](https://flagwarriors.netlify.com): Minimalist multiplayer strategy game.
@@ -144,6 +146,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [QR Code Scanner](https://qrcodescan.in/): Scan a QR code.
 * [Regex101](https://regex101.com/): Build, test and debug regex.
 * [Remember](https://paulhoughton.github.io/remember/): Location-based reminders.
+* [Rewire](https://rewire-psi.vercel.app): Free private streak tracker for building better habits. Track recovery phases, earn milestones, and share progress cards.
 * [RepoTracker](https://repo-tracker.com): Better GitHub Repository Stats, Charts, and Insights
 * [Resume Nation](https://resume-nation.github.io): Resume creator.
 * [Rydeen](https://rydeen.app/): Task management app for individuals.
@@ -176,6 +179,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Twitter](https://twitter.com): Microblogging app.
 * [Uber Web](https://m.uber.com): Ridesharing app.
 * [Unalengua IPA Translator](https://unalengua.com/ipa): Translate to IPA.
+* [VapeFree](https://vapefree-app.vercel.app): Free private streak tracker for quitting vaping. Track lung recovery phases, milestones, and share progress.
 * [Veganify](https://veganify.app): Check if a product is vegan or not.
 * [VeggieTables](https://veggietables.org): Track your crops and farming activities.
 * [Versus](https://versus.com/en): Consumer electronics shopping.
