@@ -316,6 +316,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [`msgr`](https://github.com/sdgluck/msgr): Nifty service worker/client message utility
 * [`offline-plugin`](https://github.com/NekR/offline-plugin): Offline plugin (ServiceWorker, AppCache) for webpack (<http://webpack.github.io/>)
 * [`PWA Asset Generator`](https://github.com/elegantapp/pwa-asset-generator): Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images.
+* [`PageGuard`](https://pageguard.org): Free website health scanner that audits performance, accessibility (WCAG 2.1), SEO, and best practices — ideal for verifying PWA quality before launch.
 * [`PWAify`](https://github.com/vladikoff/PWAify): CLI tool to convert your PWA into a cross-platform desktop app.
 * [`serviceworker-rails`](https://github.com/rossta/serviceworker-rails): Plugin to integrate Service Worker with the Rails asset pipeline.
 * [`serviceworker-webpack-plugin`](https://github.com/oliviertassinari/serviceworker-webpack-plugin): Simplifies creation of a service worker to serve your webpack bundles.
