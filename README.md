@@ -151,7 +151,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Colosseum](https://naramsim.github.io/Colosseum/): Displays Pokemons in a beautiful way
 * [Crazy Dice](https://crazydice.netlify.app): Simple Dice App.
 * [Farmhand](https://www.farmhand.life/): A resource management game that puts a farm in your hand
-* [Fast Golf Scores](https://fastgolfscores.com): Fast Golf Scores.
 * [Life counter](https://nenadalm.github.io/life-counter/): Life counter app for 2 players. Supports game profiles, cout up/down.
 * [Match a Movie](https://match-a-movie.com/): Tinder but for movies to find out what to watch with your friends.
 * [Math Riddles](https://mathriddles.netlify.app): Interesting Math Riddles.
