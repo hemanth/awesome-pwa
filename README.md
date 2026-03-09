@@ -12,6 +12,17 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 * [App Directories](#app-directories)
 * [Apps](#apps)
+  * [Audio and Video](#audio-and-video)
+  * [Business and Finance](#business-and-finance)
+  * [Communication and Social](#communication-and-social)
+  * [Development and Design](#development-and-design)
+  * [Education and Reading](#education-and-reading)
+  * [Games and Entertainment](#games-and-entertainment)
+  * [Health and Lifestyle](#health-and-lifestyle)
+  * [News and Information](#news-and-information)
+  * [Shopping and Travel](#shopping-and-travel)
+  * [Tools and Utilities](#tools-and-utilities)
+  * [Miscellaneous](#miscellaneous)
 * [Tutorials](#tutorials)
 * [Articles](#articles)
 * [Videos](#videos)
@@ -30,178 +41,210 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ## Apps
 
-* [2brew](https://2brew.github.io/): PWA timer for coffee brewing
-* [3D House Editor](https://3dhouseplanner.com/app2.php): Free 3D floor planner
-* [abc.xyz](https://abc.xyz): Alphabet website
-* [Air Horner](https://airhorner.com/): Air horn sound.
-* [AlarmDJ](https://alarmdj.com): Online alarm clock that plays MP3 files or YouTube videos.
-* [ampproject](https://www.ampproject.org): Web component framework.
-* [Anonynote](https://anonynote.org): Note-taking app.
-* [Avain.app](https://avain.app): Avain
-* [Backgammon](https://nenadalm.github.io/backgammon/): Backgammon game with local multiplayer (no single player).
-* [Bangle.io](https://bangle.io/) - A Notion like local note taking tool where data is saved in your computer and in Markdown format.
-* [Bento-starter](https://bento-starter.firebaseapp.com): Open-Source Full-Stack solution for fast PWA development
-* [Best Markdown Editor](https://bestmarkdowneditor.com): undefined
+### Audio and Video
+
 * [BitMidi](https://bitmidi.com): Listen to your favorite MIDI files.
-* [2048 Game](https://play2048.co/) 2048 Game
-* [Booksie](https://www.booksie.org/): An open catalog of free picture storybooks for children instantly available for reading.
-* [Brutalist Hacker News](https://brutalisthackernews.com): A Hacker News reader inspired by Brutalist Web design, Cyberpunk, retro computing, Y2K Aesthetics 
-* [Budget Tracker](https://btapp.netlify.com/): Track expenses and analyse if they stick to a budget
-* [BulkPicTools](https://bulkpictools.com) - Privacy-first, browser-side bulk image optimizer and editor.
-* [bundle](https://bundle.js.org/): A quick and easy way to bundle, minify, and compress (gzip and brotli) your ts, js, jsx and npm projects all online, with the resulting file size.
-* [Calculator](https://calculator-app-tau.vercel.app/): A calculator app with theme switcher
-* [Care Cards](https://carecards.io): Care Cards
-* [Cat Safe Foods](https://catsafefoods.com): Sharing food with your cat? Make sure it's safe first
-* [Chitchatter](https://chitchatter.im/): Secure peer-to-peer chat that is serverless, decentralized, and ephemeral
-* [Chrome Developer Summit](https://developers.google.com/): Google Developers
-* [ClearLungs](https://clearlungs-app.vercel.app): Free private streak tracker for quitting smoking. Track recovery phases, milestones, and share progress.
-* [Closerintime](https://closerinti.me): #closerintime
-* [collAnon](https://collanon.app): Private discussions, perspectives exchange and a simple Gantt calendar.
-* [ColorBeta](https://colorbeta.com): Advanced CSS Gradient Generator
-* [Colosseum](https://naramsim.github.io/Colosseum/): Displays Pokemons in a beautiful way
-* [ComputerBase](https://www.computerbase.de/): German IT news site.
-* [Contrax](https://contrax.app): Track your contracts, subscriptions and trials.
-* [Crazy Dice](https://crazydice.netlify.app): Simple Dice App.
-* [Currency Exchange Loss Calculator](https://currency-loss.netlify.com/): Currency Exchange Loss Calculator
-* [Datememe](https://www.datememe.com): Online dating.
-* [Demo PWA](https://github.com/gokulkrishh/demo-progressive-web-app): Demonstrating offline, push notifications, background sync etc.
-* [Dev.Opera](https://dev.opera.com/): Dev.Opera
-* [DevDocs](https://devdocs.io/): API Documentation Browser
-* [Digikala](https://www.digikala.com/): Digikala Web App
-* [Dog Safe Foods](https://dogsafefoods.com): Sharing food with your dog? Make sure it's safe first
-* [DoHabit](https://inikann.github.io/DoHabit/): Straightforward habit tracker.
-* [DontBore](https://dontbo.re/): Find and share logins.
-* [DTH Search India](https://www.dthchannelsearch.in/): Search DTH TV channel numbers in India.
-* [ELFSH](https://elfsh.mousetail.nl): Food and expense manager.
-* [emberclear](https://emberclear.io): Encrypted Chat. No History. No Logs.
-* [Emoji Log](https://emojilog.rosano.ca): Personal tracker
-* [EPUB Player](https://epubplayer.com): A fully-featured audiobook player with Audible/Spotify-like UX, powered by local TTS models. Turn your EPUBs into audiobooks entirely in-browser.
-* [Etch](https://etch.co): A Small team of Designers and Developers.
-* [Farmhand](https://www.farmhand.life/): A resource management game that puts a farm in your hand
-* [FarmOS](https://farmos.app/): Farm record keeping
-* [FastTrack](https://fasttrack-app-three.vercel.app): Free intermittent fasting streak tracker with metabolic phases and milestone celebrations.
-* [Fast Golf Scores](https://fastgolfscores.com): Fast Golf Scores.
-* [FileLove](https://file.love/): Minimal p2p file transfer right in the browser.
-* [FlagWarriors](https://flagwarriors.netlify.com): Minimalist multiplayer strategy game.
-* [Football Peek](https://footballpeek.com/): Football results.
-* [Freelancer](https://m.freelancer.com/messages): Hire the best freelancers for any job, online.
-* [ghChat](https://github.com/aermin/ghChat): Chat application for GitHub.
-* [GitHub Explorer](https://github-e.com/): Profile viewer.
-* [Google Drive](https://drive.google.com/): File storage.
-* [Google Duo](https://duo.google.com/): Video Calling.
-* [Google Maps](https://www.google.com/maps/): Online maps.
-* [Google Photos](https://photos.google.com/): Photo management.
-* [GPA Calculator](https://gpacalculator.memorymaps.io/): Generate animated artwork from your unique GPA inputs.
-* [GPA Calculator](https://gpacalculator.io): Calculate your college GPA.
 * [guitar-tuner](https://aerotwist.com/blog/guitar-tuner/): Aerotwist Guitar Tuner
-* [Housing Go](http://www.housing.com): Real estate in India.
-* [Hyperdraft](https://hyperdraft.rosano.ca): Turn your text notes into a website.
-* [Indecisive.US](https://indecisive.us/): App to help you make a decision.
-* [Journalistic](https://journalisticapp.com/): Micro Journaling App.
 * [Joybox](https://joybox.rosano.ca): A pinboard for audiovisual media.
-* [jsfeatures](https://jsfeatures.in): JavaScript features
-* [JSON Formatter](https://jsonformatter.live/): Minimalist JSON formatter.
-* [JustInvoice](https://justinvoice.netlify.app/app): An intuitive invoice manager that works completely in the browser and offline.
-* [JustTimeTrack](https://justtimetrack.vercel.app): A Free and Open source Time Tracker.
-* [Kahla](https://web.kahla.app): Business messaging app.
-* [Kommit](https://kommit.rosano.ca): Create flashcards and learn them with spaced-repetition.
 * [Kudoflix](https://kudoflix.com): Online video editor.
-* [Launchlet](https://launchlet.dev): Customize any website with JavaScript or CSS.
-* [Let's Plant](https://letsplant.org/): Plant chooser.
-* [Life counter](https://nenadalm.github.io/life-counter/): Life counter app for 2 players. Supports game profiles, cout up/down.
 * [Lofimusic.app](https://lofimusic.app/): Online radio Radio
-* [Lorem Ipsum](https://loremipsum.io): Lorem Ipsum generator.
-* [Match a Movie](https://match-a-movie.com/): Tinder but for movies to find out what to watch with your friends.
-* [Math Riddles](https://mathriddles.netlify.app): Interesting Math Riddles.
-* [Make Better Software](https://makebetter.software): Raise software standards.
-* [MConverter](https://mconverter.eu): Online file converter.
-* [Medium](https://medium.com/): Writing space.
-* [Memory Game PWA](https://pwa-memory-game.surge.sh/): Strengthen your memory.
-* [MΞRKLIN](https://merklin.xyz): Open-source Ethereum Wallet Explorer.
-* [Messages for web (by google)](https://messages.google.com/web/): 400
-* [MoneyTracker](https://moneytracker.cc/): Personal finances tracking web app.
-* [Mono Card](https://mono.cards/): Turn anything to visual cards for better content sharing.
-* [Morse Code Translator](https://morsedecoder.com/): Morse Code tools
-* [MTGStocks](https://www.mtgstocks.com/news): Magic the Gathering price tracker.
-* [Murlok.io](https://murlok.io/): World of Warcraft Shadowlands.
 * [Music Player PWA](https://akaspanion.github.io/music-app/): Music Player.
-* [MYHELLOIOT](https://adrianromero.github.io/myhelloiot/): MQTT client application.
-* [Nanocell-csv](https://www.nanocell-csv.com/): A lightweight, cross platform, open-source, PWA CSV file viewer and editor
-* [Notella](https://github.com/siddharthkp/notella): No fluff notes app.
 * [OmniCam](https://www.omnicamapp.com/): Live streaming webcams around the world.
-* [Othello](https://othello-rust.web.app/): Play Othello against the computer.
-* [PakWheels](https://www.pakwheels.com/): Buy/sell cars.
-* [Passky](https://vault.passky.org/): Free and open-source Password Manager
-* [PasteePad](https://pasteepad.com/): Free and simple notepad app
-* [Paula](https://trypaula.com): Free AI mental health companion using CBT and DBT techniques, with voice sessions, mood tracking, and journaling.
-* [Paytm Lite](https://paytm.com/): Online wallet and payments.
-* [Photopea](https://www.photopea.com/): Online Photo Editor.
-* [PixelCraft](https://pixelcraft.web.app): Pixel Art Editor
-* [Player order selector](https://nenadalm.github.io/player-order-selector/): Random player order selector.
-* [Pocket Devices](https://pocket-devices.com/): Pocket-sized tools for seamless functionality on the go.
-* [Pokedex](https://pokedex.org/): Indexing Pokémon
-* [PokeQuest Wiki](https://pokequest.wiki/): Search for Pokémon
-* [Pomotimer](https://pomotimer.com/): Pomodoro Technique Timer
-* [PracticeLoop](https://teal-semifreddo-cad4ad.netlify.app/): Slow down & loop YouTube videos for music practice with progressive speed training.
-* [Progressive Beer](https://deanhume.github.io/beer/): Progressive Beer
-* [PPResume](https://ppresume.com/): A LaTeX Based Resume Builder
-* [PWA-NES](https://pwa-nes.vercel.app/): 8-bit NES emulator
-* [Qi Reader](https://www.qireader.com/): A modern web RSS reader.
-* [QR Code Generator](https://qr-code-generator.now.sh): Create custom QR Codes.
-* [QR Code Scanner](https://qrcodescan.in/): Scan a QR code.
-* [Regex101](https://regex101.com/): Build, test and debug regex.
-* [Remember](https://paulhoughton.github.io/remember/): Location-based reminders.
-* [Rewire](https://rewire-psi.vercel.app): Free private streak tracker for building better habits. Track recovery phases, earn milestones, and share progress cards.
-* [RepoTracker](https://repo-tracker.com): Better GitHub Repository Stats, Charts, and Insights
-* [Resume Nation](https://resume-nation.github.io): Resume creator.
-* [Rydeen](https://rydeen.app/): Task management app for individuals.
-* [SaintsApp](https://saintsschedule.info/): New Orleans Saints' game schedule.
-* [Saucekudasai](https://saucekudasai.com): An Anime seacrch engine that finds animeinfo based on image provided
-* [Similar Worlds](https://similarworlds.com/): Experience Project Alternative. Find people with similar interests.
-* [Simple Currency Converter](https://currency-converter.now.sh): Currency Converter
-* [Skcript](https://www.skcript.com/): Ruby on Rails Consulting.
-* [Smaller Pictures](https://smaller-pictures.appspot.com): Image compressor.
-* [Soodoku](https://soodoku.com/): Advanced sudoku game, works online & offline, without ads and distractions.
 * [SoundCloud](https://soundcloud.com/): Stream and listen to music.
 * [Soundslice](https://www.soundslice.com): Create living sheet music.
-* [SplittyPie](https://splittypie.com): Easy expense splitting.
 * [Spotify](https://open.spotify.com/): Music streaming.
 * [SvenPanel](https://svenpanel.de/): The Shrine - The Message Is Feierei Alda.
-* [SVGOMG](https://jakearchibald.github.io/svgomg/): SVGO's Missing GUI
-* [Swahili Dictionary](https://swahili-dictionary.com/): Offline Swahili-English-Swahili dictionary
+* [VideoTrim.app](https://videotrim.app): Video trimmer app in the browser.
+* [Wave-PD1](https://alexgibson.github.io/wavepad/): Synth toy.
+* [X Sound](https://korilakkuma.github.io/X-Sound/): Online keyboard synth.
+* [Youtube Music](https://music.youtube.com/): Music streaming via YouTube.
+
+### Business and Finance
+
+* [Budget Tracker](https://btapp.netlify.com/): Track expenses and analyse if they stick to a budget
+* [Contrax](https://contrax.app): Track your contracts, subscriptions and trials.
+* [ELFSH](https://elfsh.mousetail.nl): Food and expense manager.
+* [FarmOS](https://farmos.app/): Farm record keeping
+* [Freelancer](https://m.freelancer.com/messages): Hire the best freelancers for any job, online.
+* [JustInvoice](https://justinvoice.netlify.app/app): An intuitive invoice manager that works completely in the browser and offline.
+* [JustTimeTrack](https://justtimetrack.vercel.app): A Free and Open source Time Tracker.
+* [MoneyTracker](https://moneytracker.cc/): Personal finances tracking web app.
+* [MΞRKLIN](https://merklin.xyz): Open-source Ethereum Wallet Explorer.
+* [MTGStocks](https://www.mtgstocks.com/news): Magic the Gathering price tracker.
+* [Paytm Lite](https://paytm.com/): Online wallet and payments.
+* [Rydeen](https://rydeen.app/): Task management app for individuals.
+* [Simple Currency Converter](https://currency-converter.now.sh): Currency Converter
+* [Skcript](https://www.skcript.com/): Ruby on Rails Consulting.
+* [SplittyPie](https://splittypie.com): Easy expense splitting.
 * [Taskade](https://www.taskade.com): Remote Team Workspace.
-* [Telegram](https://web.telegram.org/): Telegram Web App.
 * [Tender](https://app.tender.run/create-account): Personal finance app.
-* [Themer](https://themer.dev): Theme generator for editors, terminals, wallpapers, and more.
+
+### Communication and Social
+
+* [Chitchatter](https://chitchatter.im/): Secure peer-to-peer chat that is serverless, decentralized, and ephemeral
+* [collAnon](https://collanon.app): Private discussions, perspectives exchange and a simple Gantt calendar.
+* [Datememe](https://www.datememe.com): Online dating.
+* [emberclear](https://emberclear.io): Encrypted Chat. No History. No Logs.
+* [ghChat](https://github.com/aermin/ghChat): Chat application for GitHub.
+* [Google Duo](https://duo.google.com/): Video Calling.
+* [Kahla](https://web.kahla.app): Business messaging app.
+* [Medium](https://medium.com/): Writing space.
+* [Messages for web (by google)](https://messages.google.com/web/): 400
+* [Similar Worlds](https://similarworlds.com/): Experience Project Alternative. Find people with similar interests.
+* [Telegram](https://web.telegram.org/): Telegram Web App.
 * [Threema Web](https://web.threema.ch/): The messenger that puts security and privacy first.
-* [Timetable](https://leoherrmann.github.io/timetable/): Interactive editable timetable.
 * [Tinder](https://tinder.com): Dating app.
-* [Todoly](https://t4p4n.github.io/todoly/): A Simple ToDo PWA
-* [Total Formatter](https://totalformatter.web.app): YAML Formatter
-* [trivago](https://www.trivago.com/): Hotel prices.
-* [Tutor Portfolio PWA](https://englishextra.gitlab.io/): ???
-* [TurboPixel](https://turborium.github.io/turbopixel/): PixelArt Camera PWA
 * [Twitter](https://twitter.com): Microblogging app.
-* [Uber Web](https://m.uber.com): Ridesharing app.
+
+### Development and Design
+
+* [3D House Editor](https://3dhouseplanner.com/app2.php): Free 3D floor planner
+* [ampproject](https://www.ampproject.org): Web component framework.
+* [Bento-starter](https://bento-starter.firebaseapp.com): Open-Source Full-Stack solution for fast PWA development
+* [Best Markdown Editor](https://bestmarkdowneditor.com): undefined
+* [bundle](https://bundle.js.org/): A quick and easy way to bundle, minify, and compress (gzip and brotli) your ts, js, jsx and npm projects all online, with the resulting file size.
+* [ColorBeta](https://colorbeta.com): Advanced CSS Gradient Generator
+* [Demo PWA](https://github.com/gokulkrishh/demo-progressive-web-app): Demonstrating offline, push notifications, background sync etc.
+* [DevDocs](https://devdocs.io/): API Documentation Browser
+* [Dev.Opera](https://dev.opera.com/): Dev.Opera
+* [GitHub Explorer](https://github-e.com/): Profile viewer.
+* [Hyperdraft](https://hyperdraft.rosano.ca): Turn your text notes into a website.
+* [jsfeatures](https://jsfeatures.in): JavaScript features
+* [JSON Formatter](https://jsonformatter.live/): Minimalist JSON formatter.
+* [Launchlet](https://launchlet.dev): Customize any website with JavaScript or CSS.
+* [Lorem Ipsum](https://loremipsum.io): Lorem Ipsum generator.
+* [Make Better Software](https://makebetter.software): Raise software standards.
+* [MYHELLOIOT](https://adrianromero.github.io/myhelloiot/): MQTT client application.
+* [Photopea](https://www.photopea.com/): Online Photo Editor.
+* [PixelCraft](https://pixelcraft.web.app): Pixel Art Editor
+* [Regex101](https://regex101.com/): Build, test and debug regex.
+* [RepoTracker](https://repo-tracker.com): Better GitHub Repository Stats, Charts, and Insights
+* [SVGOMG](https://jakearchibald.github.io/svgomg/): SVGO's Missing GUI
+* [Themer](https://themer.dev): Theme generator for editors, terminals, wallpapers, and more.
+* [Total Formatter](https://totalformatter.web.app): YAML Formatter
+* [TurboPixel](https://turborium.github.io/turbopixel/): PixelArt Camera PWA
+* [WebAPI check](https://webapicheck.com): Open this PWA to check which WebAPIs are available on your current device.
+* [webpushtest](https://webpushtest.com/): Web Push Notifications Demo
+
+### Education and Reading
+
+* [Booksie](https://www.booksie.org/): An open catalog of free picture storybooks for children instantly available for reading.
+* [EPUB Player](https://epubplayer.com): A fully-featured audiobook player with Audible/Spotify-like UX, powered by local TTS models. Turn your EPUBs into audiobooks entirely in-browser.
+* [Kommit](https://kommit.rosano.ca): Create flashcards and learn them with spaced-repetition.
+* [PracticeLoop](https://teal-semifreddo-cad4ad.netlify.app/): Slow down & loop YouTube videos for music practice with progressive speed training.
+* [Swahili Dictionary](https://swahili-dictionary.com/): Offline Swahili-English-Swahili dictionary
+* [Timetable](https://leoherrmann.github.io/timetable/): Interactive editable timetable.
+* [Tutor Portfolio PWA](https://englishextra.gitlab.io/): ???
 * [Unalengua IPA Translator](https://unalengua.com/ipa): Translate to IPA.
+* [WordDB](https://www.worddb.com): Word finder, thesaurus, dictionary, crossword solver, rhyme finder and more.
+
+### Games and Entertainment
+
+* [2048 Game](https://play2048.co/) 2048 Game
+* [Air Horner](https://airhorner.com/): Air horn sound.
+* [Backgammon](https://nenadalm.github.io/backgammon/): Backgammon game with local multiplayer (no single player).
+* [Colosseum](https://naramsim.github.io/Colosseum/): Displays Pokemons in a beautiful way
+* [Crazy Dice](https://crazydice.netlify.app): Simple Dice App.
+* [Farmhand](https://www.farmhand.life/): A resource management game that puts a farm in your hand
+* [Fast Golf Scores](https://fastgolfscores.com): Fast Golf Scores.
+* [FlagWarriors](https://flagwarriors.netlify.com): Minimalist multiplayer strategy game.
+* [Life counter](https://nenadalm.github.io/life-counter/): Life counter app for 2 players. Supports game profiles, cout up/down.
+* [Match a Movie](https://match-a-movie.com/): Tinder but for movies to find out what to watch with your friends.
+* [Math Riddles](https://mathriddles.netlify.app): Interesting Math Riddles.
+* [Memory Game PWA](https://pwa-memory-game.surge.sh/): Strengthen your memory.
+* [Murlok.io](https://murlok.io/): World of Warcraft Shadowlands.
+* [Othello](https://othello-rust.web.app/): Play Othello against the computer.
+* [Player order selector](https://nenadalm.github.io/player-order-selector/): Random player order selector.
+* [Pokedex](https://pokedex.org/): Indexing Pokémon
+* [PokeQuest Wiki](https://pokequest.wiki/): Search for Pokémon
+* [PWA-NES](https://pwa-nes.vercel.app/): 8-bit NES emulator
+* [Saucekudasai](https://saucekudasai.com): An Anime seacrch engine that finds animeinfo based on image provided
+* [Soodoku](https://soodoku.com/): Advanced sudoku game, works online & offline, without ads and distractions.
+* [Virus Wars](https://nenadalm.github.io/virus-wars/): Virus Wars game with local multiplayer (no single player).
+* [Yahtzee](https://zpix1.github.io/yahtzee/): Dice generator.
+
+### Health and Lifestyle
+
+* [Care Cards](https://carecards.io): Care Cards
+* [Cat Safe Foods](https://catsafefoods.com): Sharing food with your cat? Make sure it's safe first
+* [ClearLungs](https://clearlungs-app.vercel.app): Free private streak tracker for quitting smoking. Track recovery phases, milestones, and share progress.
+* [Dog Safe Foods](https://dogsafefoods.com): Sharing food with your dog? Make sure it's safe first
+* [DoHabit](https://inikann.github.io/DoHabit/): Straightforward habit tracker.
+* [FastTrack](https://fasttrack-app-three.vercel.app): Free intermittent fasting streak tracker with metabolic phases and milestone celebrations.
+* [Journalistic](https://journalisticapp.com/): Micro Journaling App.
+* [Let's Plant](https://letsplant.org/): Plant chooser.
+* [Paula](https://trypaula.com): Free AI mental health companion using CBT and DBT techniques, with voice sessions, mood tracking, and journaling.
+* [Progressive Beer](https://deanhume.github.io/beer/): Progressive Beer
+* [Rewire](https://rewire-psi.vercel.app): Free private streak tracker for building better habits. Track recovery phases, earn milestones, and share progress cards.
 * [VapeFree](https://vapefree-app.vercel.app): Free private streak tracker for quitting vaping. Track lung recovery phases, milestones, and share progress.
 * [Veganify](https://veganify.app): Check if a product is vegan or not.
 * [VeggieTables](https://veggietables.org): Track your crops and farming activities.
+
+### News and Information
+
+* [Brutalist Hacker News](https://brutalisthackernews.com): A Hacker News reader inspired by Brutalist Web design, Cyberpunk, retro computing, Y2K Aesthetics
+* [ComputerBase](https://www.computerbase.de/): German IT news site.
+* [Football Peek](https://footballpeek.com/): Football results.
+* [Qi Reader](https://www.qireader.com/): A modern web RSS reader.
+* [SaintsApp](https://saintsschedule.info/): New Orleans Saints' game schedule.
+
+### Shopping and Travel
+
+* [Digikala](https://www.digikala.com/): Digikala Web App
+* [Google Maps](https://www.google.com/maps/): Online maps.
+* [Housing Go](http://www.housing.com): Real estate in India.
+* [PakWheels](https://www.pakwheels.com/): Buy/sell cars.
+* [trivago](https://www.trivago.com/): Hotel prices.
+* [Uber Web](https://m.uber.com): Ridesharing app.
 * [Versus](https://versus.com/en): Consumer electronics shopping.
-* [VideoTrim.app](https://videotrim.app): Video trimmer app in the browser.
-* [Virus Wars](https://nenadalm.github.io/virus-wars/): Virus Wars game with local multiplayer (no single player).
-* [Wave-PD1](https://alexgibson.github.io/wavepad/): Synth toy.
-* [WebAPI check](https://webapicheck.com): Open this PWA to check which WebAPIs are available on your current device.
-* [Word Counter](https://wordcounter.io): Count characters, words, sentences, paragraphs, pages.
-* [WordDB](https://www.worddb.com): Word finder, thesaurus, dictionary, crossword solver, rhyme finder and more.
-* [Wormhole](https://wormhole.app/): Share files with end-to-end encryption.
-* [X Sound](https://korilakkuma.github.io/X-Sound/): Online keyboard synth.
-* [Yahtzee](https://zpix1.github.io/yahtzee/): Dice generator.
-* [Youtube Music](https://music.youtube.com/): Music streaming via YouTube.
-* [ztable.io](https://ztable.io/): Z-Table lookup & Z-Score calculator.
-* [webpushtest](https://webpushtest.com/): Web Push Notifications Demo
+
+### Tools and Utilities
+
+* [2brew](https://2brew.github.io/): PWA timer for coffee brewing
+* [AlarmDJ](https://alarmdj.com): Online alarm clock that plays MP3 files or YouTube videos.
+* [Anonynote](https://anonynote.org): Note-taking app.
+* [Bangle.io](https://bangle.io/) - A Notion like local note taking tool where data is saved in your computer and in Markdown format.
+* [BulkPicTools](https://bulkpictools.com) - Privacy-first, browser-side bulk image optimizer and editor.
+* [Calculator](https://calculator-app-tau.vercel.app/): A calculator app with theme switcher
+* [Currency Exchange Loss Calculator](https://currency-loss.netlify.com/): Currency Exchange Loss Calculator
+* [DontBore](https://dontbo.re/): Find and share logins.
+* [DTH Search India](https://www.dthchannelsearch.in/): Search DTH TV channel numbers in India.
+* [Emoji Log](https://emojilog.rosano.ca): Personal tracker
+* [FileLove](https://file.love/): Minimal p2p file transfer right in the browser.
+* [Google Drive](https://drive.google.com/): File storage.
+* [Google Photos](https://photos.google.com/): Photo management.
+* [GPA Calculator](https://gpacalculator.memorymaps.io/): Generate animated artwork from your unique GPA inputs.
+* [GPA Calculator](https://gpacalculator.io): Calculate your college GPA.
+* [Indecisive.US](https://indecisive.us/): App to help you make a decision.
+* [MConverter](https://mconverter.eu): Online file converter.
+* [Mono Card](https://mono.cards/): Turn anything to visual cards for better content sharing.
+* [Morse Code Translator](https://morsedecoder.com/): Morse Code tools
+* [Nanocell-csv](https://www.nanocell-csv.com/): A lightweight, cross platform, open-source, PWA CSV file viewer and editor
+* [Notella](https://github.com/siddharthkp/notella): No fluff notes app.
 * [Online Notepad With Share](https://onlinenotepad101.org/): Online Notepad – Free Online Text Editor & Notes Sharing
+* [Passky](https://vault.passky.org/): Free and open-source Password Manager
+* [PasteePad](https://pasteepad.com/): Free and simple notepad app
+* [Pocket Devices](https://pocket-devices.com/): Pocket-sized tools for seamless functionality on the go.
+* [Pomotimer](https://pomotimer.com/): Pomodoro Technique Timer
+* [PPResume](https://ppresume.com/): A LaTeX Based Resume Builder
+* [QR Code Generator](https://qr-code-generator.now.sh): Create custom QR Codes.
+* [QR Code Scanner](https://qrcodescan.in/): Scan a QR code.
+* [Remember](https://paulhoughton.github.io/remember/): Location-based reminders.
+* [Resume Nation](https://resume-nation.github.io): Resume creator.
 * [Share Text Online Live](https://share-text.org/): Share Text Online Live——Create, edit, and share text online with secure links and QR codes – No Login and registration required
+* [Smaller Pictures](https://smaller-pictures.appspot.com): Image compressor.
+* [Todoly](https://t4p4n.github.io/todoly/): A Simple ToDo PWA
+* [Word Counter](https://wordcounter.io): Count characters, words, sentences, paragraphs, pages.
+* [Wormhole](https://wormhole.app/): Share files with end-to-end encryption.
+* [ztable.io](https://ztable.io/): Z-Table lookup & Z-Score calculator.
+
+### Miscellaneous
+
+* [abc.xyz](https://abc.xyz): Alphabet website
+* [Avain.app](https://avain.app): Avain
+* [Chrome Developer Summit](https://developers.google.com/): Google Developers
+* [Closerintime](https://closerinti.me): #closerintime
+* [Etch](https://etch.co): A Small team of Designers and Developers.
 
 ## Tutorials
 
