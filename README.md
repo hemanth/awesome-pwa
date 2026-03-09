@@ -120,6 +120,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [MΞRKLIN](https://merklin.xyz): Open-source Ethereum Wallet Explorer.
 * [Messages for web (by google)](https://messages.google.com/web/): 400
 * [MoneyTracker](https://moneytracker.cc/): Personal finances tracking web app.
+* [Mono Card](https://mono.cards/): Turn anything to visual cards for better content sharing.
 * [Morse Code Translator](https://morsedecoder.com/): Morse Code tools
 * [MTGStocks](https://www.mtgstocks.com/news): Magic the Gathering price tracker.
 * [Murlok.io](https://murlok.io/): World of Warcraft Shadowlands.
