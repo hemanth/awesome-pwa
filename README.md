@@ -138,6 +138,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Pokedex](https://pokedex.org/): Indexing Pokémon
 * [PokeQuest Wiki](https://pokequest.wiki/): Search for Pokémon
 * [Pomotimer](https://pomotimer.com/): Pomodoro Technique Timer
+* [PracticeLoop](https://teal-semifreddo-cad4ad.netlify.app/): Slow down & loop YouTube videos for music practice with progressive speed training.
 * [Progressive Beer](https://deanhume.github.io/beer/): Progressive Beer
 * [PPResume](https://ppresume.com/): A LaTeX Based Resume Builder
 * [PWA-NES](https://pwa-nes.vercel.app/): 8-bit NES emulator
