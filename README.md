@@ -46,10 +46,8 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ## App Directories
 
-* [appsco.pe](https://appsco.pe)
 * [0data.app](https://0data.app)
 * [paquet.app](https://paquet.app/home)
-* [pwalist.app](https://www.pwalist.app/)
 * [store.app](https://store.app/)
 
 ## Apps
@@ -74,7 +72,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ### Business and Finance
 
-* [Budget Tracker](https://btapp.netlify.com/): Track expenses and analyse if they stick to a budget
 * [Contrax](https://contrax.app): Track your contracts, subscriptions and trials.
 * [ELFSH](https://elfsh.mousetail.nl): Food and expense manager.
 * [FarmOS](https://farmos.app/): Farm record keeping
@@ -95,12 +92,10 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 ### Communication and Social
 
 * [Chitchatter](https://chitchatter.im/): Secure peer-to-peer chat that is serverless, decentralized, and ephemeral
-* [collAnon](https://collanon.app): Private discussions, perspectives exchange and a simple Gantt calendar.
 * [Datememe](https://www.datememe.com): Online dating.
 * [emberclear](https://emberclear.io): Encrypted Chat. No History. No Logs.
 * [ghChat](https://github.com/aermin/ghChat): Chat application for GitHub.
 * [Google Duo](https://duo.google.com/): Video Calling.
-* [Kahla](https://web.kahla.app): Business messaging app.
 * [Medium](https://medium.com/): Writing space.
 * [Messages for web (by google)](https://messages.google.com/web/): 400
 * [Similar Worlds](https://similarworlds.com/): Experience Project Alternative. Find people with similar interests.
@@ -122,7 +117,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Dev.Opera](https://dev.opera.com/): Dev.Opera
 * [GitHub Explorer](https://github-e.com/): Profile viewer.
 * [Hyperdraft](https://hyperdraft.rosano.ca): Turn your text notes into a website.
-* [jsfeatures](https://jsfeatures.in): JavaScript features
 * [JSON Formatter](https://jsonformatter.live/): Minimalist JSON formatter.
 * [Launchlet](https://launchlet.dev): Customize any website with JavaScript or CSS.
 * [Lorem Ipsum](https://loremipsum.io): Lorem Ipsum generator.
@@ -131,12 +125,10 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Photopea](https://www.photopea.com/): Online Photo Editor.
 * [PixelCraft](https://pixelcraft.web.app): Pixel Art Editor
 * [Regex101](https://regex101.com/): Build, test and debug regex.
-* [RepoTracker](https://repo-tracker.com): Better GitHub Repository Stats, Charts, and Insights
 * [SVGOMG](https://jakearchibald.github.io/svgomg/): SVGO's Missing GUI
 * [Themer](https://themer.dev): Theme generator for editors, terminals, wallpapers, and more.
 * [Total Formatter](https://totalformatter.web.app): YAML Formatter
 * [TurboPixel](https://turborium.github.io/turbopixel/): PixelArt Camera PWA
-* [WebAPI check](https://webapicheck.com): Open this PWA to check which WebAPIs are available on your current device.
 * [webpushtest](https://webpushtest.com/): Web Push Notifications Demo
 
 ### Education and Reading
@@ -160,7 +152,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Crazy Dice](https://crazydice.netlify.app): Simple Dice App.
 * [Farmhand](https://www.farmhand.life/): A resource management game that puts a farm in your hand
 * [Fast Golf Scores](https://fastgolfscores.com): Fast Golf Scores.
-* [FlagWarriors](https://flagwarriors.netlify.com): Minimalist multiplayer strategy game.
 * [Life counter](https://nenadalm.github.io/life-counter/): Life counter app for 2 players. Supports game profiles, cout up/down.
 * [Match a Movie](https://match-a-movie.com/): Tinder but for movies to find out what to watch with your friends.
 * [Math Riddles](https://mathriddles.netlify.app): Interesting Math Riddles.
@@ -171,7 +162,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Pokedex](https://pokedex.org/): Indexing Pokémon
 * [PokeQuest Wiki](https://pokequest.wiki/): Search for Pokémon
 * [PWA-NES](https://pwa-nes.vercel.app/): 8-bit NES emulator
-* [Saucekudasai](https://saucekudasai.com): An Anime seacrch engine that finds animeinfo based on image provided
 * [Soodoku](https://soodoku.com/): Advanced sudoku game, works online & offline, without ads and distractions.
 * [Virus Wars](https://nenadalm.github.io/virus-wars/): Virus Wars game with local multiplayer (no single player).
 * [Yahtzee](https://zpix1.github.io/yahtzee/): Dice generator.
@@ -185,13 +175,11 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [DoHabit](https://inikann.github.io/DoHabit/): Straightforward habit tracker.
 * [FastTrack](https://fasttrack-app-three.vercel.app): Free intermittent fasting streak tracker with metabolic phases and milestone celebrations.
 * [Journalistic](https://journalisticapp.com/): Micro Journaling App.
-* [Let's Plant](https://letsplant.org/): Plant chooser.
 * [Paula](https://trypaula.com): Free AI mental health companion using CBT and DBT techniques, with voice sessions, mood tracking, and journaling.
 * [Progressive Beer](https://deanhume.github.io/beer/): Progressive Beer
 * [Rewire](https://rewire-psi.vercel.app): Free private streak tracker for building better habits. Track recovery phases, earn milestones, and share progress cards.
 * [VapeFree](https://vapefree-app.vercel.app): Free private streak tracker for quitting vaping. Track lung recovery phases, milestones, and share progress.
 * [Veganify](https://veganify.app): Check if a product is vegan or not.
-* [VeggieTables](https://veggietables.org): Track your crops and farming activities.
 
 ### News and Information
 
@@ -199,14 +187,12 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [ComputerBase](https://www.computerbase.de/): German IT news site.
 * [Football Peek](https://footballpeek.com/): Football results.
 * [Qi Reader](https://www.qireader.com/): A modern web RSS reader.
-* [SaintsApp](https://saintsschedule.info/): New Orleans Saints' game schedule.
 
 ### Shopping and Travel
 
 * [Digikala](https://www.digikala.com/): Digikala Web App
 * [Google Maps](https://www.google.com/maps/): Online maps.
 * [Housing Go](http://www.housing.com): Real estate in India.
-* [PakWheels](https://www.pakwheels.com/): Buy/sell cars.
 * [trivago](https://www.trivago.com/): Hotel prices.
 * [Uber Web](https://m.uber.com): Ridesharing app.
 * [Versus](https://versus.com/en): Consumer electronics shopping.
@@ -219,16 +205,11 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Bangle.io](https://bangle.io/) - A Notion like local note taking tool where data is saved in your computer and in Markdown format.
 * [BulkPicTools](https://bulkpictools.com) - Privacy-first, browser-side bulk image optimizer and editor.
 * [Calculator](https://calculator-app-tau.vercel.app/): A calculator app with theme switcher
-* [Currency Exchange Loss Calculator](https://currency-loss.netlify.com/): Currency Exchange Loss Calculator
-* [DontBore](https://dontbo.re/): Find and share logins.
-* [DTH Search India](https://www.dthchannelsearch.in/): Search DTH TV channel numbers in India.
 * [Emoji Log](https://emojilog.rosano.ca): Personal tracker
-* [FileLove](https://file.love/): Minimal p2p file transfer right in the browser.
 * [Google Drive](https://drive.google.com/): File storage.
 * [Google Photos](https://photos.google.com/): Photo management.
 * [GPA Calculator](https://gpacalculator.memorymaps.io/): Generate animated artwork from your unique GPA inputs.
 * [GPA Calculator](https://gpacalculator.io): Calculate your college GPA.
-* [Indecisive.US](https://indecisive.us/): App to help you make a decision.
 * [MConverter](https://mconverter.eu): Online file converter.
 * [Mono Card](https://mono.cards/): Turn anything to visual cards for better content sharing.
 * [Morse Code Translator](https://morsedecoder.com/): Morse Code tools
@@ -269,7 +250,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Introduction to progressive web apps](https://blog.pusher.com/introduction-progressive-web-apps/)
 * [Progressive Web Apps with React.js - 4 part series](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-i-introduction-50679aef2b12#.ly1xiybxd) by [@addyosmani](https://twitter.com/addyosmani)
 * [Retrofit an Existing Website as a Progressive Web App](https://www.sitepoint.com/retrofit-your-website-as-a-progressive-web-app/)
-* [Service Worker Cookbook - Mozilla](https://serviceworke.rs/)
 * [Web Powered SMS Inbox with Service Worker: Push Notifications](https://www.twilio.com/blog/2016/02/web-powered-sms-inbox-with-service-worker-push-notifications.html)
 
 ## Articles
