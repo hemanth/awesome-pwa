@@ -88,6 +88,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [SplittyPie](https://splittypie.com): Easy expense splitting.
 * [Taskade](https://www.taskade.com): Remote Team Workspace.
 * [Tender](https://app.tender.run/create-account): Personal finance app.
+* [ZapInvoice](https://zapinvoice.web.app): Free invoice generator with PDF export and multi-currency support.
 
 ### Communication and Social
 
@@ -156,6 +157,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Math Riddles](https://mathriddles.netlify.app): Interesting Math Riddles.
 * [Memory Game PWA](https://pwa-memory-game.surge.sh/): Strengthen your memory.
 * [Murlok.io](https://murlok.io/): World of Warcraft Shadowlands.
+* [OddsAI](https://oddsai-app.web.app): Live sports predictions and odds for 16+ sports.
 * [Othello](https://othello-rust.web.app/): Play Othello against the computer.
 * [Player order selector](https://nenadalm.github.io/player-order-selector/): Random player order selector.
 * [Pokedex](https://pokedex.org/): Indexing Pokémon
@@ -229,6 +231,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Todoly](https://t4p4n.github.io/todoly/): A Simple ToDo PWA
 * [Word Counter](https://wordcounter.io): Count characters, words, sentences, paragraphs, pages.
 * [Wormhole](https://wormhole.app/): Share files with end-to-end encryption.
+* [ZapTools](https://zaptools.web.app): 114+ free browser-based developer tools.
 * [ztable.io](https://ztable.io/): Z-Table lookup & Z-Score calculator.
 
 ### Miscellaneous
