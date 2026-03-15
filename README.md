@@ -217,6 +217,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Online Notepad With Share](https://onlinenotepad101.org/): Online Notepad – Free Online Text Editor & Notes Sharing
 * [Passky](https://vault.passky.org/): Free and open-source Password Manager
 * [PasteePad](https://pasteepad.com/): Free and simple notepad app
+* [PDFGem](https://pdfgem.io/): Free browser-based PDF tools — merge, split, compress, OCR, sign, convert. All processing runs client-side via WebAssembly; works offline after initial load. 16 languages.
 * [Pocket Devices](https://pocket-devices.com/): Pocket-sized tools for seamless functionality on the go.
 * [Pomotimer](https://pomotimer.com/): Pomodoro Technique Timer
 * [PPResume](https://ppresume.com/): A LaTeX Based Resume Builder
@@ -227,6 +228,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Share Text Online Live](https://share-text.org/): Share Text Online Live——Create, edit, and share text online with secure links and QR codes – No Login and registration required
 * [Smaller Pictures](https://smaller-pictures.appspot.com): Image compressor.
 * [Todoly](https://t4p4n.github.io/todoly/): A Simple ToDo PWA
+* [Vizua](https://vizua.io/): Free browser-based image tools — compress, resize, convert (WebP, AVIF, PNG, JPEG), remove background, upscale, OCR. 91 tools, all client-side via WebAssembly. 16 languages.
 * [Word Counter](https://wordcounter.io): Count characters, words, sentences, paragraphs, pages.
 * [Wormhole](https://wormhole.app/): Share files with end-to-end encryption.
 * [ztable.io](https://ztable.io/): Z-Table lookup & Z-Score calculator.
