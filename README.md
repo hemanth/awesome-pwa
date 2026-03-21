@@ -142,6 +142,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Tutor Portfolio PWA](https://englishextra.gitlab.io/): ???
 * [Unalengua IPA Translator](https://unalengua.com/ipa): Translate to IPA.
 * [WordDB](https://www.worddb.com): Word finder, thesaurus, dictionary, crossword solver, rhyme finder and more.
+* [MGuide](https://mguide.app): Interactive campus map for the University of Michigan with 354 buildings, real-time bus tracking, walking directions, and 6-language support.
 
 ### Games and Entertainment
 
