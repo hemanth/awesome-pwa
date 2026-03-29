@@ -73,6 +73,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 ### Business and Finance
 
 * [Contrax](https://contrax.app): Track your contracts, subscriptions and trials.
+* [Daybrick](https://daybrick.io): Minimal daily task manager with duties, habits, streaks, and multi-day paths.
 * [ELFSH](https://elfsh.mousetail.nl): Food and expense manager.
 * [FarmOS](https://farmos.app/): Farm record keeping
 * [Freelancer](https://m.freelancer.com/messages): Hire the best freelancers for any job, online.
