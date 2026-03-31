@@ -226,6 +226,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Resume Nation](https://resume-nation.github.io): Resume creator.
 * [Share Text Online Live](https://share-text.org/): Share Text Online Live——Create, edit, and share text online with secure links and QR codes – No Login and registration required
 * [Smaller Pictures](https://smaller-pictures.appspot.com): Image compressor.
+* [Super Productivity](https://app.super-productivity.com): Open-source todo list and time tracker with timeboxing, Jira/GitHub/GitLab integration.
 * [Todoly](https://t4p4n.github.io/todoly/): A Simple ToDo PWA
 * [Word Counter](https://wordcounter.io): Count characters, words, sentences, paragraphs, pages.
 * [Wormhole](https://wormhole.app/): Share files with end-to-end encryption.
