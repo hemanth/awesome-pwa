@@ -390,6 +390,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [`sw-precache`](https://github.com/GoogleChrome/sw-precache): A node module to generate service worker code that will precache specific resources
 * [`sw-toolbox`](https://github.com/GoogleChrome/sw-toolbox): A runtime caching library
 * [`UpUp`](https://github.com/TalAter/UpUp): Makes sure your users can always access your site's content, even when they're on a plane, in an elevator, or 20,000 leagues under the sea
+* [`verifyfetch`](https://github.com/hamzaydia/verifyfetch): Resumable, integrity-verified downloads for large offline assets. Includes Service Worker mode for transparent verification of all fetch requests.
 * [`Workbox`](https://github.com/GoogleChrome/workbox): Javascript Library for building progressive web apps
 
 ### Webpack and Framework Plugins
