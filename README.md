@@ -2,6 +2,7 @@
 
 > Useful resources for creating Progressive Web Apps
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for PWA-integrated multi-agent orchestration, automated service worker management, and offline-first coordination. MIT licensed.
 ## What is a Progressive Web App
 
 > A Progressive Web App uses modern web capabilities to deliver an app-like user experience. They evolve from pages in browser tabs to immersive, top-level apps, leveraging the web's low friction.
