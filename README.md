@@ -52,6 +52,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ## Apps
 
+- [glot.it](https://glot.it) — Thai-language learning PWA with offline-first lessons, pitch-contour pronunciation training, and AI chat. Capacitor-wrapped for iOS/Android. Source: [github.com/kensaurus/glot.it](https://github.com/kensaurus/glot.it).
 ### Audio and Video
 
 * [BitMidi](https://bitmidi.com): Listen to your favorite MIDI files.
