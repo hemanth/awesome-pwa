@@ -87,6 +87,7 @@ async function checkPwa(url) {
     error: null,
     whitelisted: false,
     skipped: false,
+    botBlocked: false,
   };
 
   const domain = getDomain(url);
@@ -110,7 +111,18 @@ async function checkPwa(url) {
   try {
     const res = await fetchWithTimeout(url);
     result.status = res.status;
-    result.isReachable = res.status < 400;
+
+    // 403/406 usually means bot protection, not a dead site
+    // Only treat 404 and 500+ as truly unreachable
+    const botBlocked = res.status === 403 || res.status === 406;
+    result.isReachable = res.status < 400 || botBlocked;
+
+    if (botBlocked) {
+      // Can't check HTML content, assume PWA (benefit of the doubt)
+      result.isPwa = true;
+      result.botBlocked = true;
+      return result;
+    }
 
     if (!result.isReachable) {
       return result;
@@ -231,20 +243,23 @@ async function main() {
         ? "🔒"
         : result.skipped
           ? "⏭️"
-          : result.isPwa
-            ? "✅"
-            : result.isReachable
-              ? "⚠️"
-              : "❌";
+          : result.botBlocked
+            ? "🤖"
+            : result.isPwa
+              ? "✅"
+              : result.isReachable
+                ? "⚠️"
+                : "❌";
 
       const details = [];
       if (result.whitelisted) details.push("whitelisted");
       if (result.skipped) details.push("skipped");
+      if (result.botBlocked) details.push(`bot-blocked (${result.status})`);
       if (!result.isReachable && !result.whitelisted && !result.skipped)
         details.push(`status=${result.status || result.error}`);
-      if (result.isReachable && !result.hasManifest && !result.whitelisted && !result.skipped)
+      if (result.isReachable && !result.hasManifest && !result.whitelisted && !result.skipped && !result.botBlocked)
         details.push("no manifest");
-      if (result.isReachable && !result.hasServiceWorker && !result.whitelisted && !result.skipped)
+      if (result.isReachable && !result.hasServiceWorker && !result.whitelisted && !result.skipped && !result.botBlocked)
         details.push("no SW");
       if (result.error) details.push(result.error);
 
