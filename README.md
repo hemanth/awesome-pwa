@@ -71,6 +71,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Wave-PD1](https://alexgibson.github.io/wavepad/): Synth toy.
 * [X Sound](https://korilakkuma.github.io/X-Sound/): Online keyboard synth.
 * [Youtube Music](https://music.youtube.com/): Music streaming via YouTube.
+* [Remove Audio](https://remove-audio.com): Browser-based tool to strip the soundtrack from any video locally with WebAssembly and FFmpeg.wasm. No uploads, no sign-up, batch up to 20 clips.
 
 ### Business and Finance
 
