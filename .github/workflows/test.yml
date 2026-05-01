@@ -15,7 +15,7 @@ jobs:
     - name: Install awesome_bot
       run: gem install awesome_bot
     - name: Check links
-      run: awesome_bot -f README.md --set-timeout 15 --allow-redirect --white-list twitter.com/addyosmani,github.com/sindresorhus/awesome,messages.google.com/web,trivago.com,udemy.com,medium.com,digikala.com,housing.com,npmjs.com,medium.zenika.com,bitmidi.com,datememe.com,makebetter.software,sitepoint.com,pageguard.org,abc.xyz,farmos.app --skip-save-results
+      run: awesome_bot -f README.md --set-timeout 15 --allow-redirect --white-list twitter.com/addyosmani,github.com/sindresorhus/awesome,messages.google.com/web,trivago.com,udemy.com,medium.com,digikala.com,housing.com,npmjs.com,medium.zenika.com,bitmidi.com,datememe.com,makebetter.software,sitepoint.com,pageguard.org,abc.xyz,farmos.app,catsafefoods.com --skip-save-results
 
   pwa-quality:
 
