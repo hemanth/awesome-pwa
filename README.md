@@ -176,6 +176,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Cat Safe Foods](https://catsafefoods.com): Sharing food with your cat? Make sure it's safe first
 * [ClearLungs](https://clearlungs-app.vercel.app): Free private streak tracker for quitting smoking. Track recovery phases, milestones, and share progress.
 * [Dog Safe Foods](https://dogsafefoods.com): Sharing food with your dog? Make sure it's safe first
+* [DishRoll](https://dishroll.netlify.app/): AI-powered weekly meal planner with personalised 7-day menus, dietary filters, budget tracking, and Alexa shopping list export.
 * [DoHabit](https://inikann.github.io/DoHabit/): Straightforward habit tracker.
 * [FastTrack](https://fasttrack-app-three.vercel.app): Free intermittent fasting streak tracker with metabolic phases and milestone celebrations.
 * [Journalistic](https://journalisticapp.com/): Micro Journaling App.
