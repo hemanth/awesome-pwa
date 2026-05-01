@@ -51,7 +51,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [store.app](https://store.app/)
 
 ## Apps
-- [TaleForge](https://www.tale-forge.com/) - Creative writing PWA with book, manga, and screenplay editors. Works offline with service worker caching.
 
 ### Audio and Video
 
@@ -173,7 +172,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ### Health and Lifestyle
 
-* [Aerko_](https://aerko.app) - Offline-first, brutalist fitness & nutrition PWA with local AI biomechanics (MediaPipe) and AES-256 encryption.
+* [Aerko_](https://aerko.app): Offline-first, brutalist fitness & nutrition PWA with local AI biomechanics (MediaPipe) and AES-256 encryption.
 * [Care Cards](https://carecards.io): Care Cards
 * [Cat Safe Foods](https://catsafefoods.com): Sharing food with your cat? Make sure it's safe first
 * [ClearLungs](https://clearlungs-app.vercel.app): Free private streak tracker for quitting smoking. Track recovery phases, milestones, and share progress.
@@ -236,6 +235,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Share Text Online Live](https://share-text.org/): Share Text Online Live——Create, edit, and share text online with secure links and QR codes – No Login and registration required
 * [Smaller Pictures](https://smaller-pictures.appspot.com): Image compressor.
 * [Super Productivity](https://app.super-productivity.com): Open-source todo list and time tracker with timeboxing, Jira/GitHub/GitLab integration.
+* [TaleForge](https://www.tale-forge.com/): Creative writing PWA with book, manga, and screenplay editors. Works offline with service worker caching.
 * [Todoly](https://t4p4n.github.io/todoly/): A Simple ToDo PWA
 * [Vizua](https://vizua.io/): Free browser-based image tools — compress, resize, convert (WebP, AVIF, PNG, JPEG), remove background, upscale, OCR. 91 tools, all client-side via WebAssembly. 16 languages.
 * [Word Counter](https://wordcounter.io): Count characters, words, sentences, paragraphs, pages.
