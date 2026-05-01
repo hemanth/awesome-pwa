@@ -78,6 +78,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [ELFSH](https://elfsh.mousetail.nl): Food and expense manager.
 * [FarmOS](https://farmos.app/): Farm record keeping
 * [Freelancer](https://m.freelancer.com/messages): Hire the best freelancers for any job, online.
+* [Invoice Otter](https://invoiceotter.com): Send estimates and invoices with AI, get paid instantly, track expenses.
 * [JustInvoice](https://justinvoice.netlify.app/app): An intuitive invoice manager that works completely in the browser and offline.
 * [JustTimeTrack](https://justtimetrack.vercel.app): A Free and Open source Time Tracker.
 * [MoneyTracker](https://moneytracker.cc/): Personal finances tracking web app.
