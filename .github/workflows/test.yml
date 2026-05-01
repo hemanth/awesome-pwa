@@ -8,11 +8,23 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v4
     - uses: ruby/setup-ruby@v1
       with:
-        ruby-version: '2.7'
+        ruby-version: '3.2'
     - name: Install awesome_bot
       run: gem install awesome_bot
     - name: Check links
       run: awesome_bot -f README.md --set-timeout 10 --allow-redirect --white-list twitter.com/addyosmani,github.com/sindresorhus/awesome,messages.google.com/web,trivago.com,udemy.com,medium.com,digikala.com,housing.com,npmjs.com,medium.zenika.com --skip-save-results
+
+  pwa-quality:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+    - uses: actions/setup-node@v4
+      with:
+        node-version: '22'
+    - name: Check PWA quality
+      run: node scripts/check-pwa.mjs

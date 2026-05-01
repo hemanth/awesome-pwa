@@ -58,7 +58,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Foldergram](https://github.com/foldergram/foldergram): Local-only photo and video gallery for folders, with an Instagram-inspired browsing pattern.
 * [guitar-tuner](https://aerotwist.com/blog/guitar-tuner/): Aerotwist Guitar Tuner
 * [Joybox](https://joybox.rosano.ca): A pinboard for audiovisual media.
-* [Kudoflix](https://kudoflix.com): Online video editor.
 * [Lofimusic.app](https://lofimusic.app/): Online radio Radio
 * [Music Player PWA](https://akaspanion.github.io/music-app/): Music Player.
 * [OmniCam](https://www.omnicamapp.com/): Live streaming webcams around the world.
@@ -74,17 +73,14 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ### Business and Finance
 
-* [Contrax](https://contrax.app): Track your contracts, subscriptions and trials.
 * [ELFSH](https://elfsh.mousetail.nl): Food and expense manager.
 * [FarmOS](https://farmos.app/): Farm record keeping
 * [Freelancer](https://m.freelancer.com/messages): Hire the best freelancers for any job, online.
 * [Invoice Otter](https://invoiceotter.com): Send estimates and invoices with AI, get paid instantly, track expenses.
 * [JustInvoice](https://justinvoice.netlify.app/app): An intuitive invoice manager that works completely in the browser and offline.
-* [JustTimeTrack](https://justtimetrack.vercel.app): A Free and Open source Time Tracker.
 * [MoneyTracker](https://moneytracker.cc/): Personal finances tracking web app.
 * [Vaulted](https://vaultedworth.com): Local-first net worth tracker PWA with no account, no bank sync, and no server.
 * [MTGStocks](https://www.mtgstocks.com/news): Magic the Gathering price tracker.
-* [Paytm Lite](https://paytm.com/): Online wallet and payments.
 * [Rydeen](https://rydeen.app/): Task management app for individuals.
 * [Simple Currency Converter](https://currency-converter.now.sh): Currency Converter
 * [Skcript](https://www.skcript.com/): Ruby on Rails Consulting.
@@ -112,17 +108,13 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [3D House Editor](https://3dhouseplanner.com/app2.php): Free 3D floor planner
 * [ampproject](https://www.ampproject.org): Web component framework.
 * [Bento-starter](https://bento-starter.firebaseapp.com): Open-Source Full-Stack solution for fast PWA development
-* [Best Markdown Editor](https://bestmarkdowneditor.com): Online markdown editor and HTML-to-Markdown converter.
 * [bundle](https://bundle.js.org/): A quick and easy way to bundle, minify, and compress (gzip and brotli) your ts, js, jsx and npm projects all online, with the resulting file size.
 * [ColorBeta](https://colorbeta.com): Advanced CSS Gradient Generator
 * [Demo PWA](https://github.com/gokulkrishh/demo-progressive-web-app): Demonstrating offline, push notifications, background sync etc.
 * [DevDocs](https://devdocs.io/): API Documentation Browser
-* [Dev.Opera](https://dev.opera.com/): Dev.Opera
-* [GitHub Explorer](https://github-e.com/): Profile viewer.
 * [Hyperdraft](https://hyperdraft.rosano.ca): Turn your text notes into a website.
 * [JSON Formatter](https://jsonformatter.live/): Minimalist JSON formatter.
 * [Launchlet](https://launchlet.dev): Customize any website with JavaScript or CSS.
-* [Lorem Ipsum](https://loremipsum.io): Lorem Ipsum generator.
 * [Make Better Software](https://makebetter.software): Raise software standards.
 * [MYHELLOIOT](https://adrianromero.github.io/myhelloiot/): MQTT client application.
 * [Photopea](https://www.photopea.com/): Online Photo Editor.
@@ -178,10 +170,8 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Cat Safe Foods](https://catsafefoods.com): Sharing food with your cat? Make sure it's safe first
 * [ClearLungs](https://clearlungs-app.vercel.app): Free private streak tracker for quitting smoking. Track recovery phases, milestones, and share progress.
 * [Dog Safe Foods](https://dogsafefoods.com): Sharing food with your dog? Make sure it's safe first
-* [DishRoll](https://dishroll.netlify.app/): AI-powered weekly meal planner with personalised 7-day menus, dietary filters, budget tracking, and Alexa shopping list export.
 * [DoHabit](https://inikann.github.io/DoHabit/): Straightforward habit tracker.
 * [FastTrack](https://fasttrack-app-three.vercel.app): Free intermittent fasting streak tracker with metabolic phases and milestone celebrations.
-* [Journalistic](https://journalisticapp.com/): Micro Journaling App.
 * [Paula](https://trypaula.com): Free AI mental health companion using CBT and DBT techniques, with voice sessions, mood tracking, and journaling.
 * [Progressive](https://schroedingberg.github.io/progressive/): Local-first hypertrophy training tracker, fully offline and event-sourced.
 * [Progressive Beer](https://deanhume.github.io/beer/): Progressive Beer
@@ -193,7 +183,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 * [Brutalist Hacker News](https://brutalisthackernews.com): A Hacker News reader inspired by Brutalist Web design, Cyberpunk, retro computing, Y2K Aesthetics
 * [ComputerBase](https://www.computerbase.de/): German IT news site.
-* [Football Peek](https://footballpeek.com/): Football results.
 * [Qi Reader](https://www.qireader.com/): A modern web RSS reader.
 
 ### Shopping and Travel
@@ -211,7 +200,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [2brew](https://2brew.github.io/): PWA timer for coffee brewing
 * [AlarmDJ](https://alarmdj.com): Online alarm clock that plays MP3 files or YouTube videos.
 * [Anonynote](https://anonynote.org): Note-taking app.
-* [Bangle.io](https://bangle.io/): A Notion-like local note taking tool where data is saved in your computer and in Markdown format.
 * [BulkPicTools](https://bulkpictools.com): Privacy-first, browser-side bulk image optimizer and editor.
 * [Calculator](https://calculator-app-tau.vercel.app/): A calculator app with theme switcher
 * [Emoji Log](https://emojilog.rosano.ca): Personal tracker
@@ -221,11 +209,9 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [GPA Calculator](https://gpacalculator.io): Calculate your college GPA.
 * [MConverter](https://mconverter.eu): Online file converter.
 * [OmniConvert](https://tools.sagasu.art): Free, open-source file and unit converter — 94 formats, 345 units, 100% client-side with WebAssembly.
-* [Mono Card](https://mono.cards/): Turn anything to visual cards for better content sharing.
 * [Morse Code Translator](https://morsedecoder.com/): Morse Code tools
 * [Nanocell-csv](https://www.nanocell-csv.com/): A lightweight, cross platform, open-source, PWA CSV file viewer and editor
 * [Notella](https://github.com/siddharthkp/notella): No fluff notes app.
-* [Online Notepad With Share](https://onlinenotepad101.org/): Online Notepad – Free Online Text Editor & Notes Sharing
 * [Passky](https://vault.passky.org/): Free and open-source Password Manager
 * [PasteePad](https://pasteepad.com/): Free and simple notepad app
 * [PDFGem](https://pdfgem.io/): Free browser-based PDF tools — merge, split, compress, OCR, sign, convert. All processing runs client-side via WebAssembly; works offline after initial load. 16 languages.
@@ -236,13 +222,11 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [QR Code Scanner](https://qrcodescan.in/): Scan a QR code.
 * [Remember](https://paulhoughton.github.io/remember/): Location-based reminders.
 * [Resume Nation](https://resume-nation.github.io): Resume creator.
-* [Share Text Online Live](https://share-text.org/): Share Text Online Live——Create, edit, and share text online with secure links and QR codes – No Login and registration required
 * [Smaller Pictures](https://smaller-pictures.appspot.com): Image compressor.
 * [Super Productivity](https://app.super-productivity.com): Open-source todo list and time tracker with timeboxing, Jira/GitHub/GitLab integration.
 * [TaleForge](https://www.tale-forge.com/): Creative writing PWA with book, manga, and screenplay editors. Works offline with service worker caching.
 * [Todoly](https://t4p4n.github.io/todoly/): A Simple ToDo PWA
 * [Vizua](https://vizua.io/): Free browser-based image tools — compress, resize, convert (WebP, AVIF, PNG, JPEG), remove background, upscale, OCR. 91 tools, all client-side via WebAssembly. 16 languages.
-* [Word Counter](https://wordcounter.io): Count characters, words, sentences, paragraphs, pages.
 * [Wormhole](https://wormhole.app/): Share files with end-to-end encryption.
 * [ztable.io](https://ztable.io/): Z-Table lookup & Z-Score calculator.
 
