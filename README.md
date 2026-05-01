@@ -79,6 +79,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [JustInvoice](https://justinvoice.netlify.app/app): An intuitive invoice manager that works completely in the browser and offline.
 * [JustTimeTrack](https://justtimetrack.vercel.app): A Free and Open source Time Tracker.
 * [MoneyTracker](https://moneytracker.cc/): Personal finances tracking web app.
+* [Vaulted](https://vaultedworth.com): Local-first net worth tracker PWA with no account, no bank sync, and no server.
 * [MΞRKLIN](https://merklin.xyz): Open-source Ethereum Wallet Explorer.
 * [MTGStocks](https://www.mtgstocks.com/news): Magic the Gathering price tracker.
 * [Paytm Lite](https://paytm.com/): Online wallet and payments.
