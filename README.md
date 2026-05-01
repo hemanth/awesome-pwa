@@ -51,6 +51,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [store.app](https://store.app/)
 
 ## Apps
+- [TaleForge](https://www.tale-forge.com/) - Creative writing PWA with book, manga, and screenplay editors. Works offline with service worker caching.
 
 ### Audio and Video
 
