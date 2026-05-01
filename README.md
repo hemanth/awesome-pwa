@@ -167,6 +167,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ### Health and Lifestyle
 
+* [Aerko_](https://aerko.app) - Offline-first, brutalist fitness & nutrition PWA with local AI biomechanics (MediaPipe) and AES-256 encryption.
 * [Care Cards](https://carecards.io): Care Cards
 * [Cat Safe Foods](https://catsafefoods.com): Sharing food with your cat? Make sure it's safe first
 * [ClearLungs](https://clearlungs-app.vercel.app): Free private streak tracker for quitting smoking. Track recovery phases, milestones, and share progress.
