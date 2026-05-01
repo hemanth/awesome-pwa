@@ -83,7 +83,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [JustTimeTrack](https://justtimetrack.vercel.app): A Free and Open source Time Tracker.
 * [MoneyTracker](https://moneytracker.cc/): Personal finances tracking web app.
 * [Vaulted](https://vaultedworth.com): Local-first net worth tracker PWA with no account, no bank sync, and no server.
-* [MΞRKLIN](https://merklin.xyz): Open-source Ethereum Wallet Explorer.
 * [MTGStocks](https://www.mtgstocks.com/news): Magic the Gathering price tracker.
 * [Paytm Lite](https://paytm.com/): Online wallet and payments.
 * [Rydeen](https://rydeen.app/): Task management app for individuals.
