@@ -155,8 +155,8 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Murlok.io](https://murlok.io/): World of Warcraft Shadowlands.
 * [Othello](https://othello-rust.web.app/): Play Othello against the computer.
 * [Player order selector](https://nenadalm.github.io/player-order-selector/): Random player order selector.
-* [Pokedex](https://pokedex.org/): Indexing Pokémon
-* [PokeQuest Wiki](https://pokequest.wiki/): Search for Pokémon
+* [Pokedex](https://pokedex.org/): Indexing PokÃ©mon
+* [PokeQuest Wiki](https://pokequest.wiki/): Search for PokÃ©mon
 * [PWA-NES](https://pwa-nes.vercel.app/): 8-bit NES emulator
 * [Slitherlinks](https://slitherlinks.com): Free online Slitherlink puzzle platform with 1900+ puzzles, daily challenges, and global leaderboards.
 * [Soodoku](https://soodoku.com/): Advanced sudoku game, works online & offline, without ads and distractions.
@@ -192,6 +192,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Housing Go](http://www.housing.com): Real estate in India.
 * [trivago](https://www.trivago.com/): Hotel prices.
 * [Uber Web](https://m.uber.com): Ridesharing app.
+* [ParkOnce](https://parkonce.polsia.app/app): All Vancouver parking meters on one map — 3,786 real meters with live rates & PayByPhone integration.
 * [StoryRoute](https://storyroute.netlify.app): AI-powered GPS audio tour guide that generates real-time spoken narratives about places around you.
 * [Versus](https://versus.com/en): Consumer electronics shopping.
 
@@ -208,13 +209,13 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [GPA Calculator](https://gpacalculator.memorymaps.io/): Generate animated artwork from your unique GPA inputs.
 * [GPA Calculator](https://gpacalculator.io): Calculate your college GPA.
 * [MConverter](https://mconverter.eu): Online file converter.
-* [OmniConvert](https://tools.sagasu.art): Free, open-source file and unit converter — 94 formats, 345 units, 100% client-side with WebAssembly.
+* [OmniConvert](https://tools.sagasu.art): Free, open-source file and unit converter â 94 formats, 345 units, 100% client-side with WebAssembly.
 * [Morse Code Translator](https://morsedecoder.com/): Morse Code tools
 * [Nanocell-csv](https://www.nanocell-csv.com/): A lightweight, cross platform, open-source, PWA CSV file viewer and editor
 * [Notella](https://github.com/siddharthkp/notella): No fluff notes app.
 * [Passky](https://vault.passky.org/): Free and open-source Password Manager
 * [PasteePad](https://pasteepad.com/): Free and simple notepad app
-* [PDFGem](https://pdfgem.io/): Free browser-based PDF tools — merge, split, compress, OCR, sign, convert. All processing runs client-side via WebAssembly; works offline after initial load. 16 languages.
+* [PDFGem](https://pdfgem.io/): Free browser-based PDF tools â merge, split, compress, OCR, sign, convert. All processing runs client-side via WebAssembly; works offline after initial load. 16 languages.
 * [Pocket Devices](https://pocket-devices.com/): Pocket-sized tools for seamless functionality on the go.
 * [Pomotimer](https://pomotimer.com/): Pomodoro Technique Timer
 * [PPResume](https://ppresume.com/): A LaTeX Based Resume Builder
@@ -226,7 +227,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Super Productivity](https://app.super-productivity.com): Open-source todo list and time tracker with timeboxing, Jira/GitHub/GitLab integration.
 * [TaleForge](https://www.tale-forge.com/): Creative writing PWA with book, manga, and screenplay editors. Works offline with service worker caching.
 * [Todoly](https://t4p4n.github.io/todoly/): A Simple ToDo PWA
-* [Vizua](https://vizua.io/): Free browser-based image tools — compress, resize, convert (WebP, AVIF, PNG, JPEG), remove background, upscale, OCR. 91 tools, all client-side via WebAssembly. 16 languages.
+* [Vizua](https://vizua.io/): Free browser-based image tools â compress, resize, convert (WebP, AVIF, PNG, JPEG), remove background, upscale, OCR. 91 tools, all client-side via WebAssembly. 16 languages.
 * [Wormhole](https://wormhole.app/): Share files with end-to-end encryption.
 * [ztable.io](https://ztable.io/): Z-Table lookup & Z-Score calculator.
 
@@ -255,7 +256,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ### Getting Started and Introductions
 
-* [A Beginner’s Guide to Progressive Web Apps & the Frontend Web](https://hackernoon.com/a-beginners-guide-to-progressive-web-apps-the-frontend-web-424b6d697e35)
+* [A Beginnerâs Guide to Progressive Web Apps & the Frontend Web](https://hackernoon.com/a-beginners-guide-to-progressive-web-apps-the-frontend-web-424b6d697e35)
 * [Are Progressive Web Apps the Future?](http://developer.telerik.com/featured/are-progressive-web-apps-future/)
 * [Introduction to Progressive Web App with example](https://www.loginradius.com/engineering/blog/introduction-to-progressive-web-apps/)
 * [Intro to (Progressive) Web Apps](https://dev.to/sudhakar3697/intro-to-progressive-web-apps-34oo)
@@ -270,13 +271,13 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [How I built a Progressive Beer App](https://deanhume.com/Home/BlogPost/how-i-built-a-progressive-beer-app/10148)
 * [How I made a Progressive Web App out of my Blog](https://alexjoverm.github.io/2017/08/07/How-I-made-a-Progressive-Web-App-out-of-my-Blog/)
 * [How we made our website offline first](https://blog.skcript.com/svr/offline-is-the-new-online/)
-* [Introducing Pokedex.org: a progressive webapp for Pokémon fans](http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org)
+* [Introducing Pokedex.org: a progressive webapp for PokÃ©mon fans](http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org)
 * [Swift Migration to Progressive Web App](https://medium.com/engineering-housing/progressing-mobile-web-fac3efb8b454)
 
 ### Performance and Optimization
 
 * [FLIP your animations](https://aerotwist.com/blog/flip-your-animations/)
-* [IndexedDB, WebSQL, LocalStorage – what blocks the DOM?](https://nolanlawson.com/2015/09/29/indexeddb-websql-localstorage-what-blocks-the-dom/)
+* [IndexedDB, WebSQL, LocalStorage â what blocks the DOM?](https://nolanlawson.com/2015/09/29/indexeddb-websql-localstorage-what-blocks-the-dom/)
 * [PWA Performance](https://speedcurve.com/blog/pwa-performance/)
 * [The web app "discovery problem"](https://remysharp.com/2016/04/11/the-webapp-discovery-problem)
 
@@ -292,7 +293,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Service Workers: Dynamic Responsive Images using WebP Images](http://deanhume.com/Home/BlogPost/service-workers--dynamic-responsive-images-using-webp-images/10132/)
 * [Support for theme-color in Chrome 39 for Android](https://developers.google.com/web/updates/2014/11/Support-for-theme-color-in-Chrome-39-for-Android)
 * [The Building Blocks Of Progressive Web Apps](https://www.smashingmagazine.com/2016/09/the-building-blocks-of-progressive-web-apps/)
-* [You’re Missing the Point of Server-Side Rendered JavaScript Apps](http://tomdale.net/2015/02/youre-missing-the-point-of-server-side-rendered-javascript-apps/)
+* [Youâre Missing the Point of Server-Side Rendered JavaScript Apps](http://tomdale.net/2015/02/youre-missing-the-point-of-server-side-rendered-javascript-apps/)
 
 ## Videos
 
@@ -304,7 +305,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Building the Google I/O Web App: Launching a Progressive Web App on Google.com  - Google I/O 2016](https://www.youtube.com/watch?v=__KvYxcIIm8)
 * [Fast and resilient web apps: Tools and techniques - Google I/O 2016](https://www.youtube.com/watch?v=aqvz5Oqs238)
 * [Fireside Chat with the Progressive Web Apps Crew - Google I/O 2016](https://www.youtube.com/watch?v=Sy4oH8JZuJQ)
-* [Going Big: PWAs Come to Desktop and Chrome OS (Google I/O ’19)](https://www.youtube.com/watch?v=2KhRmFHLuhE)
+* [Going Big: PWAs Come to Desktop and Chrome OS (Google I/O â19)](https://www.youtube.com/watch?v=2KhRmFHLuhE)
 * [Great libraries and tools for great Progressive Web Apps - Google I/O 2016](https://www.youtube.com/watch?v=Use459WBeWc)
 * [Houdini: Demystifying the Future of CSS - Google I/O 2016](https://www.youtube.com/watch?v=sE3ttkP15f8)
 * [Instant Loading: Building offline-first Progressive Web Apps - Google I/O 2016](https://www.youtube.com/watch?v=cmGr0RszHc8)
@@ -316,7 +317,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Search and the mobile content ecosystem - Google I/O 2016](https://www.youtube.com/watch?v=xeGzQhAU2XI)
 * [Service workers at scale with Facebook and Flipkart - Google I/O 2016](https://www.youtube.com/watch?v=fGTUIlEM0m8)
 * [The Mobile Web: State of the Union - Google I/O 2016](https://www.youtube.com/watch?v=0SSI8liELJU)
-* [Unlocking New Capabilities for the Web (Google I/O ’19)](https://www.youtube.com/watch?v=GSiUzuB-PoI)
+* [Unlocking New Capabilities for the Web (Google I/O â19)](https://www.youtube.com/watch?v=GSiUzuB-PoI)
 * [V8, modern JavaScript, and beyond - Google I/O 2016](https://www.youtube.com/watch?v=N1swY14jiKc)
 * [Who are you, really: Safer and more convenient sign-in on the web - Google I/O 2016](https://www.youtube.com/watch?v=MnvUlGFb3GQ)
 
@@ -402,7 +403,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ### Testing and Auditing
 
-* [`PageGuard`](https://pageguard.org): Free website health scanner that audits performance, accessibility (WCAG 2.1), SEO, and best practices — ideal for verifying PWA quality before launch.
+* [`PageGuard`](https://pageguard.org): Free website health scanner that audits performance, accessibility (WCAG 2.1), SEO, and best practices â ideal for verifying PWA quality before launch.
 
 ### Miscellaneous Utilities
 
@@ -411,7 +412,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [`@forlagshuset/simple-fs`](https://github.com/fagbokforlaget/simple-fs): Needs offline filesystem? SimpleFS provides sweet promise based nodejs file API on top of indexeddb.
 * [`HNPWA`](https://github.com/tastejs/hacker-news-pwas): Hacker News readers as Progressive Web Apps. A spiritual successor to TodoMVC.
 * [`pwa-badge`](https://github.com/ali-master/pwa-badge): Badging for PWA app icons, Like Native Apps
-* [`pure-web`](https://www.npmjs.com/package/pure-web): Web component for enhancing PWA capabilities — install prompts, offline indicators, and update notifications.
+* [`pure-web`](https://www.npmjs.com/package/pure-web): Web component for enhancing PWA capabilities â install prompts, offline indicators, and update notifications.
 
 ## Kits
 
