@@ -153,6 +153,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Backgammon](https://nenadalm.github.io/backgammon/): Backgammon game with local multiplayer (no single player).
 * [Colosseum](https://naramsim.github.io/Colosseum/): Displays Pokemons in a beautiful way
 * [Crazy Dice](https://crazydice.netlify.app): Simple Dice App.
+* [Falling Nikochan](https://nikochan.utcode.net): Simple and cute rhythm game, where anyone can create and share charts.
 * [Farmhand](https://www.farmhand.life/): A resource management game that puts a farm in your hand
 * [Life counter](https://nenadalm.github.io/life-counter/): Life counter app for 2 players. Supports game profiles, cout up/down.
 * [Match a Movie](https://match-a-movie.com/): Tinder but for movies to find out what to watch with your friends.
