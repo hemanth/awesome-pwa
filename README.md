@@ -200,6 +200,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [2brew](https://2brew.github.io/): PWA timer for coffee brewing
 * [AlarmDJ](https://alarmdj.com): Online alarm clock that plays MP3 files or YouTube videos.
 * [Anonynote](https://anonynote.org): Note-taking app.
+* [browser-based background removal tool](https://free-background-remover.com): AI background remover that runs locally in the browser, no upload, sign-up, or watermark.
 * [BulkPicTools](https://bulkpictools.com): Privacy-first, browser-side bulk image optimizer and editor.
 * [Calculator](https://calculator-app-tau.vercel.app/): A calculator app with theme switcher
 * [Emoji Log](https://emojilog.rosano.ca): Personal tracker
