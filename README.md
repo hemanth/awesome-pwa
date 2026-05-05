@@ -129,6 +129,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 ### Education and Reading
 
 * [Booksie](https://www.booksie.org/): An open catalog of free picture storybooks for children instantly available for reading.
+* [EchoTalk](https://alisolphp.github.io/EchoTalk/): Offline shadowing practice with AI pronunciation feedback, multiple languages, and no login required.
 * [EPUB Player](https://epubplayer.com): A fully-featured audiobook player with Audible/Spotify-like UX, powered by local TTS models. Turn your EPUBs into audiobooks entirely in-browser.
 * [Kommit](https://kommit.rosano.ca): Create flashcards and learn them with spaced-repetition.
 * [PracticeLoop](https://teal-semifreddo-cad4ad.netlify.app/): Slow down & loop YouTube videos for music practice with progressive speed training.
