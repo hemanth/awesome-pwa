@@ -125,6 +125,8 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Total Formatter](https://totalformatter.web.app): YAML Formatter
 * [TurboPixel](https://turborium.github.io/turbopixel/): PixelArt Camera PWA
 * [webpushtest](https://webpushtest.com/): Web Push Notifications Demo
+* [Online Notepad With Share](https://onlinenotepad101.org/): Online Notepad – Free Online Text Editor & Notes Sharing
+* [Share Text Online Live](https://share-text.org/): Share Text Online Live——Create, edit, and share text online with secure links and QR codes – No Login and registration required
 
 ### Education and Reading
 
