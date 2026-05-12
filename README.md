@@ -148,6 +148,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Cybercar](https://cybercar.pages.dev): Free neon arcade survival game with power-ups, unlockable themes, boss battles, and global leaderboard.
 * [Falling Nikochan](https://nikochan.utcode.net): Simple and cute rhythm game, where anyone can create and share charts.
 * [Farmhand](https://www.farmhand.life/): A resource management game that puts a farm in your hand
+* [GameScore](https://gamescore.cards): Offline-first board game score tracker with 50+ game-specific templates and shareable Victory Cards.
 * [Life counter](https://nenadalm.github.io/life-counter/): Life counter app for 2 players. Supports game profiles, cout up/down.
 * [Match a Movie](https://match-a-movie.com/): Tinder but for movies to find out what to watch with your friends.
 * [Math Riddles](https://mathriddles.netlify.app): Interesting Math Riddles.
