@@ -118,6 +118,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Make Better Software](https://makebetter.software): Raise software standards.
 * [MYHELLOIOT](https://adrianromero.github.io/myhelloiot/): MQTT client application.
 * [Photopea](https://www.photopea.com/): Online Photo Editor.
+* [PhotoQuill](https://photoquill.com/): Free browser-based Photoshop alternative with PSD support, layers, and local image processing.
 * [PixelCraft](https://pixelcraft.web.app): Pixel Art Editor
 * [Regex101](https://regex101.com/): Build, test and debug regex.
 * [SVGOMG](https://jakearchibald.github.io/svgomg/): SVGO's Missing GUI
