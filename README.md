@@ -207,6 +207,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Google Photos](https://photos.google.com/): Photo management.
 * [GPA Calculator](https://gpacalculator.memorymaps.io/): Generate animated artwork from your unique GPA inputs.
 * [GPA Calculator](https://gpacalculator.io): Calculate your college GPA.
+* [IDPhotoSnap](https://idphotosnap.com): Free privacy-first passport and visa photo generator for 100+ countries. Runs entirely client-side via WebAssembly (BRIA RMBG-1.4 + MediaPipe), photo never leaves the device, no signup, no watermark. Open MIT spec dataset.
 * [MConverter](https://mconverter.eu): Online file converter.
 * [OmniConvert](https://tools.sagasu.art): Free, open-source file and unit converter — 94 formats, 345 units, 100% client-side with WebAssembly.
 * [Morse Code Translator](https://morsedecoder.com/): Morse Code tools
