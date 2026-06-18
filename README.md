@@ -412,6 +412,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [`HNPWA`](https://github.com/tastejs/hacker-news-pwas): Hacker News readers as Progressive Web Apps. A spiritual successor to TodoMVC.
 * [`pwa-badge`](https://github.com/ali-master/pwa-badge): Badging for PWA app icons, Like Native Apps
 * [`pure-web`](https://www.npmjs.com/package/pure-web): Web component for enhancing PWA capabilities — install prompts, offline indicators, and update notifications.
+* [`bleedblend`](https://github.com/CVERInc/bleedblend): Tints Safari's browser chrome (status/URL bar) and overscroll to match your page, so an installed web app feels native on iPhone, iPad, and Mac.
 
 ## Kits
 
