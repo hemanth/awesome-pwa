@@ -170,7 +170,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Cat Safe Foods](https://catsafefoods.com): Sharing food with your cat? Make sure it's safe first
 * [ClearLungs](https://clearlungs-app.vercel.app): Free private streak tracker for quitting smoking. Track recovery phases, milestones, and share progress.
 * [Dog Safe Foods](https://dogsafefoods.com): Sharing food with your dog? Make sure it's safe first
-* [DoHabit](https://inikann.github.io/DoHabit/): Straightforward habit tracker.
+* [DoHabit](https://dohabit.app): Minimalist account-free habit tracker with a native mobile feel.
 * [FastTrack](https://fasttrack-app-three.vercel.app): Free intermittent fasting streak tracker with metabolic phases and milestone celebrations.
 * [Paula](https://trypaula.com): Free AI mental health companion using CBT and DBT techniques, with voice sessions, mood tracking, and journaling.
 * [Progressive](https://schroedingberg.github.io/progressive/): Local-first hypertrophy training tracker, fully offline and event-sourced.
