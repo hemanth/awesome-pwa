@@ -160,6 +160,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [PWA-NES](https://pwa-nes.vercel.app/): 8-bit NES emulator
 * [Slitherlinks](https://slitherlinks.com): Free online Slitherlink puzzle platform with 1900+ puzzles, daily challenges, and global leaderboards.
 * [Soodoku](https://soodoku.com/): Advanced sudoku game, works online & offline, without ads and distractions.
+* [Stillgrid](https://stillgrid.app): Sudoku with variants (X, jigsaw, killer) at 6×6–16×16, technique-graded difficulty, works offline.
 * [Virus Wars](https://nenadalm.github.io/virus-wars/): Virus Wars game with local multiplayer (no single player).
 * [Yahtzee](https://zpix1.github.io/yahtzee/): Dice generator.
 
