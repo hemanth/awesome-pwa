@@ -161,6 +161,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Cybercar](https://cybercar.pages.dev): Free neon arcade survival game with power-ups, unlockable themes, boss battles, and global leaderboard.
 * [Falling Nikochan](https://nikochan.utcode.net): Simple and cute rhythm game, where anyone can create and share charts.
 * [Farmhand](https://www.farmhand.life/): A resource management game that puts a farm in your hand
+* [FriendlyBet Live](https://friendlybet.live) - Free, social prediction game and bracket builder for the FIFA World Cup 2026, built with vanilla JS and privacy by design. [Contribute](https://github.com)
 * [Life counter](https://nenadalm.github.io/life-counter/): Life counter app for 2 players. Supports game profiles, cout up/down.
 * [Match a Movie](https://match-a-movie.com/): Tinder but for movies to find out what to watch with your friends.
 * [Math Riddles](https://mathriddles.netlify.app): Interesting Math Riddles.
