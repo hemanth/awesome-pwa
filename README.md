@@ -174,6 +174,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [MoodMovie](https://moodmovie-app.github.io/): Mood-based movie & TV show finder — pick how you feel and get personalized picks with legal streaming links.
 * [Murlok.io](https://murlok.io/): World of Warcraft Shadowlands.
 * [Othello](https://othello-rust.web.app/): Play Othello against the computer.
+* [Play Park](https://harborplay.us): Free family games — trivia, word puzzles, memory match, and more. No account, no ads.
 * [Player order selector](https://nenadalm.github.io/player-order-selector/): Random player order selector.
 * [Pokedex](https://pokedex.org/): Indexing Pokémon
 * [PokeQuest Wiki](https://pokequest.wiki/): Search for Pokémon
