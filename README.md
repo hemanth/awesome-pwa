@@ -88,6 +88,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [SplittyPie](https://splittypie.com): Easy expense splitting.
 * [Taskade](https://www.taskade.com): Remote Team Workspace.
 * [Tender](https://app.tender.run/create-account): Personal finance app.
+* [TuxBank](https://tuxbank.app): Budget calendar, local first, optional e2ee sync.
 
 ### Communication and Social
 
