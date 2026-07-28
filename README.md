@@ -153,6 +153,8 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Tutor Portfolio PWA](https://englishextra.gitlab.io/): ???
 * [Unalengua IPA Translator](https://unalengua.com/ipa): Translate to IPA.
 * [WordDB](https://www.worddb.com): Word finder, thesaurus, dictionary, crossword solver, rhyme finder and more.
+* [Freshie Guide](https://guide.stimmie.dev/): Open-source guides for incoming UPLB freshmen (enrollment, dorms, orgs).
+* [Room TBA](https://room-tba.uplbtools.me/): UPLB campus room finder with offline PGlite cache and installable PWA.
 
 ### 🎮 Games and Entertainment
 
