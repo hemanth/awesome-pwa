@@ -102,6 +102,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ### 💬 Communication and Social
 
+* [Bloom Pro](https://bloompro.de/): Bloom Pro – Your Grow Journal - Keep track of your grows
 * [Chitchatter](https://chitchatter.im/): Secure peer-to-peer chat that is serverless, decentralized, and ephemeral
 * [Datememe](https://www.datememe.com): Online dating.
 * [emberclear](https://emberclear.io): Encrypted Chat. No History. No Logs.
@@ -162,6 +163,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Cybercar](https://cybercar.pages.dev): Free neon arcade survival game with power-ups, unlockable themes, boss battles, and global leaderboard.
 * [Falling Nikochan](https://nikochan.utcode.net): Simple and cute rhythm game, where anyone can create and share charts.
 * [Farmhand](https://www.farmhand.life/): A resource management game that puts a farm in your hand
+* [Friends-Hunt](https://friends-hunt.zockability.de/app/): Real-world geo-game in the style of popular YouTube formats.
 * [Life counter](https://nenadalm.github.io/life-counter/): Life counter app for 2 players. Supports game profiles, cout up/down.
 * [Match a Movie](https://match-a-movie.com/): Tinder but for movies to find out what to watch with your friends.
 * [Math Riddles](https://mathriddles.netlify.app): Interesting Math Riddles.
