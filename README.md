@@ -58,6 +58,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [0data.app](https://0data.app)
 * [paquet.app](https://paquet.app/home)
 * [store.app](https://store.app/)
+* [webappfinder.app](https://webappfinder.app)
 
 ## Apps
 
