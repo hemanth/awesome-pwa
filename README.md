@@ -62,7 +62,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ## Apps
 
-### 🎵 Audio and Video
+### Audio and Video
 
 * [BitMidi](https://bitmidi.com): Listen to your favorite MIDI files.
 * [Foldergram](https://github.com/foldergram/foldergram): Local-only photo and video gallery for folders, with an Instagram-inspired browsing pattern.
@@ -82,7 +82,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [X Sound](https://korilakkuma.github.io/X-Sound/): Online keyboard synth.
 * [Youtube Music](https://music.youtube.com/): Music streaming via YouTube.
 
-### 💼 Business and Finance
+### Business and Finance
 
 * [ELFSH](https://elfsh.mousetail.nl): Food and expense manager.
 * [FarmOS](https://farmos.app/): Farm record keeping
@@ -101,7 +101,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Vaulted](https://vaultedworth.com): Local-first net worth tracker PWA with no account, no bank sync, and no server.
 * [WalletLens](https://walletlens.live) — Net worth tracker PWA — crypto, stocks, gold, fiat, cash. Installable, works offline, no account required.
 
-### 💬 Communication and Social
+### Communication and Social
 
 * [Bloom Pro](https://bloompro.de/): Bloom Pro – Your Grow Journal - Keep track of your grows
 * [Chitchatter](https://chitchatter.im/): Secure peer-to-peer chat that is serverless, decentralized, and ephemeral
@@ -117,7 +117,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Tinder](https://tinder.com): Dating app.
 * [Twitter](https://twitter.com): Microblogging app.
 
-### 🛠️ Development and Design
+### Development and Design
 
 * [3D House Editor](https://3dhouseplanner.com/app2.php): Free 3D floor planner
 * [ampproject](https://www.ampproject.org): Web component framework.
@@ -141,7 +141,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [TurboPixel](https://turborium.github.io/turbopixel/): PixelArt Camera PWA
 * [webpushtest](https://webpushtest.com/): Web Push Notifications Demo
 
-### 📚 Education and Reading
+### Education and Reading
 
 * [Booksie](https://www.booksie.org/): An open catalog of free picture storybooks for children instantly available for reading.
 * [Calcumber](https://calcumber.app/): Calculate in a notebook and share — from everyday math to engineering.
@@ -158,7 +158,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Freshie Guide](https://guide.stimmie.dev/): Open-source guides for incoming UPLB freshmen (enrollment, dorms, orgs).
 * [Room TBA](https://room-tba.uplbtools.me/): UPLB campus room finder with offline PGlite cache and installable PWA.
 
-### 🎮 Games and Entertainment
+### Games and Entertainment
 
 * [2048 Game](https://play2048.co/) 2048 Game
 * [Air Horner](https://airhorner.com/): Air horn sound.
@@ -188,7 +188,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Virus Wars](https://nenadalm.github.io/virus-wars/): Virus Wars game with local multiplayer (no single player).
 * [Yahtzee](https://zpix1.github.io/yahtzee/): Dice generator.
 
-### 💪 Health and Lifestyle
+### Health and Lifestyle
 
 * [Aerko_](https://aerko.app): Offline-first, brutalist fitness & nutrition PWA with local AI biomechanics (MediaPipe) and AES-256 encryption.
 * [Archery Note](https://eita115115.github.io/archery-note/): Privacy-first archery practice notebook PWA — scoring, sight marks, equipment, and on-device AI form tracking. No account, no ads, works offline.
@@ -209,13 +209,13 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Veganify](https://veganify.app): Check if a product is vegan or not.
 * [Luna Tarot](https://www.lunatarotapp.com): Free multilingual tarot reading PWA with 8-language support, daily readings, meditation music, and moon calendar. Works offline, no signup required.
 
-### 📰 News and Information
+### News and Information
 
 * [Brutalist Hacker News](https://brutalisthackernews.com): A Hacker News reader inspired by Brutalist Web design, Cyberpunk, retro computing, Y2K Aesthetics
 * [ComputerBase](https://www.computerbase.de/): German IT news site.
 * [Qi Reader](https://www.qireader.com/): A modern web RSS reader.
 
-### 🛍️ Shopping and Travel
+### Shopping and Travel
 
 * [Digikala](https://www.digikala.com/): Digikala Web App
 * [Google Maps](https://www.google.com/maps/): Online maps.
@@ -225,7 +225,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Uber Web](https://m.uber.com): Ridesharing app.
 * [Versus](https://versus.com/en): Consumer electronics shopping.
 
-### ⚙️ Tools and Utilities
+### Tools and Utilities
 
 * [2brew](https://2brew.github.io/): PWA timer for coffee brewing
 * [99Tools](https://99tools.net): Free developer, text, and utility tools.
@@ -265,7 +265,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Wormhole](https://wormhole.app/): Share files with end-to-end encryption.
 * [ztable.io](https://ztable.io/): Z-Table lookup & Z-Score calculator.
 
-### 🔀 Miscellaneous
+### Miscellaneous
 
 * [abc.xyz](https://abc.xyz): Alphabet website
 * [Avain.app](https://avain.app): Avain
