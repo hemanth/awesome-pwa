@@ -1,340 +1,207 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Awesome PWA</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Albert+Sans:wght@300;400;600&family=Alumni+Sans:wght@400;600;700&display=swap" rel="stylesheet">
-    <style>
-        :root {
-            --bg-0: #050504;
-            --bg-1: #111110;
-            --bg-2: #1c1c1a;
-            --accent: #f5c542;
-            --text-main: #eaeaea;
-            --text-muted: #a0a0a0;
-        }
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Awesome PWA — Progressive Web Apps Directory</title>
+  <meta name="description" content="A curated list of 212+ Progressive Web Apps, resources, tools and articles. Searchable, filterable by category.">
+  <meta name="robots" content="index, follow">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Awesome PWA">
+  <meta property="og:description" content="A curated list of 212+ Progressive Web Apps, resources, tools and articles.">
+  <meta property="og:url" content="https://hemanth.github.io/awesome-pwa/">
+  <link rel="canonical" href="https://hemanth.github.io/awesome-pwa/">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Albert+Sans:wght@300;400;500;600&family=Alumni+Sans:wght@400;500;600&display=swap" media="print" onload="this.media='all'">
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Albert+Sans:wght@300;400;500;600&family=Alumni+Sans:wght@400;500;600&display=swap"></noscript>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --bg-0: #050504;
+      --bg-1: #0c0b0a;
+      --bg-2: #141310;
+      --text-0: #f0ede8;
+      --text-1: #c4c0b8;
+      --text-2: #918f87;
+      --accent: #f5c542;
+      --accent-muted: #c9a035;
+      --border: #2a2825;
+      --border-hover: #3d3a35;
+      --r: 8px;
+      --font: "Albert Sans", -apple-system, sans-serif;
+      --font-display: "Alumni Sans", sans-serif;
+    }
+    body { font-family: var(--font); background: var(--bg-0); color: var(--text-1); line-height: 1.6; -webkit-font-smoothing: antialiased; min-height: 100dvh; }
+    a { color: inherit; text-decoration: none; }
+    .grain { position: fixed; inset: 0; z-index: 9999; pointer-events: none; opacity: 0.03;
+      background: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='g'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23g)'/%3E%3C/svg%3E"); }
+    .wrap { max-width: 1100px; margin: 0 auto; padding: 0 clamp(1rem, 4vw, 3rem); }
 
-        body {
-            background-color: var(--bg-0);
-            color: var(--text-main);
-            font-family: 'Albert Sans', sans-serif;
-            margin: 0;
-            padding: 0;
-            line-height: 1.6;
-        }
+    /* Header */
+    .site-header { padding: 1.5rem 0; display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid var(--border); }
+    .brand { font-family: var(--font-display); font-size: 1.3rem; font-weight: 500; color: var(--text-0); }
+    .header-links { display: flex; gap: 1.25rem; }
+    .header-links a { color: var(--text-2); font-size: 0.8rem; transition: color 0.2s; }
+    .header-links a:hover { color: var(--text-0); }
 
-        h1, h2, h3, h4, h5, h6 {
-            font-family: 'Alumni Sans', sans-serif;
-            font-weight: 700;
-            margin: 0 0 1rem 0;
-        }
+    /* Hero */
+    .hero { padding: 4rem 0 2.5rem; text-align: center; }
+    .hero-eyebrow { font-size: 0.7rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: var(--accent); display: block; margin-bottom: 1rem; }
+    .hero-title { font-family: var(--font-display); font-size: clamp(2.5rem, 6vw, 4.5rem); font-weight: 600; color: var(--text-0); line-height: 1.05; letter-spacing: -0.02em; margin-bottom: 0.75rem; }
+    .hero-sub { font-size: 1rem; color: var(--text-2); max-width: 480px; margin: 0 auto; font-weight: 300; }
 
-        a {
-            color: var(--accent);
-            text-decoration: none;
-            transition: color 0.2s;
-        }
+    /* Stats */
+    .stats { display: flex; justify-content: center; gap: 3rem; padding: 1.75rem 0 2.5rem; flex-wrap: wrap; }
+    .stat-item { text-align: center; }
+    .stat-number { font-family: var(--font-display); font-size: 2rem; font-weight: 600; color: var(--text-0); display: block; }
+    .stat-label { font-size: 0.75rem; color: var(--text-2); text-transform: uppercase; letter-spacing: 0.1em; }
 
-        a:hover {
-            color: #fff;
-            text-decoration: underline;
-        }
+    /* Search + Filter */
+    .controls { display: flex; gap: 0.75rem; margin-bottom: 1.5rem; flex-wrap: wrap; align-items: center; }
+    .search-wrap { flex: 1; min-width: 240px; position: relative; }
+    .search-wrap svg { position: absolute; left: 0.85rem; top: 50%; transform: translateY(-50%); opacity: 0.4; pointer-events: none; }
+    #search { width: 100%; padding: 0.65rem 0.85rem 0.65rem 2.5rem; background: var(--bg-1); border: 1px solid var(--border); border-radius: var(--r); color: var(--text-0); font: inherit; font-size: 0.9rem; outline: none; transition: border-color 0.2s; }
+    #search:focus { border-color: var(--accent-muted); }
+    #search::placeholder { color: var(--text-2); }
 
-        header {
-            text-align: center;
-            padding: 6rem 2rem 4rem;
-            border-bottom: 1px solid var(--bg-2);
-            background: linear-gradient(180deg, var(--bg-1) 0%, var(--bg-0) 100%);
-        }
+    .filters { display: flex; gap: 0.5rem; flex-wrap: wrap; }
+    .filter-btn { padding: 0.4rem 0.9rem; background: var(--bg-1); border: 1px solid var(--border); border-radius: 100px; font: inherit; font-size: 0.78rem; color: var(--text-2); cursor: pointer; transition: all 0.15s; white-space: nowrap; }
+    .filter-btn:hover { border-color: var(--border-hover); color: var(--text-0); }
+    .filter-btn.active { background: var(--accent); border-color: var(--accent); color: #050504; font-weight: 600; }
 
-        .hero-title {
-            font-size: 5rem;
-            color: var(--accent);
-            letter-spacing: 2px;
-            margin-bottom: 0.5rem;
-        }
+    /* Results count */
+    .result-meta { font-size: 0.78rem; color: var(--text-2); margin-bottom: 1rem; }
+    .result-meta span { color: var(--text-0); }
 
-        .hero-subtitle {
-            font-family: 'Albert Sans', sans-serif;
-            font-size: 1.2rem;
-            font-weight: 300;
-            color: var(--text-muted);
-            max-width: 600px;
-            margin: 0 auto 2rem;
-        }
+    /* App grid */
+    .app-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 0.65rem; }
+    .app-card { display: block; padding: 1.1rem 1.25rem; background: var(--bg-1); border: 1px solid var(--border); border-radius: var(--r); transition: border-color 0.15s, background 0.15s, transform 0.15s; }
+    .app-card:hover { border-color: var(--border-hover); background: var(--bg-2); transform: translateY(-1px); }
+    .app-card__name { font-size: 0.95rem; font-weight: 500; color: var(--text-0); margin-bottom: 0.25rem; }
+    .app-card__cat { font-size: 0.7rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: var(--accent-muted); margin-bottom: 0.35rem; }
+    .app-card__desc { font-size: 0.82rem; color: var(--text-2); line-height: 1.45; }
+    .app-card.hidden { display: none; }
 
-        .stats-bar {
-            display: flex;
-            justify-content: center;
-            gap: 2rem;
-            flex-wrap: wrap;
-            margin-top: 2rem;
-        }
+    /* No results */
+    .no-results { text-align: center; padding: 4rem 0; color: var(--text-2); display: none; }
+    .no-results.visible { display: block; }
 
-        .stat-item {
-            background: var(--bg-1);
-            padding: 1rem 2rem;
-            border-radius: 8px;
-            border: 1px solid var(--bg-2);
-            text-align: center;
-        }
+    /* Footer */
+    .footer { margin-top: 5rem; padding: 2rem 0; border-top: 1px solid var(--border); display: flex; justify-content: space-between; font-size: 0.78rem; color: var(--text-2); flex-wrap: wrap; gap: 0.5rem; }
+    .footer a { color: var(--accent-muted); }
+    .footer a:hover { color: var(--accent); }
 
-        .stat-value {
-            font-family: 'Alumni Sans', sans-serif;
-            font-size: 2.5rem;
-            color: var(--accent);
-            font-weight: 700;
-            line-height: 1;
-        }
-
-        .stat-label {
-            font-size: 0.9rem;
-            color: var(--text-muted);
-            text-transform: uppercase;
-            letter-spacing: 1px;
-            margin-top: 0.5rem;
-        }
-
-        main {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 4rem 2rem;
-        }
-
-        .section-title {
-            font-size: 3rem;
-            text-align: center;
-            margin-bottom: 3rem;
-            color: #fff;
-        }
-
-        .grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-            gap: 1.5rem;
-        }
-
-        .card {
-            background: var(--bg-1);
-            border: 1px solid var(--bg-2);
-            border-radius: 12px;
-            padding: 2rem;
-            transition: transform 0.2s, border-color 0.2s;
-            display: flex;
-            flex-direction: column;
-            cursor: pointer;
-        }
-
-        .card:hover {
-            transform: translateY(-5px);
-            border-color: var(--accent);
-        }
-
-        .card-icon {
-            font-size: 2.5rem;
-            margin-bottom: 1rem;
-        }
-
-        .card-title {
-            font-size: 1.8rem;
-            color: #fff;
-            margin-bottom: 0.5rem;
-        }
-
-        .card-desc {
-            color: var(--text-muted);
-            font-size: 0.95rem;
-            flex-grow: 1;
-        }
-        
-        /* Make entire card clickable via JS or pseudo element */
-        .card-link {
-            position: absolute;
-            width: 100%;
-            height: 100%;
-            top: 0;
-            left: 0;
-            z-index: 1;
-        }
-        
-        .card {
-            position: relative;
-        }
-
-        .recent-additions {
-            margin-top: 5rem;
-            background: var(--bg-1);
-            border: 1px solid var(--bg-2);
-            border-radius: 12px;
-            padding: 3rem;
-            text-align: center;
-        }
-
-        .recent-list {
-            list-style: none;
-            padding: 0;
-            display: flex;
-            flex-direction: column;
-            gap: 1rem;
-            max-width: 600px;
-            margin: 0 auto;
-            text-align: left;
-        }
-
-        .recent-list li {
-            padding: 1rem;
-            border-bottom: 1px solid var(--bg-2);
-        }
-        
-        .recent-list li:last-child {
-            border-bottom: none;
-        }
-
-        footer {
-            text-align: center;
-            padding: 3rem 2rem;
-            background: var(--bg-1);
-            border-top: 1px solid var(--bg-2);
-            margin-top: 4rem;
-        }
-
-        .footer-content {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            gap: 1rem;
-        }
-
-        .badges {
-            margin-top: 1rem;
-        }
-        
-        @media (max-width: 768px) {
-            .hero-title { font-size: 3.5rem; }
-            .stat-item { padding: 1rem; width: 40%; }
-        }
-    </style>
+    @media (max-width: 600px) {
+      .site-header { flex-direction: column; gap: 0.75rem; align-items: flex-start; }
+      .stats { gap: 1.5rem; }
+      .footer { flex-direction: column; }
+    }
+  </style>
 </head>
 <body>
+<div class="grain" aria-hidden="true"></div>
+<div class="wrap">
+  <header class="site-header">
+    <a href="https://h3manth.com" class="brand">h3manth.com</a>
+    <nav class="header-links" aria-label="Navigation">
+      <a href="https://github.com/hemanth/awesome-pwa">GitHub</a>
+      <a href="https://github.com/hemanth/awesome-pwa/blob/master/readme.md">README</a>
+      <a href="https://h3manth.com">Blog</a>
+    </nav>
+  </header>
 
-    <header>
-        <h1 class="hero-title">Awesome PWA</h1>
-        <p class="hero-subtitle">A curated list of Progressive Web App resources, apps, tools and more</p>
-        
-        <div class="stats-bar">
-            <div class="stat-item">
-                <div class="stat-value">~150+</div>
-                <div class="stat-label">Apps</div>
-            </div>
-            <div class="stat-item">
-                <div class="stat-value">50+</div>
-                <div class="stat-label">Resources</div>
-            </div>
-            <div class="stat-item">
-                <div class="stat-value">20+</div>
-                <div class="stat-label">Tools</div>
-            </div>
-            <div class="stat-item">
-                <div class="stat-value">11</div>
-                <div class="stat-label">Categories</div>
-            </div>
-        </div>
-    </header>
+  <main>
+    <section class="hero">
+      <span class="hero-eyebrow">Curated List</span>
+      <h1 class="hero-title">Awesome PWA</h1>
+      <p class="hero-sub">A curated directory of Progressive Web Apps, resources, tools and articles.</p>
+    </section>
 
-    <main>
-        <h2 class="section-title">App Categories</h2>
-        <div class="grid">
-            <div class="card" onclick="window.location.href='https://github.com/hemanth/awesome-pwa#%F0%9F%8E%B5-audio-and-video'">
-                <div class="card-icon">🎵</div>
-                <h3 class="card-title">Audio & Video</h3>
-                <p class="card-desc">Music players, synthesizers, video editors, and audio tools built for the web.</p>
-            </div>
-            
-            <div class="card" onclick="window.location.href='https://github.com/hemanth/awesome-pwa#%F0%9F%92%BC-business-and-finance'">
-                <div class="card-icon">💼</div>
-                <h3 class="card-title">Business & Finance</h3>
-                <p class="card-desc">Budget trackers, invoice generators, workspaces, and financial tools.</p>
-            </div>
-            
-            <div class="card" onclick="window.location.href='https://github.com/hemanth/awesome-pwa#%F0%9F%92%AC-communication-and-social'">
-                <div class="card-icon">💬</div>
-                <h3 class="card-title">Communication & Social</h3>
-                <p class="card-desc">Chat apps, social networks, dating apps, and real-time communication.</p>
-            </div>
-            
-            <div class="card" onclick="window.location.href='https://github.com/hemanth/awesome-pwa#%F0%9F%9B%A0%EF%B8%8F-development-and-design'">
-                <div class="card-icon">🛠️</div>
-                <h3 class="card-title">Development & Design</h3>
-                <p class="card-desc">Developer tools, design editors, regex testers, and coding utilities.</p>
-            </div>
-            
-            <div class="card" onclick="window.location.href='https://github.com/hemanth/awesome-pwa#%F0%9F%93%9A-education-and-reading'">
-                <div class="card-icon">📚</div>
-                <h3 class="card-title">Education & Reading</h3>
-                <p class="card-desc">Flashcards, dictionaries, epub readers, and educational tools.</p>
-            </div>
-            
-            <div class="card" onclick="window.location.href='https://github.com/hemanth/awesome-pwa#%F0%9F%8E%AE-games-and-entertainment'">
-                <div class="card-icon">🎮</div>
-                <h3 class="card-title">Games & Entertainment</h3>
-                <p class="card-desc">Casual games, puzzles, trivia, and entertainment apps.</p>
-            </div>
-            
-            <div class="card" onclick="window.location.href='https://github.com/hemanth/awesome-pwa#%F0%9F%92%AA-health-and-lifestyle'">
-                <div class="card-icon">💪</div>
-                <h3 class="card-title">Health & Lifestyle</h3>
-                <p class="card-desc">Workout trackers, habit builders, nutrition guides, and wellness apps.</p>
-            </div>
-            
-            <div class="card" onclick="window.location.href='https://github.com/hemanth/awesome-pwa#%F0%9F%93%B0-news-and-information'">
-                <div class="card-icon">📰</div>
-                <h3 class="card-title">News & Information</h3>
-                <p class="card-desc">News readers, RSS aggregators, and informational portals.</p>
-            </div>
-            
-            <div class="card" onclick="window.location.href='https://github.com/hemanth/awesome-pwa#%F0%9F%9B%8D%EF%B8%8F-shopping-and-travel'">
-                <div class="card-icon">🛍️</div>
-                <h3 class="card-title">Shopping & Travel</h3>
-                <p class="card-desc">E-commerce, real estate, maps, and travel planning tools.</p>
-            </div>
-            
-            <div class="card" onclick="window.location.href='https://github.com/hemanth/awesome-pwa#%E2%9A%99%EF%B8%8F-tools-and-utilities'">
-                <div class="card-icon">⚙️</div>
-                <h3 class="card-title">Tools & Utilities</h3>
-                <p class="card-desc">Calculators, converters, notepads, password managers, and everyday utilities.</p>
-            </div>
-            
-            <div class="card" onclick="window.location.href='https://github.com/hemanth/awesome-pwa#%F0%9F%94%80-miscellaneous'">
-                <div class="card-icon">🔀</div>
-                <h3 class="card-title">Miscellaneous</h3>
-                <p class="card-desc">Everything else that doesn't fit into the other categories.</p>
-            </div>
-        </div>
+    <div class="stats" role="region" aria-label="Statistics">
+      <div class="stat-item"><span class="stat-number" id="total-count">212</span><span class="stat-label">Apps</span></div>
+      <div class="stat-item"><span class="stat-number">11</span><span class="stat-label">Categories</span></div>
+      <div class="stat-item"><span class="stat-number">50+</span><span class="stat-label">Resources</span></div>
+      <div class="stat-item"><span class="stat-number">20+</span><span class="stat-label">Tools</span></div>
+    </div>
 
-        <div class="recent-additions">
-            <h2 class="section-title" style="margin-bottom: 2rem;">Recent Additions</h2>
-            <ul class="recent-list">
-                <li>✨ Added <strong>WalletLens</strong> - Net worth tracker PWA</li>
-                <li>✨ Added <strong>Room TBA</strong> - Offline-capable campus map PWA</li>
-                <li>✨ Added <strong>StoryRoute</strong> - AI-powered GPS audio tour guide</li>
-                <li>✨ Added <strong>Forge</strong> - Lightweight PWA for logging workouts</li>
-            </ul>
-        </div>
-    </main>
+    <div class="controls">
+      <div class="search-wrap">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+        <input type="search" id="search" placeholder="Search apps..." autocomplete="off" aria-label="Search apps">
+      </div>
+      <div class="filters" role="group" aria-label="Filter by category">
+        <button class="filter-btn active" data-cat="all">All</button>
+        <button class="filter-btn" data-cat="Audio and Video">Audio and Video</button><button class="filter-btn" data-cat="Business and Finance">Business and Finance</button><button class="filter-btn" data-cat="Communication and Social">Communication and Social</button><button class="filter-btn" data-cat="Development and Design">Development and Design</button><button class="filter-btn" data-cat="Education and Reading">Education and Reading</button><button class="filter-btn" data-cat="Games and Entertainment">Games and Entertainment</button><button class="filter-btn" data-cat="Health and Lifestyle">Health and Lifestyle</button><button class="filter-btn" data-cat="Miscellaneous">Miscellaneous</button><button class="filter-btn" data-cat="News and Information">News and Information</button><button class="filter-btn" data-cat="Shopping and Travel">Shopping and Travel</button><button class="filter-btn" data-cat="Tools and Utilities">Tools and Utilities</button>
+      </div>
+    </div>
 
-    <footer>
-        <div class="footer-content">
-            <p>Made by <a href="https://h3manth.com/ai" target="_blank">Hemanth HM</a></p>
-            <div class="badges">
-                <a href="https://github.com/hemanth/awesome-pwa" target="_blank">
-                    <img src="https://img.shields.io/github/stars/hemanth/awesome-pwa?style=social" alt="GitHub Stars">
-                </a>
-            </div>
-        </div>
-    </footer>
+    <p class="result-meta"><span id="result-count">212</span> apps</p>
 
+    <div class="app-grid" id="grid" role="list">
+    </div>
+    <div class="no-results" id="no-results">No apps found for your search.</div>
+  </main>
+
+  <footer class="footer">
+    <span>Built by <a href="https://h3manth.com">Hemanth HM</a> &middot; Open Source</span>
+    <span><a href="https://github.com/hemanth/awesome-pwa">Contribute on GitHub</a></span>
+  </footer>
+</div>
+
+<script>
+const APPS = [{"name": "BitMidi", "url": "https://bitmidi.com", "desc": "Listen to your favorite MIDI files.", "category": "Audio and Video"}, {"name": "Foldergram", "url": "https://github.com/foldergram/foldergram", "desc": "Local-only photo and video gallery for folders, with an Instagram-inspired browsing pattern.", "category": "Audio and Video"}, {"name": "GrooveSteps", "url": "https://groovesteps.com/", "desc": "Free in-browser drum trainer with interactive lessons, a metronome, real-time timing scoring, and Web MIDI e-kit support. Installable and works offline.", "category": "Audio and Video"}, {"name": "guitar-tuner", "url": "https://aerotwist.com/blog/guitar-tuner/", "desc": "Aerotwist Guitar Tuner", "category": "Audio and Video"}, {"name": "Joybox", "url": "https://joybox.rosano.ca", "desc": "A pinboard for audiovisual media.", "category": "Audio and Video"}, {"name": "Lofimusic.app", "url": "https://lofimusic.app/", "desc": "Online radio Radio", "category": "Audio and Video"}, {"name": "Music Player PWA", "url": "https://akaspanion.github.io/music-app/", "desc": "Music Player.", "category": "Audio and Video"}, {"name": "OmniCam", "url": "https://www.omnicamapp.com/", "desc": "Live streaming webcams around the world.", "category": "Audio and Video"}, {"name": "Remove Audio", "url": "https://remove-audio.com", "desc": "Browser-based tool to strip the soundtrack from any video locally with WebAssembly and FFmpeg.wasm. No uploads, no sign-up, batch up to 20 clips.", "category": "Audio and Video"}, {"name": "SoundCloud", "url": "https://soundcloud.com/", "desc": "Stream and listen to music.", "category": "Audio and Video"}, {"name": "Soundslice", "url": "https://www.soundslice.com", "desc": "Create living sheet music.", "category": "Audio and Video"}, {"name": "Spotify", "url": "https://open.spotify.com/", "desc": "Music streaming.", "category": "Audio and Video"}, {"name": "SvenPanel", "url": "https://svenpanel.de/", "desc": "The Shrine - The Message Is Feierei Alda.", "category": "Audio and Video"}, {"name": "VideoTrim.app", "url": "https://videotrim.app", "desc": "Video trimmer app in the browser.", "category": "Audio and Video"}, {"name": "Wave-PD1", "url": "https://alexgibson.github.io/wavepad/", "desc": "Synth toy.", "category": "Audio and Video"}, {"name": "X Sound", "url": "https://korilakkuma.github.io/X-Sound/", "desc": "Online keyboard synth.", "category": "Audio and Video"}, {"name": "Youtube Music", "url": "https://music.youtube.com/", "desc": "Music streaming via YouTube.", "category": "Audio and Video"}, {"name": "ELFSH", "url": "https://elfsh.mousetail.nl", "desc": "Food and expense manager.", "category": "Business and Finance"}, {"name": "FarmOS", "url": "https://farmos.app/", "desc": "Farm record keeping", "category": "Business and Finance"}, {"name": "Freelancer", "url": "https://m.freelancer.com/messages", "desc": "Hire the best freelancers for any job, online.", "category": "Business and Finance"}, {"name": "Invoice Otter", "url": "https://invoiceotter.com", "desc": "Send estimates and invoices with AI, get paid instantly, track expenses.", "category": "Business and Finance"}, {"name": "JustInvoice", "url": "https://justinvoice.netlify.app/app", "desc": "An intuitive invoice manager that works completely in the browser and offline.", "category": "Business and Finance"}, {"name": "MoneyTracker", "url": "https://moneytracker.cc/", "desc": "Personal finances tracking web app.", "category": "Business and Finance"}, {"name": "MTGStocks", "url": "https://www.mtgstocks.com/news", "desc": "Magic the Gathering price tracker.", "category": "Business and Finance"}, {"name": "Rydeen", "url": "https://rydeen.app/", "desc": "Task management app for individuals.", "category": "Business and Finance"}, {"name": "Simple Currency Converter", "url": "https://currency-converter.now.sh", "desc": "Currency Converter", "category": "Business and Finance"}, {"name": "Skcript", "url": "https://www.skcript.com/", "desc": "Ruby on Rails Consulting.", "category": "Business and Finance"}, {"name": "SplittyPie", "url": "https://splittypie.com", "desc": "Easy expense splitting.", "category": "Business and Finance"}, {"name": "Taskade", "url": "https://www.taskade.com", "desc": "Remote Team Workspace.", "category": "Business and Finance"}, {"name": "Tender", "url": "https://app.tender.run/create-account", "desc": "Personal finance app.", "category": "Business and Finance"}, {"name": "TuxBank", "url": "https://tuxbank.app", "desc": "Budget calendar, local first, optional e2ee sync.", "category": "Business and Finance"}, {"name": "Vaulted", "url": "https://vaultedworth.com", "desc": "Local-first net worth tracker PWA with no account, no bank sync, and no server.", "category": "Business and Finance"}, {"name": "WalletLens", "url": "https://walletlens.live", "desc": "— Net worth tracker PWA — crypto, stocks, gold, fiat, cash. Installable, works offline, no account required.", "category": "Business and Finance"}, {"name": "Bloom Pro", "url": "https://bloompro.de/", "desc": "Bloom Pro – Your Grow Journal - Keep track of your grows", "category": "Communication and Social"}, {"name": "Chitchatter", "url": "https://chitchatter.im/", "desc": "Secure peer-to-peer chat that is serverless, decentralized, and ephemeral", "category": "Communication and Social"}, {"name": "Datememe", "url": "https://www.datememe.com", "desc": "Online dating.", "category": "Communication and Social"}, {"name": "emberclear", "url": "https://emberclear.io", "desc": "Encrypted Chat. No History. No Logs.", "category": "Communication and Social"}, {"name": "ghChat", "url": "https://github.com/aermin/ghChat", "desc": "Chat application for GitHub.", "category": "Communication and Social"}, {"name": "Google Duo", "url": "https://duo.google.com/", "desc": "Video Calling.", "category": "Communication and Social"}, {"name": "Medium", "url": "https://medium.com/", "desc": "Writing space.", "category": "Communication and Social"}, {"name": "Messages for web (by google)", "url": "https://messages.google.com/web/", "desc": "400", "category": "Communication and Social"}, {"name": "Similar Worlds", "url": "https://similarworlds.com/", "desc": "Experience Project Alternative. Find people with similar interests.", "category": "Communication and Social"}, {"name": "Telegram", "url": "https://web.telegram.org/", "desc": "Telegram Web App.", "category": "Communication and Social"}, {"name": "Threema Web", "url": "https://web.threema.ch/", "desc": "The messenger that puts security and privacy first.", "category": "Communication and Social"}, {"name": "Tinder", "url": "https://tinder.com", "desc": "Dating app.", "category": "Communication and Social"}, {"name": "Twitter", "url": "https://twitter.com", "desc": "Microblogging app.", "category": "Communication and Social"}, {"name": "3D House Editor", "url": "https://3dhouseplanner.com/app2.php", "desc": "Free 3D floor planner", "category": "Development and Design"}, {"name": "ampproject", "url": "https://www.ampproject.org", "desc": "Web component framework.", "category": "Development and Design"}, {"name": "Bento-starter", "url": "https://bento-starter.firebaseapp.com", "desc": "Open-Source Full-Stack solution for fast PWA development", "category": "Development and Design"}, {"name": "bundle", "url": "https://bundle.js.org/", "desc": "A quick and easy way to bundle, minify, and compress (gzip and brotli) your ts, js, jsx and npm projects all online, with the resulting file size.", "category": "Development and Design"}, {"name": "ColorBeta", "url": "https://colorbeta.com", "desc": "Advanced CSS Gradient Generator", "category": "Development and Design"}, {"name": "Demo PWA", "url": "https://github.com/gokulkrishh/demo-progressive-web-app", "desc": "Demonstrating offline, push notifications, background sync etc.", "category": "Development and Design"}, {"name": "DevDocs", "url": "https://devdocs.io/", "desc": "API Documentation Browser", "category": "Development and Design"}, {"name": "Hyperdraft", "url": "https://hyperdraft.rosano.ca", "desc": "Turn your text notes into a website.", "category": "Development and Design"}, {"name": "JSON Formatter", "url": "https://jsonformatter.live/", "desc": "Minimalist JSON formatter.", "category": "Development and Design"}, {"name": "Launchlet", "url": "https://launchlet.dev", "desc": "Customize any website with JavaScript or CSS.", "category": "Development and Design"}, {"name": "Make Better Software", "url": "https://makebetter.software", "desc": "Raise software standards.", "category": "Development and Design"}, {"name": "MYHELLOIOT", "url": "https://adrianromero.github.io/myhelloiot/", "desc": "MQTT client application.", "category": "Development and Design"}, {"name": "Photopea", "url": "https://www.photopea.com/", "desc": "Online Photo Editor.", "category": "Development and Design"}, {"name": "PhotoQuill", "url": "https://photoquill.com/", "desc": "Free browser-based Photoshop alternative with PSD support, layers, and local image processing.", "category": "Development and Design"}, {"name": "PixelCraft", "url": "https://pixelcraft.web.app", "desc": "Pixel Art Editor", "category": "Development and Design"}, {"name": "Regex101", "url": "https://regex101.com/", "desc": "Build, test and debug regex.", "category": "Development and Design"}, {"name": "SVGOMG", "url": "https://jakearchibald.github.io/svgomg/", "desc": "SVGO's Missing GUI", "category": "Development and Design"}, {"name": "Themer", "url": "https://themer.dev", "desc": "Theme generator for editors, terminals, wallpapers, and more.", "category": "Development and Design"}, {"name": "Total Formatter", "url": "https://totalformatter.web.app", "desc": "YAML Formatter", "category": "Development and Design"}, {"name": "TurboPixel", "url": "https://turborium.github.io/turbopixel/", "desc": "PixelArt Camera PWA", "category": "Development and Design"}, {"name": "webpushtest", "url": "https://webpushtest.com/", "desc": "Web Push Notifications Demo", "category": "Development and Design"}, {"name": "Booksie", "url": "https://www.booksie.org/", "desc": "An open catalog of free picture storybooks for children instantly available for reading.", "category": "Education and Reading"}, {"name": "Calcumber", "url": "https://calcumber.app/", "desc": "Calculate in a notebook and share — from everyday math to engineering.", "category": "Education and Reading"}, {"name": "EPUB Player", "url": "https://epubplayer.com", "desc": "A fully-featured audiobook player with Audible/Spotify-like UX, powered by local TTS models. Turn your EPUBs into audiobooks entirely in-browser.", "category": "Education and Reading"}, {"name": "Shiori", "url": "https://shiori-v1.vercel.app", "desc": "Open-source AI study companion — SRS flashcards, GPA predictor, Gemini AI study plans, AI quiz generator, habit tracker. Installable PWA, works offline. Google Classroom sync. [GitHub](https://github.com/kaorii-ako/Shiori-v1)", "category": "Education and Reading"}, {"name": "Kommit", "url": "https://kommit.rosano.ca", "desc": "Create flashcards and learn them with spaced-repetition.", "category": "Education and Reading"}, {"name": "PracticeLoop", "url": "https://teal-semifreddo-cad4ad.netlify.app/", "desc": "Slow down & loop YouTube videos for music practice with progressive speed training.", "category": "Education and Reading"}, {"name": "Room TBA", "url": "https://room-tba.uplbtools.me", "desc": "Offline-capable campus map PWA for finding rooms, class schedules, and transit routes on OpenStreetMap data.", "category": "Education and Reading"}, {"name": "Swahili Dictionary", "url": "https://swahili-dictionary.com/", "desc": "Offline Swahili-English-Swahili dictionary", "category": "Education and Reading"}, {"name": "Timetable", "url": "https://leoherrmann.github.io/timetable/", "desc": "Interactive editable timetable.", "category": "Education and Reading"}, {"name": "Tutor Portfolio PWA", "url": "https://englishextra.gitlab.io/", "desc": "???", "category": "Education and Reading"}, {"name": "Unalengua IPA Translator", "url": "https://unalengua.com/ipa", "desc": "Translate to IPA.", "category": "Education and Reading"}, {"name": "WordDB", "url": "https://www.worddb.com", "desc": "Word finder, thesaurus, dictionary, crossword solver, rhyme finder and more.", "category": "Education and Reading"}, {"name": "Freshie Guide", "url": "https://guide.stimmie.dev/", "desc": "Open-source guides for incoming UPLB freshmen (enrollment, dorms, orgs).", "category": "Education and Reading"}, {"name": "Room TBA", "url": "https://room-tba.uplbtools.me/", "desc": "UPLB campus room finder with offline PGlite cache and installable PWA.", "category": "Education and Reading"}, {"name": "2048 Game", "url": "https://play2048.co/", "desc": "2048 Game", "category": "Games and Entertainment"}, {"name": "Air Horner", "url": "https://airhorner.com/", "desc": "Air horn sound.", "category": "Games and Entertainment"}, {"name": "Backgammon", "url": "https://nenadalm.github.io/backgammon/", "desc": "Backgammon game with local multiplayer (no single player).", "category": "Games and Entertainment"}, {"name": "Colosseum", "url": "https://naramsim.github.io/Colosseum/", "desc": "Displays Pokemons in a beautiful way", "category": "Games and Entertainment"}, {"name": "Crazy Dice", "url": "https://crazydice.netlify.app", "desc": "Simple Dice App.", "category": "Games and Entertainment"}, {"name": "Cybercar", "url": "https://cybercar.pages.dev", "desc": "Free neon arcade survival game with power-ups, unlockable themes, boss battles, and global leaderboard.", "category": "Games and Entertainment"}, {"name": "Falling Nikochan", "url": "https://nikochan.utcode.net", "desc": "Simple and cute rhythm game, where anyone can create and share charts.", "category": "Games and Entertainment"}, {"name": "Farmhand", "url": "https://www.farmhand.life/", "desc": "A resource management game that puts a farm in your hand", "category": "Games and Entertainment"}, {"name": "Friends-Hunt", "url": "https://friends-hunt.zockability.de/app/", "desc": "Real-world geo-game in the style of popular YouTube formats.", "category": "Games and Entertainment"}, {"name": "Life counter", "url": "https://nenadalm.github.io/life-counter/", "desc": "Life counter app for 2 players. Supports game profiles, cout up/down.", "category": "Games and Entertainment"}, {"name": "Match a Movie", "url": "https://match-a-movie.com/", "desc": "Tinder but for movies to find out what to watch with your friends.", "category": "Games and Entertainment"}, {"name": "Math Riddles", "url": "https://mathriddles.netlify.app", "desc": "Interesting Math Riddles.", "category": "Games and Entertainment"}, {"name": "Memory Game PWA", "url": "https://pwa-memory-game.surge.sh/", "desc": "Strengthen your memory.", "category": "Games and Entertainment"}, {"name": "MoodMovie", "url": "https://moodmovie-app.github.io/", "desc": "Mood-based movie & TV show finder — pick how you feel and get personalized picks with legal streaming links.", "category": "Games and Entertainment"}, {"name": "Murlok.io", "url": "https://murlok.io/", "desc": "World of Warcraft Shadowlands.", "category": "Games and Entertainment"}, {"name": "Othello", "url": "https://othello-rust.web.app/", "desc": "Play Othello against the computer.", "category": "Games and Entertainment"}, {"name": "Play Park", "url": "https://harborplay.us", "desc": "Free family games — trivia, word puzzles, memory match, and more. No account, no ads.", "category": "Games and Entertainment"}, {"name": "Player order selector", "url": "https://nenadalm.github.io/player-order-selector/", "desc": "Random player order selector.", "category": "Games and Entertainment"}, {"name": "Pokedex", "url": "https://pokedex.org/", "desc": "Indexing Pokémon", "category": "Games and Entertainment"}, {"name": "PokeQuest Wiki", "url": "https://pokequest.wiki/", "desc": "Search for Pokémon", "category": "Games and Entertainment"}, {"name": "PWA-NES", "url": "https://pwa-nes.vercel.app/", "desc": "8-bit NES emulator", "category": "Games and Entertainment"}, {"name": "Slitherlinks", "url": "https://slitherlinks.com", "desc": "Free online Slitherlink puzzle platform with 1900+ puzzles, daily challenges, and global leaderboards.", "category": "Games and Entertainment"}, {"name": "Solitaire", "url": "https://internetsolitaire.com/", "desc": "Play solitaire games in this lightweight PWA. Online or Offline.", "category": "Games and Entertainment"}, {"name": "Soodoku", "url": "https://soodoku.com/", "desc": "Advanced sudoku game, works online & offline, without ads and distractions.", "category": "Games and Entertainment"}, {"name": "Stillgrid", "url": "https://stillgrid.app", "desc": "Sudoku with variants (X, jigsaw, killer) at 6×6–16×16, technique-graded difficulty, works offline.", "category": "Games and Entertainment"}, {"name": "Virus Wars", "url": "https://nenadalm.github.io/virus-wars/", "desc": "Virus Wars game with local multiplayer (no single player).", "category": "Games and Entertainment"}, {"name": "Yahtzee", "url": "https://zpix1.github.io/yahtzee/", "desc": "Dice generator.", "category": "Games and Entertainment"}, {"name": "Aerko_", "url": "https://aerko.app", "desc": "Offline-first, brutalist fitness & nutrition PWA with local AI biomechanics (MediaPipe) and AES-256 encryption.", "category": "Health and Lifestyle"}, {"name": "Archery Note", "url": "https://eita115115.github.io/archery-note/", "desc": "Privacy-first archery practice notebook PWA — scoring, sight marks, equipment, and on-device AI form tracking. No account, no ads, works offline.", "category": "Health and Lifestyle"}, {"name": "Care Cards", "url": "https://carecards.io", "desc": "Care Cards", "category": "Health and Lifestyle"}, {"name": "Cat Safe Foods", "url": "https://catsafefoods.com", "desc": "Sharing food with your cat? Make sure it's safe first", "category": "Health and Lifestyle"}, {"name": "ClearLungs", "url": "https://clearlungs-app.vercel.app", "desc": "Free private streak tracker for quitting smoking. Track recovery phases, milestones, and share progress.", "category": "Health and Lifestyle"}, {"name": "CuidaLocal", "url": "https://marcosmmjr2023.github.io/kit-organizacao-cuidados/cuidalocal-en/", "desc": "Local-first, offline caregiver organizer in English with accessible simple and full modes, calendar export, and local reminders.", "category": "Health and Lifestyle"}, {"name": "Dog Safe Foods", "url": "https://dogsafefoods.com", "desc": "Sharing food with your dog? Make sure it's safe first", "category": "Health and Lifestyle"}, {"name": "DoHabit", "url": "https://inikann.github.io/DoHabit/", "desc": "Straightforward habit tracker.", "category": "Health and Lifestyle"}, {"name": "FastTrack", "url": "https://fasttrack-app-three.vercel.app", "desc": "Free intermittent fasting streak tracker with metabolic phases and milestone celebrations.", "category": "Health and Lifestyle"}, {"name": "Forge", "url": "https://pwa-workout-tracker-2ymf.vercel.app/", "desc": "- A lightweight PWA for logging workouts with offline-first architecture and cross-device sync.", "category": "Health and Lifestyle"}, {"name": "Paula", "url": "https://trypaula.com", "desc": "Free AI mental health companion using CBT and DBT techniques, with voice sessions, mood tracking, and journaling.", "category": "Health and Lifestyle"}, {"name": "Progressive", "url": "https://schroedingberg.github.io/progressive/", "desc": "Local-first hypertrophy training tracker, fully offline and event-sourced.", "category": "Health and Lifestyle"}, {"name": "Progressive Beer", "url": "https://deanhume.github.io/beer/", "desc": "Progressive Beer", "category": "Health and Lifestyle"}, {"name": "Recipe Jar", "url": "https://recipejar.app", "desc": "Local-first recipe keeper. Paste a link, get a clean ad-free card, save unlimited recipes offline. No account, open source.", "category": "Health and Lifestyle"}, {"name": "Rewire", "url": "https://rewire-psi.vercel.app", "desc": "Free private streak tracker for building better habits. Track recovery phases, earn milestones, and share progress cards.", "category": "Health and Lifestyle"}, {"name": "VapeFree", "url": "https://vapefree-app.vercel.app", "desc": "Free private streak tracker for quitting vaping. Track lung recovery phases, milestones, and share progress.", "category": "Health and Lifestyle"}, {"name": "Veganify", "url": "https://veganify.app", "desc": "Check if a product is vegan or not.", "category": "Health and Lifestyle"}, {"name": "Luna Tarot", "url": "https://www.lunatarotapp.com", "desc": "Free multilingual tarot reading PWA with 8-language support, daily readings, meditation music, and moon calendar. Works offline, no signup required.", "category": "Health and Lifestyle"}, {"name": "Brutalist Hacker News", "url": "https://brutalisthackernews.com", "desc": "A Hacker News reader inspired by Brutalist Web design, Cyberpunk, retro computing, Y2K Aesthetics", "category": "News and Information"}, {"name": "ComputerBase", "url": "https://www.computerbase.de/", "desc": "German IT news site.", "category": "News and Information"}, {"name": "Qi Reader", "url": "https://www.qireader.com/", "desc": "A modern web RSS reader.", "category": "News and Information"}, {"name": "Digikala", "url": "https://www.digikala.com/", "desc": "Digikala Web App", "category": "Shopping and Travel"}, {"name": "Google Maps", "url": "https://www.google.com/maps/", "desc": "Online maps.", "category": "Shopping and Travel"}, {"name": "Housing Go", "url": "http://www.housing.com", "desc": "Real estate in India.", "category": "Shopping and Travel"}, {"name": "StoryRoute", "url": "https://storyroute.netlify.app", "desc": "AI-powered GPS audio tour guide that generates real-time spoken narratives about places around you.", "category": "Shopping and Travel"}, {"name": "trivago", "url": "https://www.trivago.com/", "desc": "Hotel prices.", "category": "Shopping and Travel"}, {"name": "Uber Web", "url": "https://m.uber.com", "desc": "Ridesharing app.", "category": "Shopping and Travel"}, {"name": "Versus", "url": "https://versus.com/en", "desc": "Consumer electronics shopping.", "category": "Shopping and Travel"}, {"name": "2brew", "url": "https://2brew.github.io/", "desc": "PWA timer for coffee brewing", "category": "Tools and Utilities"}, {"name": "99Tools", "url": "https://99tools.net", "desc": "Free developer, text, and utility tools.", "category": "Tools and Utilities"}, {"name": "AlarmDJ", "url": "https://alarmdj.com", "desc": "Online alarm clock that plays MP3 files or YouTube videos.", "category": "Tools and Utilities"}, {"name": "Anonynote", "url": "https://anonynote.org", "desc": "Note-taking app.", "category": "Tools and Utilities"}, {"name": "BulkPicTools", "url": "https://bulkpictools.com", "desc": "Privacy-first, browser-side bulk image optimizer and editor.", "category": "Tools and Utilities"}, {"name": "Calculator", "url": "https://calculator-app-tau.vercel.app/", "desc": "A calculator app with theme switcher", "category": "Tools and Utilities"}, {"name": "ChipBreaker", "url": "https://chipbreaker.netlify.app/", "desc": "Offline speeds & feeds and tap drill calculator for machinists — eight shop tools, zero internet. No account, no subscription.", "category": "Tools and Utilities"}, {"name": "Emoji Log", "url": "https://emojilog.rosano.ca", "desc": "Personal tracker", "category": "Tools and Utilities"}, {"name": "Google Drive", "url": "https://drive.google.com/", "desc": "File storage.", "category": "Tools and Utilities"}, {"name": "Google Photos", "url": "https://photos.google.com/", "desc": "Photo management.", "category": "Tools and Utilities"}, {"name": "GPA Calculator", "url": "https://gpacalculator.memorymaps.io/", "desc": "Generate animated artwork from your unique GPA inputs.", "category": "Tools and Utilities"}, {"name": "GPA Calculator", "url": "https://gpacalculator.io", "desc": "Calculate your college GPA.", "category": "Tools and Utilities"}, {"name": "gottrix", "url": "https://gottrix.app", "desc": "Free browser-based PDF, image, audio and video tools — 500+ converters, all client-side via WebAssembly, works offline after the first visit, no uploads. Closed-source, free to use, 25+ languages.", "category": "Tools and Utilities"}, {"name": "MConverter", "url": "https://mconverter.eu", "desc": "Online file converter.", "category": "Tools and Utilities"}, {"name": "Morse Code Translator", "url": "https://morsedecoder.com/", "desc": "Morse Code tools", "category": "Tools and Utilities"}, {"name": "Nanocell-csv", "url": "https://www.nanocell-csv.com/", "desc": "A lightweight, cross platform, open-source, PWA CSV file viewer and editor", "category": "Tools and Utilities"}, {"name": "Notella", "url": "https://github.com/siddharthkp/notella", "desc": "No fluff notes app.", "category": "Tools and Utilities"}, {"name": "OmniConvert", "url": "https://tools.sagasu.art", "desc": "Free, open-source file and unit converter — 94 formats, 345 units, 100% client-side with WebAssembly.", "category": "Tools and Utilities"}, {"name": "Passky", "url": "https://vault.passky.org/", "desc": "Free and open-source Password Manager", "category": "Tools and Utilities"}, {"name": "PasteePad", "url": "https://pasteepad.com/", "desc": "Free and simple notepad app", "category": "Tools and Utilities"}, {"name": "PDFGem", "url": "https://pdfgem.io/", "desc": "Free browser-based PDF tools — merge, split, compress, OCR, sign, convert. All processing runs client-side via WebAssembly; works offline after initial load. 16 languages.", "category": "Tools and Utilities"}, {"name": "Pocket Devices", "url": "https://pocket-devices.com/", "desc": "Pocket-sized tools for seamless functionality on the go.", "category": "Tools and Utilities"}, {"name": "Pomotimer", "url": "https://pomotimer.com/", "desc": "Pomodoro Technique Timer", "category": "Tools and Utilities"}, {"name": "PPResume", "url": "https://ppresume.com/", "desc": "A LaTeX Based Resume Builder", "category": "Tools and Utilities"}, {"name": "QR Code Generator", "url": "https://qr-code-generator.now.sh", "desc": "Create custom QR Codes.", "category": "Tools and Utilities"}, {"name": "QR Code Scanner", "url": "https://qrcodescan.in/", "desc": "Scan a QR code.", "category": "Tools and Utilities"}, {"name": "Remember", "url": "https://paulhoughton.github.io/remember/", "desc": "Location-based reminders.", "category": "Tools and Utilities"}, {"name": "Resume Nation", "url": "https://resume-nation.github.io", "desc": "Resume creator.", "category": "Tools and Utilities"}, {"name": "Slay PDF", "url": "https://slaypdf.com/", "desc": "Free local PDF editor for splitting, merging, signing, resizing, posterising and editing PDFs in the browser.", "category": "Tools and Utilities"}, {"name": "Smaller Pictures", "url": "https://smaller-pictures.appspot.com", "desc": "Image compressor.", "category": "Tools and Utilities"}, {"name": "Super Productivity", "url": "https://app.super-productivity.com", "desc": "Open-source todo list and time tracker with timeboxing, Jira/GitHub/GitLab integration.", "category": "Tools and Utilities"}, {"name": "Tablesmit", "url": "https://tablesmit.com", "desc": "A minimalist table builder for analytical writing with full control over headers, formatting, and export to PDF, Excel, CSV, LaTeX, Markdown, and PNG. Works offline as a PWA.", "category": "Tools and Utilities"}, {"name": "TaleForge", "url": "https://www.tale-forge.com/", "desc": "Creative writing PWA with book, manga, and screenplay editors. Works offline with service worker caching.", "category": "Tools and Utilities"}, {"name": "Todoly", "url": "https://t4p4n.github.io/todoly/", "desc": "A Simple ToDo PWA", "category": "Tools and Utilities"}, {"name": "Vizua", "url": "https://vizua.io/", "desc": "Free browser-based image tools — compress, resize, convert (WebP, AVIF, PNG, JPEG), remove background, upscale, OCR. 91 tools, all client-side via WebAssembly. 16 languages.", "category": "Tools and Utilities"}, {"name": "Wormhole", "url": "https://wormhole.app/", "desc": "Share files with end-to-end encryption.", "category": "Tools and Utilities"}, {"name": "ztable.io", "url": "https://ztable.io/", "desc": "Z-Table lookup & Z-Score calculator.", "category": "Tools and Utilities"}, {"name": "abc.xyz", "url": "https://abc.xyz", "desc": "Alphabet website", "category": "Miscellaneous"}, {"name": "Avain.app", "url": "https://avain.app", "desc": "Avain", "category": "Miscellaneous"}, {"name": "Chrome Developer Summit", "url": "https://developers.google.com/", "desc": "Google Developers", "category": "Miscellaneous"}, {"name": "Closerintime", "url": "https://closerinti.me", "desc": "#closerintime", "category": "Miscellaneous"}, {"name": "Etch", "url": "https://etch.co", "desc": "A Small team of Designers and Developers.", "category": "Miscellaneous"}, {"name": "Build a realtime PWA using Vue.js", "url": "https://pusher.com/tutorials/pwa-vuejs", "desc": "", "category": "Miscellaneous"}, {"name": "Build a realtime PWA with React", "url": "https://pusher.com/tutorials/pwa-react", "desc": "", "category": "Miscellaneous"}, {"name": "Getting started with Progressive Web Apps", "url": "https://addyosmani.com/blog/getting-started-with-progressive-web-apps/", "desc": "by [@addyosmani](https://twitter.com/addyosmani)", "category": "Miscellaneous"}, {"name": "Google Developers - Progressive Web Apps", "url": "https://developers.google.com/web/progressive-web-apps", "desc": "", "category": "Miscellaneous"}, {"name": "Introduction to Progressive Web Apps by Google-Udacity", "url": "https://udacity.com/course/intro-to-progressive-web-apps--ud811/", "desc": "", "category": "Miscellaneous"}, {"name": "Introduction to progressive web apps", "url": "https://blog.pusher.com/introduction-progressive-web-apps/", "desc": "", "category": "Miscellaneous"}, {"name": "Progressive Web Apps with React.js - 4 part series", "url": "https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-i-introduction-50679aef2b12#.ly1xiybxd", "desc": "by [@addyosmani](https://twitter.com/addyosmani)", "category": "Miscellaneous"}, {"name": "Retrofit an Existing Website as a Progressive Web App", "url": "https://www.sitepoint.com/retrofit-your-website-as-a-progressive-web-app/", "desc": "", "category": "Miscellaneous"}, {"name": "TutorialSearch", "url": "https://tutorialsearch.io/browse/web-development", "desc": "- Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.", "category": "Miscellaneous"}, {"name": "What PWA Can Do Today", "url": "https://whatpwacando.today/", "desc": "A showcase of what is possible with Progressive Web Apps today.", "category": "Miscellaneous"}, {"name": "Web Powered SMS Inbox with Service Worker: Push Notifications", "url": "https://www.twilio.com/blog/2016/02/web-powered-sms-inbox-with-service-worker-push-notifications.html", "desc": "", "category": "Miscellaneous"}, {"name": "a2hs.js", "url": "https://github.com/koddr/a2hs.js", "desc": "A useful modern JavaScript solution that helps your website users to add (install) a progressive web app to the Home Screen of their mobile iOS devices.", "category": "Miscellaneous"}, {"name": "add-to-homescreen", "url": "https://github.com/philfung/add-to-homescreen", "desc": "Easily add a website/PWA to home screen on IOS/Android/Desktop.", "category": "Miscellaneous"}, {"name": "@forlagshuset/simple-fs", "url": "https://github.com/fagbokforlaget/simple-fs", "desc": "Needs offline filesystem? SimpleFS provides sweet promise based nodejs file API on top of indexeddb.", "category": "Miscellaneous"}, {"name": "HNPWA", "url": "https://github.com/tastejs/hacker-news-pwas", "desc": "Hacker News readers as Progressive Web Apps. A spiritual successor to TodoMVC.", "category": "Miscellaneous"}, {"name": "pwa-badge", "url": "https://github.com/ali-master/pwa-badge", "desc": "Badging for PWA app icons, Like Native Apps", "category": "Miscellaneous"}, {"name": "pure-web", "url": "https://www.npmjs.com/package/pure-web", "desc": "Web component for enhancing PWA capabilities — install prompts, offline indicators, and update notifications.", "category": "Miscellaneous"}, {"name": "Bento starter", "url": "https://github.com/kefranabg/bento-starter", "desc": "Full-stack solution to build Progressive Web Apps.", "category": "Miscellaneous"}, {"name": "Progressive Web Application skeleton", "url": "https://github.com/PolymerLabs/progressive-webapp-config", "desc": "A simple set of skeleton files for shipping a Progressive Web App.", "category": "Miscellaneous"}, {"name": "pwabuilder", "url": "http://www.pwabuilder.com/", "desc": "All the tools you need to build and deploy your Progressive Web Apps.", "category": "Miscellaneous"}, {"name": "Web Starter Kit", "url": "https://github.com/google/web-starter-kit", "desc": "A workflow for multi-device websites.", "category": "Miscellaneous"}, {"name": "Polymer App Toolbox", "url": "https://www.polymer-project.org/3.0/toolbox/", "desc": "\"a collection of components, tools and templates for building Progressive Web Apps with Polymer\"", "category": "Miscellaneous"}, {"name": "Preact CLI", "url": "https://github.com/developit/preact-cli", "desc": "\"Your next Preact PWA in 30 seconds\"", "category": "Miscellaneous"}, {"name": "Simple PWA", "url": "https://simplepwa.com", "desc": "A Progressive Web App template that provides the minimum file structure needed to create a PWA", "category": "Miscellaneous"}, {"name": "Stencil PWA toolkit", "url": "https://stenciljs.com/pwa/", "desc": "Ionic's \"Everything you need to easily build fast, production ready Progressive Web Apps\"", "category": "Miscellaneous"}, {"name": "Developing Progressive Web Apps Course", "url": "https://codelabs.developers.google.com/dev-pwa-training", "desc": "(free)", "category": "Miscellaneous"}, {"name": "Getting Started with Progressive Web Apps", "url": "https://www.pluralsight.com/courses/web-apps-progressive-getting-started", "desc": "(paid)", "category": "Miscellaneous"}, {"name": "Intro to Progressive Web Apps", "url": "https://udacity.com/course/intro-to-progressive-web-apps--ud811", "desc": "(free)", "category": "Miscellaneous"}, {"name": "Learn to build progressive web apps using JavaScript", "url": "https://www.udemy.com/course/learn-to-build-progressive-web-apps-using-javascript/", "desc": "(paid)", "category": "Miscellaneous"}, {"name": "Progressive Web App Fundamentals", "url": "https://www.pluralsight.com/courses/progressive-web-app-fundamentals", "desc": "(paid)", "category": "Miscellaneous"}, {"name": "Progressive Web Apps - The Concise PWA Masterclass", "url": "https://www.udemy.com/course/progressive-web-apps/", "desc": "(paid)", "category": "Miscellaneous"}, {"name": "Progressive Web Apps (PWA) - From Beginner to Expert", "url": "https://www.udemy.com/course/progressive-web-apps-pwa-from-beginner-to-expert/", "desc": "(paid)", "category": "Miscellaneous"}, {"name": "Progressive Web Apps (PWA) - The Complete Guide", "url": "https://www.udemy.com/course/progressive-web-app-pwa-the-complete-guide/", "desc": "(paid)", "category": "Miscellaneous"}, {"name": "A list of conferences talking about PWA", "url": "https://github.com/mobilehackersio/pwa-confs", "desc": "", "category": "Miscellaneous"}];
+
+const grid = document.getElementById('grid');
+const search = document.getElementById('search');
+const resultCount = document.getElementById('result-count');
+const noResults = document.getElementById('no-results');
+const filterBtns = document.querySelectorAll('.filter-btn');
+
+let currentCat = 'all';
+let currentQuery = '';
+
+function render() {
+  const q = currentQuery.toLowerCase().trim();
+  let visible = 0;
+  grid.innerHTML = '';
+
+  APPS.forEach(app => {
+    const inCat = currentCat === 'all' || app.category === currentCat;
+    const inSearch = !q || app.name.toLowerCase().includes(q) || (app.desc || '').toLowerCase().includes(q) || app.category.toLowerCase().includes(q);
+    if (inCat && inSearch) {
+      visible++;
+      const card = document.createElement('a');
+      card.href = app.url;
+      card.target = '_blank';
+      card.rel = 'noopener noreferrer';
+      card.className = 'app-card';
+      card.role = 'listitem';
+      card.innerHTML = `<div class="app-card__cat">${app.category}</div><div class="app-card__name">${esc(app.name)}</div><div class="app-card__desc">${esc(app.desc || '')}</div>`;
+      grid.appendChild(card);
+    }
+  });
+
+  resultCount.textContent = visible;
+  noResults.classList.toggle('visible', visible === 0);
+}
+
+function esc(s) {
+  return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+search.addEventListener('input', e => { currentQuery = e.target.value; render(); });
+
+filterBtns.forEach(btn => {
+  btn.addEventListener('click', () => {
+    filterBtns.forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    currentCat = btn.dataset.cat;
+    render();
+  });
+});
+
+render();
+</script>
 </body>
 </html>
