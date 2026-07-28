@@ -150,6 +150,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Tutor Portfolio PWA](https://englishextra.gitlab.io/): ???
 * [Unalengua IPA Translator](https://unalengua.com/ipa): Translate to IPA.
 * [WordDB](https://www.worddb.com): Word finder, thesaurus, dictionary, crossword solver, rhyme finder and more.
+* [Poetica tibi](https://poeticatibi.netlify.app/) : Portuguese poetry PWA with random poem discovery, word search, sharing, installable experience, and screen reader-friendly navigation.
 
 ### 🎮 Games and Entertainment
 
