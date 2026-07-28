@@ -8,13 +8,21 @@
 
 _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/)
 
+
+## PWA Checklist
+
+* HTTPS
+* Service Worker
+* Web App Manifest
+* Responsive Design
+* Offline Support
+
 ## Table of contents
 
 * [App Directories](#app-directories)
 * [Apps](#apps)
   * [Audio and Video](#audio-and-video)
   * [Business and Finance](#business-and-finance)
-- [WalletLens](https://walletlens.live) — Net worth tracker PWA — crypto, stocks, gold, fiat, cash. Installable, works offline, no account required.
   * [Communication and Social](#communication-and-social)
   * [Development and Design](#development-and-design)
   * [Education and Reading](#education-and-reading)
@@ -53,7 +61,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ## Apps
 
-### Audio and Video
+### 🎵 Audio and Video
 
 * [BitMidi](https://bitmidi.com): Listen to your favorite MIDI files.
 * [Foldergram](https://github.com/foldergram/foldergram): Local-only photo and video gallery for folders, with an Instagram-inspired browsing pattern.
@@ -63,6 +71,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Lofimusic.app](https://lofimusic.app/): Online radio Radio
 * [Music Player PWA](https://akaspanion.github.io/music-app/): Music Player.
 * [OmniCam](https://www.omnicamapp.com/): Live streaming webcams around the world.
+* [Remove Audio](https://remove-audio.com): Browser-based tool to strip the soundtrack from any video locally with WebAssembly and FFmpeg.wasm. No uploads, no sign-up, batch up to 20 clips.
 * [SoundCloud](https://soundcloud.com/): Stream and listen to music.
 * [Soundslice](https://www.soundslice.com): Create living sheet music.
 * [Spotify](https://open.spotify.com/): Music streaming.
@@ -71,9 +80,8 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Wave-PD1](https://alexgibson.github.io/wavepad/): Synth toy.
 * [X Sound](https://korilakkuma.github.io/X-Sound/): Online keyboard synth.
 * [Youtube Music](https://music.youtube.com/): Music streaming via YouTube.
-* [Remove Audio](https://remove-audio.com): Browser-based tool to strip the soundtrack from any video locally with WebAssembly and FFmpeg.wasm. No uploads, no sign-up, batch up to 20 clips.
 
-### Business and Finance
+### 💼 Business and Finance
 
 * [ELFSH](https://elfsh.mousetail.nl): Food and expense manager.
 * [FarmOS](https://farmos.app/): Farm record keeping
@@ -81,7 +89,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Invoice Otter](https://invoiceotter.com): Send estimates and invoices with AI, get paid instantly, track expenses.
 * [JustInvoice](https://justinvoice.netlify.app/app): An intuitive invoice manager that works completely in the browser and offline.
 * [MoneyTracker](https://moneytracker.cc/): Personal finances tracking web app.
-* [Vaulted](https://vaultedworth.com): Local-first net worth tracker PWA with no account, no bank sync, and no server.
 * [MTGStocks](https://www.mtgstocks.com/news): Magic the Gathering price tracker.
 * [Rydeen](https://rydeen.app/): Task management app for individuals.
 * [Simple Currency Converter](https://currency-converter.now.sh): Currency Converter
@@ -90,8 +97,10 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Taskade](https://www.taskade.com): Remote Team Workspace.
 * [Tender](https://app.tender.run/create-account): Personal finance app.
 * [TuxBank](https://tuxbank.app): Budget calendar, local first, optional e2ee sync.
+* [Vaulted](https://vaultedworth.com): Local-first net worth tracker PWA with no account, no bank sync, and no server.
+* [WalletLens](https://walletlens.live) — Net worth tracker PWA — crypto, stocks, gold, fiat, cash. Installable, works offline, no account required.
 
-### Communication and Social
+### 💬 Communication and Social
 
 * [Chitchatter](https://chitchatter.im/): Secure peer-to-peer chat that is serverless, decentralized, and ephemeral
 * [Datememe](https://www.datememe.com): Online dating.
@@ -106,7 +115,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Tinder](https://tinder.com): Dating app.
 * [Twitter](https://twitter.com): Microblogging app.
 
-### Development and Design
+### 🛠️ Development and Design
 
 * [3D House Editor](https://3dhouseplanner.com/app2.php): Free 3D floor planner
 * [ampproject](https://www.ampproject.org): Web component framework.
@@ -129,20 +138,20 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [TurboPixel](https://turborium.github.io/turbopixel/): PixelArt Camera PWA
 * [webpushtest](https://webpushtest.com/): Web Push Notifications Demo
 
-### Education and Reading
+### 📚 Education and Reading
 
 * [Booksie](https://www.booksie.org/): An open catalog of free picture storybooks for children instantly available for reading.
 * [EPUB Player](https://epubplayer.com): A fully-featured audiobook player with Audible/Spotify-like UX, powered by local TTS models. Turn your EPUBs into audiobooks entirely in-browser.
 * [Kommit](https://kommit.rosano.ca): Create flashcards and learn them with spaced-repetition.
 * [PracticeLoop](https://teal-semifreddo-cad4ad.netlify.app/): Slow down & loop YouTube videos for music practice with progressive speed training.
+* [Room TBA](https://room-tba.uplbtools.me): Offline-capable campus map PWA for finding rooms, class schedules, and transit routes on OpenStreetMap data.
 * [Swahili Dictionary](https://swahili-dictionary.com/): Offline Swahili-English-Swahili dictionary
 * [Timetable](https://leoherrmann.github.io/timetable/): Interactive editable timetable.
 * [Tutor Portfolio PWA](https://englishextra.gitlab.io/): ???
 * [Unalengua IPA Translator](https://unalengua.com/ipa): Translate to IPA.
 * [WordDB](https://www.worddb.com): Word finder, thesaurus, dictionary, crossword solver, rhyme finder and more.
-* [Room TBA](https://room-tba.uplbtools.me): Offline-capable campus map PWA for finding rooms, class schedules, and transit routes on OpenStreetMap data.
 
-### Games and Entertainment
+### 🎮 Games and Entertainment
 
 * [2048 Game](https://play2048.co/) 2048 Game
 * [Air Horner](https://airhorner.com/): Air horn sound.
@@ -167,16 +176,16 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Virus Wars](https://nenadalm.github.io/virus-wars/): Virus Wars game with local multiplayer (no single player).
 * [Yahtzee](https://zpix1.github.io/yahtzee/): Dice generator.
 
-### Health and Lifestyle
+### 💪 Health and Lifestyle
 
 * [Aerko_](https://aerko.app): Offline-first, brutalist fitness & nutrition PWA with local AI biomechanics (MediaPipe) and AES-256 encryption.
-* [Forge](https://pwa-workout-tracker-2ymf.vercel.app/) - A lightweight PWA for logging workouts with offline-first architecture and cross-device sync.
 * [Care Cards](https://carecards.io): Care Cards
 * [Cat Safe Foods](https://catsafefoods.com): Sharing food with your cat? Make sure it's safe first
 * [ClearLungs](https://clearlungs-app.vercel.app): Free private streak tracker for quitting smoking. Track recovery phases, milestones, and share progress.
 * [Dog Safe Foods](https://dogsafefoods.com): Sharing food with your dog? Make sure it's safe first
 * [DoHabit](https://inikann.github.io/DoHabit/): Straightforward habit tracker.
 * [FastTrack](https://fasttrack-app-three.vercel.app): Free intermittent fasting streak tracker with metabolic phases and milestone celebrations.
+* [Forge](https://pwa-workout-tracker-2ymf.vercel.app/) - A lightweight PWA for logging workouts with offline-first architecture and cross-device sync.
 * [Paula](https://trypaula.com): Free AI mental health companion using CBT and DBT techniques, with voice sessions, mood tracking, and journaling.
 * [Progressive](https://schroedingberg.github.io/progressive/): Local-first hypertrophy training tracker, fully offline and event-sourced.
 * [Progressive Beer](https://deanhume.github.io/beer/): Progressive Beer
@@ -184,23 +193,23 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [VapeFree](https://vapefree-app.vercel.app): Free private streak tracker for quitting vaping. Track lung recovery phases, milestones, and share progress.
 * [Veganify](https://veganify.app): Check if a product is vegan or not.
 
-### News and Information
+### 📰 News and Information
 
 * [Brutalist Hacker News](https://brutalisthackernews.com): A Hacker News reader inspired by Brutalist Web design, Cyberpunk, retro computing, Y2K Aesthetics
 * [ComputerBase](https://www.computerbase.de/): German IT news site.
 * [Qi Reader](https://www.qireader.com/): A modern web RSS reader.
 
-### Shopping and Travel
+### 🛍️ Shopping and Travel
 
 * [Digikala](https://www.digikala.com/): Digikala Web App
 * [Google Maps](https://www.google.com/maps/): Online maps.
 * [Housing Go](http://www.housing.com): Real estate in India.
+* [StoryRoute](https://storyroute.netlify.app): AI-powered GPS audio tour guide that generates real-time spoken narratives about places around you.
 * [trivago](https://www.trivago.com/): Hotel prices.
 * [Uber Web](https://m.uber.com): Ridesharing app.
-* [StoryRoute](https://storyroute.netlify.app): AI-powered GPS audio tour guide that generates real-time spoken narratives about places around you.
 * [Versus](https://versus.com/en): Consumer electronics shopping.
 
-### Tools and Utilities
+### ⚙️ Tools and Utilities
 
 * [2brew](https://2brew.github.io/): PWA timer for coffee brewing
 * [AlarmDJ](https://alarmdj.com): Online alarm clock that plays MP3 files or YouTube videos.
@@ -213,10 +222,10 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [GPA Calculator](https://gpacalculator.memorymaps.io/): Generate animated artwork from your unique GPA inputs.
 * [GPA Calculator](https://gpacalculator.io): Calculate your college GPA.
 * [MConverter](https://mconverter.eu): Online file converter.
-* [OmniConvert](https://tools.sagasu.art): Free, open-source file and unit converter — 94 formats, 345 units, 100% client-side with WebAssembly.
 * [Morse Code Translator](https://morsedecoder.com/): Morse Code tools
 * [Nanocell-csv](https://www.nanocell-csv.com/): A lightweight, cross platform, open-source, PWA CSV file viewer and editor
 * [Notella](https://github.com/siddharthkp/notella): No fluff notes app.
+* [OmniConvert](https://tools.sagasu.art): Free, open-source file and unit converter — 94 formats, 345 units, 100% client-side with WebAssembly.
 * [Passky](https://vault.passky.org/): Free and open-source Password Manager
 * [PasteePad](https://pasteepad.com/): Free and simple notepad app
 * [PDFGem](https://pdfgem.io/): Free browser-based PDF tools — merge, split, compress, OCR, sign, convert. All processing runs client-side via WebAssembly; works offline after initial load. 16 languages.
@@ -236,7 +245,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Wormhole](https://wormhole.app/): Share files with end-to-end encryption.
 * [ztable.io](https://ztable.io/): Z-Table lookup & Z-Score calculator.
 
-### Miscellaneous
+### 🔀 Miscellaneous
 
 * [abc.xyz](https://abc.xyz): Alphabet website
 * [Avain.app](https://avain.app): Avain
@@ -445,3 +454,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 ## Conferences
 
 * [A list of conferences talking about PWA](https://github.com/mobilehackersio/pwa-confs)
+
+## Contributing
+
+Contributions are welcome! Please check the guidelines and open a PR.
