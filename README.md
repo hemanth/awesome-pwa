@@ -168,6 +168,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Match a Movie](https://match-a-movie.com/): Tinder but for movies to find out what to watch with your friends.
 * [Math Riddles](https://mathriddles.netlify.app): Interesting Math Riddles.
 * [Memory Game PWA](https://pwa-memory-game.surge.sh/): Strengthen your memory.
+* [MoodMovie](https://moodmovie-app.github.io/): Mood-based movie & TV show finder — pick how you feel and get personalized picks with legal streaming links.
 * [Murlok.io](https://murlok.io/): World of Warcraft Shadowlands.
 * [Othello](https://othello-rust.web.app/): Play Othello against the computer.
 * [Player order selector](https://nenadalm.github.io/player-order-selector/): Random player order selector.
