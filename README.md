@@ -228,6 +228,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 ### ⚙️ Tools and Utilities
 
 * [2brew](https://2brew.github.io/): PWA timer for coffee brewing
+* [99Tools](https://99tools.net): Free developer, text, and utility tools.
 * [AlarmDJ](https://alarmdj.com): Online alarm clock that plays MP3 files or YouTube videos.
 * [Anonynote](https://anonynote.org): Note-taking app.
 * [BulkPicTools](https://bulkpictools.com): Privacy-first, browser-side bulk image optimizer and editor.
