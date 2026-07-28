@@ -192,6 +192,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 * [Aerko_](https://aerko.app): Offline-first, brutalist fitness & nutrition PWA with local AI biomechanics (MediaPipe) and AES-256 encryption.
 * [Archery Note](https://eita115115.github.io/archery-note/): Privacy-first archery practice notebook PWA — scoring, sight marks, equipment, and on-device AI form tracking. No account, no ads, works offline.
+* [Calorías](https://raulseoanealvarez-collab.github.io/calorias-app/): Privacy-first calorie and macro tracker in Spanish with barcode scanning (Open Food Facts) and AI photo analysis. No accounts, no backend, all data stays on-device.
 * [Care Cards](https://carecards.io): Care Cards
 * [Cat Safe Foods](https://catsafefoods.com): Sharing food with your cat? Make sure it's safe first
 * [ClearLungs](https://clearlungs-app.vercel.app): Free private streak tracker for quitting smoking. Track recovery phases, milestones, and share progress.
