@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Awesome PWA</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Albert+Sans:wght@300;400;600&family=Alumni+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-0: #050504;
+            --bg-1: #111110;
+            --bg-2: #1c1c1a;
+            --accent: #f5c542;
+            --text-main: #eaeaea;
+            --text-muted: #a0a0a0;
+        }
+
+        body {
+            background-color: var(--bg-0);
+            color: var(--text-main);
+            font-family: 'Albert Sans', sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
+
+        h1, h2, h3, h4, h5, h6 {
+            font-family: 'Alumni Sans', sans-serif;
+            font-weight: 700;
+            margin: 0 0 1rem 0;
+        }
+
+        a {
+            color: var(--accent);
+            text-decoration: none;
+            transition: color 0.2s;
+        }
+
+        a:hover {
+            color: #fff;
+            text-decoration: underline;
+        }
+
+        header {
+            text-align: center;
+            padding: 6rem 2rem 4rem;
+            border-bottom: 1px solid var(--bg-2);
+            background: linear-gradient(180deg, var(--bg-1) 0%, var(--bg-0) 100%);
+        }
+
+        .hero-title {
+            font-size: 5rem;
+            color: var(--accent);
+            letter-spacing: 2px;
+            margin-bottom: 0.5rem;
+        }
+
+        .hero-subtitle {
+            font-family: 'Albert Sans', sans-serif;
+            font-size: 1.2rem;
+            font-weight: 300;
+            color: var(--text-muted);
+            max-width: 600px;
+            margin: 0 auto 2rem;
+        }
+
+        .stats-bar {
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+            flex-wrap: wrap;
+            margin-top: 2rem;
+        }
+
+        .stat-item {
+            background: var(--bg-1);
+            padding: 1rem 2rem;
+            border-radius: 8px;
+            border: 1px solid var(--bg-2);
+            text-align: center;
+        }
+
+        .stat-value {
+            font-family: 'Alumni Sans', sans-serif;
+            font-size: 2.5rem;
+            color: var(--accent);
+            font-weight: 700;
+            line-height: 1;
+        }
+
+        .stat-label {
+            font-size: 0.9rem;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-top: 0.5rem;
+        }
+
+        main {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 4rem 2rem;
+        }
+
+        .section-title {
+            font-size: 3rem;
+            text-align: center;
+            margin-bottom: 3rem;
+            color: #fff;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 1.5rem;
+        }
+
+        .card {
+            background: var(--bg-1);
+            border: 1px solid var(--bg-2);
+            border-radius: 12px;
+            padding: 2rem;
+            transition: transform 0.2s, border-color 0.2s;
+            display: flex;
+            flex-direction: column;
+            cursor: pointer;
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+            border-color: var(--accent);
+        }
+
+        .card-icon {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+        }
+
+        .card-title {
+            font-size: 1.8rem;
+            color: #fff;
+            margin-bottom: 0.5rem;
+        }
+
+        .card-desc {
+            color: var(--text-muted);
+            font-size: 0.95rem;
+            flex-grow: 1;
+        }
+        
+        /* Make entire card clickable via JS or pseudo element */
+        .card-link {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            top: 0;
+            left: 0;
+            z-index: 1;
+        }
+        
+        .card {
+            position: relative;
+        }
+
+        .recent-additions {
+            margin-top: 5rem;
+            background: var(--bg-1);
+            border: 1px solid var(--bg-2);
+            border-radius: 12px;
+            padding: 3rem;
+            text-align: center;
+        }
+
+        .recent-list {
+            list-style: none;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+            max-width: 600px;
+            margin: 0 auto;
+            text-align: left;
+        }
+
+        .recent-list li {
+            padding: 1rem;
+            border-bottom: 1px solid var(--bg-2);
+        }
+        
+        .recent-list li:last-child {
+            border-bottom: none;
+        }
+
+        footer {
+            text-align: center;
+            padding: 3rem 2rem;
+            background: var(--bg-1);
+            border-top: 1px solid var(--bg-2);
+            margin-top: 4rem;
+        }
+
+        .footer-content {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        .badges {
+            margin-top: 1rem;
+        }
+        
+        @media (max-width: 768px) {
+            .hero-title { font-size: 3.5rem; }
+            .stat-item { padding: 1rem; width: 40%; }
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1 class="hero-title">Awesome PWA</h1>
+        <p class="hero-subtitle">A curated list of Progressive Web App resources, apps, tools and more</p>
+        
+        <div class="stats-bar">
+            <div class="stat-item">
+                <div class="stat-value">~150+</div>
+                <div class="stat-label">Apps</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-value">50+</div>
+                <div class="stat-label">Resources</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-value">20+</div>
+                <div class="stat-label">Tools</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-value">11</div>
+                <div class="stat-label">Categories</div>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <h2 class="section-title">App Categories</h2>
+        <div class="grid">
+            <div class="card" onclick="window.location.href='https://github.com/hemanth/awesome-pwa#%F0%9F%8E%B5-audio-and-video'">
+                <div class="card-icon">🎵</div>
+                <h3 class="card-title">Audio & Video</h3>
+                <p class="card-desc">Music players, synthesizers, video editors, and audio tools built for the web.</p>
+            </div>
+            
+            <div class="card" onclick="window.location.href='https://github.com/hemanth/awesome-pwa#%F0%9F%92%BC-business-and-finance'">
+                <div class="card-icon">💼</div>
+                <h3 class="card-title">Business & Finance</h3>
+                <p class="card-desc">Budget trackers, invoice generators, workspaces, and financial tools.</p>
+            </div>
+            
+            <div class="card" onclick="window.location.href='https://github.com/hemanth/awesome-pwa#%F0%9F%92%AC-communication-and-social'">
+                <div class="card-icon">💬</div>
+                <h3 class="card-title">Communication & Social</h3>
+                <p class="card-desc">Chat apps, social networks, dating apps, and real-time communication.</p>
+            </div>
+            
+            <div class="card" onclick="window.location.href='https://github.com/hemanth/awesome-pwa#%F0%9F%9B%A0%EF%B8%8F-development-and-design'">
+                <div class="card-icon">🛠️</div>
+                <h3 class="card-title">Development & Design</h3>
+                <p class="card-desc">Developer tools, design editors, regex testers, and coding utilities.</p>
+            </div>
+            
+            <div class="card" onclick="window.location.href='https://github.com/hemanth/awesome-pwa#%F0%9F%93%9A-education-and-reading'">
+                <div class="card-icon">📚</div>
+                <h3 class="card-title">Education & Reading</h3>
+                <p class="card-desc">Flashcards, dictionaries, epub readers, and educational tools.</p>
+            </div>
+            
+            <div class="card" onclick="window.location.href='https://github.com/hemanth/awesome-pwa#%F0%9F%8E%AE-games-and-entertainment'">
+                <div class="card-icon">🎮</div>
+                <h3 class="card-title">Games & Entertainment</h3>
+                <p class="card-desc">Casual games, puzzles, trivia, and entertainment apps.</p>
+            </div>
+            
+            <div class="card" onclick="window.location.href='https://github.com/hemanth/awesome-pwa#%F0%9F%92%AA-health-and-lifestyle'">
+                <div class="card-icon">💪</div>
+                <h3 class="card-title">Health & Lifestyle</h3>
+                <p class="card-desc">Workout trackers, habit builders, nutrition guides, and wellness apps.</p>
+            </div>
+            
+            <div class="card" onclick="window.location.href='https://github.com/hemanth/awesome-pwa#%F0%9F%93%B0-news-and-information'">
+                <div class="card-icon">📰</div>
+                <h3 class="card-title">News & Information</h3>
+                <p class="card-desc">News readers, RSS aggregators, and informational portals.</p>
+            </div>
+            
+            <div class="card" onclick="window.location.href='https://github.com/hemanth/awesome-pwa#%F0%9F%9B%8D%EF%B8%8F-shopping-and-travel'">
+                <div class="card-icon">🛍️</div>
+                <h3 class="card-title">Shopping & Travel</h3>
+                <p class="card-desc">E-commerce, real estate, maps, and travel planning tools.</p>
+            </div>
+            
+            <div class="card" onclick="window.location.href='https://github.com/hemanth/awesome-pwa#%E2%9A%99%EF%B8%8F-tools-and-utilities'">
+                <div class="card-icon">⚙️</div>
+                <h3 class="card-title">Tools & Utilities</h3>
+                <p class="card-desc">Calculators, converters, notepads, password managers, and everyday utilities.</p>
+            </div>
+            
+            <div class="card" onclick="window.location.href='https://github.com/hemanth/awesome-pwa#%F0%9F%94%80-miscellaneous'">
+                <div class="card-icon">🔀</div>
+                <h3 class="card-title">Miscellaneous</h3>
+                <p class="card-desc">Everything else that doesn't fit into the other categories.</p>
+            </div>
+        </div>
+
+        <div class="recent-additions">
+            <h2 class="section-title" style="margin-bottom: 2rem;">Recent Additions</h2>
+            <ul class="recent-list">
+                <li>✨ Added <strong>WalletLens</strong> - Net worth tracker PWA</li>
+                <li>✨ Added <strong>Room TBA</strong> - Offline-capable campus map PWA</li>
+                <li>✨ Added <strong>StoryRoute</strong> - AI-powered GPS audio tour guide</li>
+                <li>✨ Added <strong>Forge</strong> - Lightweight PWA for logging workouts</li>
+            </ul>
+        </div>
+    </main>
+
+    <footer>
+        <div class="footer-content">
+            <p>Made by <a href="https://h3manth.com/ai" target="_blank">Hemanth HM</a></p>
+            <div class="badges">
+                <a href="https://github.com/hemanth/awesome-pwa" target="_blank">
+                    <img src="https://img.shields.io/github/stars/hemanth/awesome-pwa?style=social" alt="GitHub Stars">
+                </a>
+            </div>
+        </div>
+    </footer>
+
+</body>
+</html>
