@@ -56,6 +56,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 * [BitMidi](https://bitmidi.com): Listen to your favorite MIDI files.
 * [Foldergram](https://github.com/foldergram/foldergram): Local-only photo and video gallery for folders, with an Instagram-inspired browsing pattern.
+* [GrooveSteps](https://groovesteps.com/): Free in-browser drum trainer with interactive lessons, a metronome, real-time timing scoring, and Web MIDI e-kit support. Installable and works offline.
 * [guitar-tuner](https://aerotwist.com/blog/guitar-tuner/): Aerotwist Guitar Tuner
 * [Joybox](https://joybox.rosano.ca): A pinboard for audiovisual media.
 * [Lofimusic.app](https://lofimusic.app/): Online radio Radio
