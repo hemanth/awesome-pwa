@@ -56,7 +56,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 ## App Directories
 
 * [0data.app](https://0data.app)
-* [paquet.app](https://paquet.app/home)
 * [store.app](https://store.app/)
 * [webappfinder.app](https://webappfinder.app)
 
@@ -68,7 +67,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 * [BitMidi](https://bitmidi.com): Listen to your favorite MIDI files.
 * [Foldergram](https://github.com/foldergram/foldergram): Local-only photo and video gallery for folders, with an Instagram-inspired browsing pattern.
-* [GrooveSteps](https://groovesteps.com/): Free in-browser drum trainer with interactive lessons, a metronome, real-time timing scoring, and Web MIDI e-kit support. Installable and works offline.
 * [guitar-tuner](https://aerotwist.com/blog/guitar-tuner/): Aerotwist Guitar Tuner
 * [Joybox](https://joybox.rosano.ca): A pinboard for audiovisual media.
 * [Lofimusic.app](https://lofimusic.app/): Online radio Radio
@@ -86,7 +84,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ### Business and Finance
 
-* [ELFSH](https://elfsh.mousetail.nl): Food and expense manager.
 * [FarmOS](https://farmos.app/): Farm record keeping
 * [Freelancer](https://m.freelancer.com/messages): Hire the best freelancers for any job, online.
 * [Invoice Otter](https://invoiceotter.com): Send estimates and invoices with AI, get paid instantly, track expenses.
@@ -134,20 +131,17 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Make Better Software](https://makebetter.software): Raise software standards.
 * [MYHELLOIOT](https://adrianromero.github.io/myhelloiot/): MQTT client application.
 * [Photopea](https://www.photopea.com/): Online Photo Editor.
-* [PhotoQuill](https://photoquill.com/): Free browser-based Photoshop alternative with PSD support, layers, and local image processing.
 * [PixelCraft](https://pixelcraft.web.app): Pixel Art Editor
 * [Regex101](https://regex101.com/): Build, test and debug regex.
 * [Shademix](https://shademix.com): Free colour toolkit — eyedropper, 10 paint-system matcher (RAL, NCS, Pantone-equivalent), OKLCH harmonies, WCAG contrast, CMYK warnings, 11 export formats. Runs entirely client-side, no signup.
 * [SVGOMG](https://jakearchibald.github.io/svgomg/): SVGO's Missing GUI
 * [Themer](https://themer.dev): Theme generator for editors, terminals, wallpapers, and more.
-* [Total Formatter](https://totalformatter.web.app): YAML Formatter
 * [TurboPixel](https://turborium.github.io/turbopixel/): PixelArt Camera PWA
 * [webpushtest](https://webpushtest.com/): Web Push Notifications Demo
 
 ### Education and Reading
 
 * [Booksie](https://www.booksie.org/): An open catalog of free picture storybooks for children instantly available for reading.
-* [Calcumber](https://calcumber.app/): Calculate in a notebook and share — from everyday math to engineering.
 * [EPUB Player](https://epubplayer.com): A fully-featured audiobook player with Audible/Spotify-like UX, powered by local TTS models. Turn your EPUBs into audiobooks entirely in-browser.
 * [Shiori](https://shiori-v1.vercel.app): Open-source AI study companion — SRS flashcards, GPA predictor, Gemini AI study plans, AI quiz generator, habit tracker. Installable PWA, works offline. Google Classroom sync. [GitHub](https://github.com/kaorii-ako/Shiori-v1)
 * [Kommit](https://kommit.rosano.ca): Create flashcards and learn them with spaced-repetition.
@@ -159,7 +153,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Tutor Portfolio PWA](https://englishextra.gitlab.io/): ???
 * [Unalengua IPA Translator](https://unalengua.com/ipa): Translate to IPA.
 * [WordDB](https://www.worddb.com): Word finder, thesaurus, dictionary, crossword solver, rhyme finder and more.
-* [Freshie Guide](https://guide.stimmie.dev/): Open-source guides for incoming UPLB freshmen (enrollment, dorms, orgs).
 * [Room TBA](https://room-tba.uplbtools.me/): UPLB campus room finder with offline PGlite cache and installable PWA.
 
 ### Games and Entertainment
@@ -174,7 +167,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Farmhand](https://www.farmhand.life/): A resource management game that puts a farm in your hand
 * [Friends-Hunt](https://friends-hunt.zockability.de/app/): Real-world geo-game in the style of popular YouTube formats.
 * [Life counter](https://nenadalm.github.io/life-counter/): Life counter app for 2 players. Supports game profiles, cout up/down.
-* [Match a Movie](https://match-a-movie.com/): Tinder but for movies to find out what to watch with your friends.
 * [Math Riddles](https://mathriddles.netlify.app): Interesting Math Riddles.
 * [Memory Game PWA](https://pwa-memory-game.surge.sh/): Strengthen your memory.
 * [MoodMovie](https://moodmovie-app.github.io/): Mood-based movie & TV show finder — pick how you feel and get personalized picks with legal streaming links.
@@ -207,7 +199,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [FastTrack](https://fasttrack-app-three.vercel.app): Free intermittent fasting streak tracker with metabolic phases and milestone celebrations.
 * [Forge](https://pwa-workout-tracker-2ymf.vercel.app/) - A lightweight PWA for logging workouts with offline-first architecture and cross-device sync.
 * [OpenHabitTracker](https://pwa.openhabittracker.net): Take notes, plan tasks, track habits. Free, open source, works offline, no account, all data stays on your device.
-* [Paula](https://trypaula.com): Free AI mental health companion using CBT and DBT techniques, with voice sessions, mood tracking, and journaling.
 * [Progressive](https://schroedingberg.github.io/progressive/): Local-first hypertrophy training tracker, fully offline and event-sourced.
 * [Progressive Beer](https://deanhume.github.io/beer/): Progressive Beer
 * [Recipe Jar](https://recipejar.app): Local-first recipe keeper. Paste a link, get a clean ad-free card, save unlimited recipes offline. No account, open source.
@@ -235,7 +226,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 ### Tools and Utilities
 
 * [2brew](https://2brew.github.io/): PWA timer for coffee brewing
-* [99Tools](https://99tools.net): Free developer, text, and utility tools.
 * [AlarmDJ](https://alarmdj.com): Online alarm clock that plays MP3 files or YouTube videos.
 * [Anonynote](https://anonynote.org): Note-taking app.
 * [Bangle.io](https://app.bangle.io): Local-first Markdown note-taking PWA with WYSIWYG editing and no account required.
@@ -266,7 +256,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Remember](https://paulhoughton.github.io/remember/): Location-based reminders.
 * [Resume Nation](https://resume-nation.github.io): Resume creator.
 * [Slay PDF](https://slaypdf.com/): Free local PDF editor for splitting, merging, signing, resizing, posterising and editing PDFs in the browser.
-* [Smaller Pictures](https://smaller-pictures.appspot.com): Image compressor.
 * [Super Productivity](https://app.super-productivity.com): Open-source todo list and time tracker with timeboxing, Jira/GitHub/GitLab integration.
 * [Tablesmit](https://tablesmit.com): A minimalist table builder for analytical writing with full control over headers, formatting, and export to PDF, Excel, CSV, LaTeX, Markdown, and PNG. Works offline as a PWA.
 * [TaleForge](https://www.tale-forge.com/): Creative writing PWA with book, manga, and screenplay editors. Works offline with service worker caching.
@@ -308,7 +297,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Introduction to Progressive Web App with example](https://www.loginradius.com/engineering/blog/introduction-to-progressive-web-apps/)
 * [Intro to (Progressive) Web Apps](https://dev.to/sudhakar3697/intro-to-progressive-web-apps-34oo)
 * [Progressive web apps have leapfrogged the native install model ... but challenges remain/](http://softwareas.com/progressive-web-apps-have-leapfrogged-the-native-install-model-but-challenges-remain/)
-* [Say Hello to Offline First](http://hood.ie/blog/say-hello-to-offline-first.html)
 * [What Progressive Web Apps Mean for the Web](http://developer.telerik.com/featured/what-progressive-web-apps-mean-for-the-web/)
 
 ### Case Studies and Real-World Apps
