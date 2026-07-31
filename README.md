@@ -415,6 +415,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [`Manifest Generator`](https://brucelawson.github.io/manifest/): This simple page will generate the manifest file for you.
 * [`manifest-json`](https://www.npmjs.com/package/manifest-json): CLI tool for creating `mainfest.json`.
 * [`miTT PWA Asset Generator`](https://mittl-medien.de/pwa-asset-generator): Hosted, no-install web tool that generates PWA icons and iOS splash screens, plus optional app store icons.
+* [`Olivez Favicon & PWA Icon Generator`](https://olivez.in/tool/favicon-asset-pack-generator) : Hosted tool that generates favicon.ico, PNG favicons, Apple touch icons, regular and maskable PWA icons, a web manifest, HTML links, and a downloadable asset pack locally.
 * [`PWA Asset Generator`](https://github.com/elegantapp/pwa-asset-generator): Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images.
 * [`PWAify`](https://github.com/vladikoff/PWAify): CLI tool to convert your PWA into a cross-platform desktop app.
 
