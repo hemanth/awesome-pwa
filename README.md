@@ -8,6 +8,15 @@
 
 _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/)
 
+
+## PWA Checklist
+
+* HTTPS
+* Service Worker
+* Web App Manifest
+* Responsive Design
+* Offline Support
+
 ## Table of contents
 
 * [App Directories](#app-directories)
@@ -49,18 +58,23 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [0data.app](https://0data.app)
 * [paquet.app](https://paquet.app/home)
 * [store.app](https://store.app/)
+* [webappfinder.app](https://webappfinder.app)
 
 ## Apps
 
+
+- [Gyeonggi Currency Map](https://gyeonggi-currency-map.web.app) - Interactive PWA mapping municipal local-currency merchant locations across 31 cities of Gyeonggi Province, South Korea. Real-time "open now" filter, KakaoTalk share, public open data. React + Vite + Leaflet on Firebase Hosting.
 ### Audio and Video
 
 * [BitMidi](https://bitmidi.com): Listen to your favorite MIDI files.
 * [Foldergram](https://github.com/foldergram/foldergram): Local-only photo and video gallery for folders, with an Instagram-inspired browsing pattern.
+* [GrooveSteps](https://groovesteps.com/): Free in-browser drum trainer with interactive lessons, a metronome, real-time timing scoring, and Web MIDI e-kit support. Installable and works offline.
 * [guitar-tuner](https://aerotwist.com/blog/guitar-tuner/): Aerotwist Guitar Tuner
 * [Joybox](https://joybox.rosano.ca): A pinboard for audiovisual media.
 * [Lofimusic.app](https://lofimusic.app/): Online radio Radio
 * [Music Player PWA](https://akaspanion.github.io/music-app/): Music Player.
 * [OmniCam](https://www.omnicamapp.com/): Live streaming webcams around the world.
+* [Remove Audio](https://remove-audio.com): Browser-based tool to strip the soundtrack from any video locally with WebAssembly and FFmpeg.wasm. No uploads, no sign-up, batch up to 20 clips.
 * [SoundCloud](https://soundcloud.com/): Stream and listen to music.
 * [Soundslice](https://www.soundslice.com): Create living sheet music.
 * [Spotify](https://open.spotify.com/): Music streaming.
@@ -69,7 +83,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Wave-PD1](https://alexgibson.github.io/wavepad/): Synth toy.
 * [X Sound](https://korilakkuma.github.io/X-Sound/): Online keyboard synth.
 * [Youtube Music](https://music.youtube.com/): Music streaming via YouTube.
-* [Remove Audio](https://remove-audio.com): Browser-based tool to strip the soundtrack from any video locally with WebAssembly and FFmpeg.wasm. No uploads, no sign-up, batch up to 20 clips.
 
 ### Business and Finance
 
@@ -79,7 +92,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Invoice Otter](https://invoiceotter.com): Send estimates and invoices with AI, get paid instantly, track expenses.
 * [JustInvoice](https://justinvoice.netlify.app/app): An intuitive invoice manager that works completely in the browser and offline.
 * [MoneyTracker](https://moneytracker.cc/): Personal finances tracking web app.
-* [Vaulted](https://vaultedworth.com): Local-first net worth tracker PWA with no account, no bank sync, and no server.
 * [MTGStocks](https://www.mtgstocks.com/news): Magic the Gathering price tracker.
 * [Rydeen](https://rydeen.app/): Task management app for individuals.
 * [Simple Currency Converter](https://currency-converter.now.sh): Currency Converter
@@ -87,9 +99,13 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [SplittyPie](https://splittypie.com): Easy expense splitting.
 * [Taskade](https://www.taskade.com): Remote Team Workspace.
 * [Tender](https://app.tender.run/create-account): Personal finance app.
+* [TuxBank](https://tuxbank.app): Budget calendar, local first, optional e2ee sync.
+* [Vaulted](https://vaultedworth.com): Local-first net worth tracker PWA with no account, no bank sync, and no server.
+* [WalletLens](https://walletlens.live) — Net worth tracker PWA — crypto, stocks, gold, fiat, cash. Installable, works offline, no account required.
 
 ### Communication and Social
 
+* [Bloom Pro](https://bloompro.de/): Bloom Pro – Your Grow Journal - Keep track of your grows
 * [Chitchatter](https://chitchatter.im/): Secure peer-to-peer chat that is serverless, decentralized, and ephemeral
 * [Datememe](https://www.datememe.com): Online dating.
 * [emberclear](https://emberclear.io): Encrypted Chat. No History. No Logs.
@@ -118,8 +134,10 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Make Better Software](https://makebetter.software): Raise software standards.
 * [MYHELLOIOT](https://adrianromero.github.io/myhelloiot/): MQTT client application.
 * [Photopea](https://www.photopea.com/): Online Photo Editor.
+* [PhotoQuill](https://photoquill.com/): Free browser-based Photoshop alternative with PSD support, layers, and local image processing.
 * [PixelCraft](https://pixelcraft.web.app): Pixel Art Editor
 * [Regex101](https://regex101.com/): Build, test and debug regex.
+* [Shademix](https://shademix.com): Free colour toolkit — eyedropper, 10 paint-system matcher (RAL, NCS, Pantone-equivalent), OKLCH harmonies, WCAG contrast, CMYK warnings, 11 export formats. Runs entirely client-side, no signup.
 * [SVGOMG](https://jakearchibald.github.io/svgomg/): SVGO's Missing GUI
 * [Themer](https://themer.dev): Theme generator for editors, terminals, wallpapers, and more.
 * [Total Formatter](https://totalformatter.web.app): YAML Formatter
@@ -129,15 +147,21 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 ### Education and Reading
 
 * [Booksie](https://www.booksie.org/): An open catalog of free picture storybooks for children instantly available for reading.
+* [Calcumber](https://calcumber.app/): Calculate in a notebook and share — from everyday math to engineering.
 * [EchoTalk](https://alisolphp.github.io/EchoTalk/): Offline shadowing practice with AI pronunciation feedback, multiple languages, and no login required.
 * [EPUB Player](https://epubplayer.com): A fully-featured audiobook player with Audible/Spotify-like UX, powered by local TTS models. Turn your EPUBs into audiobooks entirely in-browser.
+* [Shiori](https://shiori-v1.vercel.app): Open-source AI study companion — SRS flashcards, GPA predictor, Gemini AI study plans, AI quiz generator, habit tracker. Installable PWA, works offline. Google Classroom sync. [GitHub](https://github.com/kaorii-ako/Shiori-v1)
 * [Kommit](https://kommit.rosano.ca): Create flashcards and learn them with spaced-repetition.
 * [PracticeLoop](https://teal-semifreddo-cad4ad.netlify.app/): Slow down & loop YouTube videos for music practice with progressive speed training.
+* [Room TBA](https://room-tba.uplbtools.me): Offline-capable campus map PWA for finding rooms, class schedules, and transit routes on OpenStreetMap data.
 * [Swahili Dictionary](https://swahili-dictionary.com/): Offline Swahili-English-Swahili dictionary
+* [Terraform Academy](https://www.terraformacademy.app/): Installable PWA for learning Terraform and infrastructure as code. Includes interactive labs, certification prep for AWS, GCP, Azure, Docker, Kubernetes and HashiCorp, an AI coach, progress tracking, and offline access through service workers.
 * [Timetable](https://leoherrmann.github.io/timetable/): Interactive editable timetable.
 * [Tutor Portfolio PWA](https://englishextra.gitlab.io/): ???
 * [Unalengua IPA Translator](https://unalengua.com/ipa): Translate to IPA.
 * [WordDB](https://www.worddb.com): Word finder, thesaurus, dictionary, crossword solver, rhyme finder and more.
+* [Freshie Guide](https://guide.stimmie.dev/): Open-source guides for incoming UPLB freshmen (enrollment, dorms, orgs).
+* [Room TBA](https://room-tba.uplbtools.me/): UPLB campus room finder with offline PGlite cache and installable PWA.
 
 ### Games and Entertainment
 
@@ -149,36 +173,49 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Cybercar](https://cybercar.pages.dev): Free neon arcade survival game with power-ups, unlockable themes, boss battles, and global leaderboard.
 * [Falling Nikochan](https://nikochan.utcode.net): Simple and cute rhythm game, where anyone can create and share charts.
 * [Farmhand](https://www.farmhand.life/): A resource management game that puts a farm in your hand
+* [Friends-Hunt](https://friends-hunt.zockability.de/app/): Real-world geo-game in the style of popular YouTube formats.
 * [Life counter](https://nenadalm.github.io/life-counter/): Life counter app for 2 players. Supports game profiles, cout up/down.
 * [Match a Movie](https://match-a-movie.com/): Tinder but for movies to find out what to watch with your friends.
 * [Math Riddles](https://mathriddles.netlify.app): Interesting Math Riddles.
 * [Memory Game PWA](https://pwa-memory-game.surge.sh/): Strengthen your memory.
+* [MoodMovie](https://moodmovie-app.github.io/): Mood-based movie & TV show finder — pick how you feel and get personalized picks with legal streaming links.
 * [Murlok.io](https://murlok.io/): World of Warcraft Shadowlands.
 * [Othello](https://othello-rust.web.app/): Play Othello against the computer.
+* [Play Park](https://harborplay.us): Free family games — trivia, word puzzles, memory match, and more. No account, no ads.
 * [Player order selector](https://nenadalm.github.io/player-order-selector/): Random player order selector.
 * [Pokedex](https://pokedex.org/): Indexing Pokémon
 * [PokeQuest Wiki](https://pokequest.wiki/): Search for Pokémon
 * [PWA-NES](https://pwa-nes.vercel.app/): 8-bit NES emulator
 * [Slitherlinks](https://slitherlinks.com): Free online Slitherlink puzzle platform with 1900+ puzzles, daily challenges, and global leaderboards.
+* [Solitaire](https://internetsolitaire.com/): Play solitaire games in this lightweight PWA. Online or Offline.
 * [Soodoku](https://soodoku.com/): Advanced sudoku game, works online & offline, without ads and distractions.
+* [Stillgrid](https://stillgrid.app): Sudoku with variants (X, jigsaw, killer) at 6×6–16×16, technique-graded difficulty, works offline.
 * [Virus Wars](https://nenadalm.github.io/virus-wars/): Virus Wars game with local multiplayer (no single player).
 * [Yahtzee](https://zpix1.github.io/yahtzee/): Dice generator.
 
 ### Health and Lifestyle
 
 * [Aerko_](https://aerko.app): Offline-first, brutalist fitness & nutrition PWA with local AI biomechanics (MediaPipe) and AES-256 encryption.
+* [Archery Note](https://eita115115.github.io/archery-note/): Privacy-first archery practice notebook PWA — scoring, sight marks, equipment, and on-device AI form tracking. No account, no ads, works offline.
+* [Calorie Tracker](https://atlas-asittley.github.io/calorie-tracker/): Free, private calorie & macro tracker. No account, offline-capable, with barcode scanning; all data stays on your device.
 * [Care Cards](https://carecards.io): Care Cards
 * [Cat Safe Foods](https://catsafefoods.com): Sharing food with your cat? Make sure it's safe first
+* [Chompass](https://chompass.app/app/): Ad-free calorie and food diary PWA. local-first diary and body metrics, optional BYOK AI, open JSON export. No account required.
 * [ClearLungs](https://clearlungs-app.vercel.app): Free private streak tracker for quitting smoking. Track recovery phases, milestones, and share progress.
+* [CuidaLocal](https://marcosmmjr2023.github.io/kit-organizacao-cuidados/cuidalocal-en/): Local-first, offline caregiver organizer in English with accessible simple and full modes, calendar export, and local reminders.
 * [Dog Safe Foods](https://dogsafefoods.com): Sharing food with your dog? Make sure it's safe first
 * [DoHabit](https://inikann.github.io/DoHabit/): Straightforward habit tracker.
 * [FastTrack](https://fasttrack-app-three.vercel.app): Free intermittent fasting streak tracker with metabolic phases and milestone celebrations.
+* [Forge](https://pwa-workout-tracker-2ymf.vercel.app/) - A lightweight PWA for logging workouts with offline-first architecture and cross-device sync.
+* [OpenHabitTracker](https://pwa.openhabittracker.net): Take notes, plan tasks, track habits. Free, open source, works offline, no account, all data stays on your device.
 * [Paula](https://trypaula.com): Free AI mental health companion using CBT and DBT techniques, with voice sessions, mood tracking, and journaling.
 * [Progressive](https://schroedingberg.github.io/progressive/): Local-first hypertrophy training tracker, fully offline and event-sourced.
 * [Progressive Beer](https://deanhume.github.io/beer/): Progressive Beer
+* [Recipe Jar](https://recipejar.app): Local-first recipe keeper. Paste a link, get a clean ad-free card, save unlimited recipes offline. No account, open source.
 * [Rewire](https://rewire-psi.vercel.app): Free private streak tracker for building better habits. Track recovery phases, earn milestones, and share progress cards.
 * [VapeFree](https://vapefree-app.vercel.app): Free private streak tracker for quitting vaping. Track lung recovery phases, milestones, and share progress.
 * [Veganify](https://veganify.app): Check if a product is vegan or not.
+* [Luna Tarot](https://www.lunatarotapp.com): Free multilingual tarot reading PWA with 8-language support, daily readings, meditation music, and moon calendar. Works offline, no signup required.
 
 ### News and Information
 
@@ -191,30 +228,35 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Digikala](https://www.digikala.com/): Digikala Web App
 * [Google Maps](https://www.google.com/maps/): Online maps.
 * [Housing Go](http://www.housing.com): Real estate in India.
+* [StoryRoute](https://storyroute.netlify.app): AI-powered GPS audio tour guide that generates real-time spoken narratives about places around you.
 * [trivago](https://www.trivago.com/): Hotel prices.
 * [Uber Web](https://m.uber.com): Ridesharing app.
-* [StoryRoute](https://storyroute.netlify.app): AI-powered GPS audio tour guide that generates real-time spoken narratives about places around you.
 * [Versus](https://versus.com/en): Consumer electronics shopping.
 
 ### Tools and Utilities
 
 * [2brew](https://2brew.github.io/): PWA timer for coffee brewing
+* [99Tools](https://99tools.net): Free developer, text, and utility tools.
 * [AlarmDJ](https://alarmdj.com): Online alarm clock that plays MP3 files or YouTube videos.
 * [Anonynote](https://anonynote.org): Note-taking app.
 * [BulkPicTools](https://bulkpictools.com): Privacy-first, browser-side bulk image optimizer and editor.
 * [Calculator](https://calculator-app-tau.vercel.app/): A calculator app with theme switcher
+* [ChipBreaker](https://chipbreaker.netlify.app/): Offline speeds & feeds and tap drill calculator for machinists — eight shop tools, zero internet. No account, no subscription.
 * [Emoji Log](https://emojilog.rosano.ca): Personal tracker
 * [Google Drive](https://drive.google.com/): File storage.
 * [Google Photos](https://photos.google.com/): Photo management.
 * [GPA Calculator](https://gpacalculator.memorymaps.io/): Generate animated artwork from your unique GPA inputs.
 * [GPA Calculator](https://gpacalculator.io): Calculate your college GPA.
+* [gottrix](https://gottrix.app): Free browser-based PDF, image, audio and video tools — 500+ converters, all client-side via WebAssembly, works offline after the first visit, no uploads. Closed-source, free to use, 25+ languages.
 * [MConverter](https://mconverter.eu): Online file converter.
-* [OmniConvert](https://tools.sagasu.art): Free, open-source file and unit converter — 94 formats, 345 units, 100% client-side with WebAssembly.
 * [Morse Code Translator](https://morsedecoder.com/): Morse Code tools
 * [Nanocell-csv](https://www.nanocell-csv.com/): A lightweight, cross platform, open-source, PWA CSV file viewer and editor
 * [Notella](https://github.com/siddharthkp/notella): No fluff notes app.
+* [OmniConvert](https://tools.sagasu.art): Free, open-source file and unit converter — 94 formats, 345 units, 100% client-side with WebAssembly.
+* [OpenPost](https://app.openpost.social): Self-hosted social media scheduler.
 * [Passky](https://vault.passky.org/): Free and open-source Password Manager
 * [PasteePad](https://pasteepad.com/): Free and simple notepad app
+* [PDF Dark](https://pdfdark.org/): Convert PDFs to dark mode in your browser. 100% client-side, 4 themes (Midnight, Sepia, Solarized, OLED), preserves image colors. Open-source (MIT).
 * [PDFGem](https://pdfgem.io/): Free browser-based PDF tools — merge, split, compress, OCR, sign, convert. All processing runs client-side via WebAssembly; works offline after initial load. 16 languages.
 * [Pocket Devices](https://pocket-devices.com/): Pocket-sized tools for seamless functionality on the go.
 * [Pomotimer](https://pomotimer.com/): Pomodoro Technique Timer
@@ -223,10 +265,14 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [QR Code Scanner](https://qrcodescan.in/): Scan a QR code.
 * [Remember](https://paulhoughton.github.io/remember/): Location-based reminders.
 * [Resume Nation](https://resume-nation.github.io): Resume creator.
+* [Slay PDF](https://slaypdf.com/): Free local PDF editor for splitting, merging, signing, resizing, posterising and editing PDFs in the browser.
 * [Smaller Pictures](https://smaller-pictures.appspot.com): Image compressor.
 * [Super Productivity](https://app.super-productivity.com): Open-source todo list and time tracker with timeboxing, Jira/GitHub/GitLab integration.
+* [Tablesmit](https://tablesmit.com): A minimalist table builder for analytical writing with full control over headers, formatting, and export to PDF, Excel, CSV, LaTeX, Markdown, and PNG. Works offline as a PWA.
 * [TaleForge](https://www.tale-forge.com/): Creative writing PWA with book, manga, and screenplay editors. Works offline with service worker caching.
+* [ThreeFour](https://threefour.app): Run multi-step procedures one step at a time; it remembers where you stopped, even days later. Sequential or branching. Works offline, no account, data stays on your device. Free.
 * [Todoly](https://t4p4n.github.io/todoly/): A Simple ToDo PWA
+* [UniStyle](https://unistyle.io): Convert plain text into 20+ Unicode styles (bold, italic, script, monospace) that paste anywhere Markdown is stripped. Free, no signup, installable on desktop and Android.
 * [Vizua](https://vizua.io/): Free browser-based image tools — compress, resize, convert (WebP, AVIF, PNG, JPEG), remove background, upscale, OCR. 91 tools, all client-side via WebAssembly. 16 languages.
 * [Wormhole](https://wormhole.app/): Share files with end-to-end encryption.
 * [ztable.io](https://ztable.io/): Z-Table lookup & Z-Score calculator.
@@ -249,6 +295,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Introduction to progressive web apps](https://blog.pusher.com/introduction-progressive-web-apps/)
 * [Progressive Web Apps with React.js - 4 part series](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-i-introduction-50679aef2b12#.ly1xiybxd) by [@addyosmani](https://twitter.com/addyosmani)
 * [Retrofit an Existing Website as a Progressive Web App](https://www.sitepoint.com/retrofit-your-website-as-a-progressive-web-app/)
+* [TutorialSearch](https://tutorialsearch.io/browse/web-development) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 * [What PWA Can Do Today](https://whatpwacando.today/): A showcase of what is possible with Progressive Web Apps today.
 * [Web Powered SMS Inbox with Service Worker: Push Notifications](https://www.twilio.com/blog/2016/02/web-powered-sms-inbox-with-service-worker-push-notifications.html)
 
@@ -379,6 +426,8 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [`fetch-manifest-json`](https://github.com/hemanth/fetch-manifest-json): Fetch the `mainfest.json` from an URL.
 * [`Manifest Generator`](https://brucelawson.github.io/manifest/): This simple page will generate the manifest file for you.
 * [`manifest-json`](https://www.npmjs.com/package/manifest-json): CLI tool for creating `mainfest.json`.
+* [`miTT PWA Asset Generator`](https://mittl-medien.de/pwa-asset-generator): Hosted, no-install web tool that generates PWA icons and iOS splash screens, plus optional app store icons.
+* [`Olivez Favicon & PWA Icon Generator`](https://olivez.in/tool/favicon-asset-pack-generator) : Hosted tool that generates favicon.ico, PNG favicons, Apple touch icons, regular and maskable PWA icons, a web manifest, HTML links, and a downloadable asset pack locally.
 * [`PWA Asset Generator`](https://github.com/elegantapp/pwa-asset-generator): Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images.
 * [`PWAify`](https://github.com/vladikoff/PWAify): CLI tool to convert your PWA into a cross-platform desktop app.
 
@@ -439,3 +488,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 ## Conferences
 
 * [A list of conferences talking about PWA](https://github.com/mobilehackersio/pwa-confs)
+
+## Contributing
+
+Contributions are welcome! Please check the guidelines and open a PR.
