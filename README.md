@@ -137,6 +137,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [PhotoQuill](https://photoquill.com/): Free browser-based Photoshop alternative with PSD support, layers, and local image processing.
 * [PixelCraft](https://pixelcraft.web.app): Pixel Art Editor
 * [Regex101](https://regex101.com/): Build, test and debug regex.
+* [Shademix](https://shademix.com): Free colour toolkit — eyedropper, 10 paint-system matcher (RAL, NCS, Pantone-equivalent), OKLCH harmonies, WCAG contrast, CMYK warnings, 11 export formats. Runs entirely client-side, no signup.
 * [SVGOMG](https://jakearchibald.github.io/svgomg/): SVGO's Missing GUI
 * [Themer](https://themer.dev): Theme generator for editors, terminals, wallpapers, and more.
 * [Total Formatter](https://totalformatter.web.app): YAML Formatter
