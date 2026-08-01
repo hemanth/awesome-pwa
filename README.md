@@ -194,6 +194,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Archery Note](https://eita115115.github.io/archery-note/): Privacy-first archery practice notebook PWA — scoring, sight marks, equipment, and on-device AI form tracking. No account, no ads, works offline.
 * [Care Cards](https://carecards.io): Care Cards
 * [Cat Safe Foods](https://catsafefoods.com): Sharing food with your cat? Make sure it's safe first
+* [Chompass](https://chompass.app/app/): Ad-free calorie and food diary PWA. local-first diary and body metrics, optional BYOK AI, open JSON export. No account required.
 * [ClearLungs](https://clearlungs-app.vercel.app): Free private streak tracker for quitting smoking. Track recovery phases, milestones, and share progress.
 * [CuidaLocal](https://marcosmmjr2023.github.io/kit-organizacao-cuidados/cuidalocal-en/): Local-first, offline caregiver organizer in English with accessible simple and full modes, calendar export, and local reminders.
 * [Dog Safe Foods](https://dogsafefoods.com): Sharing food with your dog? Make sure it's safe first
