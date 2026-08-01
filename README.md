@@ -198,7 +198,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [ClearLungs](https://clearlungs-app.vercel.app): Free private streak tracker for quitting smoking. Track recovery phases, milestones, and share progress.
 * [CuidaLocal](https://marcosmmjr2023.github.io/kit-organizacao-cuidados/cuidalocal-en/): Local-first, offline caregiver organizer in English with accessible simple and full modes, calendar export, and local reminders.
 * [Dog Safe Foods](https://dogsafefoods.com): Sharing food with your dog? Make sure it's safe first
-* [DoHabit](https://inikann.github.io/DoHabit/): Straightforward habit tracker.
+* [DoHabit](https://dohabit.app): Minimalist account-free habit tracker with a native mobile feel.
 * [FastTrack](https://fasttrack-app-three.vercel.app): Free intermittent fasting streak tracker with metabolic phases and milestone celebrations.
 * [Forge](https://pwa-workout-tracker-2ymf.vercel.app/) - A lightweight PWA for logging workouts with offline-first architecture and cross-device sync.
 * [OpenHabitTracker](https://pwa.openhabittracker.net): Take notes, plan tasks, track habits. Free, open source, works offline, no account, all data stays on your device.
