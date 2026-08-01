@@ -201,6 +201,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [DoHabit](https://inikann.github.io/DoHabit/): Straightforward habit tracker.
 * [FastTrack](https://fasttrack-app-three.vercel.app): Free intermittent fasting streak tracker with metabolic phases and milestone celebrations.
 * [Forge](https://pwa-workout-tracker-2ymf.vercel.app/) - A lightweight PWA for logging workouts with offline-first architecture and cross-device sync.
+* [OpenHabitTracker](https://pwa.openhabittracker.net): Take notes, plan tasks, track habits. Free, open source, works offline, no account, all data stays on your device.
 * [Paula](https://trypaula.com): Free AI mental health companion using CBT and DBT techniques, with voice sessions, mood tracking, and journaling.
 * [Progressive](https://schroedingberg.github.io/progressive/): Local-first hypertrophy training tracker, fully offline and event-sourced.
 * [Progressive Beer](https://deanhume.github.io/beer/): Progressive Beer
