@@ -148,6 +148,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 * [Booksie](https://www.booksie.org/): An open catalog of free picture storybooks for children instantly available for reading.
 * [Calcumber](https://calcumber.app/): Calculate in a notebook and share — from everyday math to engineering.
+* [EchoTalk](https://alisolphp.github.io/EchoTalk/): Offline shadowing practice with AI pronunciation feedback, multiple languages, and no login required.
 * [EPUB Player](https://epubplayer.com): A fully-featured audiobook player with Audible/Spotify-like UX, powered by local TTS models. Turn your EPUBs into audiobooks entirely in-browser.
 * [Shiori](https://shiori-v1.vercel.app): Open-source AI study companion — SRS flashcards, GPA predictor, Gemini AI study plans, AI quiz generator, habit tracker. Installable PWA, works offline. Google Classroom sync. [GitHub](https://github.com/kaorii-ako/Shiori-v1)
 * [Kommit](https://kommit.rosano.ca): Create flashcards and learn them with spaced-repetition.
