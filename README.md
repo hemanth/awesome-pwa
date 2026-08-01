@@ -154,6 +154,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [PracticeLoop](https://teal-semifreddo-cad4ad.netlify.app/): Slow down & loop YouTube videos for music practice with progressive speed training.
 * [Room TBA](https://room-tba.uplbtools.me): Offline-capable campus map PWA for finding rooms, class schedules, and transit routes on OpenStreetMap data.
 * [Swahili Dictionary](https://swahili-dictionary.com/): Offline Swahili-English-Swahili dictionary
+* [Terraform Academy](https://www.terraformacademy.app/): Installable PWA for learning Terraform and infrastructure as code. Includes interactive labs, certification prep for AWS, GCP, Azure, Docker, Kubernetes and HashiCorp, an AI coach, progress tracking, and offline access through service workers.
 * [Timetable](https://leoherrmann.github.io/timetable/): Interactive editable timetable.
 * [Tutor Portfolio PWA](https://englishextra.gitlab.io/): ???
 * [Unalengua IPA Translator](https://unalengua.com/ipa): Translate to IPA.
