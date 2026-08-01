@@ -267,6 +267,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Tablesmit](https://tablesmit.com): A minimalist table builder for analytical writing with full control over headers, formatting, and export to PDF, Excel, CSV, LaTeX, Markdown, and PNG. Works offline as a PWA.
 * [TaleForge](https://www.tale-forge.com/): Creative writing PWA with book, manga, and screenplay editors. Works offline with service worker caching.
 * [Todoly](https://t4p4n.github.io/todoly/): A Simple ToDo PWA
+* [UniStyle](https://unistyle.io): Convert plain text into 20+ Unicode styles (bold, italic, script, monospace) that paste anywhere Markdown is stripped. Free, no signup, installable on desktop and Android.
 * [Vizua](https://vizua.io/): Free browser-based image tools — compress, resize, convert (WebP, AVIF, PNG, JPEG), remove background, upscale, OCR. 91 tools, all client-side via WebAssembly. 16 languages.
 * [Wormhole](https://wormhole.app/): Share files with end-to-end encryption.
 * [ztable.io](https://ztable.io/): Z-Table lookup & Z-Score calculator.
