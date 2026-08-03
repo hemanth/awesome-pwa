@@ -148,7 +148,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [PracticeLoop](https://teal-semifreddo-cad4ad.netlify.app/): Slow down & loop YouTube videos for music practice with progressive speed training.
 * [Room TBA](https://room-tba.uplbtools.me): Offline-capable campus map PWA for finding rooms, class schedules, and transit routes on OpenStreetMap data.
 * [Swahili Dictionary](https://swahili-dictionary.com/): Offline Swahili-English-Swahili dictionary
-* [Terraform Academy](https://www.terraformacademy.app/): Installable PWA for learning Terraform and infrastructure as code. Includes interactive labs, certification prep for AWS, GCP, Azure, Docker, Kubernetes and HashiCorp, an AI coach, progress tracking, and offline access through service workers.
 * [Timetable](https://leoherrmann.github.io/timetable/): Interactive editable timetable.
 * [Tutor Portfolio PWA](https://englishextra.gitlab.io/): ???
 * [Unalengua IPA Translator](https://unalengua.com/ipa): Translate to IPA.
@@ -243,10 +242,8 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Nanocell-csv](https://www.nanocell-csv.com/): A lightweight, cross platform, open-source, PWA CSV file viewer and editor
 * [Notella](https://github.com/siddharthkp/notella): No fluff notes app.
 * [OmniConvert](https://tools.sagasu.art): Free, open-source file and unit converter — 94 formats, 345 units, 100% client-side with WebAssembly.
-* [OpenPost](https://app.openpost.social): Self-hosted social media scheduler.
 * [Passky](https://vault.passky.org/): Free and open-source Password Manager
 * [PasteePad](https://pasteepad.com/): Free and simple notepad app
-* [PDF Dark](https://pdfdark.org/): Convert PDFs to dark mode in your browser. 100% client-side, 4 themes (Midnight, Sepia, Solarized, OLED), preserves image colors. Open-source (MIT).
 * [PDFGem](https://pdfgem.io/): Free browser-based PDF tools — merge, split, compress, OCR, sign, convert. All processing runs client-side via WebAssembly; works offline after initial load. 16 languages.
 * [Pocket Devices](https://pocket-devices.com/): Pocket-sized tools for seamless functionality on the go.
 * [Pomotimer](https://pomotimer.com/): Pomodoro Technique Timer
