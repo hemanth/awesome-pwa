@@ -93,6 +93,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [JustInvoice](https://justinvoice.netlify.app/app): An intuitive invoice manager that works completely in the browser and offline.
 * [MoneyTracker](https://moneytracker.cc/): Personal finances tracking web app.
 * [MTGStocks](https://www.mtgstocks.com/news): Magic the Gathering price tracker.
+* [QuoteChime](https://quotechime.pages.dev/?ref=awesomepwa): Draft finite quote follow-up sequences privately in the browser. Free core, no signup, and works offline after first load.
 * [Rydeen](https://rydeen.app/): Task management app for individuals.
 * [Simple Currency Converter](https://currency-converter.now.sh): Currency Converter
 * [Skcript](https://www.skcript.com/): Ruby on Rails Consulting.
