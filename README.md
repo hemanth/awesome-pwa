@@ -150,13 +150,13 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Shiori](https://shiori-v1.vercel.app): Open-source AI study companion — SRS flashcards, GPA predictor, Gemini AI study plans, AI quiz generator, habit tracker. Installable PWA, works offline. Google Classroom sync. [GitHub](https://github.com/kaorii-ako/Shiori-v1)
 * [Kommit](https://kommit.rosano.ca): Create flashcards and learn them with spaced-repetition.
 * [PracticeLoop](https://teal-semifreddo-cad4ad.netlify.app/): Slow down & loop YouTube videos for music practice with progressive speed training.
-* [Room TBA](https://room-tba.uplbtools.me): Offline-capable campus map PWA for finding rooms, class schedules, and transit routes on OpenStreetMap data.
+* [Room TBA](https://room-tba.uplb.tools): Offline-capable campus map PWA for finding rooms, class schedules, and transit routes on OpenStreetMap data.
 * [Swahili Dictionary](https://swahili-dictionary.com/): Offline Swahili-English-Swahili dictionary
 * [Timetable](https://leoherrmann.github.io/timetable/): Interactive editable timetable.
 * [Tutor Portfolio PWA](https://englishextra.gitlab.io/): ???
 * [Unalengua IPA Translator](https://unalengua.com/ipa): Translate to IPA.
 * [WordDB](https://www.worddb.com): Word finder, thesaurus, dictionary, crossword solver, rhyme finder and more.
-* [Room TBA](https://room-tba.uplbtools.me/): UPLB campus room finder with offline PGlite cache and installable PWA.
+* [Room TBA](https://room-tba.uplb.tools/): UPLB campus room finder with offline PGlite cache and installable PWA.
 
 ### Games and Entertainment
 
