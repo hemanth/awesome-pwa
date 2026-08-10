@@ -56,6 +56,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 ## App Directories
 
 * [0data.app](https://0data.app)
+* [pwa.directory](https://pwa.directory)
 * [store.app](https://store.app/)
 * [webappfinder.app](https://webappfinder.app)
 
