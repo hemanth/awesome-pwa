@@ -93,6 +93,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [JustInvoice](https://justinvoice.netlify.app/app): An intuitive invoice manager that works completely in the browser and offline.
 * [MoneyTracker](https://moneytracker.cc/): Personal finances tracking web app.
 * [MTGStocks](https://www.mtgstocks.com/news): Magic the Gathering price tracker.
+* [pix2qr](https://pix2qr.xyz/): Generate, read, and re-render Brazilian PIX payment codes locally in the browser; installable and works offline.
 * [Rydeen](https://rydeen.app/): Task management app for individuals.
 * [Simple Currency Converter](https://currency-converter.now.sh): Currency Converter
 * [Skcript](https://www.skcript.com/): Ruby on Rails Consulting.
