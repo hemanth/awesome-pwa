@@ -88,6 +88,7 @@ async function checkPwa(url) {
     whitelisted: false,
     skipped: false,
     botBlocked: false,
+    inconclusive: false,
   };
 
   const domain = getDomain(url);
@@ -112,10 +113,16 @@ async function checkPwa(url) {
     const res = await fetchWithTimeout(url);
     result.status = res.status;
 
-    // 403/406 usually means bot protection, not a dead site
-    // Only treat 404 and 500+ as truly unreachable
+    // 403/406 usually means bot protection, not a dead site.
     const botBlocked = res.status === 403 || res.status === 406;
     result.isReachable = res.status < 400 || botBlocked;
+
+    // Network and server errors are not evidence that an entry is not a PWA.
+    // Report them without making CI (or --fix) remove a potentially valid app.
+    if (res.status === 408 || res.status === 425 || res.status === 429 || res.status >= 500) {
+      result.inconclusive = true;
+      return result;
+    }
 
     if (botBlocked) {
       // Can't check HTML content, assume PWA (benefit of the doubt)
@@ -150,6 +157,7 @@ async function checkPwa(url) {
     result.isPwa = result.hasManifest;
   } catch (err) {
     result.error = err.code || err.message || String(err);
+    result.inconclusive = true;
     if (err.name === "AbortError") {
       result.error = "timeout";
     }
@@ -243,25 +251,29 @@ async function main() {
         ? "🔒"
         : result.skipped
           ? "⏭️"
-          : result.botBlocked
-            ? "🤖"
-            : result.isPwa
-              ? "✅"
-              : result.isReachable
-                ? "⚠️"
-                : "❌";
+          : result.inconclusive
+            ? "❓"
+            : result.botBlocked
+              ? "🤖"
+              : result.isPwa
+                ? "✅"
+                : result.isReachable
+                  ? "⚠️"
+                  : "❌";
 
       const details = [];
       if (result.whitelisted) details.push("whitelisted");
       if (result.skipped) details.push("skipped");
+      if (result.inconclusive)
+        details.push(`inconclusive (${result.status || result.error})`);
       if (result.botBlocked) details.push(`bot-blocked (${result.status})`);
-      if (!result.isReachable && !result.whitelisted && !result.skipped)
+      if (!result.isReachable && !result.whitelisted && !result.skipped && !result.inconclusive)
         details.push(`status=${result.status || result.error}`);
       if (result.isReachable && !result.hasManifest && !result.whitelisted && !result.skipped && !result.botBlocked)
         details.push("no manifest");
       if (result.isReachable && !result.hasServiceWorker && !result.whitelisted && !result.skipped && !result.botBlocked)
         details.push("no SW");
-      if (result.error) details.push(result.error);
+      if (result.error && !result.inconclusive) details.push(result.error);
 
       const detailStr = details.length ? ` (${details.join(", ")})` : "";
       console.log(`  ${icon} [${entry.section}] ${entry.name} — ${entry.url}${detailStr}`);
@@ -274,12 +286,16 @@ async function main() {
   // Separate results
   const passed = results.filter((r) => r.result.isPwa);
   const failed = results.filter((r) => !r.result.isPwa && r.result.isReachable);
-  const dead = results.filter((r) => !r.result.isReachable && !r.result.isPwa);
+  const inconclusive = results.filter((r) => r.result.inconclusive);
+  const dead = results.filter(
+    (r) => !r.result.isReachable && !r.result.isPwa && !r.result.inconclusive
+  );
 
   console.log(`\n📊 Results:`);
   console.log(`  ✅ PWA verified: ${passed.length}`);
   console.log(`  ⚠️  No PWA indicators (reachable but no manifest): ${failed.length}`);
   console.log(`  ❌ Unreachable / dead: ${dead.length}`);
+  console.log(`  ❓ Inconclusive network checks: ${inconclusive.length}`);
 
   const toRemove = [...failed, ...dead];
 
