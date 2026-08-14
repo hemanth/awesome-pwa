@@ -254,6 +254,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Pocket Devices](https://pocket-devices.com/): Pocket-sized tools for seamless functionality on the go.
 * [Pomotimer](https://pomotimer.com/): Pomodoro Technique Timer
 * [PPResume](https://ppresume.com/): A LaTeX Based Resume Builder
+* [QR Code Crafter](https://qrcodecrafter.com/): Privacy-conscious QR generator with an offline mode for URL, text, Wi-Fi, email, phone, and SMS codes plus SVG and PNG export after the first visit.
 * [QR Code Generator](https://qr-code-generator.now.sh): Create custom QR Codes.
 * [QR Code Scanner](https://qrcodescan.in/): Scan a QR code.
 * [RealtimeClipboard](https://realtimeclipboard.com/): End-to-end encrypted clipboard sync between devices — type the same short key on each, no account. Files go peer-to-peer over WebRTC. Open-source (MIT)
