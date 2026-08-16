@@ -266,6 +266,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [ThreeFour](https://threefour.app): Run multi-step procedures one step at a time; it remembers where you stopped, even days later. Sequential or branching. Works offline, no account, data stays on your device. Free.
 * [Todoly](https://t4p4n.github.io/todoly/): A Simple ToDo PWA
 * [UniStyle](https://unistyle.io): Convert plain text into 20+ Unicode styles (bold, italic, script, monospace) that paste anywhere Markdown is stripped. Free, no signup, installable on desktop and Android.
+* [NIC Info](https://nicinfo.vercel.app/) - A privacy-first identity card decoder and date-of-birth extractor running 100% client-side with zero external dependencies.
 * [Vizua](https://vizua.io/): Free browser-based image tools — compress, resize, convert (WebP, AVIF, PNG, JPEG), remove background, upscale, OCR. 91 tools, all client-side via WebAssembly. 16 languages.
 * [Wormhole](https://wormhole.app/): Share files with end-to-end encryption.
 * [ztable.io](https://ztable.io/): Z-Table lookup & Z-Score calculator.
