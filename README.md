@@ -208,6 +208,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Push or Pay](https://pushorpay.netlify.app): Free couples streak-tracking PWA. Protect your daily push-up streak or your partner collects a playful "Lazy Tax." No account beyond an invite link, works offline.
 * [Recipe Jar](https://recipejar.app): Local-first recipe keeper. Paste a link, get a clean ad-free card, save unlimited recipes offline. No account, open source.
 * [Rewire](https://rewire-psi.vercel.app): Free private streak tracker for building better habits. Track recovery phases, earn milestones, and share progress cards.
+* [TR8CE](https://tr8ce.app): Peptide reconstitution and dosing calculator with a live U-100 syringe overlay, vial tracker, and injection-site rotation map. Installable, works offline, and vial data stays in local storage on your device.
 * [VapeFree](https://vapefree-app.vercel.app): Free private streak tracker for quitting vaping. Track lung recovery phases, milestones, and share progress.
 * [Veganify](https://veganify.app): Check if a product is vegan or not.
 * [Luna Tarot](https://www.lunatarotapp.com): Free multilingual tarot reading PWA with 8-language support, daily readings, meditation music, and moon calendar. Works offline, no signup required.
