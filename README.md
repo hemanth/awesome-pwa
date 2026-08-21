@@ -100,6 +100,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [TuxBank](https://tuxbank.app): Budget calendar, local first, optional e2ee sync.
 * [Vaulted](https://vaultedworth.com): Local-first net worth tracker PWA with no account, no bank sync, and no server.
 * [WalletLens](https://walletlens.live) — Net worth tracker PWA — crypto, stocks, gold, fiat, cash. Installable, works offline, no account required.
+* [PDF Bank Statement Converter To Excel](https://bankstatement-wizard.net/) — PDF Bank Statement Converter To Excel
 
 ### Communication and Social
 
