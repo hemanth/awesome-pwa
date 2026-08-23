@@ -186,6 +186,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Stillgrid](https://stillgrid.app): Sudoku with variants (X, jigsaw, killer) at 6×6–16×16, technique-graded difficulty, works offline.
 * [Virus Wars](https://nenadalm.github.io/virus-wars/): Virus Wars game with local multiplayer (no single player).
 * [Yahtzee](https://zpix1.github.io/yahtzee/): Dice generator.
+* [PickerSpin](https://pickerspin.co): Installable wheel spinner, dice roller and bingo caller — works offline, no signup, provably fair via the Web Crypto API.
 
 ### Health and Lifestyle
 
