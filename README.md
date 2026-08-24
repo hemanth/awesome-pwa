@@ -223,6 +223,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Digikala](https://www.digikala.com/): Digikala Web App
 * [Google Maps](https://www.google.com/maps/): Online maps.
 * [Housing Go](http://www.housing.com): Real estate in India.
+* [MerryMap](https://merrymap.co): Crowd-sourced map of neighborhood Christmas-light displays across ten US metros, with a browsable city guide per metro. No sign-up.
 * [StoryRoute](https://storyroute.netlify.app): AI-powered GPS audio tour guide that generates real-time spoken narratives about places around you.
 * [trivago](https://www.trivago.com/): Hotel prices.
 * [Uber Web](https://m.uber.com): Ridesharing app.
