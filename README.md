@@ -170,6 +170,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Farmhand](https://www.farmhand.life/): A resource management game that puts a farm in your hand
 * [Friends-Hunt](https://friends-hunt.zockability.de/app/): Real-world geo-game in the style of popular YouTube formats.
 * [Life counter](https://nenadalm.github.io/life-counter/): Life counter app for 2 players. Supports game profiles, cout up/down.
+* [Lunidex](https://lunidex.app): Open-source Pokémon workspace with an installable PWA, a Pokédex, TCG collection tracking, team building, battle tools, quizzes, and progress tracking.
 * [Math Riddles](https://mathriddles.netlify.app): Interesting Math Riddles.
 * [Memory Game PWA](https://pwa-memory-game.surge.sh/): Strengthen your memory.
 * [MoodMovie](https://moodmovie-app.github.io/): Mood-based movie & TV show finder — pick how you feel and get personalized picks with legal streaming links.
