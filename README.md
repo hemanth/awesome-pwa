@@ -231,7 +231,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 ### Tools and Utilities
 
 * [2brew](https://2brew.github.io/): PWA timer for coffee brewing
-* [A Box of Tools](https://abox.tools/): Free browser tools for images, video, audio, PDFs and text — 33 of them, each doing one job. Everything runs client-side, so no file is ever uploaded; every tool installs as its own PWA and works offline. Open source (MIT), 15 languages.
+* [A Box of Tools](https://abox.tools/): Free browser tools for images, video, audio, PDFs and text — 35 of them, each doing one job. Everything runs client-side, so no file is ever uploaded; every tool installs as its own PWA and works offline. Open source (MIT), 15 languages.
 * [AlarmDJ](https://alarmdj.com): Online alarm clock that plays MP3 files or YouTube videos.
 * [Anonynote](https://anonynote.org): Note-taking app.
 * [Bangle.io](https://app.bangle.io): Local-first Markdown note-taking PWA with WYSIWYG editing and no account required.
