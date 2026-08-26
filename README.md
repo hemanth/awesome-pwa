@@ -231,6 +231,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 ### Tools and Utilities
 
 * [2brew](https://2brew.github.io/): PWA timer for coffee brewing
+* [AccuPDF](https://accupdf.com/): Free browser-based PDF suite — merge, split, compress, OCR, convert, fill forms, redact. All processing runs client-side, so files never leave your device; installable and works offline after load.
 * [AlarmDJ](https://alarmdj.com): Online alarm clock that plays MP3 files or YouTube videos.
 * [Anonynote](https://anonynote.org): Note-taking app.
 * [Bangle.io](https://app.bangle.io): Local-first Markdown note-taking PWA with WYSIWYG editing and no account required.
