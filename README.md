@@ -236,6 +236,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Bangle.io](https://app.bangle.io): Local-first Markdown note-taking PWA with WYSIWYG editing and no account required.
 * [BulkPicTools](https://bulkpictools.com): Privacy-first, browser-side bulk image optimizer and editor.
 * [Calculator](https://calculator-app-tau.vercel.app/): A calculator app with theme switcher
+* [Calculora](https://calculora.net): 259+ free online calculators as a progressive web app with 21-language support, dark mode, offline capability, and no sign-up required.
 * [ChipBreaker](https://chipbreaker.netlify.app/): Offline speeds & feeds and tap drill calculator for machinists — eight shop tools, zero internet. No account, no subscription.
 * [Emoji Log](https://emojilog.rosano.ca): Personal tracker
 * [Google Drive](https://drive.google.com/): File storage.
@@ -269,7 +270,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Vizua](https://vizua.io/): Free browser-based image tools — compress, resize, convert (WebP, AVIF, PNG, JPEG), remove background, upscale, OCR. 91 tools, all client-side via WebAssembly. 16 languages.
 * [Wormhole](https://wormhole.app/): Share files with end-to-end encryption.
 * [ztable.io](https://ztable.io/): Z-Table lookup & Z-Score calculator.
-* [Calculora](https://calculora.net): 259+ free online calculators as a progressive web app with 21-language support, dark mode, offline capability, and no sign-up required.
 
 ### Miscellaneous
 
