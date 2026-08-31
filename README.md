@@ -162,6 +162,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 * [2048 Game](https://play2048.co/) 2048 Game
 * [Air Horner](https://airhorner.com/): Air horn sound.
+* [AuraCity](https://auracity.lol): Leaderboard game over 307,000 real places from Overture Maps — farm "Aura" for your favourite bar, cafe or park and push it up the city, country and world rankings.
 * [Backgammon](https://nenadalm.github.io/backgammon/): Backgammon game with local multiplayer (no single player).
 * [Colosseum](https://naramsim.github.io/Colosseum/): Displays Pokemons in a beautiful way
 * [Crazy Dice](https://crazydice.netlify.app): Simple Dice App.
