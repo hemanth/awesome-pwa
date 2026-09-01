@@ -237,6 +237,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [BulkPicTools](https://bulkpictools.com): Privacy-first, browser-side bulk image optimizer and editor.
 * [Calculator](https://calculator-app-tau.vercel.app/): A calculator app with theme switcher
 * [ChipBreaker](https://chipbreaker.netlify.app/): Offline speeds & feeds and tap drill calculator for machinists — eight shop tools, zero internet. No account, no subscription.
+* [Credit Freeze Letters](https://stepuplaw.com/credit-freeze-letter-generator): Builds the security freeze request letters the three US credit bureaus require by mail, including the protected consumer freeze a guardian or power-of-attorney agent files for someone who cannot act for themselves. Runs entirely in the browser, works offline, no account, nothing transmitted.
 * [Emoji Log](https://emojilog.rosano.ca): Personal tracker
 * [Google Drive](https://drive.google.com/): File storage.
 * [Google Photos](https://photos.google.com/): Photo management.
