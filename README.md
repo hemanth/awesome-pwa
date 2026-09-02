@@ -216,6 +216,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 * [Brutalist Hacker News](https://brutalisthackernews.com): A Hacker News reader inspired by Brutalist Web design, Cyberpunk, retro computing, Y2K Aesthetics
 * [ComputerBase](https://www.computerbase.de/): German IT news site.
+* [PressPlayed](https://pressplayed.com): Text-to-speech RSS reader that reads available article text aloud as a continuous queue, with playback continuing while the screen is locked on supported phones.
 * [Qi Reader](https://www.qireader.com/): A modern web RSS reader.
 
 ### Shopping and Travel
