@@ -107,6 +107,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Chitchatter](https://chitchatter.im/): Secure peer-to-peer chat that is serverless, decentralized, and ephemeral
 * [Datememe](https://www.datememe.com): Online dating.
 * [emberclear](https://emberclear.io): Encrypted Chat. No History. No Logs.
+* [Folloverse](https://folloverse.com): Creator monetization platform with memberships, pay-per-view posts, chats & forums.
 * [ghChat](https://github.com/aermin/ghChat): Chat application for GitHub.
 * [Google Duo](https://duo.google.com/): Video Calling.
 * [Medium](https://medium.com/): Writing space.
