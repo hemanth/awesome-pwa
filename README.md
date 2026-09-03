@@ -126,6 +126,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [ColorBeta](https://colorbeta.com): Advanced CSS Gradient Generator
 * [Demo PWA](https://github.com/gokulkrishh/demo-progressive-web-app): Demonstrating offline, push notifications, background sync etc.
 * [DevDocs](https://devdocs.io/): API Documentation Browser
+* [Grain Studio](https://grainstudio.harshith.com/): Apply 25 tactile image textures locally in the browser; installable, open source, and works offline.
 * [Hyperdraft](https://hyperdraft.rosano.ca): Turn your text notes into a website.
 * [JSON Formatter](https://jsonformatter.live/): Minimalist JSON formatter.
 * [Launchlet](https://launchlet.dev): Customize any website with JavaScript or CSS.
