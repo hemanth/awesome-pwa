@@ -190,6 +190,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 ### Health and Lifestyle
 
 * [Aerko_](https://aerko.app): Offline-first, brutalist fitness & nutrition PWA with local AI biomechanics (MediaPipe) and AES-256 encryption.
+* [Alergia España](https://alergia.ai): Today's pollen count by species, air quality and UV for 57 Spanish cities, from the official aerobiology networks. Free, no account, no ads, open data (CSV + API, CC BY 4.0).
 * [Archery Note](https://eita115115.github.io/archery-note/): Privacy-first archery practice notebook PWA — scoring, sight marks, equipment, and on-device AI form tracking. No account, no ads, works offline.
 * [Calorie Tracker](https://atlas-asittley.github.io/calorie-tracker/): Free, private calorie & macro tracker. No account, offline-capable, with barcode scanning; all data stays on your device.
 * [Care Cards](https://carecards.io): Care Cards
