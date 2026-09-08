@@ -259,6 +259,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [RealtimeClipboard](https://realtimeclipboard.com/): End-to-end encrypted clipboard sync between devices — type the same short key on each, no account. Files go peer-to-peer over WebRTC. Open-source (MIT)
 * [Remember](https://paulhoughton.github.io/remember/): Location-based reminders.
 * [Resume Nation](https://resume-nation.github.io): Resume creator.
+* [SafeUnfollow](https://safeunfollow.app): See who unfollowed you on Instagram from Meta's official data export — no login and no upload; the ZIP is parsed in the browser and stored in IndexedDB. Open-source (MIT), 10 languages; free, with an optional one-time paid export of the results.
 * [Slay PDF](https://slaypdf.com/): Free local PDF editor for splitting, merging, signing, resizing, posterising and editing PDFs in the browser.
 * [Super Productivity](https://app.super-productivity.com): Open-source todo list and time tracker with timeboxing, Jira/GitHub/GitLab integration.
 * [Tablesmit](https://tablesmit.com): A minimalist table builder for analytical writing with full control over headers, formatting, and export to PDF, Excel, CSV, LaTeX, Markdown, and PNG. Works offline as a PWA.
