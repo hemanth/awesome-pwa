@@ -84,6 +84,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ### Business and Finance
 
+* [Peanut Split](https://peanutsplit.com): Split group expenses with a link, no accounts. Works offline, installs to the home screen. Open source (AGPL).
 * [FarmOS](https://farmos.app/): Farm record keeping
 * [Freelancer](https://m.freelancer.com/messages): Hire the best freelancers for any job, online.
 * [Invoice Otter](https://invoiceotter.com): Send estimates and invoices with AI, get paid instantly, track expenses.
