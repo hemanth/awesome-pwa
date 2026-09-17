@@ -162,6 +162,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 * [2048 Game](https://play2048.co/) 2048 Game
 * [Air Horner](https://airhorner.com/): Air horn sound.
+* [Arkai](https://arkai.win/): Nine free browser games, two of them original daily puzzles. The whole library (under 1 MB) is saved on the first visit and plays offline. No ads, no sign-up.
 * [Backgammon](https://nenadalm.github.io/backgammon/): Backgammon game with local multiplayer (no single player).
 * [Colosseum](https://naramsim.github.io/Colosseum/): Displays Pokemons in a beautiful way
 * [Crazy Dice](https://crazydice.netlify.app): Simple Dice App.
