@@ -199,6 +199,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [CuidaLocal](https://marcosmmjr2023.github.io/kit-organizacao-cuidados/cuidalocal-en/): Local-first, offline caregiver organizer in English with accessible simple and full modes, calendar export, and local reminders.
 * [Dog Safe Foods](https://dogsafefoods.com): Sharing food with your dog? Make sure it's safe first
 * [DoHabit](https://dohabit.app): Minimalist account-free habit tracker with a native mobile feel.
+* [Family Greenhouse](https://familygreenhouse.net): Shared plant care for a household, not a single owner — one plant list, claimable tasks, and time-boxed sitter links that need no account. Free for up to 3 people and 20 plants.
 * [FastTrack](https://fasttrack-app-three.vercel.app): Free intermittent fasting streak tracker with metabolic phases and milestone celebrations.
 * [Forge](https://pwa-workout-tracker-2ymf.vercel.app/) - A lightweight PWA for logging workouts with offline-first architecture and cross-device sync.
 * [Longevity World Cup](https://longevityworldcup.com/): Open-source longevity sport platform with biological-age calculators, athlete profiles, and public leaderboards.
