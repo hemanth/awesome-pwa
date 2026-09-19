@@ -157,6 +157,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Unalengua IPA Translator](https://unalengua.com/ipa): Translate to IPA.
 * [WordDB](https://www.worddb.com): Word finder, thesaurus, dictionary, crossword solver, rhyme finder and more.
 * [Room TBA](https://room-tba.uplbtools.me/): UPLB campus room finder with offline PGlite cache and installable PWA.
+* [StudyLife](https://studylife-demo.lktec.org): Self-hosted study organizer — calendar, exam/study planner, focus timer, notes and a progress dashboard, installable PWA, plus a family of companion add-ons (browser extensions, CLI, VS Code, Telegram, Discord, Home Assistant...). [GitHub](https://github.com/lukislp/studylife)
 
 ### Games and Entertainment
 
