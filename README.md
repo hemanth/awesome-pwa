@@ -166,6 +166,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Colosseum](https://naramsim.github.io/Colosseum/): Displays Pokemons in a beautiful way
 * [Crazy Dice](https://crazydice.netlify.app): Simple Dice App.
 * [Cybercar](https://cybercar.pages.dev): Free neon arcade survival game with power-ups, unlockable themes, boss battles, and global leaderboard.
+* [Ellaz](https://ellaz.fun/): 43 free browser games for kids and adults in Hebrew, English, Spanish and French, works offline, no account and no ads.
 * [Falling Nikochan](https://nikochan.utcode.net): Simple and cute rhythm game, where anyone can create and share charts.
 * [Farmhand](https://www.farmhand.life/): A resource management game that puts a farm in your hand
 * [Friends-Hunt](https://friends-hunt.zockability.de/app/): Real-world geo-game in the style of popular YouTube formats.
