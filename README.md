@@ -268,6 +268,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [UniStyle](https://unistyle.io): Convert plain text into 20+ Unicode styles (bold, italic, script, monospace) that paste anywhere Markdown is stripped. Free, no signup, installable on desktop and Android.
 * [Vizua](https://vizua.io/): Free browser-based image tools — compress, resize, convert (WebP, AVIF, PNG, JPEG), remove background, upscale, OCR. 91 tools, all client-side via WebAssembly. 16 languages.
 * [Wormhole](https://wormhole.app/): Share files with end-to-end encryption.
+* [Yumeboard](https://app.yumeboard.com): Arrange widgets on a grid and leave it on a spare screen — clock, weather, timers, Pomodoro, to-do lists, notes, a daily photo and an ambient sound mixer. Installs to a home screen or desktop.
 * [ztable.io](https://ztable.io/): Z-Table lookup & Z-Score calculator.
 
 ### Miscellaneous
