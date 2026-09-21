@@ -237,6 +237,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [BulkPicTools](https://bulkpictools.com): Privacy-first, browser-side bulk image optimizer and editor.
 * [Calculator](https://calculator-app-tau.vercel.app/): A calculator app with theme switcher
 * [ChipBreaker](https://chipbreaker.netlify.app/): Offline speeds & feeds and tap drill calculator for machinists — eight shop tools, zero internet. No account, no subscription.
+* [ShrinkKit](https://p32929.github.io/shrinkkit/): Bulk image compressor, resizer and format converter with a built-in EXIF/GPS viewer; works fully offline, nothing is ever uploaded.
 * [Emoji Log](https://emojilog.rosano.ca): Personal tracker
 * [Google Drive](https://drive.google.com/): File storage.
 * [Google Photos](https://photos.google.com/): Photo management.
