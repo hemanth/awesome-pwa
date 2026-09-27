@@ -158,6 +158,8 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [WordDB](https://www.worddb.com): Word finder, thesaurus, dictionary, crossword solver, rhyme finder and more.
 * [Room TBA](https://room-tba.uplbtools.me/): UPLB campus room finder with offline PGlite cache and installable PWA.
 
+* [Still Here](https://fyosamu.github.io/still-here/): 150 short reads across six categories - money, biology and motivation. Installable, works offline, no account needed.
+
 ### Games and Entertainment
 
 * [2048 Game](https://play2048.co/) 2048 Game
