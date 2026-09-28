@@ -445,6 +445,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 ### Testing and Auditing
 
 * [`PageGuard`](https://pageguard.org): Free website health scanner that audits performance, accessibility (WCAG 2.1), SEO, and best practices — ideal for verifying PWA quality before launch.
+* [`PWA Manifest Auditor`](https://github.com/edilec/pwa-manifest-auditor): Offline Node.js CLI that checks a local web app manifest against an exported site inventory; missing evidence stays incomplete, and it does not run a browser or service worker.
 
 ### Miscellaneous Utilities
 
