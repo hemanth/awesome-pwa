@@ -270,6 +270,8 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Wormhole](https://wormhole.app/): Share files with end-to-end encryption.
 * [ztable.io](https://ztable.io/): Z-Table lookup & Z-Score calculator.
 
+* [FileOnTap HEIC to PNG](https://fileontap.com/heic-to-png/): Free browser-based HEIC to PNG converter, files never uploaded.
+
 ### Miscellaneous
 
 * [abc.xyz](https://abc.xyz): Alphabet website
