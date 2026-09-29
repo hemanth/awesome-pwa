@@ -246,6 +246,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [MConverter](https://mconverter.eu): Online file converter.
 * [Morse Code Translator](https://morsedecoder.com/): Morse Code tools
 * [Nanocell-csv](https://www.nanocell-csv.com/): A lightweight, cross platform, open-source, PWA CSV file viewer and editor
+* [NO SUS](https://app.nosus.foo/): Self-destructing notes and files up to 25 MB, encrypted in the browser, opened once, no account needed; installable web app. Shortcoming: each single note or file also gets a two-digit code, and its key sits on the server while that code is valid (20 minutes by default).
 * [Notella](https://github.com/siddharthkp/notella): No fluff notes app.
 * [OmniConvert](https://tools.sagasu.art): Free, open-source file and unit converter — 94 formats, 345 units, 100% client-side with WebAssembly.
 * [Passky](https://vault.passky.org/): Free and open-source Password Manager
