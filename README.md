@@ -157,6 +157,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Unalengua IPA Translator](https://unalengua.com/ipa): Translate to IPA.
 * [WordDB](https://www.worddb.com): Word finder, thesaurus, dictionary, crossword solver, rhyme finder and more.
 * [Room TBA](https://room-tba.uplbtools.me/): UPLB campus room finder with offline PGlite cache and installable PWA.
+* [H5P Offline Player](https://h5p-offline-player.vercel.app/): A browser-only H5P player, as one web component, builds fully offline PWA
 
 ### Games and Entertainment
 
