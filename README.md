@@ -145,6 +145,8 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ### Education and Reading
 
+* [知识公社 Knowledge Commons](https://taimabenji.github.io/knowledge-commons/): Offline-first Chinese learning platform (competitive programming, exams, classic texts, WorldSkills) built as an installable PWA - all content works without a network. Android/Windows/iOS builds included.
+
 * [Booksie](https://www.booksie.org/): An open catalog of free picture storybooks for children instantly available for reading.
 * [EPUB Player](https://epubplayer.com): A fully-featured audiobook player with Audible/Spotify-like UX, powered by local TTS models. Turn your EPUBs into audiobooks entirely in-browser.
 * [Shiori](https://shiori-v1.vercel.app): Open-source AI study companion — SRS flashcards, GPA predictor, Gemini AI study plans, AI quiz generator, habit tracker. Installable PWA, works offline. Google Classroom sync. [GitHub](https://github.com/kaorii-ako/Shiori-v1)
