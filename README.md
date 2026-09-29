@@ -243,6 +243,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [GPA Calculator](https://gpacalculator.memorymaps.io/): Generate animated artwork from your unique GPA inputs.
 * [GPA Calculator](https://gpacalculator.io): Calculate your college GPA.
 * [gottrix](https://gottrix.app): Free browser-based PDF, image, audio and video tools — 500+ converters, all client-side via WebAssembly, works offline after the first visit, no uploads. Closed-source, free to use, 25+ languages.
+* [Global Calc Pro](https://globalcalcpro.com): High-precision open-source calculator suite & embeddable widgets with 100% offline PWA support, arbitrary precision math, and RTL localization.
 * [MConverter](https://mconverter.eu): Online file converter.
 * [Morse Code Translator](https://morsedecoder.com/): Morse Code tools
 * [Nanocell-csv](https://www.nanocell-csv.com/): A lightweight, cross platform, open-source, PWA CSV file viewer and editor
