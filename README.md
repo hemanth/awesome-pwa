@@ -84,6 +84,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ### Business and Finance
 
+* [BusinessOS](https://businessos.biz): Offline-first business platform with invoicing, expenses, CRM, reports, and 40+ financial calculators. Works entirely in the browser with no signup required.
 * [FarmOS](https://farmos.app/): Farm record keeping
 * [Freelancer](https://m.freelancer.com/messages): Hire the best freelancers for any job, online.
 * [Invoice Otter](https://invoiceotter.com): Send estimates and invoices with AI, get paid instantly, track expenses.
