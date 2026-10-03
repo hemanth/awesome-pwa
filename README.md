@@ -327,6 +327,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Installable Web Apps with the WebApp Manifest in Chrome for Android](https://developers.google.com/web/updates/2014/11/Support-for-installable-web-apps-with-webapp-manifest-in-chrome-38-for-Android)
 * [Integrating Progressive Web Apps deeply into Android](https://blog.chromium.org/2017/02/integrating-progressive-web-apps-deeply.html)
 * [Is Service Worker ready?](https://jakearchibald.github.io/isserviceworkerready/)
+* [OpenPWA](https://openpwa.net/): Sourced reference for PWA capabilities with per-feature browser support tables, country-weighted reach, and a CC BY 4.0 compat dataset (JSON API)
 * [PWA - E-Commerce - Compare List](https://docs.google.com/spreadsheets/d/1nx5jcHa6reIH20q20uDnZLQNjuK2ohk-HmQ09hy9NCE/edit#gid=0)
 * [Service Worker - Revolution of the Web Platform](https://ponyfoo.com/articles/serviceworker-revolution)
 * [Service Workers: Dynamic Responsive Images using WebP Images](http://deanhume.com/Home/BlogPost/service-workers--dynamic-responsive-images-using-webp-images/10132/)
