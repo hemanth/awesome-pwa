@@ -106,6 +106,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Bloom Pro](https://bloompro.de/): Bloom Pro – Your Grow Journal - Keep track of your grows
 * [Chitchatter](https://chitchatter.im/): Secure peer-to-peer chat that is serverless, decentralized, and ephemeral
 * [Datememe](https://www.datememe.com): Online dating.
+* [EdgeChat](https://github.com/aozorae/Edgechat): Installable open-source team chat with browser notifications, file sharing, Telegram bridging, and WebRTC voice calls; requires a connection.
 * [emberclear](https://emberclear.io): Encrypted Chat. No History. No Logs.
 * [ghChat](https://github.com/aermin/ghChat): Chat application for GitHub.
 * [Google Duo](https://duo.google.com/): Video Calling.
