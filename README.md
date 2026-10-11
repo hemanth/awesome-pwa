@@ -84,6 +84,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ### Business and Finance
 
+* [DeclaRenta](https://declarenta.com/): Turns reports from foreign brokers such as Interactive Brokers and Degiro into the figures for Spanish tax forms (Modelo 100, 720, 721), calculated in the browser with no account; installable and open source.
 * [FarmOS](https://farmos.app/): Farm record keeping
 * [Freelancer](https://m.freelancer.com/messages): Hire the best freelancers for any job, online.
 * [Invoice Otter](https://invoiceotter.com): Send estimates and invoices with AI, get paid instantly, track expenses.
