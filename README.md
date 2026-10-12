@@ -169,6 +169,8 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Falling Nikochan](https://nikochan.utcode.net): Simple and cute rhythm game, where anyone can create and share charts.
 * [Farmhand](https://www.farmhand.life/): A resource management game that puts a farm in your hand
 * [Friends-Hunt](https://friends-hunt.zockability.de/app/): Real-world geo-game in the style of popular YouTube formats.
+* [FsLemming](https://thorium.github.io/FsLemming/): Lemmings-style puzzle game written in F# (Fable); installable and offline-capable.
+* [Kasino](https://thorium.github.io/Kasino/): Traditional Finnish card game Kasino and Laistokasino for 2-4 players, human or computer.
 * [Life counter](https://nenadalm.github.io/life-counter/): Life counter app for 2 players. Supports game profiles, cout up/down.
 * [Math Riddles](https://mathriddles.netlify.app): Interesting Math Riddles.
 * [Memory Game PWA](https://pwa-memory-game.surge.sh/): Strengthen your memory.
