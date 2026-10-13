@@ -437,6 +437,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ### Webpack and Framework Plugins
 
+* [`filament-pwa`](https://github.com/tomatophp/filament-pwa): Plugin that turns a Laravel FilamentPHP admin panel into an installable PWA, with the manifest, icons and service worker managed from the panel settings.
 * [`offline-plugin`](https://github.com/NekR/offline-plugin): Offline plugin (ServiceWorker, AppCache) for webpack (<http://webpack.github.io/>)
 * [`serviceworker-rails`](https://github.com/rossta/serviceworker-rails): Plugin to integrate Service Worker with the Rails asset pipeline.
 * [`serviceworker-webpack-plugin`](https://github.com/oliviertassinari/serviceworker-webpack-plugin): Simplifies creation of a service worker to serve your webpack bundles.
