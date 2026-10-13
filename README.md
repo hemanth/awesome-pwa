@@ -136,6 +136,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Regex101](https://regex101.com/): Build, test and debug regex.
 * [Shademix](https://shademix.com): Free colour toolkit — eyedropper, 10 paint-system matcher (RAL, NCS, Pantone-equivalent), OKLCH harmonies, WCAG contrast, CMYK warnings, 11 export formats. Runs entirely client-side, no signup.
 * [SVGOMG](https://jakearchibald.github.io/svgomg/): SVGO's Missing GUI
+* [swe-mux](https://github.com/jatoran/swe-mux): Self-hosted, installable workspace for coding-agent terminals, reachable from your phone over Tailscale, with Web Push when an agent needs you.
 * [Termdeck](https://termdeck.io): Browser control plane for the Claude Code, Codex and Grok coding-agent CLIs running on your own machines. Installable, with Web Push notifications when an agent needs a tool approved.
 * [Themer](https://themer.dev): Theme generator for editors, terminals, wallpapers, and more.
 * [TurboPixel](https://turborium.github.io/turbopixel/): PixelArt Camera PWA
