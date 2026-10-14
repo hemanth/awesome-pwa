@@ -262,6 +262,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Slay PDF](https://slaypdf.com/): Free local PDF editor for splitting, merging, signing, resizing, posterising and editing PDFs in the browser.
 * [Super Productivity](https://app.super-productivity.com): Open-source todo list and time tracker with timeboxing, Jira/GitHub/GitLab integration.
 * [Tablesmit](https://tablesmit.com): A minimalist table builder for analytical writing with full control over headers, formatting, and export to PDF, Excel, CSV, LaTeX, Markdown, and PNG. Works offline as a PWA.
+* [Tool Kumar](https://tools.vikasmaur.com/): Free browser-based JSON viewer, formatter, converter, and JSON-to-types generator that works offline.
 * [TaleForge](https://www.tale-forge.com/): Creative writing PWA with book, manga, and screenplay editors. Works offline with service worker caching.
 * [ThreeFour](https://threefour.app): Run multi-step procedures one step at a time; it remembers where you stopped, even days later. Sequential or branching. Works offline, no account, data stays on your device. Free.
 * [Todoly](https://t4p4n.github.io/todoly/): A Simple ToDo PWA
@@ -447,8 +448,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [`PageGuard`](https://pageguard.org): Free website health scanner that audits performance, accessibility (WCAG 2.1), SEO, and best practices — ideal for verifying PWA quality before launch.
 
 ### Miscellaneous Utilities
-
-* [`Tool Kumar`](https://tools.vikasmaur.com/): Free offline-capable browser-based JSON viewer, formatter, converter, and JSON-to-types generator.
 
 * [`a2hs.js`](https://github.com/koddr/a2hs.js): A useful modern JavaScript solution that helps your website users to add (install) a progressive web app to the Home Screen of their mobile iOS devices.
 * [`add-to-homescreen`](https://github.com/philfung/add-to-homescreen): Easily add a website/PWA to home screen on IOS/Android/Desktop.
