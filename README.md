@@ -448,6 +448,8 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ### Miscellaneous Utilities
 
+* [`Tool Kumar`](https://tools.vikasmaur.com/): Free offline-capable browser-based JSON viewer, formatter, converter, and JSON-to-types generator.
+
 * [`a2hs.js`](https://github.com/koddr/a2hs.js): A useful modern JavaScript solution that helps your website users to add (install) a progressive web app to the Home Screen of their mobile iOS devices.
 * [`add-to-homescreen`](https://github.com/philfung/add-to-homescreen): Easily add a website/PWA to home screen on IOS/Android/Desktop.
 * [`@forlagshuset/simple-fs`](https://github.com/fagbokforlaget/simple-fs): Needs offline filesystem? SimpleFS provides sweet promise based nodejs file API on top of indexeddb.
