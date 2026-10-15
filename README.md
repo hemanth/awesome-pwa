@@ -169,6 +169,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Falling Nikochan](https://nikochan.utcode.net): Simple and cute rhythm game, where anyone can create and share charts.
 * [Farmhand](https://www.farmhand.life/): A resource management game that puts a farm in your hand
 * [Friends-Hunt](https://friends-hunt.zockability.de/app/): Real-world geo-game in the style of popular YouTube formats.
+* [IQMAXXING](https://iqmaxxing.org/): Free, no account. Working-memory and attention training: dual, quad, single and 3D n-back, digit and Corsi span, reaction time, go/no-go and Stroop. Installable and works offline; every run is saved and charted.
 * [Life counter](https://nenadalm.github.io/life-counter/): Life counter app for 2 players. Supports game profiles, cout up/down.
 * [Math Riddles](https://mathriddles.netlify.app): Interesting Math Riddles.
 * [Memory Game PWA](https://pwa-memory-game.surge.sh/): Strengthen your memory.
