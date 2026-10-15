@@ -246,6 +246,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [MConverter](https://mconverter.eu): Online file converter.
 * [Morse Code Translator](https://morsedecoder.com/): Morse Code tools
 * [Nanocell-csv](https://www.nanocell-csv.com/): A lightweight, cross platform, open-source, PWA CSV file viewer and editor
+* [NameDaemon](https://namedaemon.com/app/): Free .com domain tools in their own window: find a free name, check availability, score, appraise and audit a name, watch the drop calendar. No account.
 * [Notella](https://github.com/siddharthkp/notella): No fluff notes app.
 * [OmniConvert](https://tools.sagasu.art): Free, open-source file and unit converter — 94 formats, 345 units, 100% client-side with WebAssembly.
 * [Passky](https://vault.passky.org/): Free and open-source Password Manager
