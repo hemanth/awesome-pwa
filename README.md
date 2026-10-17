@@ -202,6 +202,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [FastTrack](https://fasttrack-app-three.vercel.app): Free intermittent fasting streak tracker with metabolic phases and milestone celebrations.
 * [Forge](https://pwa-workout-tracker-2ymf.vercel.app/) - A lightweight PWA for logging workouts with offline-first architecture and cross-device sync.
 * [Longevity World Cup](https://longevityworldcup.com/): Open-source longevity sport platform with biological-age calculators, athlete profiles, and public leaderboards.
+* [One Minute Magic](https://oneminutemagic.app): One-minute habit tracker with photo proof — a 60-second timer, honest streaks that allow declared skip days, and a body log with trend lines. Free for up to three habits, no account, and every record stays on your device.
 * [OpenHabitTracker](https://pwa.openhabittracker.net): Take notes, plan tasks, track habits. Free, open source, works offline, no account, all data stays on your device.
 * [Progressive](https://schroedingberg.github.io/progressive/): Local-first hypertrophy training tracker, fully offline and event-sourced.
 * [Progressive Beer](https://deanhume.github.io/beer/): Progressive Beer
