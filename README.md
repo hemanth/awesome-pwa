@@ -244,6 +244,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [GPA Calculator](https://gpacalculator.io): Calculate your college GPA.
 * [gottrix](https://gottrix.app): Free browser-based PDF, image, audio and video tools — 500+ converters, all client-side via WebAssembly, works offline after the first visit, no uploads. Closed-source, free to use, 25+ languages.
 * [MConverter](https://mconverter.eu): Online file converter.
+* [md2pdf](https://md2pdf.marcopontili.com): Write Markdown, save a PDF. GitHub-flavored Markdown, syntax highlighting and Mermaid. Works offline; nothing is uploaded.
 * [Morse Code Translator](https://morsedecoder.com/): Morse Code tools
 * [Nanocell-csv](https://www.nanocell-csv.com/): A lightweight, cross platform, open-source, PWA CSV file viewer and editor
 * [Notella](https://github.com/siddharthkp/notella): No fluff notes app.
