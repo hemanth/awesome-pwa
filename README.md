@@ -126,6 +126,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [ColorBeta](https://colorbeta.com): Advanced CSS Gradient Generator
 * [Demo PWA](https://github.com/gokulkrishh/demo-progressive-web-app): Demonstrating offline, push notifications, background sync etc.
 * [DevDocs](https://devdocs.io/): API Documentation Browser
+* [DevOmniTools](https://www.devomnitools.com): Privacy-first, offline-capable developer suite with client-side cURL converter, JWT decoder, AES-256 encryption, and code formatters.
 * [Hyperdraft](https://hyperdraft.rosano.ca): Turn your text notes into a website.
 * [JSON Formatter](https://jsonformatter.live/): Minimalist JSON formatter.
 * [Launchlet](https://launchlet.dev): Customize any website with JavaScript or CSS.
