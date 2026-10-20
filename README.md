@@ -223,6 +223,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Digikala](https://www.digikala.com/): Digikala Web App
 * [Google Maps](https://www.google.com/maps/): Online maps.
 * [Housing Go](http://www.housing.com): Real estate in India.
+* [ShouldIO](https://shouldio.com/): AI-assisted everyday decisions from a photo, link or question, with reasons and possible alternatives. Freemium; decisions require internet.
 * [StoryRoute](https://storyroute.netlify.app): AI-powered GPS audio tour guide that generates real-time spoken narratives about places around you.
 * [trivago](https://www.trivago.com/): Hotel prices.
 * [Uber Web](https://m.uber.com): Ridesharing app.
