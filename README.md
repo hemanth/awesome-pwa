@@ -80,6 +80,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [VideoTrim.app](https://videotrim.app): Video trimmer app in the browser.
 * [Wave-PD1](https://alexgibson.github.io/wavepad/): Synth toy.
 * [X Sound](https://korilakkuma.github.io/X-Sound/): Online keyboard synth.
+* [Yap Audio to Text](https://yapapp.cc/audio-to-text): Transcribe audio and video files to text with SRT or VTT subtitles in the browser on WebGPU or WebAssembly. Free, no upload, no sign-up.
 * [Youtube Music](https://music.youtube.com/): Music streaming via YouTube.
 
 ### Business and Finance
