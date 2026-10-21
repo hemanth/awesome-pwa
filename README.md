@@ -88,6 +88,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Freelancer](https://m.freelancer.com/messages): Hire the best freelancers for any job, online.
 * [Invoice Otter](https://invoiceotter.com): Send estimates and invoices with AI, get paid instantly, track expenses.
 * [JustInvoice](https://justinvoice.netlify.app/app): An intuitive invoice manager that works completely in the browser and offline.
+* [ManaWG](https://app.manawg.com/): Free, ad-free shared-flat app for splitting euro expenses, rotating chores, and shared shopping lists (German-language interface).
 * [MoneyTracker](https://moneytracker.cc/): Personal finances tracking web app.
 * [MTGStocks](https://www.mtgstocks.com/news): Magic the Gathering price tracker.
 * [pix2qr](https://pix2qr.xyz/): Generate, read, and re-render Brazilian PIX payment codes locally in the browser; installable and works offline.
