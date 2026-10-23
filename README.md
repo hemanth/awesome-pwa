@@ -231,6 +231,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 ### Tools and Utilities
 
 * [2brew](https://2brew.github.io/): PWA timer for coffee brewing
+* [4Dev.Net](https://4dev.net/): Installable collection of 160+ browser-based converters and developer tools: MOV to MP4, HEIC to JPG, PDF to Word, JSON, YAML, regex, JWT. Files are processed on your device, no signup. 12 languages.
 * [AlarmDJ](https://alarmdj.com): Online alarm clock that plays MP3 files or YouTube videos.
 * [Anonynote](https://anonynote.org): Note-taking app.
 * [Bangle.io](https://app.bangle.io): Local-first Markdown note-taking PWA with WYSIWYG editing and no account required.
