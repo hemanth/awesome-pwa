@@ -220,6 +220,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ### Shopping and Travel
 
+* [Atlassio](https://atlassio.co.uk): Offline-first Schengen 90/180-day visa calculator and 3D itinerary tracker.
 * [Digikala](https://www.digikala.com/): Digikala Web App
 * [Google Maps](https://www.google.com/maps/): Online maps.
 * [Housing Go](http://www.housing.com): Real estate in India.
