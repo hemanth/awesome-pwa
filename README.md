@@ -77,6 +77,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Soundslice](https://www.soundslice.com): Create living sheet music.
 * [Spotify](https://open.spotify.com/): Music streaming.
 * [SvenPanel](https://svenpanel.de/): The Shrine - The Message Is Feierei Alda.
+* [The Audio Stuff](https://theaudiostuff.com/): Installable hi-fi review site with free in-browser audio tools: tone generator, speaker and headphone test, ABX blind test, EQ simulator and headphone power calculator.
 * [VideoTrim.app](https://videotrim.app): Video trimmer app in the browser.
 * [Wave-PD1](https://alexgibson.github.io/wavepad/): Synth toy.
 * [X Sound](https://korilakkuma.github.io/X-Sound/): Online keyboard synth.
