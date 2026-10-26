@@ -256,6 +256,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [PPResume](https://ppresume.com/): A LaTeX Based Resume Builder
 * [QR Code Generator](https://qr-code-generator.now.sh): Create custom QR Codes.
 * [QR Code Scanner](https://qrcodescan.in/): Scan a QR code.
+* [QuickMirror](https://quickmirror.me/): Webcam mirror to check how you look before a video call. No sign-up, nothing recorded, open source.
 * [RealtimeClipboard](https://realtimeclipboard.com/): End-to-end encrypted clipboard sync between devices — type the same short key on each, no account. Files go peer-to-peer over WebRTC. Open-source (MIT)
 * [Remember](https://paulhoughton.github.io/remember/): Location-based reminders.
 * [Resume Nation](https://resume-nation.github.io): Resume creator.
