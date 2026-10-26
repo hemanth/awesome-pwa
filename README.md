@@ -267,6 +267,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Todoly](https://t4p4n.github.io/todoly/): A Simple ToDo PWA
 * [UniStyle](https://unistyle.io): Convert plain text into 20+ Unicode styles (bold, italic, script, monospace) that paste anywhere Markdown is stripped. Free, no signup, installable on desktop and Android.
 * [Vizua](https://vizua.io/): Free browser-based image tools — compress, resize, convert (WebP, AVIF, PNG, JPEG), remove background, upscale, OCR. 91 tools, all client-side via WebAssembly. 16 languages.
+* [Waraq](https://github.com/d7omdev/waraq): Self-hosted document scanner. Scan with the phone camera, get searchable PDFs with Arabic and English OCR. Open source (AGPL-3.0).
 * [Wormhole](https://wormhole.app/): Share files with end-to-end encryption.
 * [ztable.io](https://ztable.io/): Z-Table lookup & Z-Score calculator.
 
