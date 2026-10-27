@@ -237,6 +237,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [BulkPicTools](https://bulkpictools.com): Privacy-first, browser-side bulk image optimizer and editor.
 * [Calculator](https://calculator-app-tau.vercel.app/): A calculator app with theme switcher
 * [ChipBreaker](https://chipbreaker.netlify.app/): Offline speeds & feeds and tap drill calculator for machinists — eight shop tools, zero internet. No account, no subscription.
+* [Drop & Clean](https://dropcleandone.com/): 100% in-browser private media suite for 48kHz audio denoise, video remux, PDF redaction, and passport photos with zero server uploads.
 * [Emoji Log](https://emojilog.rosano.ca): Personal tracker
 * [Google Drive](https://drive.google.com/): File storage.
 * [Google Photos](https://photos.google.com/): Photo management.
