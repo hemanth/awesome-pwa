@@ -109,6 +109,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [emberclear](https://emberclear.io): Encrypted Chat. No History. No Logs.
 * [ghChat](https://github.com/aermin/ghChat): Chat application for GitHub.
 * [Google Duo](https://duo.google.com/): Video Calling.
+* [iRIS Voice](https://iris.neonnull.xyz): Voice-first AI companion that screens calls, reads news aloud, and runs tasks.
 * [Medium](https://medium.com/): Writing space.
 * [Messages for web (by google)](https://messages.google.com/web/): 400
 * [Similar Worlds](https://similarworlds.com/): Experience Project Alternative. Find people with similar interests.
