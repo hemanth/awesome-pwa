@@ -129,6 +129,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Hyperdraft](https://hyperdraft.rosano.ca): Turn your text notes into a website.
 * [JSON Formatter](https://jsonformatter.live/): Minimalist JSON formatter.
 * [Launchlet](https://launchlet.dev): Customize any website with JavaScript or CSS.
+* [Lightframes](https://www.lightframes.si/editor): Open-source photo editor for RAW, XMP presets and .cube LUTs. Works offline, no uploads.
 * [Make Better Software](https://makebetter.software): Raise software standards.
 * [MYHELLOIOT](https://adrianromero.github.io/myhelloiot/): MQTT client application.
 * [Photopea](https://www.photopea.com/): Online Photo Editor.
