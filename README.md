@@ -186,6 +186,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Stillgrid](https://stillgrid.app): Sudoku with variants (X, jigsaw, killer) at 6×6–16×16, technique-graded difficulty, works offline.
 * [Virus Wars](https://nenadalm.github.io/virus-wars/): Virus Wars game with local multiplayer (no single player).
 * [Yahtzee](https://zpix1.github.io/yahtzee/): Dice generator.
+* [Daily Reveal](https://dailyreveal.app) - AI-powered interactive digital Advent calendar and holiday countdown PWA. Built with Angular, Service Workers, and responsive multimedia doors.
 
 ### Health and Lifestyle
 
