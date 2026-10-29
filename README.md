@@ -184,6 +184,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Solitaire](https://internetsolitaire.com/): Play solitaire games in this lightweight PWA. Online or Offline.
 * [Soodoku](https://soodoku.com/): Advanced sudoku game, works online & offline, without ads and distractions.
 * [Stillgrid](https://stillgrid.app): Sudoku with variants (X, jigsaw, killer) at 6×6–16×16, technique-graded difficulty, works offline.
+* [Trick or Take](https://trickortake.com/): Multiplayer Halloween candy heist PWA with live voice chat.
 * [Virus Wars](https://nenadalm.github.io/virus-wars/): Virus Wars game with local multiplayer (no single player).
 * [Yahtzee](https://zpix1.github.io/yahtzee/): Dice generator.
 
