@@ -72,6 +72,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Lofimusic.app](https://lofimusic.app/): Online radio Radio
 * [Music Player PWA](https://akaspanion.github.io/music-app/): Music Player.
 * [OmniCam](https://www.omnicamapp.com/): Live streaming webcams around the world.
+* [Quran Reels](https://quran-reels-tau.vercel.app): Free browser-based Quran video maker — vertical 1080×1920 reels with 47 reciters, 8 in-video translation languages, 32 Islamic tools, no watermark, installable offline PWA.
 * [Remove Audio](https://remove-audio.com): Browser-based tool to strip the soundtrack from any video locally with WebAssembly and FFmpeg.wasm. No uploads, no sign-up, batch up to 20 clips.
 * [SoundCloud](https://soundcloud.com/): Stream and listen to music.
 * [Soundslice](https://www.soundslice.com): Create living sheet music.
