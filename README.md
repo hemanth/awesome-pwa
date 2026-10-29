@@ -414,6 +414,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ### Generators and CLIs
 
+* [`APPLORE App Icon Generator`](https://applore.app/app-icon-generator): Free, no-signup web tool that turns one 1024 px image into a ZIP with favicon.ico, Apple touch icon, 192/512 px manifest icons and a web manifest, plus iOS and Android icon sets. Quick export runs in the browser.
 * [`DSW`](https://github.com/naschq/dsw): Generate your Service Worker dynamically, webmanifest, rules for requests, redirects, etc.
 * [`fetch-manifest-json`](https://github.com/hemanth/fetch-manifest-json): Fetch the `mainfest.json` from an URL.
 * [`Manifest Generator`](https://brucelawson.github.io/manifest/): This simple page will generate the manifest file for you.
