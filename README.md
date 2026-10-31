@@ -77,6 +77,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Soundslice](https://www.soundslice.com): Create living sheet music.
 * [Spotify](https://open.spotify.com/): Music streaming.
 * [SvenPanel](https://svenpanel.de/): The Shrine - The Message Is Feierei Alda.
+* [Tera Studio](https://terastudio.co): Sing about a minute, then hear any song sung back in your own voice.
 * [VideoTrim.app](https://videotrim.app): Video trimmer app in the browser.
 * [Wave-PD1](https://alexgibson.github.io/wavepad/): Synth toy.
 * [X Sound](https://korilakkuma.github.io/X-Sound/): Online keyboard synth.
