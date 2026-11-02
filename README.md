@@ -445,6 +445,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 ### Testing and Auditing
 
 * [`PageGuard`](https://pageguard.org): Free website health scanner that audits performance, accessibility (WCAG 2.1), SEO, and best practices — ideal for verifying PWA quality before launch.
+* [`TestMu AI Accessibility Checker`](https://www.testmuai.com/wcag-accessibility-checker/): Scans a page against WCAG 2.2, ADA and Section 508 and ranks each failing element by severity with a suggested fix. Free sign-in with Google.
 
 ### Miscellaneous Utilities
 
