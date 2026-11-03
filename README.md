@@ -221,6 +221,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 ### Shopping and Travel
 
 * [Digikala](https://www.digikala.com/): Digikala Web App
+* * [eSIM Compatibility Check](https://nxtlsim.github.io/esim-compatibility-check/): Free installable, offline-capable check of whether a phone, tablet, laptop or router supports eSIM, covering 407 manufacturer-verified models (by NXTL eSIM).
 * [Google Maps](https://www.google.com/maps/): Online maps.
 * [Housing Go](http://www.housing.com): Real estate in India.
 * [StoryRoute](https://storyroute.netlify.app): AI-powered GPS audio tour guide that generates real-time spoken narratives about places around you.
