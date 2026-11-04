@@ -175,6 +175,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [MoodMovie](https://moodmovie-app.github.io/): Mood-based movie & TV show finder — pick how you feel and get personalized picks with legal streaming links.
 * [Murlok.io](https://murlok.io/): World of Warcraft Shadowlands.
 * [Othello](https://othello-rust.web.app/): Play Othello against the computer.
+* [OUTATIME 88](https://mutaafaziz.com/outatime/): Neon time-travel arcade racer where hitting 88 mph jumps the race to another era, with live races with friends by link and offline play after one visit.
 * [Play Park](https://harborplay.us): Free family games — trivia, word puzzles, memory match, and more. No account, no ads.
 * [Player order selector](https://nenadalm.github.io/player-order-selector/): Random player order selector.
 * [Pokedex](https://pokedex.org/): Indexing Pokémon
