@@ -135,6 +135,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [PixelCraft](https://pixelcraft.web.app): Pixel Art Editor
 * [Regex101](https://regex101.com/): Build, test and debug regex.
 * [Shademix](https://shademix.com): Free colour toolkit — eyedropper, 10 paint-system matcher (RAL, NCS, Pantone-equivalent), OKLCH harmonies, WCAG contrast, CMYK warnings, 11 export formats. Runs entirely client-side, no signup.
+* [SignOps Web Push Tester](https://signops.dev/tools/web-push-test/): Send a test web push to your own browser with no account, to check service worker and OS notification settings.
 * [SVGOMG](https://jakearchibald.github.io/svgomg/): SVGO's Missing GUI
 * [Termdeck](https://termdeck.io): Browser control plane for the Claude Code, Codex and Grok coding-agent CLIs running on your own machines. Installable, with Web Push notifications when an agent needs a tool approved.
 * [Themer](https://themer.dev): Theme generator for editors, terminals, wallpapers, and more.
@@ -332,6 +333,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Service Workers: Dynamic Responsive Images using WebP Images](http://deanhume.com/Home/BlogPost/service-workers--dynamic-responsive-images-using-webp-images/10132/)
 * [Support for theme-color in Chrome 39 for Android](https://developers.google.com/web/updates/2014/11/Support-for-theme-color-in-Chrome-39-for-Android)
 * [The Building Blocks Of Progressive Web Apps](https://www.smashingmagazine.com/2016/09/the-building-blocks-of-progressive-web-apps/)
+* [Web push on iPhone and iPad](https://signops.dev/blog/web-push-ios/): What iOS 16.4+ needs for web push: a Home Screen web app, a standalone manifest and a prompt from a tap.
 * [You’re Missing the Point of Server-Side Rendered JavaScript Apps](http://tomdale.net/2015/02/youre-missing-the-point-of-server-side-rendered-javascript-apps/)
 
 ## Videos
