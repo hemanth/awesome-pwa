@@ -260,6 +260,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Remember](https://paulhoughton.github.io/remember/): Location-based reminders.
 * [Resume Nation](https://resume-nation.github.io): Resume creator.
 * [Slay PDF](https://slaypdf.com/): Free local PDF editor for splitting, merging, signing, resizing, posterising and editing PDFs in the browser.
+* [Stayput](https://stayput.dev/): Free, open-source (MIT) image, PDF, audio and video tools that run in the browser, so files are not uploaded. No account. Installable, and works offline after one visit (AI-model tools need one online run first).
 * [Super Productivity](https://app.super-productivity.com): Open-source todo list and time tracker with timeboxing, Jira/GitHub/GitLab integration.
 * [Tablesmit](https://tablesmit.com): A minimalist table builder for analytical writing with full control over headers, formatting, and export to PDF, Excel, CSV, LaTeX, Markdown, and PNG. Works offline as a PWA.
 * [TaleForge](https://www.tale-forge.com/): Creative writing PWA with book, manga, and screenplay editors. Works offline with service worker caching.
