@@ -217,6 +217,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Brutalist Hacker News](https://brutalisthackernews.com): A Hacker News reader inspired by Brutalist Web design, Cyberpunk, retro computing, Y2K Aesthetics
 * [ComputerBase](https://www.computerbase.de/): German IT news site.
 * [Qi Reader](https://www.qireader.com/): A modern web RSS reader.
+* [Silvio Berlusconi Historical Archive](https://berlusconi-site.vercel.app/): Historical-divulgative web portal and PWA curating historic speeches, audio quotes, and political archive.
 
 ### Shopping and Travel
 
