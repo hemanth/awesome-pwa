@@ -180,6 +180,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Pokedex](https://pokedex.org/): Indexing Pokémon
 * [PokeQuest Wiki](https://pokequest.wiki/): Search for Pokémon
 * [PWA-NES](https://pwa-nes.vercel.app/): 8-bit NES emulator
+* [Rocky Balboa & Stallone Motivation](https://stallone-site.vercel.app/): Motivational PWA dedicated to Sylvester Stallone and Rocky Balboa with champion mindset speeches, cult audio clips, and quote archive.
 * [Slitherlinks](https://slitherlinks.com): Free online Slitherlink puzzle platform with 1900+ puzzles, daily challenges, and global leaderboards.
 * [Solitaire](https://internetsolitaire.com/): Play solitaire games in this lightweight PWA. Online or Offline.
 * [Soodoku](https://soodoku.com/): Advanced sudoku game, works online & offline, without ads and distractions.
