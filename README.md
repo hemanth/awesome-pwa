@@ -132,6 +132,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Make Better Software](https://makebetter.software): Raise software standards.
 * [MYHELLOIOT](https://adrianromero.github.io/myhelloiot/): MQTT client application.
 * [Photopea](https://www.photopea.com/): Online Photo Editor.
+* [Photoyam](https://photoyam.com/): Layer-based photo editor (opens and saves PSD) plus image, PDF, GIF and video tools. Files are processed on-device; works offline once installed, no signup.
 * [PixelCraft](https://pixelcraft.web.app): Pixel Art Editor
 * [Regex101](https://regex101.com/): Build, test and debug regex.
 * [Shademix](https://shademix.com): Free colour toolkit — eyedropper, 10 paint-system matcher (RAL, NCS, Pantone-equivalent), OKLCH harmonies, WCAG contrast, CMYK warnings, 11 export formats. Runs entirely client-side, no signup.
