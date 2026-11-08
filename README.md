@@ -230,6 +230,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Zirvə](https://zirve-pro.netlify.app): Free GPS altitude finder — know your exact elevation above sea level instantly. No app, no sign-up.
 ### Tools and Utilities
 
+- [OmniTool Hub](https://omnitool.worldsneed.com/) - 50+ privacy-first developer utilities (PDF, JSON, Crypto, JWT) running 100% client-side in browser memory. ([Source Code](https://github.com/Ravik0892/Tools))
 * [2brew](https://2brew.github.io/): PWA timer for coffee brewing
 * [AlarmDJ](https://alarmdj.com): Online alarm clock that plays MP3 files or YouTube videos.
 * [Anonynote](https://anonynote.org): Note-taking app.
