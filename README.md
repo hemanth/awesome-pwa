@@ -145,6 +145,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ### Education and Reading
 
+* [AshuTeacher](https://ashuteacher.vercel.app): Open-source AI voice blackboard, 195-country syllabus explorer, exam paper solver, and 3D spaced-repetition flashcards in 100+ languages. Installable PWA + Android TWA. [GitHub](https://github.com/sanzaya-p/ashuteacher)
 * [Booksie](https://www.booksie.org/): An open catalog of free picture storybooks for children instantly available for reading.
 * [EPUB Player](https://epubplayer.com): A fully-featured audiobook player with Audible/Spotify-like UX, powered by local TTS models. Turn your EPUBs into audiobooks entirely in-browser.
 * [Shiori](https://shiori-v1.vercel.app): Open-source AI study companion — SRS flashcards, GPA predictor, Gemini AI study plans, AI quiz generator, habit tracker. Installable PWA, works offline. Google Classroom sync. [GitHub](https://github.com/kaorii-ako/Shiori-v1)
