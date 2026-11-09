@@ -269,6 +269,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Vizua](https://vizua.io/): Free browser-based image tools — compress, resize, convert (WebP, AVIF, PNG, JPEG), remove background, upscale, OCR. 91 tools, all client-side via WebAssembly. 16 languages.
 * [Wormhole](https://wormhole.app/): Share files with end-to-end encryption.
 * [ztable.io](https://ztable.io/): Z-Table lookup & Z-Score calculator.
+* [FindUpApp](https://findupapp.com) - A discovery engine and directory for iOS and Android apps with instant store URL submission.
 
 ### Miscellaneous
 
