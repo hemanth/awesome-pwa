@@ -247,6 +247,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Morse Code Translator](https://morsedecoder.com/): Morse Code tools
 * [Nanocell-csv](https://www.nanocell-csv.com/): A lightweight, cross platform, open-source, PWA CSV file viewer and editor
 * [Notella](https://github.com/siddharthkp/notella): No fluff notes app.
+* [Nyxiontech PDF Tools](https://tools.nyxiontech.com): Free, open-source PDF and image toolkit with 25 tools including merge, split, redact, sign, form filling, OCR and background removal. Static site, no backend, all processing client-side via WebAssembly. Installable with an OS share target, so a file shared from another app is handed to the page in memory and dropped within a minute. AGPL-3.0, English and Polish.
 * [OmniConvert](https://tools.sagasu.art): Free, open-source file and unit converter — 94 formats, 345 units, 100% client-side with WebAssembly.
 * [Passky](https://vault.passky.org/): Free and open-source Password Manager
 * [PasteePad](https://pasteepad.com/): Free and simple notepad app
