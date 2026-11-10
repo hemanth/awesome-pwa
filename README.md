@@ -139,6 +139,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Termdeck](https://termdeck.io): Browser control plane for the Claude Code, Codex and Grok coding-agent CLIs running on your own machines. Installable, with Web Push notifications when an agent needs a tool approved.
 * [Themer](https://themer.dev): Theme generator for editors, terminals, wallpapers, and more.
 * [TurboPixel](https://turborium.github.io/turbopixel/): PixelArt Camera PWA
+* [Wayfarer](https://wayfarer.ashwinsathian.com/app/): Open source API client. Installable, loads offline after one visit, and keeps collections and an encrypted secrets vault in IndexedDB with no account.
 * [webpushtest](https://webpushtest.com/): Web Push Notifications Demo
 * [Online Notepad With Share](https://onlinenotepad101.org/): Online Notepad – Free Online Text Editor & Notes Sharing
 * [Share Text Online Live](https://share-text.org/): Share Text Online Live——Create, edit, and share text online with secure links and QR codes – No Login and registration required
