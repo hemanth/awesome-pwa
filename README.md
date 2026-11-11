@@ -196,6 +196,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Cat Safe Foods](https://catsafefoods.com): Sharing food with your cat? Make sure it's safe first
 * [Chompass](https://chompass.app/app/): Ad-free calorie and food diary PWA. local-first diary and body metrics, optional BYOK AI, open JSON export. No account required.
 * [ClearLungs](https://clearlungs-app.vercel.app): Free private streak tracker for quitting smoking. Track recovery phases, milestones, and share progress.
+* [ContractionTrack](https://contractiontrack.com): Free, private contraction timer for labor. Flags the 5-1-1 pattern, works offline, no account, all data stays on your device, 8 languages.
 * [CuidaLocal](https://marcosmmjr2023.github.io/kit-organizacao-cuidados/cuidalocal-en/): Local-first, offline caregiver organizer in English with accessible simple and full modes, calendar export, and local reminders.
 * [Dog Safe Foods](https://dogsafefoods.com): Sharing food with your dog? Make sure it's safe first
 * [DoHabit](https://dohabit.app): Minimalist account-free habit tracker with a native mobile feel.
