@@ -112,6 +112,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Medium](https://medium.com/): Writing space.
 * [Messages for web (by google)](https://messages.google.com/web/): 400
 * [Similar Worlds](https://similarworlds.com/): Experience Project Alternative. Find people with similar interests.
+* [Social Booster Up](https://socialboosterup.com): Peer-to-peer creator discovery platform, social engagement exchange, and free creator growth utilities.
 * [Telegram](https://web.telegram.org/): Telegram Web App.
 * [Threema Web](https://web.threema.ch/): The messenger that puts security and privacy first.
 * [Tinder](https://tinder.com): Dating app.
