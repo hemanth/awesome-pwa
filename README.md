@@ -75,6 +75,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Remove Audio](https://remove-audio.com): Browser-based tool to strip the soundtrack from any video locally with WebAssembly and FFmpeg.wasm. No uploads, no sign-up, batch up to 20 clips.
 * [SoundCloud](https://soundcloud.com/): Stream and listen to music.
 * [Soundslice](https://www.soundslice.com): Create living sheet music.
+* [90s Situation Scapes](https://www.vagushq.com/apps/90s-situation-scapes): Private browser PWA running psychoacoustic soundscapes to ease sensory overload via native Web Audio.
 * [Spotify](https://open.spotify.com/): Music streaming.
 * [SvenPanel](https://svenpanel.de/): The Shrine - The Message Is Feierei Alda.
 * [VideoTrim.app](https://videotrim.app): Video trimmer app in the browser.
@@ -197,6 +198,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Chompass](https://chompass.app/app/): Ad-free calorie and food diary PWA. local-first diary and body metrics, optional BYOK AI, open JSON export. No account required.
 * [ClearLungs](https://clearlungs-app.vercel.app): Free private streak tracker for quitting smoking. Track recovery phases, milestones, and share progress.
 * [CuidaLocal](https://marcosmmjr2023.github.io/kit-organizacao-cuidados/cuidalocal-en/): Local-first, offline caregiver organizer in English with accessible simple and full modes, calendar export, and local reminders.
+* [60-Second Task Unfreezer](https://www.vagushq.com/apps/60s-task-unfreezer): Free, offline-capable PWA that breaks down daunting tasks into gentle micro-steps for ADHD paralysis and autistic inertia.
 * [Dog Safe Foods](https://dogsafefoods.com): Sharing food with your dog? Make sure it's safe first
 * [DoHabit](https://dohabit.app): Minimalist account-free habit tracker with a native mobile feel.
 * [FastTrack](https://fasttrack-app-three.vercel.app): Free intermittent fasting streak tracker with metabolic phases and milestone celebrations.
