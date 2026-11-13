@@ -148,6 +148,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Booksie](https://www.booksie.org/): An open catalog of free picture storybooks for children instantly available for reading.
 * [EPUB Player](https://epubplayer.com): A fully-featured audiobook player with Audible/Spotify-like UX, powered by local TTS models. Turn your EPUBs into audiobooks entirely in-browser.
 * [Shiori](https://shiori-v1.vercel.app): Open-source AI study companion — SRS flashcards, GPA predictor, Gemini AI study plans, AI quiz generator, habit tracker. Installable PWA, works offline. Google Classroom sync. [GitHub](https://github.com/kaorii-ako/Shiori-v1)
+* [KJV](https://mydigitallavender.com/kjv): Read the King James Bible with the Berean Standard alongside, and memorize scripture with spaced review that works offline. No account.
 * [Kommit](https://kommit.rosano.ca): Create flashcards and learn them with spaced-repetition.
 * [PracticeLoop](https://teal-semifreddo-cad4ad.netlify.app/): Slow down & loop YouTube videos for music practice with progressive speed training.
 * [Room TBA](https://room-tba.uplbtools.me): Offline-capable campus map PWA for finding rooms, class schedules, and transit routes on OpenStreetMap data.
@@ -199,6 +200,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [CuidaLocal](https://marcosmmjr2023.github.io/kit-organizacao-cuidados/cuidalocal-en/): Local-first, offline caregiver organizer in English with accessible simple and full modes, calendar export, and local reminders.
 * [Dog Safe Foods](https://dogsafefoods.com): Sharing food with your dog? Make sure it's safe first
 * [DoHabit](https://dohabit.app): Minimalist account-free habit tracker with a native mobile feel.
+* [Fare](https://mydigitallavender.com/Fare): Log meals with a built-in food lookup and see calories, protein and fiber for the day, even offline. No account.
 * [FastTrack](https://fasttrack-app-three.vercel.app): Free intermittent fasting streak tracker with metabolic phases and milestone celebrations.
 * [Forge](https://pwa-workout-tracker-2ymf.vercel.app/) - A lightweight PWA for logging workouts with offline-first architecture and cross-device sync.
 * [Longevity World Cup](https://longevityworldcup.com/): Open-source longevity sport platform with biological-age calculators, athlete profiles, and public leaderboards.
