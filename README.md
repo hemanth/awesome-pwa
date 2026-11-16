@@ -416,6 +416,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 * [`DSW`](https://github.com/naschq/dsw): Generate your Service Worker dynamically, webmanifest, rules for requests, redirects, etc.
 * [`fetch-manifest-json`](https://github.com/hemanth/fetch-manifest-json): Fetch the `mainfest.json` from an URL.
+* [`LogoLab`](https://logolab.fabraham.dev): Generates a PWA's icons, maskable pair and manifest from one logo, and can trace a raster logo to SVG first. Runs offline in the browser.
 * [`Manifest Generator`](https://brucelawson.github.io/manifest/): This simple page will generate the manifest file for you.
 * [`manifest-json`](https://www.npmjs.com/package/manifest-json): CLI tool for creating `mainfest.json`.
 * [`miTT PWA Asset Generator`](https://mittl-medien.de/pwa-asset-generator): Hosted, no-install web tool that generates PWA icons and iOS splash screens, plus optional app store icons.
