@@ -257,6 +257,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [QR Code Generator](https://qr-code-generator.now.sh): Create custom QR Codes.
 * [QR Code Scanner](https://qrcodescan.in/): Scan a QR code.
 * [RealtimeClipboard](https://realtimeclipboard.com/): End-to-end encrypted clipboard sync between devices — type the same short key on each, no account. Files go peer-to-peer over WebRTC. Open-source (MIT)
+* [RedactPal](https://redactpal.com): Redact screenshots, PDFs and text offline; detects emails, card numbers and API keys and covers them with solid boxes.
 * [Remember](https://paulhoughton.github.io/remember/): Location-based reminders.
 * [Resume Nation](https://resume-nation.github.io): Resume creator.
 * [Slay PDF](https://slaypdf.com/): Free local PDF editor for splitting, merging, signing, resizing, posterising and editing PDFs in the browser.
