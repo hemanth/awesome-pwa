@@ -72,7 +72,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Lofimusic.app](https://lofimusic.app/): Online radio Radio
 * [Music Player PWA](https://akaspanion.github.io/music-app/): Music Player.
 * [OmniCam](https://www.omnicamapp.com/): Live streaming webcams around the world.
-* [Rebellions Club](https://rebellionsclub.riffhunter0880.com/?utm_source=github&utm_medium=awesome-pwa): Installable metal and rock pub app for adults (18+) with official YouTube music videos from 800+ bands, band and genre pages, and an optional paid AI roadie chat.
+* [Rebellions Club](https://www.rebellionsclub.com/?utm_source=github-awesome-pwa&utm_medium=referral&utm_campaign=reach1117): Installable metal and rock pub app for adults (18+) with official YouTube music videos from 800+ bands, band and genre pages, and an optional paid AI roadie chat.
 * [Remove Audio](https://remove-audio.com): Browser-based tool to strip the soundtrack from any video locally with WebAssembly and FFmpeg.wasm. No uploads, no sign-up, batch up to 20 clips.
 * [SoundCloud](https://soundcloud.com/): Stream and listen to music.
 * [Soundslice](https://www.soundslice.com): Create living sheet music.
