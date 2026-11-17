@@ -445,6 +445,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 ### Testing and Auditing
 
 * [`PageGuard`](https://pageguard.org): Free website health scanner that audits performance, accessibility (WCAG 2.1), SEO, and best practices — ideal for verifying PWA quality before launch.
+* [`searchVIU Service Worker Test`](https://www.searchviu.com/en/service-worker-test/): Free test that finds a site's service worker registration, reads scope, caching and offline page, and shows what a crawler gets on the first visit without a service worker.
 
 ### Miscellaneous Utilities
 
