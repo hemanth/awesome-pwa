@@ -123,6 +123,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [ampproject](https://www.ampproject.org): Web component framework.
 * [Bento-starter](https://bento-starter.firebaseapp.com): Open-Source Full-Stack solution for fast PWA development
 * [bundle](https://bundle.js.org/): A quick and easy way to bundle, minify, and compress (gzip and brotli) your ts, js, jsx and npm projects all online, with the resulting file size.
+* [Christmas Card Creation](https://buckthem.com/christmascards/): Make a Christmas card from your photos in the browser — 150 frames, filters, collages and greetings; free standard download.
 * [ColorBeta](https://colorbeta.com): Advanced CSS Gradient Generator
 * [Demo PWA](https://github.com/gokulkrishh/demo-progressive-web-app): Demonstrating offline, push notifications, background sync etc.
 * [DevDocs](https://devdocs.io/): API Documentation Browser
