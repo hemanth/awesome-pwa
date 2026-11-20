@@ -179,6 +179,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Player order selector](https://nenadalm.github.io/player-order-selector/): Random player order selector.
 * [Pokedex](https://pokedex.org/): Indexing Pokémon
 * [PokeQuest Wiki](https://pokequest.wiki/): Search for Pokémon
+* [Puffer Party](https://pufferparty.org/): Installable web word game with live invite-link rooms and a solo daily category sprint.
 * [PWA-NES](https://pwa-nes.vercel.app/): 8-bit NES emulator
 * [Slitherlinks](https://slitherlinks.com): Free online Slitherlink puzzle platform with 1900+ puzzles, daily challenges, and global leaderboards.
 * [Solitaire](https://internetsolitaire.com/): Play solitaire games in this lightweight PWA. Online or Offline.
