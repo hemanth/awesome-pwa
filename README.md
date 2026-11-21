@@ -452,6 +452,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [`add-to-homescreen`](https://github.com/philfung/add-to-homescreen): Easily add a website/PWA to home screen on IOS/Android/Desktop.
 * [`@forlagshuset/simple-fs`](https://github.com/fagbokforlaget/simple-fs): Needs offline filesystem? SimpleFS provides sweet promise based nodejs file API on top of indexeddb.
 * [`HNPWA`](https://github.com/tastejs/hacker-news-pwas): Hacker News readers as Progressive Web Apps. A spiritual successor to TodoMVC.
+* [`HyperFetch`](https://github.com/BetterTyped/hyper-fetch): Type-safe data fetching library with an offline queue that holds requests made without a connection, can persist them to IndexedDB, and sends them when the network comes back.
 * [`pwa-badge`](https://github.com/ali-master/pwa-badge): Badging for PWA app icons, Like Native Apps
 * [`pure-web`](https://www.npmjs.com/package/pure-web): Web component for enhancing PWA capabilities — install prompts, offline indicators, and update notifications.
 
