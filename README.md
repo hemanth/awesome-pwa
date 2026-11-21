@@ -111,6 +111,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Google Duo](https://duo.google.com/): Video Calling.
 * [Medium](https://medium.com/): Writing space.
 * [Messages for web (by google)](https://messages.google.com/web/): 400
+* [Neuro-Kindred](https://neuro-kindred.com): Free dating and friendship web app for neurodivergent adults — calm and swipe-free, with an AI bio helper, interest "pebbles" instead of likes, games, and watch-together rooms.
 * [Similar Worlds](https://similarworlds.com/): Experience Project Alternative. Find people with similar interests.
 * [Telegram](https://web.telegram.org/): Telegram Web App.
 * [Threema Web](https://web.threema.ch/): The messenger that puts security and privacy first.
