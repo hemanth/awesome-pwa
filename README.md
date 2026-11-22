@@ -251,7 +251,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Passky](https://vault.passky.org/): Free and open-source Password Manager
 * [PasteePad](https://pasteepad.com/): Free and simple notepad app
 * [PDFGem](https://pdfgem.io/): Free browser-based PDF tools — merge, split, compress, OCR, sign, convert. All processing runs client-side via WebAssembly; works offline after initial load. 16 languages.
-* [pdfmoo](https://pdfmoo.com/): 37 free PDF tools — merge, compress to a target size, split, PDF to Word/Excel, sign, redact, OCR, protect. Files are processed locally in the browser and never uploaded; installable PWA that works offline after the first visit. Very large files depend on device memory.
+* [pdfmoo](https://pdfmoo.com/): 37 free PDF tools — merge, compress to a target size, split, PDF to Word/Excel, sign, redact, OCR, protect. Files are processed locally in the browser and never uploaded; no limits, no watermarks, no sign-up; installable PWA that works offline after the first visit. Very large files depend on device memory.
 * [Pocket Devices](https://pocket-devices.com/): Pocket-sized tools for seamless functionality on the go.
 * [Pomotimer](https://pomotimer.com/): Pomodoro Technique Timer
 * [PPResume](https://ppresume.com/): A LaTeX Based Resume Builder
