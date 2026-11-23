@@ -238,6 +238,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Calculator](https://calculator-app-tau.vercel.app/): A calculator app with theme switcher
 * [ChipBreaker](https://chipbreaker.netlify.app/): Offline speeds & feeds and tap drill calculator for machinists — eight shop tools, zero internet. No account, no subscription.
 * [Emoji Log](https://emojilog.rosano.ca): Personal tracker
+* [goodbye.bg](https://goodbye.bg/): Remove image backgrounds in the browser; the model runs on the device and keeps working offline. Free, no account, open source.
 * [Google Drive](https://drive.google.com/): File storage.
 * [Google Photos](https://photos.google.com/): Photo management.
 * [GPA Calculator](https://gpacalculator.memorymaps.io/): Generate animated artwork from your unique GPA inputs.
