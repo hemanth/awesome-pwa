@@ -211,6 +211,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [VapeFree](https://vapefree-app.vercel.app): Free private streak tracker for quitting vaping. Track lung recovery phases, milestones, and share progress.
 * [Veganify](https://veganify.app): Check if a product is vegan or not.
 * [Luna Tarot](https://www.lunatarotapp.com): Free multilingual tarot reading PWA with 8-language support, daily readings, meditation music, and moon calendar. Works offline, no signup required.
+* [OpenMat Live](https://openmatlive.com/): Offline-first wrestling tournament PWA for live brackets, matside scorekeeping, and TV scoreboards.
 
 ### News and Information
 
