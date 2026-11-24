@@ -85,6 +85,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 ### Business and Finance
 
 * [FarmOS](https://farmos.app/): Farm record keeping
+* [Fluid](https://fluidwallet.dpdns.org): Open-source, non-custodial crypto wallet for 61 chains. Seed-phrase only, no KYC.
 * [Freelancer](https://m.freelancer.com/messages): Hire the best freelancers for any job, online.
 * [Invoice Otter](https://invoiceotter.com): Send estimates and invoices with AI, get paid instantly, track expenses.
 * [JustInvoice](https://justinvoice.netlify.app/app): An intuitive invoice manager that works completely in the browser and offline.
