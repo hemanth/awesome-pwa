@@ -17,6 +17,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * Responsive Design
 * Offline Support
 
+## Table of contents
 
 * [App Directories](#app-directories)
 * [Apps](#apps)
