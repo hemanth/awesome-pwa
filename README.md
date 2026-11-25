@@ -111,6 +111,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Google Duo](https://duo.google.com/): Video Calling.
 * [Medium](https://medium.com/): Writing space.
 * [Messages for web (by google)](https://messages.google.com/web/): 400
+* [Moolean](https://moolean.onrender.com/en): Anonymous worldwide mood map. Leave a good or bad mood and one optional line. Glowing dots fade after three hours.
 * [Similar Worlds](https://similarworlds.com/): Experience Project Alternative. Find people with similar interests.
 * [Telegram](https://web.telegram.org/): Telegram Web App.
 * [Threema Web](https://web.threema.ch/): The messenger that puts security and privacy first.
