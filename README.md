@@ -17,7 +17,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * Responsive Design
 * Offline Support
 
-## Table of contents
 
 * [App Directories](#app-directories)
 * [Apps](#apps)
@@ -179,7 +178,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Player order selector](https://nenadalm.github.io/player-order-selector/): Random player order selector.
 * [Pokedex](https://pokedex.org/): Indexing Pokémon
 * [PokeQuest Wiki](https://pokequest.wiki/): Search for Pokémon
-* [PWA-NES](https://pwa-nes.vercel.app/): 8-bit NES emulator
 * [Slitherlinks](https://slitherlinks.com): Free online Slitherlink puzzle platform with 1900+ puzzles, daily challenges, and global leaderboards.
 * [Solitaire](https://internetsolitaire.com/): Play solitaire games in this lightweight PWA. Online or Offline.
 * [Soodoku](https://soodoku.com/): Advanced sudoku game, works online & offline, without ads and distractions.
@@ -236,7 +234,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Bangle.io](https://app.bangle.io): Local-first Markdown note-taking PWA with WYSIWYG editing and no account required.
 * [BulkPicTools](https://bulkpictools.com): Privacy-first, browser-side bulk image optimizer and editor.
 * [Calculator](https://calculator-app-tau.vercel.app/): A calculator app with theme switcher
-* [ChipBreaker](https://chipbreaker.netlify.app/): Offline speeds & feeds and tap drill calculator for machinists — eight shop tools, zero internet. No account, no subscription.
 * [Emoji Log](https://emojilog.rosano.ca): Personal tracker
 * [Google Drive](https://drive.google.com/): File storage.
 * [Google Photos](https://photos.google.com/): Photo management.
@@ -291,6 +288,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [TutorialSearch](https://tutorialsearch.io/browse/web-development) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 * [What PWA Can Do Today](https://whatpwacando.today/): A showcase of what is possible with Progressive Web Apps today.
 * [Web Powered SMS Inbox with Service Worker: Push Notifications](https://www.twilio.com/blog/2016/02/web-powered-sms-inbox-with-service-worker-push-notifications.html)
+* [Swavent Guides](https://swavent.com/en/guides): Free Shopify, ecommerce, SEO and web development guides.
 
 ## Articles
 
@@ -298,7 +296,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 * [A Beginner’s Guide to Progressive Web Apps & the Frontend Web](https://hackernoon.com/a-beginners-guide-to-progressive-web-apps-the-frontend-web-424b6d697e35)
 * [Are Progressive Web Apps the Future?](http://developer.telerik.com/featured/are-progressive-web-apps-future/)
-* [Introduction to Progressive Web App with example](https://www.loginradius.com/engineering/blog/introduction-to-progressive-web-apps/)
 * [Intro to (Progressive) Web Apps](https://dev.to/sudhakar3697/intro-to-progressive-web-apps-34oo)
 * [Progressive web apps have leapfrogged the native install model ... but challenges remain/](http://softwareas.com/progressive-web-apps-have-leapfrogged-the-native-install-model-but-challenges-remain/)
 * [What Progressive Web Apps Mean for the Web](http://developer.telerik.com/featured/what-progressive-web-apps-mean-for-the-web/)
@@ -419,7 +416,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [`Manifest Generator`](https://brucelawson.github.io/manifest/): This simple page will generate the manifest file for you.
 * [`manifest-json`](https://www.npmjs.com/package/manifest-json): CLI tool for creating `mainfest.json`.
 * [`miTT PWA Asset Generator`](https://mittl-medien.de/pwa-asset-generator): Hosted, no-install web tool that generates PWA icons and iOS splash screens, plus optional app store icons.
-* [`Olivez Favicon & PWA Icon Generator`](https://olivez.in/tool/favicon-asset-pack-generator) : Hosted tool that generates favicon.ico, PNG favicons, Apple touch icons, regular and maskable PWA icons, a web manifest, HTML links, and a downloadable asset pack locally.
 * [`PWA Asset Generator`](https://github.com/elegantapp/pwa-asset-generator): Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images.
 * [`PWAify`](https://github.com/vladikoff/PWAify): CLI tool to convert your PWA into a cross-platform desktop app.
 
