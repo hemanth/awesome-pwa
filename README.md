@@ -488,6 +488,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [`DSW`](https://github.com/naschq/dsw): Generate your Service Worker dynamically, webmanifest, rules for requests, redirects, etc.
 * [`FaviconDL`](https://favicondl.com/tools.html): Free web tool that turns an image into favicon and PWA icon sizes (16/32/180/192/512) plus a multi-size .ico, and can fetch the icons an existing site already serves.
 * [`fetch-manifest-json`](https://github.com/hemanth/fetch-manifest-json): Fetch the `mainfest.json` from an URL.
+* [`LogoLab`](https://logolab.fabraham.dev): Generates a PWA's icons, maskable pair and manifest from one logo, and can trace a raster logo to SVG first. Runs offline in the browser.
 * [`Manifest Generator`](https://brucelawson.github.io/manifest/): This simple page will generate the manifest file for you.
 * [`manifest-json`](https://www.npmjs.com/package/manifest-json): CLI tool for creating `mainfest.json`.
 * [`miTT PWA Asset Generator`](https://mittl-medien.de/pwa-asset-generator): Hosted, no-install web tool that generates PWA icons and iOS splash screens, plus optional app store icons.
