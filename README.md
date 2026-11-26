@@ -259,6 +259,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 * [Atlassio](https://atlassio.co.uk): Offline-first Schengen 90/180-day visa calculator and 3D itinerary tracker.
 * [Digikala](https://www.digikala.com/): Digikala Web App
+* [eSIM Compatibility Check](https://nxtlsim.github.io/esim-compatibility-check/): Free installable, offline-capable check of whether a phone, tablet, laptop or router supports eSIM, covering 407 manufacturer-verified models (by NXTL eSIM).
 * [Google Maps](https://www.google.com/maps/): Online maps.
 * [Housing Go](http://www.housing.com): Real estate in India.
 * [Rolling Style](https://rollingstyle.org/): Second-hand fashion marketplace for Israel (Hebrew). Free listings, no commission; buyers contact sellers directly on WhatsApp.
