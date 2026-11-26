@@ -216,6 +216,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [TR8CE](https://tr8ce.app): Peptide reconstitution and dosing calculator with a live U-100 syringe overlay, vial tracker, and injection-site rotation map. Installable, works offline, and vial data stays in local storage on your device.
 * [VapeFree](https://vapefree-app.vercel.app): Free private streak tracker for quitting vaping. Track lung recovery phases, milestones, and share progress.
 * [Veganify](https://veganify.app): Check if a product is vegan or not.
+* [Zyklus & Eisprung](https://cstrsk.de/Zyklus/): Free multilingual ovulation calculator and period tracker. Track your cycle, calculate fertile days and ovulation, get period predictions. 14 languages, dark mode, 7 themes, JSON data backup. No account, no cloud.
 * [Luna Tarot](https://www.lunatarotapp.com): Free multilingual tarot reading PWA with 8-language support, daily readings, meditation music, and moon calendar. Works offline, no signup required.
 
 ### News and Information
