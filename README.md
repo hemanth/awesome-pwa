@@ -68,6 +68,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 * [Air Drift](https://airdrift.stream/): Live internet radio from around 59,000 stations worldwide, browsable on a 3D globe.
 * [BitMidi](https://bitmidi.com): Listen to your favorite MIDI files.
+* [Clipabay](https://clipabay.com/): Video, audio, music and photo editor that runs in the browser. No uploads, no sign-up, no watermark.
 * [Foldergram](https://github.com/foldergram/foldergram): Local-only photo and video gallery for folders, with an Instagram-inspired browsing pattern.
 * [guitar-tuner](https://aerotwist.com/blog/guitar-tuner/): Aerotwist Guitar Tuner
 * [Joybox](https://joybox.rosano.ca): A pinboard for audiovisual media.
