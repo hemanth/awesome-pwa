@@ -329,6 +329,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Wormhole](https://wormhole.app/): Share files with end-to-end encryption.
 * [Yumeboard](https://app.yumeboard.com): Arrange widgets on a grid and leave it on a spare screen — clock, weather, timers, Pomodoro, to-do lists, notes, a daily photo and an ambient sound mixer. Installs to a home screen or desktop.
 * [ztable.io](https://ztable.io/): Z-Table lookup & Z-Score calculator.
+* [FindUpApp](https://findupapp.com) - A discovery engine and directory for iOS and Android apps with instant store URL submission.
 
 ### Miscellaneous
 
