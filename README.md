@@ -95,6 +95,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Freelancer](https://m.freelancer.com/messages): Hire the best freelancers for any job, online.
 * [Invoice Otter](https://invoiceotter.com): Send estimates and invoices with AI, get paid instantly, track expenses.
 * [JustInvoice](https://justinvoice.netlify.app/app): An intuitive invoice manager that works completely in the browser and offline.
+* [Kinjar](https://app.kinjar.app/): Shared household budget for couples and families: envelopes as a % of income, one ledger for both partners, receipts and bank statements read by AI.
 * [MoneyTracker](https://moneytracker.cc/): Personal finances tracking web app.
 * [MTGStocks](https://www.mtgstocks.com/news): Magic the Gathering price tracker.
 * [obrotomierz](https://app.obrotomierz.pl/): Tracks Polish bank promotions, deposits and savings accounts with their conditions and deadlines (in Polish); installable.
