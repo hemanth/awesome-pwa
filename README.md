@@ -250,6 +250,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Calculora](https://calculora.net): 259+ free online calculators as a progressive web app with 21-language support, dark mode, offline capability, and no sign-up required.
 * [ChipBreaker](https://chipbreaker.netlify.app/): Offline speeds & feeds and tap drill calculator for machinists — eight shop tools, zero internet. No account, no subscription.
 * [Emoji Log](https://emojilog.rosano.ca): Personal tracker
+* [GIFResize](https://gifresize.com): Privacy-first, browser-side GIF resizer and compressor. Resize, shrink and optimize animated GIFs locally — no uploads, no signup, installable, works offline.
 * [Google Drive](https://drive.google.com/): File storage.
 * [Google Photos](https://photos.google.com/): Photo management.
 * [GPA Calculator](https://gpacalculator.memorymaps.io/): Generate animated artwork from your unique GPA inputs.
