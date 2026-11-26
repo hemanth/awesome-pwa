@@ -217,6 +217,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [DoHabit](https://dohabit.app): Minimalist account-free habit tracker with a native mobile feel.
 * [Family Greenhouse](https://familygreenhouse.net): Shared plant care for a household, not a single owner — one plant list, claimable tasks, and time-boxed sitter links that need no account. Free for up to 3 people and 20 plants.
 * [FastTrack](https://fasttrack-app-three.vercel.app): Free intermittent fasting streak tracker with metabolic phases and milestone celebrations.
+* [Kinetic Life OS](https://daoyi2026.github.io/kinetic-life-os/): Bilingual, local-first personal workbench PWA for projects, daily tasks, health, fitness, calendar review, and ideas — no account or cloud sync; data stays in the browser with JSON backup.
 * [Forge](https://pwa-workout-tracker-2ymf.vercel.app/) - A lightweight PWA for logging workouts with offline-first architecture and cross-device sync.
 * [Longevity World Cup](https://longevityworldcup.com/): Open-source longevity sport platform with biological-age calculators, athlete profiles, and public leaderboards.
 * [nobro.app](https://nobro.app/): Minimalist offline-first workout program tracker. No accounts, editable JSON program, 11 locales.
