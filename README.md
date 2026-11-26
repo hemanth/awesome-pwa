@@ -309,6 +309,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Resume Nation](https://resume-nation.github.io): Resume creator.
 * [SafeUnfollow](https://safeunfollow.app): See who unfollowed you on Instagram from Meta's official data export — no login and no upload; the ZIP is parsed in the browser and stored in IndexedDB. Open-source (MIT), 10 languages; free, with an optional one-time paid export of the results.
 * [Slay PDF](https://slaypdf.com/): Free local PDF editor for splitting, merging, signing, resizing, posterising and editing PDFs in the browser.
+* [Stayput](https://stayput.dev/): Free, open-source (MIT) image, PDF, audio and video tools that run in the browser, so files are not uploaded. No account. Installable, and works offline after one visit (AI-model tools need one online run first).
 * [Super Productivity](https://app.super-productivity.com): Open-source todo list and time tracker with timeboxing, Jira/GitHub/GitLab integration.
 * [Tablesmit](https://tablesmit.com): A minimalist table builder for analytical writing with full control over headers, formatting, and export to PDF, Excel, CSV, LaTeX, Markdown, and PNG. Works offline as a PWA.
 * [Tool Kumar](https://tools.vikasmaur.com/): Free browser-based JSON viewer, formatter, converter, and JSON-to-types generator that works offline.
