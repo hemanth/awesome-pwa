@@ -146,6 +146,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [MYHELLOIOT](https://adrianromero.github.io/myhelloiot/): MQTT client application.
 * [PhotoFresco](https://photofresco.com/): Free, installable browser image editor with layers, masks and PSD import/export; works offline after loading.
 * [Photopea](https://www.photopea.com/): Online Photo Editor.
+* [Photoyam](https://photoyam.com/): Layer-based photo editor (opens and saves PSD) plus image, PDF, GIF and video tools. Files are processed on-device; works offline once installed, no signup.
 * [PixelCraft](https://pixelcraft.web.app): Pixel Art Editor
 * [Rawnd](https://rawnd.app/app): Cull and develop camera RAW photos offline, in the browser.
 * [Regex101](https://regex101.com/): Build, test and debug regex.
