@@ -252,6 +252,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Calculator](https://calculator-app-tau.vercel.app/): A calculator app with theme switcher
 * [Calculora](https://calculora.net): 259+ free online calculators as a progressive web app with 21-language support, dark mode, offline capability, and no sign-up required.
 * [ChipBreaker](https://chipbreaker.netlify.app/): Offline speeds & feeds and tap drill calculator for machinists — eight shop tools, zero internet. No account, no subscription.
+* [Credit Freeze Letters](https://stepuplaw.com/credit-freeze-letter-generator): Builds the security freeze request letters the three US credit bureaus require by mail, including the protected consumer freeze a guardian or power-of-attorney agent files for someone who cannot act for themselves. Runs entirely in the browser, works offline, no account, nothing transmitted.
 * [Emoji Log](https://emojilog.rosano.ca): Personal tracker
 * [GIFResize](https://gifresize.com): Privacy-first, browser-side GIF resizer and compressor. Resize, shrink and optimize animated GIFs locally — no uploads, no signup, installable, works offline.
 * [Google Drive](https://drive.google.com/): File storage.
