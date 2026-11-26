@@ -314,6 +314,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [QR Code Generator](https://qr-code-generator.now.sh): Create custom QR Codes.
 * [QR Code Scanner](https://qrcodescan.in/): Scan a QR code.
 * [RealtimeClipboard](https://realtimeclipboard.com/): End-to-end encrypted clipboard sync between devices — type the same short key on each, no account. Files go peer-to-peer over WebRTC. Open-source (MIT)
+* [RedactPal](https://redactpal.com): Redact screenshots, PDFs and text offline; detects emails, card numbers and API keys and covers them with solid boxes.
 * [Remember](https://paulhoughton.github.io/remember/): Location-based reminders.
 * [Resume Nation](https://resume-nation.github.io): Resume creator.
 * [SafeUnfollow](https://safeunfollow.app): See who unfollowed you on Instagram from Meta's official data export — no login and no upload; the ZIP is parsed in the browser and stored in IndexedDB. Open-source (MIT), 10 languages; free, with an optional one-time paid export of the results.
