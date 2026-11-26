@@ -305,6 +305,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Passky](https://vault.passky.org/): Free and open-source Password Manager
 * [PasteePad](https://pasteepad.com/): Free and simple notepad app
 * [PDFGem](https://pdfgem.io/): Free browser-based PDF tools — merge, split, compress, OCR, sign, convert. All processing runs client-side via WebAssembly; works offline after initial load. 16 languages.
+* [PDFHANA](https://pdfhana.com/): Korean PDF & file toolkit with 64 tools incl. HWP ↔ PDF, resident-number masking and image compression. Installable, works offline, files stay on the device.
 * [Pocket Devices](https://pocket-devices.com/): Pocket-sized tools for seamless functionality on the go.
 * [Pomotimer](https://pomotimer.com/): Pomodoro Technique Timer
 * [PPResume](https://ppresume.com/): A LaTeX Based Resume Builder
