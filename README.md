@@ -184,6 +184,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Math Riddles](https://mathriddles.netlify.app): Interesting Math Riddles.
 * [Memory Game PWA](https://pwa-memory-game.surge.sh/): Strengthen your memory.
 * [MoodMovie](https://moodmovie-app.github.io/): Mood-based movie & TV show finder — pick how you feel and get personalized picks with legal streaming links.
+* [MovePlay](https://moveplay.gg): Webcam motion games — your body is the controller. 40+ free games (squat, slice, dodge) playable instantly in the browser; camera video is processed locally.
 * [Murlok.io](https://murlok.io/): World of Warcraft Shadowlands.
 * [Othello](https://othello-rust.web.app/): Play Othello against the computer.
 * [Pip](https://playpip.io): Single-player Texas Hold'em against AI opponents. Play money, no account needed, no ads, installs and works offline. Open source under MIT.
