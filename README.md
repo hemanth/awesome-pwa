@@ -122,6 +122,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [LivePoll](https://freelivepoll.com/): Free live polls. People join by QR code, vote from their phones, and the results update on screen.
 * [Medium](https://medium.com/): Writing space.
 * [Messages for web (by google)](https://messages.google.com/web/): 400
+* [Neuro-Kindred](https://neuro-kindred.com): Free dating and friendship web app for neurodivergent adults — calm and swipe-free, with an AI bio helper, interest "pebbles" instead of likes, games, and watch-together rooms.
 * [Similar Worlds](https://similarworlds.com/): Experience Project Alternative. Find people with similar interests.
 * [Social Booster Up](https://socialboosterup.com): Peer-to-peer creator discovery platform, social engagement exchange, and free creator growth utilities.
 * [Telegram](https://web.telegram.org/): Telegram Web App.
