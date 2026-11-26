@@ -285,6 +285,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [A Box of Tools](https://abox.tools/): Free browser tools for images, video, audio, PDFs and text — 35 of them, each doing one job. Everything runs client-side, so no file is ever uploaded; every tool installs as its own PWA and works offline. Open source (MIT), 15 languages.
 * [AlarmDJ](https://alarmdj.com): Online alarm clock that plays MP3 files or YouTube videos.
 * [Anonynote](https://anonynote.org): Note-taking app.
+* [Anyfeat](https://anyfeat.com/): Free online tools for PDFs, images, video, audio, text and developer tasks. Everything runs client-side via WebAssembly and Web Workers, files are never uploaded, and it works offline once installed. Closed-source, free to use.
 * [Bangle.io](https://app.bangle.io): Local-first Markdown note-taking PWA with WYSIWYG editing and no account required.
 * [BulkPicTools](https://bulkpictools.com): Privacy-first, browser-side bulk image optimizer and editor.
 * [Calculator](https://calculator-app-tau.vercel.app/): A calculator app with theme switcher
