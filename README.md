@@ -280,6 +280,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [gottrix](https://gottrix.app): Free browser-based PDF, image, audio and video tools — 500+ converters, all client-side via WebAssembly, works offline after the first visit, no uploads. Closed-source, free to use, 25+ languages.
 * [IcyZip](https://icyzip.com/): Pair two online browsers by QR or link to move end-to-end encrypted live text and one file up to 25 MiB, without an account or app.
 * [MConverter](https://mconverter.eu): Online file converter.
+* [md2pdf](https://md2pdf.marcopontili.com): Write Markdown, save a PDF. GitHub-flavored Markdown, syntax highlighting and Mermaid. Works offline; nothing is uploaded.
 * [Morse Code Translator](https://morsedecoder.com/): Morse Code tools
 * [Nanocell-csv](https://www.nanocell-csv.com/): A lightweight, cross platform, open-source, PWA CSV file viewer and editor
 * [NO SUS](https://app.nosus.foo/): Send notes and files (up to 10 files, 50 MB combined) that open once, encrypted on the device with the key in the link after the #, or as watermarked links with a view log; people opening a link need no account. Installable web app. Free, closed-source.
