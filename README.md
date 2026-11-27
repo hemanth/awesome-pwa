@@ -146,6 +146,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [bundle](https://bundle.js.org/): A quick and easy way to bundle, minify, and compress (gzip and brotli) your ts, js, jsx and npm projects all online, with the resulting file size.
 * [Christmas Card Creation](https://buckthem.com/christmascards/): Make a Christmas card from your photos in the browser — 150 frames, filters, collages and greetings; free standard download.
 * [ColorBeta](https://colorbeta.com): Advanced CSS Gradient Generator
+* [Data Swiss Army](https://quietstack-labs.github.io/data-swiss-army/): Convert CSV, JSON, SQL INSERT statements and Markdown tables in the browser. Installable and works offline; data never leaves the device. Open source (MIT).
 * [Demo PWA](https://github.com/gokulkrishh/demo-progressive-web-app): Demonstrating offline, push notifications, background sync etc.
 * [DevDocs](https://devdocs.io/): API Documentation Browser
 * [DevOmniTools](https://www.devomnitools.com): Privacy-first, offline-capable developer suite with client-side cURL converter, JWT decoder, AES-256 encryption, and code formatters.
