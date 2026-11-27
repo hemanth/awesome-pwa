@@ -80,6 +80,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Remove Audio](https://remove-audio.com): Browser-based tool to strip the soundtrack from any video locally with WebAssembly and FFmpeg.wasm. No uploads, no sign-up, batch up to 20 clips.
 * [SoundCloud](https://soundcloud.com/): Stream and listen to music.
 * [Soundslice](https://www.soundslice.com): Create living sheet music.
+* [90s Situation Scapes](https://www.vagushq.com/apps/90s-situation-scapes): Private browser PWA running psychoacoustic soundscapes to ease sensory overload via native Web Audio.
 * [Spotify](https://open.spotify.com/): Music streaming.
 * [SvenPanel](https://svenpanel.de/): The Shrine - The Message Is Feierei Alda.
 * [The Audio Stuff](https://theaudiostuff.com/): Installable hi-fi review site with free in-browser audio tools: tone generator, speaker and headphone test, ABX blind test, EQ simulator and headphone power calculator.
@@ -260,6 +261,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [ClearLungs](https://clearlungs-app.vercel.app): Free private streak tracker for quitting smoking. Track recovery phases, milestones, and share progress.
 * [ContractionTrack](https://contractiontrack.com): Free, private contraction timer for labor. Flags the 5-1-1 pattern, works offline, no account, all data stays on your device, 8 languages.
 * [CuidaLocal](https://marcosmmjr2023.github.io/kit-organizacao-cuidados/cuidalocal-en/): Local-first, offline caregiver organizer in English with accessible simple and full modes, calendar export, and local reminders.
+* [60-Second Task Unfreezer](https://www.vagushq.com/apps/60s-task-unfreezer): Free, offline-capable PWA that breaks down daunting tasks into gentle micro-steps for ADHD paralysis and autistic inertia.
 * [Dog Safe Foods](https://dogsafefoods.com): Sharing food with your dog? Make sure it's safe first
 * [DoHabit](https://dohabit.app): Minimalist account-free habit tracker with a native mobile feel.
 * [Family Greenhouse](https://familygreenhouse.net): Shared plant care for a household, not a single owner — one plant list, claimable tasks, and time-boxed sitter links that need no account. Free for up to 3 people and 20 plants.
