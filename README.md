@@ -183,6 +183,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Ordkort](https://ordkort.com): Flashcards with spaced repetition (FSRS) for 60 languages: ready word lists by topic, a dictionary, a grammar book and a translator that explains every word. No account, installable, works offline. [GitHub](https://github.com/silicq/ordkort)
 * [PracticeLoop](https://teal-semifreddo-cad4ad.netlify.app/): Slow down & loop YouTube videos for music practice with progressive speed training.
 * [Room TBA](https://room-tba.uplb.tools): Offline-capable campus map PWA for finding rooms, class schedules, and transit routes on OpenStreetMap data.
+* [Spatial Continuum Oncology](https://lucacelebrano.me/spatial-continuum-oncology/): Interactive biophysical spatial oncology simulator and 3D reaction-diffusion PDE visualizer for tissue transport modeling. [GitHub](https://github.com/Lukecele/spatial-continuum-oncology)
 * [StudyArena](https://studyarena.com): Compare three AI answers without seeing which model wrote each one, then vote and reveal the models for free.
 * [Swahili Dictionary](https://swahili-dictionary.com/): Offline Swahili-English-Swahili dictionary
 * [Timetable](https://leoherrmann.github.io/timetable/): Interactive editable timetable.
