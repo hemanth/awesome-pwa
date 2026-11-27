@@ -180,6 +180,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [EPUB Player](https://epubplayer.com): A fully-featured audiobook player with Audible/Spotify-like UX, powered by local TTS models. Turn your EPUBs into audiobooks entirely in-browser.
 * [Shiori](https://shiori-v1.vercel.app): Open-source AI study companion — SRS flashcards, GPA predictor, Gemini AI study plans, AI quiz generator, habit tracker. Installable PWA, works offline. Google Classroom sync. [GitHub](https://github.com/kaorii-ako/Shiori-v1)
 * [Kommit](https://kommit.rosano.ca): Create flashcards and learn them with spaced-repetition.
+* [MedTerminal](https://cardio-thoracic-medterminal.vercel.app): Interactive 3D cardio-thoracic medical education platform featuring dynamic ECG simulation, Littmann real phonocardiograms, and active recall examination modules. [GitHub](https://github.com/Lukecele/cardio-thoracic-medterminal)
 * [Ordkort](https://ordkort.com): Flashcards with spaced repetition (FSRS) for 60 languages: ready word lists by topic, a dictionary, a grammar book and a translator that explains every word. No account, installable, works offline. [GitHub](https://github.com/silicq/ordkort)
 * [PracticeLoop](https://teal-semifreddo-cad4ad.netlify.app/): Slow down & loop YouTube videos for music practice with progressive speed training.
 * [Room TBA](https://room-tba.uplb.tools): Offline-capable campus map PWA for finding rooms, class schedules, and transit routes on OpenStreetMap data.
