@@ -218,6 +218,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [MovePlay](https://moveplay.gg): Webcam motion games — your body is the controller. 40+ free games (squat, slice, dodge) playable instantly in the browser; camera video is processed locally.
 * [Murlok.io](https://murlok.io/): World of Warcraft Shadowlands.
 * [My Nine Games](https://myninegames.com/): Free maker for the "9 games that shaped me" trend — pick nine games, arrange them in a 3×3 grid, and export as square, 4:5 or story-size image. No login.
+* [Oops! I'm Just Here to Fix the Wi-Fi](https://oopswifi.github.io/?ref=awesome-pwa): Chinese dating-show comedy visual novel told in AI-generated photos. Free prologue and first episode with no account; the full game is a one-time purchase. Installable, Simplified and Traditional Chinese.
 * [Othello](https://othello-rust.web.app/): Play Othello against the computer.
 * [Pip](https://playpip.io): Single-player Texas Hold'em against AI opponents. Play money, no account needed, no ads, installs and works offline. Open source under MIT.
 * [Play Park](https://harborplay.us): Free family games — trivia, word puzzles, memory match, and more. No account, no ads.
