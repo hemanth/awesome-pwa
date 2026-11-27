@@ -232,6 +232,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Soodoku](https://soodoku.com/): Advanced sudoku game, works online & offline, without ads and distractions.
 * [Stillgrid](https://stillgrid.app): Sudoku with variants (X, jigsaw, killer) at 6×6–16×16, technique-graded difficulty, works offline.
 * [Trick or Take](https://trickortake.com/): Multiplayer Halloween candy heist PWA with live voice chat.
+* [Vegeta Portal](https://vegeta-site.vercel.app/): Interactive Dragon Ball web portal and PWA featuring a canvas-based Gravity Chamber 450G physics simulator, Scouter power-level HUD, and cult Italian audio archive. [GitHub](https://github.com/Lukecele/vegeta-site)
 * [Virus Wars](https://nenadalm.github.io/virus-wars/): Virus Wars game with local multiplayer (no single player).
 * [Yahtzee](https://zpix1.github.io/yahtzee/): Dice generator.
 * [PickerSpin](https://pickerspin.co): Installable wheel spinner, dice roller and bingo caller — works offline, no signup, provably fair via the Web Crypto API.
