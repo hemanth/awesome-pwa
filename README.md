@@ -325,6 +325,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Calculora](https://calculora.net): 259+ free online calculators as a progressive web app with 21-language support, dark mode, offline capability, and no sign-up required.
 * [ChipBreaker](https://chipbreaker.netlify.app/): Offline speeds & feeds and tap drill calculator for machinists — eight shop tools, zero internet. No account, no subscription.
 * [Credit Freeze Letters](https://stepuplaw.com/credit-freeze-letter-generator): Builds the security freeze request letters the three US credit bureaus require by mail, including the protected consumer freeze a guardian or power-of-attorney agent files for someone who cannot act for themselves. Runs entirely in the browser, works offline, no account, nothing transmitted.
+* [DocLoom](https://mojtabahasani.github.io/DocLoom/): Free, open-source (MIT) Markdown and bidirectional (LTR/RTL) document studio that compiles to single-file HTML, client-side DOCX, and PDF, with pure-JS legacy .xls, .xlsx, CSV, and FastReport parsers. Works offline, no account, files stay on your device. [GitHub](https://github.com/mojtabahasani/DocLoom)
 * [Emoji Log](https://emojilog.rosano.ca): Personal tracker
 * [GIFResize](https://gifresize.com): Privacy-first, browser-side GIF resizer and compressor. Resize, shrink and optimize animated GIFs locally — no uploads, no signup, installable, works offline.
 * [Google Drive](https://drive.google.com/): File storage.
