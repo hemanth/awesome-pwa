@@ -194,6 +194,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Whiteboard](https://whiteboard.marcopontili.com): Sketch with Excalidraw, add LaTeX math and Markdown notes, save a PDF. Works offline; boards stay in the browser.
 * [AshuTeacher](https://ashuteacher.vercel.app): Open-source AI voice blackboard, 195-country syllabus explorer, exam paper solver, and 3D spaced-repetition flashcards in 100+ languages. Installable PWA + Android TWA. [GitHub](https://github.com/sanzaya-p/ashuteacher)
 * [Stackapella](https://app.stackapella.com/): Learn to sing harmony one part at a time, then record each part over the others to stack a whole a cappella arrangement. Installable, open source. [GitHub](https://github.com/Stackapella/stackapella)
+* [TwirlPick](https://twirlpick.com/): Installable random pickers for classrooms and groups: a spin wheel, a student picker that skips absent students, a group generator that avoids repeat pairs, Secret Santa with a private link per person, and giveaway draws anyone can recheck. Works offline, no signup, 10 languages.
 
 ### Games and Entertainment
 
