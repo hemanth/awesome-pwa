@@ -298,6 +298,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 ### Shopping and Travel
 
 * [Atlassio](https://atlassio.co.uk): Offline-first Schengen 90/180-day visa calculator and 3D itinerary tracker.
+- [Dark Money](https://darkmoney.strangefawkes.com) - Cashback at 200+ stores and local businesses, with members earning 70% of commissions.
 * [Digikala](https://www.digikala.com/): Digikala Web App
 * [eSIM Compatibility Check](https://nxtlsim.github.io/esim-compatibility-check/): Free installable, offline-capable check of whether a phone, tablet, laptop or router supports eSIM, covering 407 manufacturer-verified models (by NXTL eSIM).
 * [Google Maps](https://www.google.com/maps/): Online maps.
